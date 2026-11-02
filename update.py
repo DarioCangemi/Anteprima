@@ -15,8 +15,8 @@ import feedparser
 
 # ----------------------------- IMPOSTAZIONI -----------------------------
 MODEL = os.environ.get("ANTEPRIMA_MODEL", "claude-haiku-5-5")
-MAX_NEW_PER_RUN = 8       # notizie nuove elaborate a ogni esecuzione
-MAX_PER_SOURCE = 3        # massimo per singola fonte a ogni esecuzione
+MAX_NEW_PER_RUN = 15      # notizie nuove elaborate a ogni esecuzione
+MAX_PER_SOURCE = 4        # massimo per singola fonte a ogni esecuzione
 MAX_AGE_HOURS = 48        # ignora notizie piu' vecchie
 MAX_STORED = 120          # notizie conservate nel sito
 UA = "AnteprimaBot/1.0 (+https://www.anteprimanews.com)"
@@ -52,12 +52,12 @@ DISCOVER_SITES = [
     ("FilmUpdates", "https://www.filmupdates.net"),
 ]
 
-# Filtro di sicurezza: queste notizie non vengono nemmeno inviate a Claude
+# Filtro di sicurezza sulle parole: titolo della fonte e testo finale scritto da Claude.
+# Il resto (trama dei film, anteprima) lo valuta Claude con le regole qui sotto.
 BLOCKED = re.compile(
     r"\b(?:mort[oaie]|deced\w*|scompars\w*|lutto|funeral\w*|salma|malatt\w*|"
-    r"tumor\w*|cancro|ricover\w*|ospedal\w*|suicid\w*|arrest\w*|indagat\w*|"
-    r"denunc\w*|querel\w*|accus\w*|molest\w*|abus\w*|violenz\w*|stupr\w*|"
-    r"minorenn\w*|tribunale|sentenza)\b",
+    r"tumor\w*|cancro|ricover\w*|suicid\w*|arrest\w*|indagat\w*|"
+    r"molest\w*|stupr\w*|minorenn\w*)\b",
     re.IGNORECASE,
 )
 
@@ -73,8 +73,8 @@ Regole:
 - Per la sezione gossip accetta solo fatti pubblici e innocui: dichiarazioni ufficiali, ospiti, programmi, red carpet, apparizioni.
 - Sezione: cinema, tv, musica oppure gossip.
 
-Rispondi SOLO con un oggetto JSON: {"publish": true, "section": "cinema", "title": "...", "summary": "..."}
-Se publish e' false, gli altri campi possono essere vuoti."""
+Rispondi SOLO con un oggetto JSON: {"publish": true, "section": "cinema", "title": "...", "summary": "...", "reason": ""}
+Se publish e' false, scrivi in "reason" il motivo in poche parole; gli altri campi possono essere vuoti."""
 
 MESI = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio",
         "agosto", "settembre", "ottobre", "novembre", "dicembre"]
@@ -158,6 +158,7 @@ def gather_candidates(sources, seen):
     for name, url in sources:
         try:
             feed = feedparser.parse(fetch(url))
+            log(f"[feed] {name}: {len(feed.entries)} voci")
         except Exception as e:  # noqa: BLE001
             log(f"[feed] {name}: errore ({e})")
             continue
@@ -180,10 +181,18 @@ def gather_candidates(sources, seen):
             if taken >= MAX_PER_SOURCE:
                 break
     candidates.sort(key=lambda c: c["published"], reverse=True)
-    return candidates[:MAX_NEW_PER_RUN]
+    unique, keys = [], set()
+    for c in candidates:
+        key = re.sub(r"\W+", "", c["title"].lower())[:60]
+        if key in keys:
+            continue
+        keys.add(key)
+        unique.append(c)
+    return unique[:MAX_NEW_PER_RUN]
 
 
 def rewrite(client, item):
+    """Restituisce (articolo, motivo). Se l'articolo e' None, il motivo spiega perche'."""
     prompt = (f"Fonte: {item['source']}\nTitolo originale: {item['title']}\n"
               f"Anteprima: {item['snippet'] or '(nessuna)'}")
     resp = client.messages.create(model=MODEL, max_tokens=500, system=SYSTEM,
@@ -191,23 +200,28 @@ def rewrite(client, item):
     text = "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
     m = re.search(r"\{.*\}", text, re.DOTALL)
     if not m:
-        return None
-    out = json.loads(m.group(0))
+        return None, "risposta non in JSON"
+    try:
+        out = json.loads(m.group(0))
+    except ValueError:
+        return None, "JSON non valido"
     if out.get("publish") is not True:
-        return None
+        return None, "Claude: " + clean(out.get("reason"))[:80]
     title = clean(out.get("title"))
     summary = clean(out.get("summary"))
     section = out.get("section")
     if section not in dict(SECTIONS):
-        return None
-    if not (10 <= len(title) <= 120 and 40 <= len(summary) <= 400):
-        return None
+        return None, f"sezione non valida ({section})"
+    if not 10 <= len(title) <= 120:
+        return None, f"titolo di {len(title)} caratteri"
+    if not 40 <= len(summary) <= 400:
+        return None, f"sintesi di {len(summary)} caratteri"
     if title.lower() == item["title"].lower():
-        return None
+        return None, "titolo identico alla fonte"
     if BLOCKED.search(title) or BLOCKED.search(summary):
-        return None
+        return None, "parola del filtro nel testo scritto"
     return {"id": item["id"], "section": section, "title": title, "summary": summary,
-            "source": item["source"], "url": item["url"], "published": item["published"]}
+            "source": item["source"], "url": item["url"], "published": item["published"]}, ""
 
 
 # ------------------------------- PAGINA ---------------------------------
@@ -330,12 +344,12 @@ def main():
     client = anthropic.Anthropic() if candidates else None
     published = 0
     for item in candidates:
-        if BLOCKED.search(item["title"]) or BLOCKED.search(item["snippet"]):
+        if BLOCKED.search(item["title"]):
             log(f"[filtro] scartata: {item['title'][:70]}")
             data["seen"].append(item["id"])
             continue
         try:
-            article = rewrite(client, item)
+            article, reason = rewrite(client, item)
         except anthropic.AuthenticationError:
             log("[errore] chiave API non valida")
             break
@@ -351,11 +365,15 @@ def main():
             published += 1
             log(f"[ok] {article['section']}: {article['title']}")
         else:
-            log(f"[scartata] {item['title'][:70]}")
+            log(f"[scartata] {item['title'][:60]} -> {reason}")
 
     save_data(data)
     render(data)
     log(f"[fine] pubblicate {published} notizie")
+
+
+if __name__ == "__main__":
+    main()
 
 
 if __name__ == "__main__":
