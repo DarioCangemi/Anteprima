@@ -2,141 +2,60 @@
 <html lang="it">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Anteprima – Cinema, TV, musica e spettacolo</title>
-<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎬</text></svg>">
+<meta name="description" content="Le notizie di cinema, TV, musica e spettacolo, con i link alle fonti.">
+<link rel="icon" href="data:image/svg+xml,&lt;svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22&gt;&lt;text y=%22.9em%22 font-size=%2290%22&gt;🎬&lt;/text&gt;&lt;/svg&gt;">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
-:root{
-  --bg:#15120e; --panel:#1e1a14; --line:#3a3226; --text:#f0e8d6; --muted:#a39a87; --gold:#cfa94e; --gold-soft:#8a7236;
-  --serif:"Playfair Display",Georgia,"Times New Roman",serif;
-  --sans:Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
-  color-scheme:dark;
-  box-sizing:border-box;
-  padding-top:env(safe-area-inset-top,0px);
-  padding-bottom:env(safe-area-inset-bottom,0px);
-}
-html{scroll-padding-top:env(safe-area-inset-top,0px);height:100%}
-*,*::before,*::after{box-sizing:inherit}
-body{margin:0;background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.6;min-height:100%}
+:root{--bg:#15120e;--panel:#1e1a14;--line:#3a3226;--text:#f0e8d6;--muted:#a39a87;--gold:#cfa94e;--gold-soft:#8a7236;
+--serif:"Playfair Display",Georgia,"Times New Roman",serif;--sans:Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color-scheme:dark}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.6}
 a{color:inherit;text-decoration:none}
-a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+a:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
 .wrap{max-width:1120px;margin:0 auto;padding:0 20px}
-
 header{border-bottom:1px solid var(--line)}
 .top{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:22px 0 18px;flex-wrap:wrap}
-.logo{font-family:var(--serif);font-weight:900;font-size:clamp(2rem,5vw,2.8rem);letter-spacing:.01em;color:var(--gold);line-height:1}
+.logo{font-family:var(--serif);font-weight:900;font-size:clamp(2rem,5vw,2.8rem);color:var(--gold);line-height:1}
 .date{color:var(--muted);font-size:.85rem}
 nav{display:flex;gap:6px;overflow-x:auto;padding-bottom:14px}
 nav a{padding:6px 14px;border:1px solid transparent;border-radius:999px;color:var(--muted);font-weight:500;font-size:.95rem;white-space:nowrap}
-nav a:hover,nav a[aria-current]{color:var(--text);border-color:var(--gold-soft)}
-
-/* Lead story: the "screen" */
+nav a:hover{color:var(--text);border-color:var(--gold-soft)}
 .lead{display:grid;grid-template-columns:1.5fr 1fr;gap:28px;padding:32px 0;border-bottom:1px solid var(--line)}
 .screen{position:relative;aspect-ratio:2.39/1;min-height:200px;border:2px solid var(--gold);border-radius:4px;
-  background:radial-gradient(ellipse at 70% 30%,#5a4620 0%,#2a2115 45%,#15120e 100%);display:flex;align-items:flex-end;padding:18px}
+background:radial-gradient(ellipse at 70% 30%,#5a4620 0%,#2a2115 45%,#15120e 100%);display:flex;align-items:flex-end;padding:18px}
 .screen::after{content:"";position:absolute;inset:8px;border:1px solid var(--gold-soft);border-radius:2px;pointer-events:none}
 .tag{font-size:.8rem;color:var(--gold);font-weight:600}
-.lead h1{font-family:var(--serif);font-weight:900;font-size:clamp(1.9rem,4.2vw,3rem);line-height:1.12;margin:8px 0 12px}
+.lead h1{font-family:var(--serif);font-weight:900;font-size:clamp(1.7rem,3.8vw,2.6rem);line-height:1.15;margin:8px 0 12px}
 .lead p{color:var(--muted);margin:0 0 14px;max-width:46ch}
 .meta{font-size:.82rem;color:var(--muted)}
 .lead .copy{align-self:center}
-
-/* Sections */
 section{padding:34px 0 8px}
-section h2{font-family:var(--serif);font-size:1.6rem;margin:0 0 18px;display:flex;align-items:baseline;justify-content:space-between;gap:12px;border-bottom:1px solid var(--line);padding-bottom:10px}
-section h2 a{font-family:var(--sans);font-size:.85rem;color:var(--gold);font-weight:500}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:22px}
-.card{display:flex;flex-direction:column;gap:10px;padding-bottom:18px;border-bottom:1px solid var(--line)}
-.thumb{aspect-ratio:16/10;border-radius:3px;background:linear-gradient(135deg,var(--panel),#2b2418);border:1px solid var(--line)}
+section h2{font-family:var(--serif);font-size:1.6rem;margin:0 0 18px;border-bottom:1px solid var(--line);padding-bottom:10px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:22px}
+.card{display:flex;flex-direction:column;gap:8px;padding-bottom:18px;border-bottom:1px solid var(--line)}
 .card h3{font-family:var(--serif);font-size:1.18rem;line-height:1.3;margin:0}
 .card:hover h3{color:var(--gold)}
 .card p{margin:0;color:var(--muted);font-size:.92rem}
-.note{margin:36px 0 0;padding:16px 18px;background:var(--panel);border:1px solid var(--line);border-radius:4px;color:var(--muted);font-size:.9rem}
-
+.empty{color:var(--muted)}
+.note{margin:36px 0 0;padding:16px 18px;background:var(--panel);border:1px solid var(--line);border-radius:4px;color:var(--muted);font-size:.88rem}
 footer{margin-top:48px;border-top:1px solid var(--line);padding:26px 0 36px;color:var(--muted);font-size:.85rem;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
 footer .logo{font-size:1.4rem}
-
 @media (max-width:760px){.lead{grid-template-columns:1fr}}
-@media (prefers-reduced-motion:no-preference){.card h3{transition:color .15s}}
 </style>
 </head>
 <body>
-<header>
-  <div class="wrap">
-    <div class="top">
-      <a class="logo" href="#">Anteprima</a>
-      <span class="date" id="date"></span>
-    </div>
-    <nav aria-label="Sezioni">
-      <a href="#cinema" aria-current="page">Cinema</a>
-      <a href="#tv">TV e streaming</a>
-      <a href="#musica">Musica</a>
-      <a href="#gossip">Gossip</a>
-    </nav>
-  </div>
-</header>
-
+<header><div class="wrap"><div class="top"><a class="logo" href="/">Anteprima</a><span class="date">Aggiornato il 2 novembre 2026, ore 12:48</span></div><nav aria-label="Sezioni"><a href="#cinema">Cinema</a><a href="#tv">TV e streaming</a><a href="#musica">Musica</a><a href="#gossip">Gossip</a></nav></div></header>
 <main class="wrap">
-  <article class="lead">
-    <div class="screen" role="img" aria-label="Spazio per l’immagine della notizia principale"><span class="tag">Cinema</span></div>
-    <div class="copy">
-      <h1>Qui comparirà la notizia principale della giornata</h1>
-      <p>Un breve riassunto originale di due o tre righe, con il link alla fonte originale in fondo.</p>
-      <span class="meta">Fonte: nome della testata, oggi</span>
-    </div>
-  </article>
-
-  <section id="cinema">
-    <h2>Cinema <a href="#cinema">Vedi tutto</a></h2>
-    <div class="grid">
-      <a class="card" href="#"><div class="thumb"></div><h3>Titolo di esempio: l’uscita più attesa della settimana</h3><p>Riassunto di esempio in una o due righe.</p></a>
-      <a class="card" href="#"><div class="thumb"></div><h3>Titolo di esempio: un festival presenta il suo programma</h3><p>Riassunto di esempio in una o due righe.</p></a>
-      <a class="card" href="#"><div class="thumb"></div><h3>Titolo di esempio: i film in sala nel fine settimana</h3><p>Riassunto di esempio in una o due righe.</p></a>
-    </div>
-  </section>
-
-  <section id="tv">
-    <h2>TV e streaming <a href="#tv">Vedi tutto</a></h2>
-    <div class="grid">
-      <a class="card" href="#"><div class="thumb"></div><h3>Titolo di esempio: la serie di cui tutti parlano</h3><p>Riassunto di esempio in una o due righe.</p></a>
-      <a class="card" href="#"><div class="thumb"></div><h3>Titolo di esempio: novità in arrivo sulle piattaforme</h3><p>Riassunto di esempio in una o due righe.</p></a>
-      <a class="card" href="#"><div class="thumb"></div><h3>Titolo di esempio: il palinsesto della prossima stagione</h3><p>Riassunto di esempio in una o due righe.</p></a>
-    </div>
-  </section>
-
-  <section id="musica">
-    <h2>Musica <a href="#musica">Vedi tutto</a></h2>
-    <div class="grid">
-      <a class="card" href="#"><div class="thumb"></div><h3>Titolo di esempio: un nuovo album in uscita</h3><p>Riassunto di esempio in una o due righe.</p></a>
-      <a class="card" href="#"><div class="thumb"></div><h3>Titolo di esempio: le date del tour estivo</h3><p>Riassunto di esempio in una o due righe.</p></a>
-      <a class="card" href="#"><div class="thumb"></div><h3>Titolo di esempio: i dischi più ascoltati della settimana</h3><p>Riassunto di esempio in una o due righe.</p></a>
-    </div>
-  </section>
-
-  <section id="gossip">
-    <h2>Gossip <a href="#gossip">Vedi tutto</a></h2>
-    <div class="grid">
-      <a class="card" href="#"><div class="thumb"></div><h3>Titolo di esempio: il red carpet della serata</h3><p>Riassunto di esempio in una o due righe.</p></a>
-      <a class="card" href="#"><div class="thumb"></div><h3>Titolo di esempio: dichiarazioni dal backstage</h3><p>Riassunto di esempio in una o due righe.</p></a>
-      <a class="card" href="#"><div class="thumb"></div><h3>Titolo di esempio: gli eventi mondani del momento</h3><p>Riassunto di esempio in una o due righe.</p></a>
-    </div>
-  </section>
-
-  <p class="note">Questa è una prima bozza grafica: i titoli e i testi sono segnaposto. Nel sistema automatico verranno sostituiti da notizie reali, riassunte in modo originale e con il link alla fonte.</p>
+<article class="lead"><div class="screen" role="img" aria-label="Spazio per la notizia in evidenza"></div><div class="copy"><h1>Le prime notizie arrivano a breve</h1><p>Il sito si aggiorna in automatico più volte al giorno.</p></div></article>
+<section id="cinema"><h2>Cinema</h2><p class="empty">Nessuna notizia al momento.</p></section>
+<section id="tv"><h2>TV e streaming</h2><p class="empty">Nessuna notizia al momento.</p></section>
+<section id="musica"><h2>Musica</h2><p class="empty">Nessuna notizia al momento.</p></section>
+<section id="gossip"><h2>Gossip</h2><p class="empty">Nessuna notizia al momento.</p></section>
+<p class="note">Anteprima segnala le notizie di altre testate con titoli e sintesi riscritti con l’aiuto dell’intelligenza artificiale. Ogni articolo rimanda alla fonte originale, dove si trova il testo completo.</p>
 </main>
-
-<footer class="wrap">
-  <span class="logo">Anteprima</span>
-  <span>Cinema, TV, musica e spettacolo.</span>
-</footer>
-
-<script>
-try{
-  document.getElementById("date").textContent =
-    new Date().toLocaleDateString("it-IT",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
-}catch(e){}
-</script>
+<footer class="wrap"><span class="logo">Anteprima</span><span>Cinema, TV, musica e spettacolo.</span></footer>
 </body>
 </html>
