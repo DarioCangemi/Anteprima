@@ -1,14 +1,218 @@
 {
- "articles": [],
+ "articles": [
+  {
+   "id": "fb41677955cd",
+   "section": "cinema",
+   "title": "Dalla storia della pizza Margherita nasce un film, riprese tra Napoli e Piemonte",
+   "summary": "Un film dedicato alla storia della pizza Margherita, simbolo della cucina italiana, è in preparazione. Le riprese sono previste nella primavera del 2027 tra Napoli e Piemonte, con regia e sceneggiatura di Marco Pollini.",
+   "source": "ANSA Cinema",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/la-storia-della-pizza-margherita-icona-della-cucina-italiana-diventa-un-film_822ee612-25c4-4813-81b8-9113994fc7b8.html",
+   "published": "2026-11-02T12:31:35+00:00"
+  },
+  {
+   "id": "7d5a651cc942",
+   "section": "tv",
+   "title": "Grande Fratello Vip: stasera nuova eliminazione e attesa per il ritorno di Delia Durán",
+   "summary": "Nella puntata di stasera del Grande Fratello Vip è prevista una nuova eliminazione. Secondo le anticipazioni, sei concorrenti rischiano di lasciare definitivamente il reality e Delia Durán tornerebbe nella Casa.",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/news/grande-fratello-vip-anticipazioni-e-ospiti-del-2-novembre_171784/",
+   "published": "2026-11-02T12:29:48+00:00"
+  },
+  {
+   "id": "70db2441f89f",
+   "section": "cinema",
+   "title": "Hope, il film coreano con creature aliene arriva in sala",
+   "summary": "Il film sudcoreano Hope, già presentato a Cannes, esce nelle sale italiane. Il titolo mescola elementi di monster movie, thriller, horror e fantasy.",
+   "source": "ANSA Cinema",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/in-sala-hope-tra-creature-aliene-adrenalina-pura-ritmo-e-poesia_8da1299e-ace4-448a-ad9a-27ceb285a151.html",
+   "published": "2026-11-02T12:29:09+00:00"
+  },
+  {
+   "id": "acda807c56c9",
+   "section": "cinema",
+   "title": "Fan Ho, la prima mostra italiana a Palazzo Falletti di Barolo",
+   "summary": "A Palazzo Falletti di Barolo, a Torino, si inaugura la prima mostra italiana dedicata al fotografo Fan Ho. Le sue immagini raccontano la vita e le storie di Hong Kong attraverso giochi di luci e ombre.",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/geometrie-di-luci-e-ombre.-vita-e-storie-a-hong-kong-nello-sguardo-di-fan_45b3cc85-069a-47ec-bfeb-6c506aaf2c27.html",
+   "published": "2026-11-02T12:16:55+00:00"
+  },
+  {
+   "id": "550cecfd165a",
+   "section": "cinema",
+   "title": "George Michael, il film sul Faith Tour arriva nelle sale dal 6 novembre",
+   "summary": "Dal 6 novembre arriva al cinema un film dedicato al leggendario Faith Tour di George Michael. Il progetto è accompagnato da un album dal vivo con 18 tracce inedite.",
+   "source": "ANSA Cinema",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/george-michael-rivive-al-cinema-arriva-in-sala-il-film-sul-leggendario-faith_63cc461d-57f8-49d0-b38e-70fd5068ee62.html",
+   "published": "2026-11-02T12:14:04+00:00"
+  },
+  {
+   "id": "1439b2e49838",
+   "section": "cinema",
+   "title": "George Michael, il film sul Faith Tour arriva in sala il 6 novembre",
+   "summary": "Al cinema dal 6 novembre un film dedicato al celebre Faith Tour di George Michael. L'uscita è accompagnata da un album dal vivo con 18 tracce inedite.",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/02/george-michael-rivive-al-cinema-arriva-in-sala-il-film-sul-leggendario-faith_cb03bcaa-7d0b-48e0-871f-b70db24750ed.html",
+   "published": "2026-11-02T12:14:04+00:00"
+  },
+  {
+   "id": "a293b4a6a4ba",
+   "section": "cinema",
+   "title": "Rovere ricorda Antonelli sul set di Veloce come il vento",
+   "summary": "Il regista Matteo Rovere ha pubblicato su Instagram alcune foto dal set di Veloce come il vento, film del 2016. Tra le immagini compare anche il giovane attore Antonelli, ricordato dal regista.",
+   "source": "ANSA Cinema",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/regista-matteo-rovere-celebra-antonellieccolo-piccolo-attore-in-veloce-come-il-vento_b31aaafb-c80d-44ab-8785-6a3f6ae6a3c4.html",
+   "published": "2026-11-02T12:11:09+00:00"
+  },
+  {
+   "id": "0083d1309026",
+   "section": "cinema",
+   "title": "Roma, al Palazzo delle Esposizioni una mostra dedicata a Ileana Sonnabend",
+   "summary": "Il Palazzo delle Esposizioni di Roma celebra la gallerista Ileana Sonnabend con una mostra di 54 opere che attraversa l'arte contemporanea, da Warhol a Koons. L'esposizione mette in evidenza il ruolo della sua attività di promozione di artisti del Novecento.",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/02/da-warhol-a-koons-a-roma-i-fuochi-dartificio-dellarte-contemporanea_3653962a-f2d9-438e-bc53-f4fb516ae176.html",
+   "published": "2026-11-02T12:10:25+00:00"
+  },
+  {
+   "id": "4b2c21eed0f2",
+   "section": "tv",
+   "title": "Treasure Island, la nuova serie MGM+ rilegge Long John Silver e Bess Hawkins",
+   "summary": "La nuova versione televisiva di Treasure Island, tratta dal romanzo di Robert Louis Stevenson, amplia il ruolo di due personaggi centrali: Long John Silver e Bess Hawkins. La serie di MGM+ vede nel cast David Oyelowo e Hayley Atwell.",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/serie-tv/news/lisola-del-tesoro-il-nuovo-adattamento-reinventa-due-personaggi-principali-del-romanzo-728889",
+   "published": "2026-11-02T12:08:50+00:00"
+  },
+  {
+   "id": "6e78f8269dff",
+   "section": "cinema",
+   "title": "Paolo Di Paolo inserirà lettere nei suoi libri come messaggi al lettore",
+   "summary": "Lo scrittore Paolo Di Paolo ha annunciato un nuovo esperimento in occasione dell'uscita del romanzo \"Tremare\". Le lettere inserite nei libri sono paragonate a messaggi in bottiglia destinati al lettore.",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/libri/intervista/2026/11/02/paolo-di-paolo-infilero-lettere-nei-miei-libri-come-messaggi-in-bottiglia_c27f394d-d804-439c-aa3c-e494267d5122.html",
+   "published": "2026-11-02T12:05:42+00:00"
+  },
+  {
+   "id": "725b26a85123",
+   "section": "tv",
+   "title": "Carrie, Summer H. Howell difende le scelte di Mike Flanagan per la seconda stagione",
+   "summary": "Summer H. Howell, interprete della protagonista, ha parlato della seconda stagione di Carrie, serie Prime Video tratta dal romanzo di Stephen King e rinnovata il 22 ottobre. Secondo l'attrice, molte domande su Emaline troveranno risposta nel prossimo capitolo.",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/serie-tv/news/carrie-2-summer-h-howell-difende-le-scelte-di-mike-flanagan-molte-domande-su-emaline-troveranno-risposta-728885",
+   "published": "2026-11-02T12:04:49+00:00"
+  },
+  {
+   "id": "80d5bfdfa22c",
+   "section": "tv",
+   "title": "The Gilded Age 4: il cameo di Matt Damon e David Letterman nella premiere",
+   "summary": "La quarta stagione di The Gilded Age si apre con una breve comparsa di Matt Damon e David Letterman, che attraversano una strada di New York nei panni di due gentiluomini dell'Ottocento. Il cameo dura pochi istanti, ma ha una sua storia dietro la realizzazione.",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/serie-tv/news/the-gilded-age-4-scopri-come-nato-lincredibile-cameo-della-premiere-di-stagione-spoiler-728882",
+   "published": "2026-11-02T12:02:07+00:00"
+  },
+  {
+   "id": "55a9806feb47",
+   "section": "tv",
+   "title": "Amici, acceso confronto in studio tra Maria De Filippi e la maestra Celentano",
+   "summary": "Durante una puntata di Amici, la maestra Celentano si è mostrata contrariata per alcune parole del ballerino Riccardo pronunciate in casetta. Maria De Filippi è intervenuta in difesa del ballerino, e il confronto in studio si è fatto acceso.",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/amici-scontro-acceso-in-studio-maria-de-filippi-difende-riccardo-dalla-celentano",
+   "published": "2026-11-02T11:50:55+00:00"
+  },
+  {
+   "id": "368be2765074",
+   "section": "cinema",
+   "title": "Il Padrino e la trasformazione di Michael Corleone nelle ultime parole del film",
+   "summary": "Un approfondimento su Il Padrino di Francis Ford Coppola, uscito nel 1972, si concentra sulle ultime due parole del film e sul percorso di Michael Corleone. La fonte sottolinea come la storia racconti l'ascesa della famiglia e il passaggio del potere insieme a un'eredità di violenza.",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/tutto-film/approfondimenti/il-padrino-le-ultime-due-parole-del-film-racchiudono-tutta-la-trasformazione-di-michael-corleone-728878",
+   "published": "2026-11-02T11:45:09+00:00"
+  },
+  {
+   "id": "7dc7cd69912d",
+   "section": "cinema",
+   "title": "Fjord di Cristian Mungiu apre il XXX Tertio Millennio Film Fest",
+   "summary": "Il nuovo film di Cristian Mungiu sarà proiettato come serata d'apertura del XXX Tertio Millennio Film Fest, mercoledì 18 novembre alle 21 al Cinema Teatro Don Bosco. Il regista è anche protagonista della cover story del numero di novembre della Rivista del Cinematografo e della mostra fotografica Le vie del sacro.",
+   "source": "Cinematografo",
+   "url": "https://www.cinematografo.it/riflettori/fjord-di-cristian-mungiu-e-il-film-dapertura-del-xxx-tertio-millennio-film-fest-iyfocwfi",
+   "published": "2026-11-02T11:34:19+00:00"
+  },
+  {
+   "id": "b5b84f444b89",
+   "section": "cinema",
+   "title": "Narnia di Greta Gerwig: i fan discutono il ruolo di Aslan e la scelta di Meryl Streep",
+   "summary": "Il nuovo adattamento de Le cronache di Narnia diretto da Greta Gerwig sta già suscitando discussioni tra i fan, soprattutto sulla rappresentazione di Aslan, il leone creato da C.S. Lewis. Al centro del dibattito c'è l'annuncio di Meryl Streep come doppiatrice del personaggio.",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/tutto-film/approfondimenti/narnia-il-nipote-del-mago-cosi-e-stato-placato-il-piu-grande-timore-rispetto-al-remake-di-greta-gerwig-728874",
+   "published": "2026-11-02T11:29:16+00:00"
+  },
+  {
+   "id": "33fda23de54b",
+   "section": "tv",
+   "title": "Grande Fratello Vip, ascolti in calo: 1,5 milioni di spettatori",
+   "summary": "Gli ascolti del Grande Fratello Vip dell'edizione 2024 risultano tra i più bassi della sua storia, con una media di circa 1,5 milioni di spettatori. Un'analisi dei dati Mediaset esamina le possibili cause del calo.",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/grande-fratello-vip-gli-ascolti-continuano-ad-essere-bassi-il-reality-un-flop-qual-e-il-problema",
+   "published": "2026-11-02T11:25:35+00:00"
+  },
+  {
+   "id": "50406869635d",
+   "section": "tv",
+   "title": "Iva Zanicchi commenta il possibile ritorno di Ok il prezzo è giusto",
+   "summary": "Ospite a Domenica In, Iva Zanicchi ha parlato del possibile ritorno di Ok il prezzo è giusto con Ilary Blasi, lamentando di non essere stata contattata da Mediaset. Il commento della cantante è riportato come battuta televisiva durante la trasmissione.",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/iva-zanicchi-senza-filtri-su-mediaset-per-il-ritorno-di-ok-il-prezzo-e-giusto-una-telefonatina",
+   "published": "2026-11-02T11:22:07+00:00"
+  },
+  {
+   "id": "76497f1f8ca6",
+   "section": "tv",
+   "title": "Matt Damon e David Letterman in un cameo nascosto in The Gilded Age",
+   "summary": "Matt Damon e David Letterman compaiono brevemente in The Gilded Age, in una scena che si puo' vedere al minuto 8:33 dell'episodio. La loro apparizione, poco evidente, e' stata notata dal pubblico e raccontata da BadTaste.",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/matt-damon-e-david-letterman-attraversano-la-strada-in-the-gilded-age-e-nessuno-se-ne-accorto",
+   "published": "2026-11-02T11:08:17+00:00"
+  },
+  {
+   "id": "5ed42bb5038b",
+   "section": "cinema",
+   "title": "Robert Downey Jr. e Pedro Pascal in costume per Halloween tra i personaggi Marvel",
+   "summary": "Robert Downey Jr. e Pedro Pascal hanno celebrato Halloween con un travestimento dedicato ai fan di Avengers: Doomsday. Downey Jr. si è presentato nei panni di Reed Richards, mentre Pascal ha indossato quelli del Dottor Destino.",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/news/robert-downey-jr-pedro-pascal-sorpresa-halloween-fan-marvel_171774/",
+   "published": "2026-11-02T11:00:42+00:00"
+  },
+  {
+   "id": "9b5170111fd6",
+   "section": "tv",
+   "title": "Nocturne: la serie crime con Liev Schreiber, Zazie Beetz e Stephen Graham",
+   "summary": "La serie Nocturne, con Liev Schreiber, Zazie Beetz e Stephen Graham nei ruoli principali, è disponibile in streaming su Apple TV. Secondo la recensione di Movieplayer, il thriller riesce a inquietare e a tenere alta l'attenzione dello spettatore.",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/articoli/nocturne-recensione-serie-apple-tv_38149/",
+   "published": "2026-11-02T11:00:00+00:00"
+  },
+  {
+   "id": "a379271454ef",
+   "section": "cinema",
+   "title": "Festival di Marrakech: in programma Guadagnino e Moretti",
+   "summary": "È stato presentato il programma della 23a edizione del Festival internazionale del film di Marrakech. La manifestazione si apre con un film di Julianne Moore diretto da Eisenberg, mentre tra i nomi citati figurano Guadagnino e Moretti.",
+   "source": "ANSA Cinema",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/guadagnino-e-moretti-tra-le-stelle-del-festival-del-film-di-marrakech_d1cf0064-67a6-41e4-9116-00431dca8bfb.html",
+   "published": "2026-11-02T10:51:22+00:00"
+  },
+  {
+   "id": "53281d64516a",
+   "section": "cinema",
+   "title": "Taika Waititi attacca i critici dopo il film Klara e il sole",
+   "summary": "Il regista Taika Waititi ha criticato i giudizi della critica sul suo ultimo film, Klara e il sole, definendo irrilevanti le recensioni negative. La notizia riporta anche la replica ironica della testata, che considera il film semplicemente non riuscito.",
+   "source": "Cinematografo",
+   "url": "https://www.cinematografo.it/riflettori/a-taika-waititi-da-unanima-persa-sep0kkbl",
+   "published": "2026-11-02T10:42:46+00:00"
+  }
+ ],
  "seen": [
-  "368be2765074",
-  "1d5e44ac6f1b",
-  "b8a536bdb47d",
-  "b8a536bdb47d",
-  "7dc7cd69912d",
-  "6e6cbdbc5036",
-  "34d1739ea673",
-  "9f67f460e219",
+  "fb41677955cd",
+  "5d8975eeebcb",
+  "7d5a651cc942",
+  "70db2441f89f",
   "acda807c56c9",
   "c7c4af253dcd",
   "550cecfd165a",
@@ -17,27 +221,24 @@
   "725b26a85123",
   "80d5bfdfa22c",
   "55a9806feb47",
-  "b5b84f444b89",
-  "33fda23de54b",
-  "50406869635d",
-  "5ed42bb5038b",
-  "9b5170111fd6",
-  "f0839c31cea9",
-  "a379271454ef",
+  "368be2765074",
+  "7dc7cd69912d",
+  "6e6cbdbc5036",
   "1439b2e49838",
   "0083d1309026",
   "6e78f8269dff",
+  "b8a536bdb47d",
+  "9f67f460e219",
+  "b5b84f444b89",
+  "33fda23de54b",
+  "50406869635d",
   "7f33185a3242",
   "76497f1f8ca6",
-  "c0e648047a3a",
-  "24b022f39bb3",
+  "5ed42bb5038b",
+  "9b5170111fd6",
+  "a379271454ef",
   "53281d64516a",
-  "7caad093d5e9",
-  "9917255792b2",
-  "7d8b8bb7e2e8",
-  "347a3d150a5a",
-  "410a909a549c",
-  "6cd12ffcee20",
-  "3bceec3a7a4f"
- ]
+  "7caad093d5e9"
+ ],
+ "version": 2
 }
