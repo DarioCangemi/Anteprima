@@ -300,34 +300,73 @@ header{border-bottom:1px solid var(--line)}
 nav{display:flex;gap:6px;overflow-x:auto;padding-bottom:14px}
 nav a{padding:6px 14px;border:1px solid transparent;border-radius:999px;color:var(--muted);font-weight:500;font-size:.95rem;white-space:nowrap}
 nav a:hover{color:var(--text);border-color:var(--red-soft)}
-.lead{padding:36px 0 32px;border-bottom:1px solid var(--line);max-width:820px}
-.tag{font-size:.82rem;color:var(--red);font-weight:600}
-.lead h1{font-family:var(--serif);font-weight:900;font-size:clamp(1.8rem,4vw,2.7rem);line-height:1.15;margin:8px 0 14px;overflow-wrap:anywhere}
+.hero{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(0,1fr);gap:44px;padding:34px 0 36px;border-bottom:1px solid var(--line)}
+.lead .cover{margin-bottom:20px}
+.tag{font-size:.78rem;color:var(--red);font-weight:600;letter-spacing:.12em;text-transform:uppercase}
+.lead h1{font-family:var(--serif);font-weight:900;font-size:clamp(2rem,4.2vw,3.1rem);line-height:1.1;letter-spacing:-.015em;margin:8px 0 14px;overflow-wrap:anywhere}
 .lead h1 a:hover{color:var(--red)}
-.lead p{color:var(--muted);margin:0 0 14px;font-size:1.05rem;max-width:62ch}
-.meta{font-size:.82rem;color:var(--muted)}
+.lead p{color:#cdbfbb;margin:0 0 14px;font-size:1.12rem;line-height:1.55;max-width:60ch}
+.meta{font-size:.8rem;color:var(--muted)}
+.latest h2{font-family:var(--sans);font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--red);border:0;margin:0 0 6px;padding:0}
+.latest a{display:block;padding:14px 0;border-bottom:1px solid var(--line)}
+.latest a:last-child{border-bottom:0}
+.latest strong{display:block;font-family:var(--serif);font-weight:700;font-size:1.08rem;line-height:1.28;margin-bottom:4px}
+.latest a:hover strong{color:var(--red)}
+.cover{display:block;border-radius:4px;overflow:hidden;aspect-ratio:16/9;background:var(--panel)}
+.cover svg{display:block;width:100%;height:100%}
+@media(max-width:860px){.hero{grid-template-columns:1fr;gap:26px}}
 section{padding:34px 0 8px}
-section h2{font-family:var(--serif);font-size:1.6rem;margin:0 0 18px;border-bottom:1px solid var(--line);padding-bottom:10px}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:22px}
+section h2{font-family:var(--serif);font-weight:900;font-size:1.7rem;letter-spacing:-.01em;margin:0 0 20px;border-bottom:2px solid var(--red);padding-bottom:10px;display:inline-block;padding-right:28px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:26px 24px}
 .card{display:flex;flex-direction:column;gap:8px;padding-bottom:18px;border-bottom:1px solid var(--line)}
-.card h3{font-family:var(--serif);font-size:1.18rem;line-height:1.3;margin:0;overflow-wrap:anywhere}
+.card h3{font-family:var(--serif);font-weight:700;font-size:1.2rem;line-height:1.25;letter-spacing:-.005em;margin:2px 0 0;overflow-wrap:anywhere}
 .card:hover h3{color:var(--red)}
-.card p{margin:0;color:var(--muted);font-size:.92rem}
+.card p{margin:0;color:#b9aba7;font-size:.92rem;line-height:1.5}
 .empty{color:var(--muted)}
 .note{margin:36px 0 0;padding:16px 18px;background:var(--panel);border:1px solid var(--line);border-radius:4px;color:var(--muted);font-size:.88rem}
-.post{max-width:720px;padding:36px 0 8px}
+.post{max-width:760px;padding:34px 0 8px}
 .post h1{font-family:var(--serif);font-weight:900;font-size:clamp(1.8rem,4.5vw,2.6rem);line-height:1.15;margin:8px 0 10px;overflow-wrap:anywhere}
 .post .when{color:var(--muted);font-size:.85rem;margin-bottom:22px;display:block}
-.post .chapo{font-size:1.15rem;color:var(--text);font-weight:500;margin:0 0 18px}
+.post .cover{margin:0 0 22px}
+.post .chapo{font-size:1.2rem;line-height:1.5;color:var(--text);font-weight:500;margin:0 0 18px}
 .post .body p{font-size:1.05rem;margin:0 0 16px}
 .srcbox{margin:26px 0 0;padding:16px 18px;background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--red);border-radius:4px;font-size:.92rem;color:var(--muted)}
 .srcbox a{color:var(--red);font-weight:600}
-.related{max-width:1120px;padding:10px 0 0}
+.related{max-width:1120px;padding:10px 0 24px}
 .back{display:inline-block;margin-top:22px;color:var(--muted);font-size:.9rem}
 .back:hover{color:var(--red)}
 footer{margin-top:48px;border-top:1px solid var(--line);padding:26px 0 36px;color:var(--muted);font-size:.85rem;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
 footer .logo{font-size:1.4rem}
 """
+
+
+ICONS = {
+    "cinema": '<path d="M4 9h16v10H4zM4 9l2.5-4h3L7 9M10 9l2.5-4h3L13 9M16 9l2.5-4H20l-2.5 4"/>',
+    "tv": '<rect x="3" y="6" width="18" height="12" rx="1.5"/><path d="M8 21h8M9 3l3 3 3-3"/>',
+    "musica": '<path d="M9 18V6l10-2v12"/><circle cx="7" cy="18" r="2"/><circle cx="17" cy="16" r="2"/>',
+    "gossip": '<path d="M12 3l2.4 6.6L21 12l-6.6 2.4L12 21l-2.4-6.6L3 12l6.6-2.4z"/>',
+}
+
+
+def cover(a):
+    """Illustrazione astratta generata dal codice (nessuna immagine di terzi)."""
+    h = int(hashlib.sha1(a["id"].encode()).hexdigest(), 16)
+    gid = "g" + a["id"]
+    angle = h % 360
+    shapes = []
+    for i in range(4):
+        cx = (h >> (8 * i)) % 640
+        cy = (h >> (8 * i + 4)) % 360
+        r = 60 + (h >> (5 * i)) % 140
+        op = 0.10 + ((h >> (3 * i)) % 14) / 100
+        shapes.append(f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="#e8424f" opacity="{op:.2f}"/>')
+    lines = "".join(f'<path d="M{-40 + k * 90 + (h >> k) % 30} 380 L{200 + k * 90} -20" stroke="#f4ece8" stroke-opacity=".05" stroke-width="2"/>' for k in range(8))
+    icon = ICONS.get(a["section"], ICONS["cinema"])
+    return (f'<svg viewBox="0 0 640 360" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Illustrazione generata, sezione {esc(dict(SECTIONS)[a["section"]])}">'
+            f'<defs><linearGradient id="{gid}" gradientTransform="rotate({angle} .5 .5)"><stop offset="0" stop-color="#2a1d1d"/><stop offset="1" stop-color="#130f0f"/></linearGradient></defs>'
+            f'<rect width="640" height="360" fill="url(#{gid})"/>' + "".join(shapes) + lines +
+            f'<g transform="translate(256 116) scale(5.1)" fill="none" stroke="#e8424f" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" opacity=".92">{icon}</g>'
+            '<rect x="0" y="352" width="640" height="8" fill="#e8424f"/></svg>')
 
 
 def fmt_date(iso):
@@ -373,7 +412,7 @@ def header_html(extra=""):
 
 
 FOOTER = ('<footer class="wrap"><span class="logo">Anteprima</span>'
-          '<span>Cinema, TV, musica e spettacolo.</span></footer>\n</body>\n</html>\n')
+          '<span>Cinema, TV, musica e spettacolo. Testi redatti con l’ausilio di strumenti di intelligenza artificiale.</span></footer>\n</body>\n</html>\n')
 
 
 def render_article_page(a, arts):
@@ -386,15 +425,16 @@ def render_article_page(a, arts):
            f'<a class="tag" href="/#{a["section"]}">{esc(label)}</a>'
            f'<h1>{esc(a["title"])}</h1>'
            f'<span class="when">{fmt_date(a["published"])}</span>'
+           f'<span class="cover">{cover(a)}</span>'
            f'<p class="chapo">{esc(a["summary"])}</p>'
            f'<div class="body">{paras}</div>'
-           f'<p class="srcbox">Fonte: {esc(a["source"])}. Testo riscritto da Anteprima con l’aiuto dell’intelligenza artificiale. '
+           f'<p class="srcbox">Fonte: {esc(a["source"])}. '
            f'<a href="{esc(a["url"])}" target="_blank" rel="noopener noreferrer">Leggi l’articolo originale →</a></p>'
            '<a class="back" href="/">← Tutte le notizie</a></article>']
     if related:
         out.append(f'<section class="related"><h2>Altre notizie: {esc(label)}</h2><div class="grid">')
         for r in related:
-            out.append(f'<a class="card" href="{esc(local_url(r))}"><h3>{esc(r["title"])}</h3>'
+            out.append(f'<a class="card" href="{esc(local_url(r))}"><span class="cover">{cover(r)}</span><h3>{esc(r["title"])}</h3>'
                        f'<span class="meta">{fmt_date(r["published"])}</span></a>')
         out.append('</div></section>')
     out.append('</main>\n' + FOOTER)
@@ -428,15 +468,20 @@ def render(data):
     if arts:
         lead = arts[0]
         label = dict(SECTIONS)[lead["section"]]
-        out.append('<article class="lead">'
+        latest = "".join(f'<a href="{esc(local_url(x))}"{link_attrs(x)}><strong>{esc(x["title"])}</strong>'
+                         f'<span class="meta">{esc(dict(SECTIONS)[x["section"]])} – {fmt_date(x["published"])}</span></a>'
+                         for x in arts[1:6])
+        out.append('<div class="hero"><article class="lead">'
+                   f'<a class="cover" href="{esc(local_url(lead))}"{link_attrs(lead)}>{cover(lead)}</a>'
                    f'<span class="tag">{esc(label)}</span>'
                    f'<h1><a href="{esc(local_url(lead))}"{link_attrs(lead)}>{esc(lead["title"])}</a></h1>'
                    f'<p>{esc(lead["summary"])}</p>'
-                   f'<span class="meta">Fonte: {esc(lead["source"])} – {fmt_date(lead["published"])}</span></article>\n')
+                   f'<span class="meta">Fonte: {esc(lead["source"])} – {fmt_date(lead["published"])}</span></article>'
+                   f'<aside class="latest"><h2>Ultime notizie</h2>{latest}</aside></div>\n')
         rest = arts[1:]
     else:
-        out.append('<article class="lead"><h1>Le prime notizie arrivano a breve</h1>'
-                   '<p>Il sito si aggiorna in automatico più volte al giorno.</p></article>\n')
+        out.append('<div class="hero"><article class="lead"><h1>Le prime notizie arrivano a breve</h1>'
+                   '<p>Il sito si aggiorna in automatico più volte al giorno.</p></article></div>\n')
         rest = []
 
     for key, label in SECTIONS:
@@ -446,7 +491,7 @@ def render(data):
             out.append('<div class="grid">')
             for a in items:
                 out.append(f'<a class="card" href="{esc(local_url(a))}"{link_attrs(a)}>'
-                           f'<h3>{esc(a["title"])}</h3><p>{esc(a["summary"])}</p>'
+                           f'<span class="cover">{cover(a)}</span><h3>{esc(a["title"])}</h3><p>{esc(a["summary"])}</p>'
                            f'<span class="meta">{esc(a["source"])} – {fmt_date(a["published"])}</span></a>')
             out.append('</div>')
         else:
