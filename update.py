@@ -73,8 +73,7 @@ Regole:
 - Per la sezione gossip accetta solo fatti pubblici e innocui: dichiarazioni ufficiali, ospiti, programmi, red carpet, apparizioni.
 - Sezione: cinema, tv, musica oppure gossip.
 
-Rispondi SOLO con un oggetto JSON: {"publish": true, "section": "cinema", "title": "...", "summary": "...", "reason": ""}
-Se publish e' false, scrivi in "reason" il motivo in poche parole; gli altri campi possono essere vuoti."""
+Usa lo strumento "decidi" per registrare la decisione. Se publish e' false, scrivi in "reason" il motivo in poche parole."""
 
 MESI = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio",
         "agosto", "settembre", "ottobre", "novembre", "dicembre"]
@@ -136,6 +135,9 @@ def load_data():
         try:
             with open(DATA_FILE, encoding="utf-8") as f:
                 data = json.load(f)
+            if data.get("version") != 2:
+                log("[dati] nuova versione, riparto da zero")
+                return {"articles": [], "seen": []}
             data.setdefault("articles", [])
             data.setdefault("seen", [])
             return data
@@ -147,6 +149,7 @@ def load_data():
 def save_data(data):
     data["articles"] = sorted(data["articles"], key=lambda a: a["published"], reverse=True)[:MAX_STORED]
     data["seen"] = data["seen"][-3000:]
+    data["version"] = 2
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
 
@@ -191,22 +194,45 @@ def gather_candidates(sources, seen):
     return unique[:MAX_NEW_PER_RUN]
 
 
+DECIDE_TOOL = {
+    "name": "decidi",
+    "description": "Registra la decisione redazionale su una notizia.",
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "publish": {"type": "boolean", "description": "true se la notizia va pubblicata"},
+            "section": {"type": "string", "enum": ["cinema", "tv", "musica", "gossip"]},
+            "title": {"type": "string", "description": "Titolo nuovo, massimo 100 caratteri"},
+            "summary": {"type": "string", "description": "Sintesi di due frasi, massimo 280 caratteri"},
+            "reason": {"type": "string", "description": "Se publish e' false: motivo in poche parole"},
+        },
+        "required": ["publish"],
+    },
+}
+
+
+class Technical(Exception):
+    """Errore tecnico: la notizia non va segnata come vista, cosi' riprova al prossimo giro."""
+
+
 def rewrite(client, item):
     """Restituisce (articolo, motivo). Se l'articolo e' None, il motivo spiega perche'."""
     prompt = (f"Fonte: {item['source']}\nTitolo originale: {item['title']}\n"
               f"Anteprima: {item['snippet'] or '(nessuna)'}")
-    resp = client.messages.create(model=MODEL, max_tokens=500, system=SYSTEM,
-                                  messages=[{"role": "user", "content": prompt}])
-    text = "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
-    m = re.search(r"\{.*\}", text, re.DOTALL)
-    if not m:
-        return None, "risposta non in JSON"
-    try:
-        out = json.loads(m.group(0))
-    except ValueError:
-        return None, "JSON non valido"
+    resp = client.messages.create(
+        model=MODEL, max_tokens=600, system=SYSTEM,
+        tools=[DECIDE_TOOL], tool_choice={"type": "tool", "name": "decidi"},
+        messages=[{"role": "user", "content": prompt}])
+    out = None
+    for block in resp.content:
+        if getattr(block, "type", "") == "tool_use":
+            out = block.input
+            break
+    if not isinstance(out, dict):
+        raw = "".join(getattr(b, "text", "") for b in resp.content)[:80]
+        raise Technical(f"nessuna decisione ricevuta ({resp.stop_reason}) {raw!r}")
     if out.get("publish") is not True:
-        return None, "Claude: " + clean(out.get("reason"))[:80]
+        return None, "Claude: " + clean(out.get("reason"))[:90]
     title = clean(out.get("title"))
     summary = clean(out.get("summary"))
     section = out.get("section")
@@ -353,6 +379,9 @@ def main():
         except anthropic.AuthenticationError:
             log("[errore] chiave API non valida")
             break
+        except Technical as e:
+            log(f"[tecnico] {item['title'][:50]} -> {e}; riprovo alla prossima esecuzione")
+            continue
         except anthropic.APIStatusError as e:
             log(f"[errore] API: {e.status_code}; riprovo alla prossima esecuzione")
             continue
@@ -374,7 +403,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
 if __name__ == "__main__":
     main()
