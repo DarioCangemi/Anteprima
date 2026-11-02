@@ -1,0 +1,38 @@
+name: Aggiorna Anteprima
+
+on:
+  schedule:
+    - cron: "15 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aggiorna-anteprima
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installa le librerie
+        run: pip install feedparser anthropic
+
+      - name: Raccogli e riscrivi le notizie
+        run: python update.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Salva le modifiche
+        run: |
+          git config user.name "anteprima-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add index.html articles.json
+          git diff --cached --quiet || (git commit -m "Aggiornamento notizie" && git push)
