@@ -23,6 +23,8 @@ MAX_STORED = 400          # notizie conservate (archivio e sitemap)
 HOME_PER_SECTION = 6      # notizie per sezione in home
 SITE = "https://www.anteprimanews.com"
 PAGES_DIR = "notizie"
+HEAD_EXTRA = ""            # qui va incollato il tag di verifica di Google Search Console, se serve
+CONTACT_EMAIL = ""        # indirizzo email pubblico per la pagina Contatti (lascia vuoto per non mostrarlo)
 ANALYTICS = ""            # qui va incollato il codice di GoatCounter (o simili), tra le virgolette triple
 UA = "AnteprimaBot/1.0 (+https://www.anteprimanews.com)"
 DATA_FILE = "articles.json"
@@ -337,6 +339,14 @@ section h2{font-family:var(--serif);font-weight:900;font-size:1.7rem;letter-spac
 .back:hover{color:var(--red)}
 footer{margin-top:48px;border-top:1px solid var(--line);padding:26px 0 36px;color:var(--muted);font-size:.85rem;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
 footer .logo{font-size:1.4rem}
+.fnote{margin:6px 0 0;max-width:46ch}
+.flinks{display:flex;gap:18px;align-items:flex-start}
+.flinks a:hover{color:var(--red)}
+.static{max-width:720px;padding:34px 0 8px}
+.static h1{font-family:var(--serif);font-weight:900;font-size:clamp(1.8rem,4.5vw,2.5rem);margin:0 0 18px}
+.static h2{font-family:var(--serif);font-size:1.3rem;margin:26px 0 8px;border:0;padding:0;display:block}
+.static p,.static li{color:#cdbfbb;font-size:1.03rem}
+.static a{color:var(--red)}
 """
 
 
@@ -401,18 +411,20 @@ def head(title, desc, canonical, kind="website"):
             '<link rel="icon" href="data:image/svg+xml,&lt;svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22&gt;&lt;text y=%22.9em%22 font-size=%2290%22&gt;🎬&lt;/text&gt;&lt;/svg&gt;">\n'
             '<link rel="preconnect" href="https://fonts.googleapis.com">\n'
             '<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">\n'
-            '<style>' + CSS + '</style>\n' + ANALYTICS + '\n</head>\n<body>\n')
+            '<style>' + CSS + '</style>\n' + HEAD_EXTRA + ANALYTICS + '\n</head>\n<body>\n')
 
 
 def header_html(extra=""):
     return ('<header><div class="wrap"><div class="top"><a class="logo" href="/">Anteprima</a>' + extra +
             '</div><nav aria-label="Sezioni">' +
-            "".join(f'<a href="/#{k}">{esc(v)}</a>' for k, v in SECTIONS) +
+            "".join(f'<a href="/sezione/{k}.html">{esc(v)}</a>' for k, v in SECTIONS) +
             '</nav></div></header>\n')
 
 
-FOOTER = ('<footer class="wrap"><span class="logo">Anteprima</span>'
-          '<span>Cinema, TV, musica e spettacolo. Testi redatti con l’ausilio di strumenti di intelligenza artificiale.</span></footer>\n</body>\n</html>\n')
+FOOTER = ('<footer class="wrap"><div><span class="logo">Anteprima</span>'
+          '<p class="fnote">Cinema, TV, musica e spettacolo. Testi redatti con l’ausilio di strumenti di intelligenza artificiale.</p></div>'
+          '<nav class="flinks" aria-label="Informazioni"><a href="/chi-siamo.html">Chi siamo</a>'
+          '<a href="/contatti.html">Contatti</a><a href="/privacy.html">Privacy</a></nav></footer>\n</body>\n</html>\n')
 
 
 def render_article_page(a, arts):
@@ -437,14 +449,70 @@ def render_article_page(a, arts):
             out.append(f'<a class="card" href="{esc(local_url(r))}"><span class="cover">{cover(r)}</span><h3>{esc(r["title"])}</h3>'
                        f'<span class="meta">{fmt_date(r["published"])}</span></a>')
         out.append('</div></section>')
+    ld = {"@context": "https://schema.org", "@type": "NewsArticle", "headline": a["title"],
+          "description": a["summary"], "datePublished": a["published"], "dateModified": a["published"],
+          "articleSection": label, "inLanguage": "it", "isBasedOn": a["url"],
+          "mainEntityOfPage": f"{SITE}/{PAGES_DIR}/{a['slug']}.html",
+          "author": {"@type": "Organization", "name": "Anteprima"},
+          "publisher": {"@type": "Organization", "name": "Anteprima", "url": SITE}}
+    out.append('<script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False).replace("</", "<\\/") + '</script>')
     out.append('</main>\n' + FOOTER)
     os.makedirs(PAGES_DIR, exist_ok=True)
     with open(os.path.join(PAGES_DIR, a["slug"] + ".html"), "w", encoding="utf-8") as f:
         f.write("".join(out))
 
 
+STATIC_PAGES = {
+    "chi-siamo": ("Chi siamo", "Anteprima è un sito italiano di notizie su cinema, TV, musica e spettacolo.",
+        "<p>Anteprima racconta ogni giorno le notizie di cinema, TV e streaming, musica e spettacolo.</p>"
+        "<h2>Come lavoriamo</h2><p>Seguiamo le principali testate italiane e internazionali di settore. Per ogni notizia "
+        "scriviamo un testo breve con parole nostre, usando strumenti di intelligenza artificiale, e indichiamo sempre la fonte "
+        "originale con il link all’articolo completo.</p>"
+        "<h2>Cosa non pubblichiamo</h2><p>Non trattiamo lutti, malattie, indagini giudiziarie, minorenni e voci non confermate dagli "
+        "interessati. Nel gossip riportiamo solo fatti pubblici e dichiarazioni attribuite a chi le ha fatte.</p>"
+        "<h2>Errori e segnalazioni</h2><p>Se trovi un errore o vuoi chiedere una correzione o la rimozione di un testo, scrivici dalla pagina "
+        "<a href=\"/contatti.html\">Contatti</a>: rispondiamo il prima possibile.</p>"),
+    "contatti": ("Contatti", "Come contattare la redazione di Anteprima.",
+        "<p>Per segnalazioni, correzioni, richieste di rimozione o collaborazioni:</p><ul>"
+        + (f'<li>Email: <a href="mailto:{CONTACT_EMAIL}">{CONTACT_EMAIL}</a></li>' if CONTACT_EMAIL else "")
+        + "<li>Instagram: <a href=\"https://www.instagram.com/anteprimanews/\" rel=\"noopener\">@anteprimanews</a></li></ul>"),
+    "privacy": ("Privacy", "Informativa sulla privacy di Anteprima.",
+        "<p>Anteprima non richiede registrazione e non raccoglie dati personali degli utenti attraverso moduli o commenti.</p>"
+        "<h2>Cookie</h2><p>Il sito non usa cookie di profilazione.</p>"
+        "<h2>Servizi esterni</h2><p>Per mostrare i caratteri tipografici le pagine caricano i font da Google Fonts: in questo caso Google può "
+        "ricevere l’indirizzo IP del visitatore. I link alle fonti portano a siti di terzi, che hanno le proprie informative.</p>"
+        "<h2>Contatti</h2><p>Per qualsiasi richiesta sui dati personali usa la pagina <a href=\"/contatti.html\">Contatti</a>.</p>"),
+}
+
+
+def render_static_pages():
+    for slug, (title, desc, body) in STATIC_PAGES.items():
+        with open(f"{slug}.html", "w", encoding="utf-8") as f:
+            f.write(head(f"{title} – Anteprima", desc, f"{SITE}/{slug}.html") + header_html() +
+                    f'<main class="wrap"><div class="static"><h1>{esc(title)}</h1>{body}'
+                    '<a class="back" href="/">← Torna alla home</a></div></main>\n' + FOOTER)
+
+
+def render_section_pages(arts):
+    os.makedirs("sezione", exist_ok=True)
+    for key, label in SECTIONS:
+        items = [a for a in arts if a["section"] == key and a.get("body") and a.get("slug")][:60]
+        cards = "".join(f'<a class="card" href="{esc(local_url(a))}"><span class="cover">{cover(a)}</span>'
+                        f'<h3>{esc(a["title"])}</h3><p>{esc(a["summary"])}</p>'
+                        f'<span class="meta">{fmt_date(a["published"])}</span></a>' for a in items)
+        with open(f"sezione/{key}.html", "w", encoding="utf-8") as f:
+            f.write(head(f"{label} – Notizie e anteprime | Anteprima", f"Le ultime notizie di {label.lower()} su Anteprima.",
+                         f"{SITE}/sezione/{key}.html") + header_html() +
+                    f'<main class="wrap"><section><h2>{esc(label)}</h2>' +
+                    (f'<div class="grid">{cards}</div>' if cards else '<p class="empty">Nessuna notizia al momento.</p>') +
+                    '</section></main>\n' + FOOTER)
+
+
 def render_sitemap(arts):
     urls = [(SITE + "/", datetime.now(timezone.utc).date().isoformat())]
+    today = datetime.now(timezone.utc).date().isoformat()
+    urls += [(f"{SITE}/sezione/{k}.html", today) for k, _ in SECTIONS]
+    urls += [(f"{SITE}/{k}.html", "2026-11-02") for k in STATIC_PAGES]
     for a in arts:
         if a.get("body") and a.get("slug"):
             urls.append((f"{SITE}/{PAGES_DIR}/{a['slug']}.html", a["published"][:10]))
@@ -506,6 +574,8 @@ def render(data):
     for a in arts:
         if a.get("body") and a.get("slug"):
             render_article_page(a, arts)
+    render_section_pages(arts)
+    render_static_pages()
     render_sitemap(arts)
 
 
