@@ -1,6 +1,222 @@
 {
  "articles": [
   {
+   "id": "6e22bd55303d",
+   "section": "cinema",
+   "title": "Club Kid, la critica al film d'esordio di Jordan Firstman",
+   "summary": "Jordan Firstman debutta dietro e davanti alla macchina da presa con Club Kid, racconto su una paternità contrariata. Secondo la recensione di Paris Match il film unisce cinema indipendente americano e feel good movie.",
+   "body": "Jordan Firstman firma con Club Kid la sua prima regia e vi recita anche in prima persona. La storia ruota attorno a una paternità complicata, raccontata con un tono che mescola il cinema indipendente americano e la commedia dal sapore positivo.\n\nSecondo la recensione pubblicata da Paris Match, il film è una piccola sorpresa: il tono è dichiaratamente gay, a tratti eccentrico e capace di toccare il pubblico con momenti emotivamente intensi. La critica francese lo definisce una perla del genere, adatta a chi cerca un titolo autoriale fuori dai circuiti più commerciali.",
+   "slug": "club-kid-la-critica-al-film-d-esordio-di-jordan-firstman-6e22bd",
+   "tags": [
+    "Club Kid",
+    "Jordan Firstman"
+   ],
+   "scene": "pellicola",
+   "source": "parismatch.com",
+   "url": "https://www.parismatch.com/club-kid-critique-dun-film-non-pere-5NJALuaMNpSkIoRZbvx940",
+   "published": "2026-11-03T17:19:04+00:00"
+  },
+  {
+   "id": "8f27a66c2506",
+   "section": "cinema",
+   "title": "Cinemark non proietterà Cliff Booth, il film Netflix di Tarantino",
+   "summary": "Il CEO di Cinemark, Sean Gamble, ha criticato il modello di distribuzione scelto per The Further Mis-Adventures of Cliff Booth, il sequel di C'era una volta a... Hollywood prodotto da Netflix. La catena, terza negli Stati Uniti, e Regal non proietteranno il film nelle loro sale.",
+   "body": "Cinemark, la terza catena di sale degli Stati Uniti, non proietterà in sala The Further Mis-Adventures of Cliff Booth, il nuovo film di Quentin Tarantino distribuito da Netflix. Secondo Deadline, anche Regal, la seconda catena del Paese, ha deciso di non programmare il titolo. La scelta è stata spiegata dal CEO di Cinemark, Sean Gamble, che ha definito il modello di uscita adottato dalla piattaforma poco favorevole all'ecosistema delle sale cinematografiche.\n\nGamble ritiene che questo tipo di accordo non giovi nemmeno agli stessi esercenti nel lungo periodo. Il film è il seguito di C'era una volta a... Hollywood, con Brad Pitt nel ruolo di Cliff Booth, ed è un'uscita importante per Netflix. La decisione delle due catene segnala una tensione ancora aperta tra piattaforme streaming e cinema sul tema delle finestre di distribuzione.",
+   "slug": "cinemark-non-proiettera-cliff-booth-il-film-netflix-di-taran-8f27a6",
+   "tags": [
+    "Quentin Tarantino",
+    "Cinemark",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/cinemarko-netflix-cliff-booth-theatrical-release-1237212191/",
+   "published": "2026-11-03T17:16:32+00:00"
+  },
+  {
+   "id": "0572d3f8deab",
+   "section": "cinema",
+   "title": "Daniel Destin Cretton dirigerà il film live-action di Naruto",
+   "summary": "Il regista Daniel Destin Cretton, noto per il lavoro su film Marvel, sarà alla guida dell'adattamento live-action dell'anime Naruto. La notizia è stata riportata da MoviePilot, che promette aggiornamenti sul progetto.",
+   "body": "Il regista Daniel Destin Cretton, che in passato ha lavorato a un film della saga di Spider-Man, sarà il responsabile della trasposizione in live-action di Naruto, uno degli anime più popolari di sempre. Secondo MoviePilot, la notizia riguarda un progetto che attira l'attenzione del pubblico di fan dell'opera di Masashi Kishimoto.\n\nLa testata tedesca sostiene di avere informazioni aggiornate sullo sviluppo del film. Il materiale disponibile non indica però una data di uscita, il cast o la produzione definitiva, elementi che restano da chiarire nei prossimi aggiornamenti del progetto.",
+   "slug": "daniel-destin-cretton-dirigera-il-film-live-action-di-naruto-0572d3",
+   "tags": [
+    "Daniel Destin Cretton",
+    "Naruto",
+    "Spider-Man"
+   ],
+   "scene": "ciak",
+   "source": "moviepilot.de",
+   "url": "https://www.moviepilot.de/news/one-piece-naruto-daniel-destin-cretton-1165335",
+   "published": "2026-11-03T17:15:00+00:00"
+  },
+  {
+   "id": "55064ee2d4e2",
+   "section": "cinema",
+   "title": "Archetype Media Finance, nuovo fondo per film indipendenti con Nicolas Cage e Lucy Hale",
+   "summary": "Nasce a Los Angeles Archetype Media Finance, una nuova società di finanziamento cinematografico focalizzata su progetti con budget tra 5 e 25 milioni di dollari. Tra i primi titoli in cantiere figurano film con Nicolas Cage e Lucy Hale.",
+   "body": "Archetype Media Finance è una nuova realtà di finanziamento cinematografico con sede a Los Angeles, pensata per sostenere film con budget compresi tra 5 e 25 milioni di dollari. L'iniziativa è guidata da Matthew Shreder, fondatore e amministratore delegato della società di vendite internazionali Concourse Media, insieme al produttore Tyler Condon, noto per Chief of Station, e all'ex dirigente di Tubi e Legendary Tim Hebard.\n\nTra i primi progetti annunciati ci sono film con Nicolas Cage e Lucy Hale. Secondo Deadline, che ha dato per primo la notizia in esclusiva, la società si rivolge al segmento del cinema indipendente di medio budget, spesso difficile da finanziare nel mercato attuale. Non sono stati resi noti al momento titoli definitivi, date di uscita o dettagli sulle piattaforme di distribuzione.",
+   "slug": "archetype-media-finance-nuovo-fondo-per-film-indipendenti-co-55064e",
+   "tags": [
+    "Nicolas Cage",
+    "Lucy Hale",
+    "Archetype Media Finance"
+   ],
+   "scene": "ciak",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/nicolas-cage-lucy-hale-films-backed-new-fund-archetype-1237212156/",
+   "published": "2026-11-03T17:15:00+00:00"
+  },
+  {
+   "id": "e7da202e2c7b",
+   "section": "cinema",
+   "title": "Chris Jericho protagonista di I Am the Teeth, horror con licantropi",
+   "summary": "Il wrestler Chris Jericho sarà protagonista di I Am the Teeth, creature feature diretta da Scott B. Hansen per il marchio Dread Originals di Epic Pictures Group. Il film è descritto come un incrocio tra The Goonies e i film sui licantropi come Silver Bullet.",
+   "body": "Il wrestler Chris Jericho avrà un ruolo da protagonista in I Am the Teeth, una creature feature horror che prosegue la sua presenza nel genere dopo Terrifier 2 e Dark Match. La regia è affidata a Scott B. Hansen, già autore di Bad Candy, e la produzione fa capo al marchio Dread Originals di Epic Pictures Group.\n\nSecondo quanto riportato da Bloody Disgusting, che cita Deadline, il film segue un gruppo di cinque amici di mezza età e viene presentato come un mix tra l'avventura corale di The Goonies e il racconto di licantropi di Silver Bullet. Al momento non sono disponibili ulteriori dettagli su data di uscita o distribuzione.",
+   "slug": "chris-jericho-protagonista-di-i-am-the-teeth-horror-con-lica-e7da20",
+   "tags": [
+    "Chris Jericho",
+    "I Am the Teeth",
+    "Terrifier 2"
+   ],
+   "scene": "ciak",
+   "source": "bloody-disgusting.com",
+   "url": "https://bloody-disgusting.com/movie/3974417/i-am-the-teeth-chris-jericho-starring-in-the-goonies-meets-silver-bullet-werewolf-movie/",
+   "published": "2026-11-03T17:14:50+00:00"
+  },
+  {
+   "id": "0fae9efd8604",
+   "section": "cinema",
+   "title": "The Twelve Dates of Christmas: Lucy Hale e Ian Harding nel nuovo trailer",
+   "summary": "È uscito il trailer di The Twelve Dates of Christmas, film con Lucy Hale e Ian Harding, ex protagonisti di Pretty Little Liars, tornati a interpretare una coppia a quasi dieci anni di distanza. La data di uscita è stata annunciata insieme al trailer.",
+   "body": "Lucy Hale e Ian Harding tornano a recitare insieme come interpreti di una storia d'amore, quasi dieci anni dopo la fine di Pretty Little Liars. Nel nuovo trailer di The Twelve Dates of Christmas, il personaggio di Hale, Christina, si innamora di quello interpretato da Harding. Secondo TV Insider, il film ha ora anche una data di uscita ufficiale.\n\nLa protagonista ha sempre messo la carriera davanti alla vita sentimentale, ma la pressione della famiglia la spinge ad accettare dodici appuntamenti nelle dodici settimane che precedono il Natale. Il trailer mostra così il percorso di una donna che, appuntamento dopo appuntamento, è costretta a rimettere in discussione le proprie priorità.",
+   "slug": "the-twelve-dates-of-christmas-lucy-hale-e-ian-harding-nel-nu-0fae9e",
+   "tags": [
+    "The Twelve Dates of Christmas",
+    "Lucy Hale",
+    "Ian Harding"
+   ],
+   "scene": "tv",
+   "source": "tvinsider.com",
+   "url": "https://www.tvinsider.com/swooon/1307877/twelve-dates-of-christmas-lucy-hale-ian-harding-movie-release-date-plot-updates/",
+   "published": "2026-11-03T17:12:21+00:00"
+  },
+  {
+   "id": "3321a979887f",
+   "section": "musica",
+   "title": "Kurt Elling e gli Yellowjackets celebrano i Weather Report al Roma Jazz Festival",
+   "summary": "Il cantante Kurt Elling e la band degli Yellowjackets saranno protagonisti di un concerto dedicato ai Weather Report, nell'ambito del Roma Jazz Festival. L'appuntamento è fissato per il 4 novembre all'Auditorium Parco della Musica di Roma.",
+   "body": "Il Roma Jazz Festival ospita il 4 novembre, all'Auditorium Parco della Musica di Roma, un concerto che unisce la voce di Kurt Elling e la formazione degli Yellowjackets. Il programma è dedicato alla musica dei Weather Report, storico gruppo jazz-fusion che ha segnato la scena internazionale negli anni Settanta e Ottanta.\n\nSecondo ANSA, l'evento rientra nel calendario della rassegna capitolina e propone una rilettura del repertorio del celebre gruppo, affidata a due nomi noti del jazz contemporaneo. La notizia è stata diffusa dall'agenzia nella sezione Cultura e Spettacoli.",
+   "slug": "kurt-elling-e-gli-yellowjackets-celebrano-i-weather-report-a-3321a9",
+   "tags": [
+    "Kurt Elling",
+    "Yellowjackets",
+    "Roma Jazz Festival"
+   ],
+   "scene": "palco",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/03/roma-jazz-festival-kurt-elling-yellowjackets-celebrano-i-weather-report_bf896bf8-a4a3-44be-8f0b-ced746ad88c1.html",
+   "published": "2026-11-03T17:07:39+00:00"
+  },
+  {
+   "id": "ce3df4349c2c",
+   "section": "cinema",
+   "title": "Il Gatto col cappello arriva al cinema dal 5 novembre",
+   "summary": "Dal 5 novembre arriva nelle sale il film animato Il Gatto col cappello, co-diretto dall'italiano Alessandro Carloni e distribuito da Warner Bros. La pellicola punta sul tema della libertà di rompere le regole.",
+   "body": "Dal 5 novembre approda nelle sale italiane Il Gatto col cappello, film d'animazione co-diretto dall'italiano Alessandro Carloni e prodotto per Warner Bros. Il film è costruito attorno a un'idea precisa: la libertà di rompere le regole, che secondo quanto riportato dall'ANSA è il filo conduttore della storia.\n\nCarloni, regista di origine italiana, firma la co-regia di un progetto destinato al pubblico delle famiglie e dei più giovani. Il lancio in sala è fissato per la data indicata, mentre il materiale disponibile non riporta ulteriori dettagli sul cast o sulla trama. Per approfondimenti sul film e sulle sue caratteristiche tecniche si rimanda alla distribuzione.",
+   "slug": "il-gatto-col-cappello-arriva-al-cinema-dal-5-novembre-ce3df4",
+   "tags": [
+    "Il Gatto col cappello",
+    "Alessandro Carloni",
+    "Warner Bros"
+   ],
+   "scene": "sala",
+   "source": "ANSA Cinema",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/03/il-gatto-col-cappello-porta-al-cinema-la-liberta-di-rompere-le-regole_c6bad39d-124c-4542-9c64-809bb5896987.html",
+   "published": "2026-11-03T17:02:34+00:00"
+  },
+  {
+   "id": "b6ee0393e631",
+   "section": "tv",
+   "title": "Chris Hemsworth, il franchise d'azione su Netflix cresce ancora",
+   "summary": "Il franchise d'azione con Chris Hemsworth sta avendo grande successo su Netflix, e il suo pubblico è destinato ad aumentare. L'attore australiano, noto soprattutto per il ruolo di Thor nel Marvel Cinematic Universe, è oggi una delle star action più riconoscibili di Hollywood.",
+   "body": "Il franchise d'azione interpretato da Chris Hemsworth sta dominando il catalogo di Netflix, e secondo quanto riportato da Cinefilos le prospettive di crescita del progetto sono ancora positive. La notizia segnala un successo già consolidato sulla piattaforma di streaming, con un interesse del pubblico destinato ad aumentare nei prossimi tempi.\n\nL'attore australiano è diventato nel corso degli anni una delle star action più riconoscibili di Hollywood, soprattutto grazie al decennio trascorso nei panni di Thor nel Marvel Cinematic Universe. Secondo la fonte, il suo fascino va però oltre il celebre martello del personaggio, e questo spiega il richiamo che le sue produzioni d'azione esercitano sugli abbonati di Netflix.",
+   "slug": "chris-hemsworth-il-franchise-d-azione-su-netflix-cresce-anco-b6ee03",
+   "tags": [
+    "Chris Hemsworth",
+    "Netflix",
+    "Thor"
+   ],
+   "scene": "streaming",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/tutto-film/approfondimenti/tyler-rake-serie-azione-chris-hemsworth-netflix-729108",
+   "published": "2026-11-03T17:02:21+00:00"
+  },
+  {
+   "id": "13c0065f54f3",
+   "section": "cinema",
+   "title": "Su Netflix un thriller spagnolo ambientato nella crisi del 2013",
+   "summary": "Un nuovo thriller spagnolo arriva su Netflix e racconta una rapina in banca ambientata durante la crisi economica del 2013. Dopo il colpo, tra i complici emergono tradimenti e segreti.",
+   "body": "Su Netflix è disponibile un nuovo thriller spagnolo ambientato nel pieno della crisi economica del 2013. Al centro della storia c'è una rapina in banca, che però non porta ai risultati sperati: dopo il colpo emergono tradimenti e segreti tra i membri della banda.\n\nSecondo BadTaste, il film costruisce la sua tensione proprio sul sospetto reciproco. Ogni complice nasconde qualcosa agli altri, e il racconto procede svelando, poco alla volta, quanto ciascuno fosse disposto a mentire. Il contesto sociale della crisi fa da sfondo alle scelte dei personaggi.",
+   "slug": "su-netflix-un-thriller-spagnolo-ambientato-nella-crisi-del-2-13c006",
+   "tags": [
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/questo-nuovo-thriller-spagnolo-su-netflix-nasconde-un-segreto-nessuno-dei-rapinatori-era-sincero",
+   "published": "2026-11-03T17:00:32+00:00"
+  },
+  {
+   "id": "102934ae09a3",
+   "section": "cinema",
+   "title": "Il Gatto col Cappello, il film tratto dal libro di Dr. Seuss",
+   "summary": "Il celebre libro di Dr. Seuss diventa un'avventura tra magia e nostalgia e apre a una nuova saga cinematografica. Secondo la recensione di Cinematografo, il film funziona meglio quando punta sulla coralità che sul protagonista.",
+   "body": "Il film prende spunto dal celebre libro del Dr. Seuss e trasforma il personaggio del gatto con il cappello in una storia fatta di magia e nostalgia, pensata anche come punto di partenza per una nuova saga. Secondo la recensione pubblicata da Cinematografo, il risultato è più convincente quando il racconto si allarga agli altri personaggi che quando si concentra sul protagonista.\n\nLa fonte sottolinea quindi un equilibrio non sempre riuscito tra l'anima corale della storia e la figura centrale del gatto. Il film si rivolge soprattutto a un pubblico familiare, che ritrova l'universo fantastico dei libri per l'infanzia dell'autore americano, con un tono leggero e un'impostazione da avventura.",
+   "slug": "il-gatto-col-cappello-il-film-tratto-dal-libro-di-dr-seuss-102934",
+   "tags": [
+    "Il Gatto col Cappello",
+    "Dr. Seuss"
+   ],
+   "scene": "proiettore",
+   "source": "Cinematografo",
+   "url": "https://www.cinematografo.it/recensioni/il-gatto-col-cappello-jy7c5au5",
+   "published": "2026-11-03T17:00:00+00:00"
+  },
+  {
+   "id": "7182ff543693",
+   "section": "cinema",
+   "title": "Rob Lowe: The Outsider arriva su Netflix il 24 novembre",
+   "summary": "Il documentario dedicato alla vita e alla carriera dell'attore americano Rob Lowe sarà disponibile in streaming su Netflix dal 24 novembre. È già online il trailer ufficiale.",
+   "body": "Netflix porterà in streaming dal 24 novembre Rob Lowe: The Outsider, documentario che ripercorre la vita e la carriera dell'attore statunitense. La piattaforma ha reso disponibile il trailer, che anticipa il tono del progetto e i temi principali del racconto.\n\nNoto al pubblico italiano per le sue interpretazioni cinematografiche e televisive, Lowe è protagonista di un'opera che guarda alla sua esperienza personale e professionale. Secondo ComingSoon, il film arriverà sulla piattaforma proprio nella data indicata, offrendo agli abbonati un nuovo punto di vista su una delle figure più riconoscibili di Hollywood.",
+   "slug": "rob-lowe-the-outsider-arriva-su-netflix-il-24-novembre-7182ff",
+   "tags": [
+    "Rob Lowe",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "ComingSoon",
+   "url": "https://www.comingsoon.it/cinema/news/rob-lowe-the-outsider-la-vita-e-la-carriera-dell-attore-americano-arrivano/n235153/",
+   "published": "2026-11-03T16:59:00+00:00"
+  },
+  {
+   "id": "a203dda2fe31",
+   "section": "cinema",
+   "title": "Godzilla Minus Zero: cosa significa il titolo del sequel",
+   "summary": "Il sequel di Godzilla Minus One si intitolerà Godzilla Minus Zero, e il titolo richiama direttamente il film del 2023 diretto da Takashi Yamazaki. Il successo di quel progetto, premiato con l'Oscar, ha aperto la strada al nuovo capitolo del franchise Toho.",
+   "body": "Il film del 2023 diretto da Takashi Yamazaki ha cambiato le sorti del franchise di Godzilla per la Toho. Godzilla Minus One ha ottenuto un grande successo al botteghino e ha vinto un premio Oscar, risultato che ha permesso di avviare il seguito.\n\nIl sequel prende il nome di Godzilla Minus Zero, un titolo che riprende la formula del primo capitolo e ne sviluppa il significato. Secondo Cinefilos, la scelta del titolo è il punto di partenza per capire la direzione del nuovo progetto, ma il materiale disponibile non chiarisce ulteriormente i dettagli della spiegazione.",
+   "slug": "godzilla-minus-zero-cosa-significa-il-titolo-del-sequel-a203dd",
+   "tags": [
+    "Godzilla Minus Zero",
+    "Godzilla Minus One",
+    "Takashi Yamazaki"
+   ],
+   "scene": "pellicola",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/tutto-film/approfondimenti/godzilla-minus-zero-spiegazione-titolo-sequel-cosa-significa-minus-zero-729102",
+   "published": "2026-11-03T16:53:15+00:00"
+  },
+  {
    "id": "08368316952c",
    "section": "cinema",
    "title": "Billie Piper e Woody Norman nel cast di Sketchbook, horror sul disegno maledetto",
@@ -1739,7 +1955,31 @@
   "dfbcce9ee166",
   "f3c78515321d",
   "8c46777e7531",
-  "0aca9c4180fa"
+  "0aca9c4180fa",
+  "8818c2b6cf2c",
+  "6e22bd55303d",
+  "2f11ddaed9c7",
+  "8f27a66c2506",
+  "8e0157a131be",
+  "bb97c90babda",
+  "0572d3f8deab",
+  "0da4e21588ae",
+  "ed611ecc05e9",
+  "3321a979887f",
+  "ce3df4349c2c",
+  "b6ee0393e631",
+  "719a731a16c0",
+  "55064ee2d4e2",
+  "e7da202e2c7b",
+  "712d02799fce",
+  "0fae9efd8604",
+  "81efc0d819b1",
+  "4846ff21bee0",
+  "d97736baea37",
+  "13c0065f54f3",
+  "102934ae09a3",
+  "7182ff543693",
+  "a203dda2fe31"
  ],
  "version": 4,
  "digests": []
