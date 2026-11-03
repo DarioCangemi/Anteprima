@@ -4,6 +4,7 @@ import concurrent.futures as cf
 import hashlib
 import html
 import json
+import math
 import os
 import re
 import sys
@@ -228,6 +229,7 @@ Regole generali:
 - Scrivi con parole tue: un titolo nuovo (massimo 100 caratteri), una sintesi di due frasi (massimo 280 caratteri) e un breve articolo ("body") di circa 100-120 parole, in due paragrafi separati da una riga vuota. Non copiare frasi dalla fonte e non seguirne la struttura: riordina le informazioni a modo tuo.
 - L'articolo deve contenere solo i fatti presenti nel materiale ricevuto. Se il materiale e' scarso, scrivi un testo piu' corto (minimo 60 parole) invece di riempirlo con frasi generiche o ipotesi. Non ripetere la sintesi parola per parola. Cita la fonte una volta nel testo (per esempio "secondo ANSA").
 - Indica da 1 a 3 "tags": nomi propri di film, serie, programmi, persone o festival di cui parla la notizia, al massimo 40 caratteri ciascuno, scritti nella forma piu' nota.
+- Scegli in "scene" l'illustrazione piu' adatta: sala (cinema, sale), pellicola, ciak (set e produzione), proiettore, popcorn, tappeto (eventi e red carpet), premiere (anteprime, festival, premi), tv (programmi televisivi), streaming (piattaforme), palco (concerti, X Factor, Sanremo), microfono (cantanti e interviste), cuffie (album e podcast), vinile (dischi), luci (feste e festival), flash (gossip e paparazzi).
 - Tono sobrio e giornalistico, senza clickbait, senza maiuscole urlate, senza emoji.
 - Sezioni: cinema (film, sale, festival, registi), tv (programmi, serie, streaming, palinsesti), musica, gossip (personaggi dello spettacolo e vicende dei programmi).
 
@@ -459,6 +461,166 @@ def gather_candidates(sources, seen):
     return unique
 
 
+# Scene illustrate (SVG 640x360) disegnate nel codice: nessuna immagine di terzi
+R, RS, C, D, P, L = "#e8424f", "#8f2b34", "#f4ece8", "#130f0f", "#1d1616", "#3b2a2a"
+
+
+def _sala(s):
+    out = f'<rect x="150" y="38" width="340" height="132" rx="4" fill="{R}" opacity=".9"/><rect x="160" y="48" width="320" height="112" rx="2" fill="{C}" opacity=".12"/>'
+    out += f'<polygon points="150,170 490,170 600,300 40,300" fill="{C}" opacity=".05"/>'
+    for row, y in enumerate((205, 248, 292)):
+        w = 40 + row * 6
+        n = 9 - row
+        x0 = 320 - (n * (w + 12)) / 2
+        for i in range(n):
+            x = x0 + i * (w + 12)
+            out += f'<rect x="{x:.0f}" y="{y}" width="{w}" height="{34 + row * 6}" rx="11" fill="#2a1d1d" stroke="{R}" stroke-opacity=".4" stroke-width="2"/>'
+    return out
+
+
+def _pellicola(s):
+    out = f'<circle cx="320" cy="170" r="112" fill="{P}" stroke="{C}" stroke-opacity=".85" stroke-width="6"/>'
+    out += "".join(f'<circle cx="{320 + 62 * math.cos(i * 1.0472):.0f}" cy="{170 + 62 * math.sin(i * 1.0472):.0f}" r="24" fill="{D}" stroke="{C}" stroke-opacity=".7" stroke-width="3"/>' for i in range(6))
+    out += f'<circle cx="320" cy="170" r="20" fill="{R}"/>'
+    out += f'<g transform="rotate(-9 320 300)"><rect x="-40" y="268" width="720" height="62" fill="{P}" stroke="{C}" stroke-opacity=".55" stroke-width="3"/>'
+    out += "".join(f'<rect x="{x}" y="{274}" width="16" height="10" rx="2" fill="{C}" opacity=".6"/><rect x="{x}" y="{314}" width="16" height="10" rx="2" fill="{C}" opacity=".6"/>' for x in range(-30, 700, 36))
+    out += '</g>'
+    return out
+
+
+def _ciak(s):
+    out = f'<rect x="180" y="140" width="280" height="160" rx="6" fill="{P}" stroke="{C}" stroke-width="5"/>'
+    out += "".join(f'<rect x="{204}" y="{168 + i * 34}" width="{180 - i * 20}" height="8" rx="4" fill="{C}" opacity=".4"/>' for i in range(3))
+    out += f'<g transform="rotate(-13 180 138)"><rect x="180" y="100" width="280" height="38" fill="{C}"/>'
+    out += "".join(f'<polygon points="{190 + i * 56},100 {218 + i * 56},100 {198 + i * 56},138 {170 + i * 56},138" fill="{R}"/>' for i in range(5))
+    out += '</g>'
+    out += f'<rect x="180" y="140" width="280" height="22" fill="{C}"/>' + "".join(f'<polygon points="{196 + i * 56},140 {224 + i * 56},140 {204 + i * 56},162 {176 + i * 56},162" fill="{D}"/>' for i in range(5))
+    return out
+
+
+def _palco(s):
+    out = f'<rect x="0" y="0" width="70" height="360" fill="{RS}" opacity=".8"/><rect x="570" y="0" width="70" height="360" fill="{RS}" opacity=".8"/>'
+    out += "".join(f'<rect x="{x}" y="0" width="6" height="360" fill="{D}" opacity=".25"/>' for x in (18, 38, 590, 610))
+    out += f'<polygon points="30,360 610,360 540,285 100,285" fill="#2a1d1d"/>'
+    for x in (160, 320, 480):
+        out += f'<polygon points="{x - 14},0 {x + 14},0 {x + 90},300 {x - 90},300" fill="{C}" opacity=".09"/><ellipse cx="{x}" cy="300" rx="90" ry="14" fill="{C}" opacity=".12"/>'
+        out += f'<circle cx="{x}" cy="6" r="14" fill="{C}" opacity=".9"/>'
+    out += f'<line x1="320" y1="130" x2="320" y2="300" stroke="{C}" stroke-width="5"/><circle cx="320" cy="116" r="16" fill="{R}" stroke="{C}" stroke-width="4"/><ellipse cx="320" cy="302" rx="40" ry="8" fill="{C}" opacity=".85"/>'
+    return out
+
+
+def _microfono(s):
+    out = "".join(f'<circle cx="320" cy="135" r="{r}" fill="none" stroke="{R}" stroke-opacity="{o}" stroke-width="3"/>' for r, o in ((100, .55), (150, .35), (205, .2)))
+    out += f'<rect x="282" y="55" width="76" height="140" rx="38" fill="{P}" stroke="{C}" stroke-width="5"/>'
+    out += "".join(f'<line x1="290" y1="{80 + i * 18}" x2="350" y2="{80 + i * 18}" stroke="{C}" stroke-opacity=".5" stroke-width="3"/>' for i in range(6))
+    out += f'<path d="M250 160 a70 70 0 0 0 140 0" fill="none" stroke="{C}" stroke-width="5" stroke-linecap="round"/><line x1="320" y1="230" x2="320" y2="300" stroke="{C}" stroke-width="5"/><rect x="262" y="300" width="116" height="12" rx="6" fill="{R}"/>'
+    return out
+
+
+def _tv(s):
+    out = f'<line x1="320" y1="72" x2="250" y2="22" stroke="{C}" stroke-width="5" stroke-linecap="round"/><line x1="320" y1="72" x2="390" y2="22" stroke="{C}" stroke-width="5" stroke-linecap="round"/><circle cx="250" cy="22" r="7" fill="{R}"/><circle cx="390" cy="22" r="7" fill="{R}"/>'
+    out += f'<rect x="150" y="72" width="340" height="210" rx="22" fill="{P}" stroke="{C}" stroke-width="5"/><rect x="172" y="94" width="296" height="166" rx="10" fill="{R}" opacity=".88"/>'
+    out += "".join(f'<rect x="172" y="{94 + i * 10}" width="296" height="2" fill="{D}" opacity=".18"/>' for i in range(17))
+    out += f'<polygon points="172,94 330,94 250,260 172,260" fill="{C}" opacity=".1"/><polygon points="296,150 296,206 346,178" fill="{C}" opacity=".92"/>'
+    out += f'<rect x="200" y="282" width="40" height="14" rx="4" fill="{C}" opacity=".8"/><rect x="400" y="282" width="40" height="14" rx="4" fill="{C}" opacity=".8"/><circle cx="446" cy="270" r="4" fill="{C}"/>'
+    return out
+
+
+def _tappeto(s):
+    out = f'<polygon points="215,360 425,360 350,150 290,150" fill="{R}"/><polygon points="290,150 350,150 355,165 285,165" fill="{RS}"/>'
+    for (x, y, sc) in ((190, 330, 1.0), (450, 330, 1.0), (262, 215, .7), (378, 215, .7)):
+        out += f'<line x1="{x}" y1="{y - 70 * sc}" x2="{x}" y2="{y}" stroke="{C}" stroke-width="{5 * sc}"/><circle cx="{x}" cy="{y - 74 * sc}" r="{8 * sc}" fill="{C}"/><ellipse cx="{x}" cy="{y}" rx="{16 * sc}" ry="{5 * sc}" fill="{C}" opacity=".8"/>'
+    out += f'<path d="M190 268 Q226 300 262 172" fill="none" stroke="{RS}" stroke-width="5"/><path d="M450 268 Q414 300 378 172" fill="none" stroke="{RS}" stroke-width="5"/>'
+    out += f'<polygon points="260,0 280,0 330,150 230,150" fill="{C}" opacity=".07"/><polygon points="360,0 380,0 410,150 310,150" fill="{C}" opacity=".07"/>'
+    out += f'<path transform="translate(320 70) scale(2.4)" d="M0-14L3-3L14 0L3 3L0 14L-3 3L-14 0L-3-3Z" fill="{C}" opacity=".9"/>'
+    return out
+
+
+def _cuffie(s):
+    out = f'<path d="M190 235 C190 70 450 70 450 235" fill="none" stroke="{C}" stroke-width="14" stroke-linecap="round"/>'
+    for x in (150, 410):
+        out += f'<rect x="{x}" y="200" width="80" height="120" rx="32" fill="{R}"/><rect x="{x + 18}" y="224" width="44" height="72" rx="20" fill="{P}" opacity=".85"/>'
+    for (x, y, k) in ((90, 90, 1.0), (520, 110, 1.3)):
+        out += f'<g transform="translate({x} {y}) scale({k})" fill="none" stroke="{C}" stroke-opacity=".7" stroke-width="3" stroke-linecap="round"><path d="M10 40V6l22-5v34"/><circle cx="6" cy="40" r="6" fill="{C}" fill-opacity=".7"/><circle cx="28" cy="35" r="6" fill="{C}" fill-opacity=".7"/></g>'
+    return out
+
+
+def _proiettore(s):
+    out = f'<polygon points="236,225 560,70 560,330" fill="{C}" opacity=".12"/>'
+    out += "".join(f'<circle cx="{300 + (i * 53) % 230}" cy="{140 + (i * 37) % 160}" r="{2 + i % 3}" fill="{C}" opacity=".35"/>' for i in range(14))
+    out += f'<rect x="560" y="50" width="14" height="290" fill="{C}" opacity=".5"/>'
+    out += f'<circle cx="100" cy="168" r="30" fill="none" stroke="{C}" stroke-width="5"/><circle cx="168" cy="168" r="30" fill="none" stroke="{C}" stroke-width="5"/><circle cx="100" cy="168" r="6" fill="{R}"/><circle cx="168" cy="168" r="6" fill="{R}"/>'
+    out += f'<rect x="64" y="196" width="170" height="86" rx="12" fill="{P}" stroke="{C}" stroke-width="5"/><circle cx="236" cy="225" r="24" fill="{C}" opacity=".95"/><circle cx="236" cy="225" r="12" fill="{R}"/>'
+    out += f'<rect x="80" y="282" width="12" height="26" fill="{C}" opacity=".8"/><rect x="206" y="282" width="12" height="26" fill="{C}" opacity=".8"/>'
+    return out
+
+
+def _popcorn(s):
+    out = ""
+    for (x, y, r) in ((250, 140, 28), (300, 112, 32), (355, 120, 30), (405, 142, 27), (330, 150, 30), (270, 168, 24), (385, 168, 24), (320, 85, 22)):
+        out += f'<circle cx="{x}" cy="{y}" r="{r}" fill="{C}" opacity=".96"/><circle cx="{x - 6}" cy="{y - 6}" r="{r * .45:.0f}" fill="#fff" opacity=".35"/>'
+    out += f'<polygon points="225,172 415,172 388,326 252,326" fill="{C}"/>'
+    out += "".join(f'<polygon points="{x},172 {x + 32},172 {x + 26},326 {x - 6},326" fill="{R}"/>' for x in (240, 304, 368))
+    out += f'<rect x="215" y="164" width="210" height="14" rx="5" fill="{C}"/>'
+    out += "".join(f'<path transform="translate({x} {y}) scale({k})" d="M0-14L3-3L14 0L3 3L0 14L-3 3L-14 0L-3-3Z" fill="{R}" opacity=".7"/>' for x, y, k in ((140, 100, 1.0), (500, 130, 1.3), (520, 250, .8), (120, 260, .9)))
+    return out
+
+
+def _luci(s):
+    out = ""
+    for k, (y0, dy) in enumerate(((70, 120), (150, 90))):
+        out += f'<path d="M-10 {y0} Q320 {y0 + dy} 650 {y0}" fill="none" stroke="{C}" stroke-opacity=".5" stroke-width="3"/>'
+        for i in range(1, 13):
+            t = i / 13
+            x = -10 + 660 * t
+            y = (1 - t) ** 2 * y0 + 2 * (1 - t) * t * (y0 + dy) + t ** 2 * y0
+            col = R if (i + k) % 2 else C
+            out += f'<circle cx="{x:.0f}" cy="{y + 14:.0f}" r="22" fill="{col}" opacity=".16"/><circle cx="{x:.0f}" cy="{y + 14:.0f}" r="9" fill="{col}"/>'
+    out += f'<polygon points="0,360 640,360 640,300 480,276 320,296 160,272 0,298" fill="{P}" stroke="{L}" stroke-width="2"/>'
+    out += "".join(f'<polygon points="{x},{286 + (i % 2) * 6} {x + 14},{286 + (i % 2) * 6} {x + 7},{262 + (i % 2) * 6}" fill="{R}" opacity=".8"/>' for i, x in enumerate(range(30, 620, 52)))
+    return out
+
+
+def _streaming(s):
+    out = f'<rect x="165" y="72" width="310" height="200" rx="10" fill="{P}" stroke="{C}" stroke-width="5"/><rect x="183" y="90" width="274" height="156" rx="4" fill="{R}" opacity=".88"/>'
+    out += f'<polygon points="302,126 302,206 372,166" fill="{C}" opacity=".95"/>'
+    out += f'<rect x="200" y="226" width="240" height="6" rx="3" fill="{D}" opacity=".35"/><rect x="200" y="226" width="130" height="6" rx="3" fill="{C}"/>'
+    out += f'<path d="M110 278 H530 L506 296 H134 Z" fill="{C}" opacity=".88"/><rect x="290" y="278" width="60" height="6" rx="3" fill="{D}" opacity=".4"/>'
+    return out
+
+
+def _vinile(s):
+    out = f'<circle cx="290" cy="180" r="136" fill="#0c0909" stroke="{L}" stroke-width="3"/>'
+    out += "".join(f'<circle cx="290" cy="180" r="{r}" fill="none" stroke="{L}" stroke-width="2"/>' for r in (118, 100, 84, 68))
+    out += f'<circle cx="290" cy="180" r="46" fill="{R}"/><circle cx="290" cy="180" r="7" fill="{D}"/><path d="M190 100 A120 120 0 0 1 270 62" fill="none" stroke="{C}" stroke-opacity=".25" stroke-width="8" stroke-linecap="round"/>'
+    out += f'<line x1="540" y1="48" x2="420" y2="214" stroke="{C}" stroke-width="7" stroke-linecap="round"/><circle cx="540" cy="48" r="18" fill="{P}" stroke="{C}" stroke-width="5"/><rect x="404" y="206" width="28" height="18" rx="4" fill="{C}" transform="rotate(-35 418 215)"/>'
+    return out
+
+
+def _flash(s):
+    out = f'<rect x="200" y="125" width="250" height="165" rx="16" fill="{P}" stroke="{C}" stroke-width="5"/><rect x="262" y="98" width="80" height="30" rx="7" fill="{P}" stroke="{C}" stroke-width="5"/>'
+    out += f'<circle cx="325" cy="212" r="60" fill="{D}" stroke="{C}" stroke-width="5"/><circle cx="325" cy="212" r="38" fill="none" stroke="{R}" stroke-width="5"/><circle cx="325" cy="212" r="15" fill="{R}"/><circle cx="312" cy="198" r="6" fill="{C}" opacity=".7"/>'
+    out += f'<rect x="402" y="140" width="34" height="18" rx="3" fill="{C}"/>'
+    out += "".join(f'<line x1="{419 + 26 * math.cos(a):.0f}" y1="{149 + 26 * math.sin(a):.0f}" x2="{419 + 56 * math.cos(a):.0f}" y2="{149 + 56 * math.sin(a):.0f}" stroke="{C}" stroke-opacity=".7" stroke-width="3" stroke-linecap="round"/>' for a in [i * 0.785 for i in range(8)])
+    out += "".join(f'<path transform="translate({x} {y}) scale({k})" d="M0-14L3-3L14 0L3 3L0 14L-3 3L-14 0L-3-3Z" fill="{C}" opacity=".75"/>' for x, y, k in ((100, 80, 1.6), (540, 90, 1.2), (560, 250, 1.8), (90, 250, 1.0)))
+    return out
+
+
+def _premiere(s):
+    out = ""
+    out += f'<polygon points="60,360 90,360 360,0 300,0" fill="{C}" opacity=".1"/><polygon points="580,360 550,360 280,0 340,0" fill="{C}" opacity=".1"/>'
+    out += f'<polygon points="230,360 410,360 390,270 250,270" fill="{R}"/><rect x="0" y="330" width="640" height="30" fill="{P}"/>'
+    out += f'<path transform="translate(320 150) scale(5)" d="M0-14L3-3L14 0L3 3L0 14L-3 3L-14 0L-3-3Z" fill="{R}"/><path transform="translate(320 150) scale(5)" d="M0-14L3-3L14 0L3 3L0 14L-3 3L-14 0L-3-3Z" fill="none" stroke="{C}" stroke-width=".8" opacity=".8"/>'
+    out += f'<circle cx="60" cy="338" r="14" fill="{C}"/><circle cx="580" cy="338" r="14" fill="{C}"/>'
+    return out
+
+
+SCENES = {"sala": _sala, "pellicola": _pellicola, "ciak": _ciak, "palco": _palco, "microfono": _microfono,
+          "tv": _tv, "tappeto": _tappeto, "cuffie": _cuffie, "proiettore": _proiettore, "popcorn": _popcorn,
+          "luci": _luci, "streaming": _streaming, "vinile": _vinile, "flash": _flash, "premiere": _premiere}
+
+
+
 DECIDE_TOOL = {
     "name": "decidi",
     "description": "Registra la decisione redazionale su una notizia.",
@@ -470,6 +632,7 @@ DECIDE_TOOL = {
             "title": {"type": "string", "description": "Titolo nuovo, massimo 100 caratteri"},
             "summary": {"type": "string", "description": "Sintesi di due frasi, massimo 280 caratteri"},
             "body": {"type": "string", "description": "Articolo di circa 100-120 parole in due paragrafi separati da una riga vuota"},
+            "scene": {"type": "string", "enum": list(SCENES), "description": "Illustrazione piu' adatta"},
             "tags": {"type": "array", "items": {"type": "string"}, "description": "Da 1 a 3 nomi propri (film, serie, persone, programmi, festival)"},
             "reason": {"type": "string", "description": "Se publish e' false: motivo in poche parole"},
         },
@@ -531,6 +694,7 @@ def rewrite(client, item):
         return None, "parola del filtro nel testo scritto"
     return {"id": item["id"], "section": section, "title": title, "summary": summary,
             "body": body, "slug": make_slug(title, item["id"]), "tags": tags[:3],
+            "scene": out.get("scene") if out.get("scene") in SCENES else None,
             "source": item["source"], "url": item["url"], "published": item["published"]}, ""
 
 
@@ -691,51 +855,32 @@ footer .logo{font-size:1.4rem}
 @media(max-width:860px){.hero,.sec{grid-template-columns:1fr;gap:26px}.featured .grid{grid-template-columns:1fr}.search input{width:130px}}
 """
 
-ICONS = {
-    "cinema": '<path d="M4 9h16v10H4zM4 9l2.5-4h3L7 9M10 9l2.5-4h3L13 9M16 9l2.5-4H20l-2.5 4"/>',
-    "tv": '<rect x="3" y="6" width="18" height="12" rx="1.5"/><path d="M8 21h8M9 3l3 3 3-3"/>',
-    "musica": '<path d="M9 18V6l10-2v12"/><circle cx="7" cy="18" r="2"/><circle cx="17" cy="16" r="2"/>',
-    "gossip": '<path d="M12 3l2.4 6.6L21 12l-6.6 2.4L12 21l-2.4-6.6L3 12l6.6-2.4z"/>',
+SECTION_SCENES = {
+    "cinema": ["sala", "pellicola", "ciak", "proiettore", "popcorn", "tappeto", "premiere"],
+    "tv": ["tv", "streaming", "ciak", "popcorn", "proiettore"],
+    "musica": ["palco", "microfono", "cuffie", "vinile", "luci"],
+    "gossip": ["flash", "tappeto", "premiere", "luci"],
 }
-
-
-def _n(seed, i, mod):
-    return int(hashlib.md5(f"{seed}{i}".encode()).hexdigest()[:6], 16) % mod
+FLIPPABLE = {"proiettore", "vinile"}
 
 
 def cover(a):
-    """Illustrazione astratta generata dal codice (nessuna immagine di terzi)."""
+    """Illustrazione generata dal codice (nessuna immagine di terzi)."""
     seed = a["id"]
     h = int(hashlib.sha1(seed.encode()).hexdigest(), 16)
     gid = "g" + seed
-    angle = h % 360
     sec = a["section"]
-    shapes = []
-    for i in range(4):
-        cx, cy = _n(seed, i, 640), _n(seed, i + 10, 360)
-        r = 60 + _n(seed, i + 20, 140)
-        op = 0.08 + _n(seed, i + 30, 12) / 100
-        shapes.append(f'<circle cx="{cx}" cy="{cy}" r="{r}" fill="#e8424f" opacity="{op:.2f}"/>')
-    lines = "".join(f'<path d="M{-40 + k * 90 + _n(seed, k, 30)} 380 L{200 + k * 90} -20" stroke="#f4ece8" stroke-opacity=".05" stroke-width="2"/>' for k in range(8))
-    motif = ""
-    if sec == "cinema":
-        for x in (0, 616):
-            motif += f'<rect x="{x}" y="0" width="24" height="360" fill="#f4ece8" opacity=".06"/>'
-            motif += "".join(f'<rect x="{x + 6}" y="{8 + i * 30}" width="12" height="18" rx="3" fill="#130f0f" opacity=".7"/>' for i in range(12))
-    elif sec == "tv":
-        motif = "".join(f'<rect y="{i * 9}" width="640" height="2" fill="#f4ece8" opacity=".04"/>' for i in range(40))
-        motif += '<ellipse cx="320" cy="180" rx="230" ry="130" fill="#e8424f" opacity=".07"/>'
-    elif sec == "musica":
-        motif = "".join(f'<rect x="{24 + i * 21}" y="{360 - 30 - (40 + _n(seed, i + 50, 150))}" width="12" height="{40 + _n(seed, i + 50, 150)}" rx="3" fill="#e8424f" opacity=".22"/>' for i in range(28))
-    else:
-        for i in range(9):
-            x, y, s = _n(seed, i + 70, 600) + 20, _n(seed, i + 80, 330) + 15, 0.5 + _n(seed, i + 90, 10) / 10
-            motif += f'<path transform="translate({x} {y}) scale({s:.1f})" d="M0-14L3-3L14 0L3 3L0 14L-3 3L-14 0L-3-3Z" fill="#f4ece8" opacity=".16"/>'
-    icon = ICONS.get(sec, ICONS["cinema"])
-    return (f'<svg viewBox="0 0 640 360" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Illustrazione, sezione {esc(dict(SECTIONS)[sec])}">'
-            f'<defs><linearGradient id="{gid}" gradientTransform="rotate({angle} .5 .5)"><stop offset="0" stop-color="#2a1d1d"/><stop offset="1" stop-color="#130f0f"/></linearGradient></defs>'
-            f'<rect width="640" height="360" fill="url(#{gid})"/>' + "".join(shapes) + lines + motif +
-            f'<g transform="translate(256 116) scale(5.1)" fill="none" stroke="#e8424f" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" opacity=".92">{icon}</g>'
+    scene = a.get("scene")
+    if scene not in SCENES:
+        pool = SECTION_SCENES.get(sec, SECTION_SCENES["cinema"])
+        scene = pool[h % len(pool)]
+    inner = SCENES[scene](h)
+    if scene in FLIPPABLE and (h >> 3) % 2:
+        inner = f'<g transform="translate(640 0) scale(-1 1)">{inner}</g>'
+    circles = "".join(f'<circle cx="{(h >> (7 * i)) % 640}" cy="{(h >> (7 * i + 3)) % 360}" r="{70 + (h >> (5 * i)) % 120}" fill="#e8424f" opacity=".07"/>' for i in range(3))
+    return (f'<svg viewBox="0 0 640 360" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Illustrazione: {esc(scene)}">'
+            f'<defs><linearGradient id="{gid}" gradientTransform="rotate({h % 360} .5 .5)"><stop offset="0" stop-color="#2a1d1d"/><stop offset="1" stop-color="#130f0f"/></linearGradient></defs>'
+            f'<rect width="640" height="360" fill="url(#{gid})"/>{circles}{inner}'
             '<rect x="0" y="352" width="640" height="8" fill="#e8424f"/></svg>')
 
 
@@ -1146,6 +1291,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 if __name__ == "__main__":
     main()
