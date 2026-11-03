@@ -1,6 +1,136 @@
 {
  "articles": [
   {
+   "id": "1a52752b1e10",
+   "section": "cinema",
+   "title": "The Social Reckoning esce dalle sale americane dopo tre settimane",
+   "summary": "The Social Reckoning, thriller legale con protagonista una star di Succession, è stato rimosso da oltre 2.000 sale negli Stati Uniti dopo appena tre settimane al box office. Il film è uscito con un incasso deludente rispetto alle attese.",
+   "body": "The Social Reckoning, thriller legale della durata di 112 minuti con un volto noto di Succession tra gli interpreti, lascia le sale americane dopo sole tre settimane di programmazione. Secondo Collider, il film è stato rimosso da oltre 2.000 cinema, con il numero complessivo di sale che arrivava a 2.606 al momento della prima uscita.\n\nLa decisione arriva dopo un debutto che non ha convinto il pubblico al botteghino, segno di una permanenza breve in sala per una produzione che aveva attirato attenzione per il cast. Il materiale disponibile non chiarisce quali saranno i prossimi passaggi distributivi, né se il film arriverà in Italia in sala o direttamente in streaming.",
+   "slug": "the-social-reckoning-esce-dalle-sale-americane-dopo-tre-sett-1a5275",
+   "tags": [
+    "The Social Reckoning",
+    "Succession"
+   ],
+   "scene": "sala",
+   "source": "collider.com",
+   "url": "https://collider.com/the-social-reckoning-removed-2000-theaters-box-office/",
+   "published": "2026-11-03T18:17:53+00:00"
+  },
+  {
+   "id": "87c76f5545c8",
+   "section": "cinema",
+   "title": "Martin McDonagh: il politicamente corretto è peggiorato",
+   "summary": "Il regista Martin McDonagh sostiene che il politicamente corretto sia peggiorato e difende il linguaggio razzista presente nei suoi film. Lo ha detto alla vigilia dell'uscita del nuovo film Wild Horse Nine.",
+   "body": "Secondo quanto riportato da World of Reel, il regista e sceneggiatore Martin McDonagh ha affermato che il politicamente corretto è peggiorato negli ultimi tempi. Parlando del suo modo di lavorare, McDonagh ha spiegato di non scrivere per compiacere il pubblico, e ha difeso l'uso di linguaggio razzista presente in alcune sue opere come parte della costruzione dei personaggi.\n\nL'intervista arriva a tre giorni dall'uscita nelle sale di Wild Horse Nine, il suo ultimo film. Secondo la fonte, il regista ha descritto una tendenza che lo preoccupa, osservata mentre cerca di realizzare il proprio lavoro artistico. Non sono stati precisati, nel materiale disponibile, esempi specifici di questa tendenza.",
+   "slug": "martin-mcdonagh-il-politicamente-corretto-e-peggiorato-87c76f",
+   "tags": [
+    "Martin McDonagh",
+    "Wild Horse Nine"
+   ],
+   "scene": "sala",
+   "source": "worldofreel.com",
+   "url": "https://www.worldofreel.com/blog/2026/11/3/martin-mcdonagh-says-political-correctness-has-gotten-worse-and-defends-racist-language-in-his-work",
+   "published": "2026-11-03T18:17:25+00:00"
+  },
+  {
+   "id": "dccb347e6b01",
+   "section": "cinema",
+   "title": "Ryan Gosling sarà Ghost Rider nel nuovo film Marvel diretto da Shawn Levy",
+   "summary": "Ryan Gosling interpreterà Ghost Rider nel prossimo film Marvel diretto da Shawn Levy, con uscita prevista nel 2028. La notizia riguarda il casting e la produzione del progetto, secondo quanto riportato da Cineblog.",
+   "body": "Ryan Gosling è stato scelto per interpretare Ghost Rider nel nuovo film Marvel diretto da Shawn Levy. Il personaggio, lo spirito di vendetta che possiede un motociclista, torna così sul grande schermo in una nuova versione con un volto noto al pubblico internazionale.\n\nSecondo Cineblog, l'uscita della pellicola è prevista per il 2028. La notizia riguarda dunque il casting e l'avvio della produzione, mentre al momento non sono disponibili ulteriori dettagli sulla trama o sul resto del cast.",
+   "slug": "ryan-gosling-sara-ghost-rider-nel-nuovo-film-marvel-diretto-dccb34",
+   "tags": [
+    "Ryan Gosling",
+    "Shawn Levy",
+    "Ghost Rider"
+   ],
+   "scene": "ciak",
+   "source": "Cineblog",
+   "url": "https://www.cineblog.it/post/ghost-rider-marvel-ryan-gosling-shawn-levy",
+   "published": "2026-11-03T18:17:09+00:00"
+  },
+  {
+   "id": "a748632477a8",
+   "section": "cinema",
+   "title": "Street Fighter, il film incassa ancora dopo il taglio delle sale",
+   "summary": "L'adattamento del videogioco Street Fighter ha superato quella che probabilmente sarà la sua ultima soglia di incassi nel mercato nordamericano. Il film è stato rimosso da circa 750 sale, ma continua a raccogliere risultati al botteghino.",
+   "body": "Il film tratto dal celebre videogioco di combattimento Street Fighter ha raggiunto quello che, secondo Collider, sarà con ogni probabilità il suo ultimo traguardo al box office nazionale statunitense. Il risultato arriva nonostante la pellicola sia stata tolta da circa 750 sale, un segnale della rapida uscita dalle programmazioni che spesso segue le uscite recenti con incassi modesti.\n\nIl titolo, ispirato a una delle saghe di picchiaduro più longeve della storia dei videogiochi, resta quindi un caso da seguire per chi valuta l'andamento delle trasposizioni cinematografiche dai videogame. Le informazioni disponibili non indicano però cifre precise né previsioni sul passaggio in streaming o sulle uscite internazionali.",
+   "slug": "street-fighter-il-film-incassa-ancora-dopo-il-taglio-delle-s-a74863",
+   "tags": [
+    "Street Fighter"
+   ],
+   "scene": "sala",
+   "source": "collider.com",
+   "url": "https://collider.com/street-fighter-removed-from-750-theaters-box-office-milestone/",
+   "published": "2026-11-03T18:16:12+00:00"
+  },
+  {
+   "id": "68ad0f51eade",
+   "section": "cinema",
+   "title": "Liam Neeson, The Mongoose debutta con il peggior incasso della carriera",
+   "summary": "Il thriller d'azione The Mongoose, con Liam Neeson, ha esordito nelle sale americane con meno di 500.000 dollari di incasso. Si tratta del debutto più debole della carriera dell'attore in una programmazione in larga distribuzione, con oltre mille sale.",
+   "body": "Il nuovo thriller d'azione The Mongoose, interpretato da Liam Neeson, ha debuttato al box office nordamericano con un incasso inferiore ai 500.000 dollari. Il film è uscito in più di mille sale, un numero che rende il risultato il peggiore mai registrato dall'attore per un'uscita in larga distribuzione.\n\nSecondo Collider, il dato rappresenta un minimo storico nella carriera di Neeson, da sempre protagonista di action di successo come la saga di Taken. Il risultato evidenzia quanto il pubblico abbia risposto in modo tiepido alla proposta, nonostante la visibilità della grande distribuzione e il nome dell'interprete in cartellone.",
+   "slug": "liam-neeson-the-mongoose-debutta-con-il-peggior-incasso-dell-68ad0f",
+   "tags": [
+    "Liam Neeson",
+    "The Mongoose"
+   ],
+   "scene": "sala",
+   "source": "collider.com",
+   "url": "https://collider.com/the-mongoose-liam-neeson-career-worst-box-office-opening/",
+   "published": "2026-11-03T18:16:00+00:00"
+  },
+  {
+   "id": "8f54e06ec6da",
+   "section": "cinema",
+   "title": "Dacia Maraini riceve il Premio Tonino Guerra 2026",
+   "summary": "La scrittrice Dacia Maraini sarà premiata con il Premio Tonino Guerra 2026. A Rimini, il 6 e 7 novembre, due giornate dedicate al suo rapporto con il cinema.",
+   "body": "Il Premio Tonino Guerra 2026 sarà assegnato a Dacia Maraini, scrittrice con una lunga carriera tra romanzi, teatro e saggistica. Secondo ANSA, il riconoscimento è legato al rapporto della autrice con il mondo del cinema, tema al centro dell'iniziativa.\n\nLe celebrazioni si terranno a Rimini nei giorni 6 e 7 novembre. Due giornate di incontri e appuntamenti sono dedicate al lavoro di Maraini in rapporto alla settima arte, con l'obiettivo di mettere in luce il legame tra la scrittrice e le immagini in movimento.",
+   "slug": "dacia-maraini-riceve-il-premio-tonino-guerra-2026-8f54e0",
+   "tags": [
+    "Dacia Maraini",
+    "Premio Tonino Guerra"
+   ],
+   "scene": "premiere",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/libri/libri_film/2026/11/03/a-dacia-maraini-il-premio-tonino-guerra-2026_a340bbed-85a0-4c4c-b05b-c8af936989e2.html",
+   "published": "2026-11-03T18:13:16+00:00"
+  },
+  {
+   "id": "e2792dbed868",
+   "section": "tv",
+   "title": "Will Trent arriva su Netflix in vista della quinta stagione",
+   "summary": "La serie poliziesca Will Trent è disponibile su Netflix dal 3 novembre con le quattro stagioni già andate in onda su ABC. La quinta stagione arriverà all'inizio del prossimo anno.",
+   "body": "La serie poliziesca Will Trent è approdata su Netflix a partire da martedì 3 novembre, con tutte e quattro le stagioni finora trasmesse negli Stati Uniti dalla ABC. Il catalogo permette quindi di recuperare l'intera storia prima del ritorno della quinta stagione, previsto per l'inizio del prossimo anno.\n\nSecondo TV Insider, la piattaforma offre un'occasione ideale soprattutto per gli appassionati dei procedurali, il genere che segue le indagini episodio dopo episodio. Chi non ha ancora visto la serie potrà iniziare dalla prima stagione e arrivare in pari con le novità in arrivo.",
+   "slug": "will-trent-arriva-su-netflix-in-vista-della-quinta-stagione-e2792d",
+   "tags": [
+    "Will Trent",
+    "Netflix",
+    "ABC"
+   ],
+   "scene": "streaming",
+   "source": "tvinsider.com",
+   "url": "https://www.tvinsider.com/1301527/will-trent-hits-netflix/",
+   "published": "2026-11-03T18:07:20+00:00"
+  },
+  {
+   "id": "8b5884fecf06",
+   "section": "cinema",
+   "title": "Gene Hackman e Danny DeVito in un thriller del 2001 su Netflix",
+   "summary": "Il thriller del 2001 con Gene Hackman e Danny DeVito, pieno di bugie e colpi di scena, è disponibile su Netflix. Secondo l'analisi di BadTaste, il film costruisce un meccanismo narrativo che inganna continuamente lo spettatore.",
+   "body": "Il thriller uscito nel 2001 con Gene Hackman e Danny DeVito torna all'attenzione del pubblico grazie alla sua presenza sul catalogo di Netflix. Secondo BadTaste, la storia ruota attorno a tradimenti, inganni e rivelazioni che cambiano continuamente il quadro della vicenda, portando lo spettatore a dubitare di ciò che vede.\n\nL'analisi sottolinea la solidità del meccanismo narrativo, costruito per sorprendere senza perdere coerenza. Il film è un esempio di come il genere possa giocare con le aspettative del pubblico, alternando momenti di tensione e svolte inattese fino al finale. Per chi ama i thriller di impianto classico con due interpreti di lungo corso, la proposta resta una visione consigliata.",
+   "slug": "gene-hackman-e-danny-devito-in-un-thriller-del-2001-su-netfl-8b5884",
+   "tags": [
+    "Gene Hackman",
+    "Danny DeVito",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/gene-hackman-e-danny-devito-fra-bugie-e-colpi-di-scena-nel-thriller-su-netflix-che-inganna-lo-spettatore",
+   "published": "2026-11-03T18:00:52+00:00"
+  },
+  {
    "id": "6b908080d9ab",
    "section": "tv",
    "title": "Black Snow, la terza stagione con Travis Fimmel arriva il 1° gennaio",
@@ -449,6 +579,22 @@
    "source": "Cinefilos",
    "url": "https://cinefilos.it/tutto-film/approfondimenti/godzilla-minus-zero-spiegazione-titolo-sequel-cosa-significa-minus-zero-729102",
    "published": "2026-11-03T16:53:15+00:00"
+  },
+  {
+   "id": "103772b0dcbb",
+   "section": "cinema",
+   "title": "La fantascienza cinese tra soft power e ambizioni globali",
+   "summary": "Al Trieste Science Fiction, Francesco Verso ha ripercorso la storia della fantascienza cinese, oggi usata come strumento di soft power e sempre più orientata al pubblico internazionale. Secondo ANSA, il festival triestino ha offerto lo spunto per questo bilancio sul genere.",
+   "body": "Al Trieste Science Fiction Francesco Verso ha tracciato la storia della fantascienza cinese, un genere che negli ultimi anni è diventato anche uno strumento di soft power per Pechino. Il percorso ricostruito durante il festival mostra come la produzione di Cina si stia muovendo con l'obiettivo di conquistare un pubblico globale, non solo quello interno.\n\nSecondo ANSA, l'intervento di Verso ha messo in luce la distanza tra le radici del genere nel paese e il successo internazionale che oggi si cerca. Il materiale disponibile non chiarisce però nel dettaglio titoli, autori o numeri di questo fenomeno, che restano da approfondire con fonti dedicate.",
+   "slug": "la-fantascienza-cinese-tra-soft-power-e-ambizioni-globali-103772",
+   "tags": [
+    "Trieste Science Fiction",
+    "Francesco Verso"
+   ],
+   "scene": "premiere",
+   "source": "ANSA Cinema",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/03/la-fantascienza-cinese-e-gia-soft-power-e-cerca-il-successo-mondiale_f52e784d-bfef-4b54-a0d7-6b735e8348b6.html",
+   "published": "2026-11-03T16:49:07+00:00"
   },
   {
    "id": "08368316952c",
@@ -2237,7 +2383,31 @@
   "bf8a6d2d3192",
   "4cf7db689483",
   "728e3805734a",
-  "e1e0b3938ed6"
+  "e1e0b3938ed6",
+  "d0552dd2c72b",
+  "fc8149149621",
+  "1a52752b1e10",
+  "87c76f5545c8",
+  "dccb347e6b01",
+  "114339d683f8",
+  "93028512b9bb",
+  "c7ecf896f445",
+  "8f54e06ec6da",
+  "fd1db9be0429",
+  "bf1b5a3b4959",
+  "8b5884fecf06",
+  "a748632477a8",
+  "68ad0f51eade",
+  "7e068d78ef91",
+  "e01b9821ced3",
+  "d49598537e5d",
+  "2f4b836e3ba0",
+  "1755df568378",
+  "e2792dbed868",
+  "3c419cc5b8ba",
+  "103772b0dcbb",
+  "a6598d0e2ab3",
+  "9f40a5aa8d75"
  ],
  "version": 4,
  "digests": []
