@@ -1,6 +1,103 @@
 {
  "articles": [
   {
+   "id": "880454c34fa9",
+   "section": "cinema",
+   "title": "Edward Berger vorrebbe dirigere il nuovo James Bond",
+   "summary": "Il regista di Niente di nuovo sul fronte occidentale ha dichiarato di essere ancora molto interessato a dirigere un film di James Bond. Berger era tra i cinque nomi in lizza per il progetto, che Denis Villeneuve sta ora dirigendo.",
+   "body": "Il regista tedesco Edward Berger, premio Oscar per Niente di nuovo sul fronte occidentale, ha dichiarato di essere ancora molto appassionato all'idea di dirigere un film della saga di James Bond. Secondo quanto riportato da worldofreel.com, Berger ha espresso il suo interesse nonostante la regia del prossimo capitolo sia già stata affidata a Denis Villeneuve.\n\nNella selezione dei candidati, ricordata dalla stessa fonte, figuravano cinque nomi: oltre a Villeneuve e Berger, Edgar Wright, Jonathan Nolan e Paul King. La scelta finale è poi ricaduta sul regista canadese, che lavorerà al nuovo film dell'agente segreto britannico.",
+   "slug": "edward-berger-vorrebbe-dirigere-il-nuovo-james-bond-880454",
+   "tags": [
+    "Edward Berger",
+    "James Bond",
+    "Denis Villeneuve"
+   ],
+   "scene": "premiere",
+   "source": "worldofreel.com",
+   "url": "https://www.worldofreel.com/blog/2026/11/3/edward-berger-still-wants-to-direct-james-bond-im-incredibly-passionate-about-it",
+   "published": "2026-11-03T20:18:36+00:00"
+  },
+  {
+   "id": "6e6fba63ccd4",
+   "section": "tv",
+   "title": "Eternally Yours: anticipazione dell'episodio 5 \"Steve's Dream\" su CBS",
+   "summary": "La serie CBS Eternally Yours torna con il quinto episodio, \"Steve's Dream\", in onda giovedì 5 novembre 2026. Al centro della puntata c'è la decisione del donatore di sangue di famiglia Steve, che potrebbe cambiargli la vita.",
+   "body": "Secondo ShowbizJunkies, il quinto episodio della prima stagione di Eternally Yours, intitolato \"Steve's Dream\", andrà in onda giovedì 5 novembre 2026 alle 20:30 ET/PT sulla CBS. La regia è di Victor Nelli. La puntata ruota attorno a Steve, il donatore di sangue della famiglia, che dovrà prendere una decisione destinata a incidere profondamente sul suo futuro.\n\nNella trama, Max invita Steve a una serata di giochi, un gesto gentile che apre la strada agli sviluppi dell'episodio. La fonte non specifica ulteriori dettagli sull'esito della vicenda, che resta quindi da scoprire con la messa in onda.",
+   "slug": "eternally-yours-anticipazione-dell-episodio-5-steve-s-dream-6e6fba",
+   "tags": [
+    "Eternally Yours",
+    "CBS"
+   ],
+   "scene": "tv",
+   "source": "showbizjunkies.com",
+   "url": "https://www.showbizjunkies.com/tv/eternally-yours-season-1-episode-5-preview/",
+   "published": "2026-11-03T20:12:38+00:00"
+  },
+  {
+   "id": "c3b38a53a19c",
+   "section": "cinema",
+   "title": "Il gatto col cappello, un'animazione colorata sull'immaginazione",
+   "summary": "Il gatto col cappello è un film d'animazione che, secondo la recensione di Movieplayer, unisce divertimento e genuinità. Il film celebra immaginazione e creatività, con un linguaggio capace di parlare sia ai bambini sia agli adulti.",
+   "body": "Il gatto col cappello è un film d'animazione che, secondo la recensione pubblicata da Movieplayer, si distingue per il tono divertente e genuino. Al centro della storia c'è l'immaginazione, presentata come un valore da difendere e da coltivare, e la creatività che attraversa l'intera opera.\n\nIl giudizio della testata è positivo: il film riesce a parlare sia ai più piccoli sia agli adulti, grazie a una resa visiva colorata e a un racconto che non rinuncia all'autenticità. Una proposta, dunque, pensata per il pubblico delle famiglie che cercano un'animazione leggera ma con un messaggio sincero.",
+   "slug": "il-gatto-col-cappello-un-animazione-colorata-sull-immaginazi-c3b38a",
+   "tags": [
+    "Il gatto col cappello"
+   ],
+   "scene": "pellicola",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/articoli/il-gatto-col-cappello-la-recensione-del-film-animato_38158/",
+   "published": "2026-11-03T20:10:00+00:00"
+  },
+  {
+   "id": "3f381a11f7c9",
+   "section": "tv",
+   "title": "Netflix testa AI Discover, uno strumento di ricerca basato sull'intelligenza artificiale",
+   "summary": "Netflix ha introdotto una nuova scheda nell'app TV, disponibile per un gruppo ristretto di abbonati, che usa l'intelligenza artificiale per suggerire contenuti. Lo strumento, chiamato AI Discover, chiede agli utenti di indicare umore e interessi.",
+   "body": "Netflix ha inserito una nuova scheda nella propria app per TV, rivolta soltanto a una parte degli abbonati. Si chiama AI Discover e offre un modo guidato dall'intelligenza artificiale per scoprire programmi nuovi. Secondo quanto riportato da Deadline, il servizio si basa sulle precedenti funzioni di raccomandazione della piattaforma.\n\nPer usarlo, l'utente indica il proprio stato d'animo e i suoi interessi, e il sistema propone titoli in linea con le indicazioni ricevute. Il lancio viene presentato come una sorta di laboratorio, quindi non è ancora chiaro se e quando la funzione sarà estesa a tutti gli abbonati.",
+   "slug": "netflix-testa-ai-discover-uno-strumento-di-ricerca-basato-su-3f381a",
+   "tags": [
+    "Netflix",
+    "AI Discover"
+   ],
+   "scene": "streaming",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/netflix-ai-discovery-tool-viewers-programming-1237212413/",
+   "published": "2026-11-03T20:09:30+00:00"
+  },
+  {
+   "id": "bafe068b769e",
+   "section": "cinema",
+   "title": "Dafne Keen ricorda i provini di Logan e il timore di perdere la parte di X-23",
+   "summary": "Dafne Keen ha raccontato che durante i provini per Logan pensava che la parte di X-23 sarebbe andata a Millie Bobby Brown, che era tra le candidate. Keen ha ripreso il ruolo in Deadpool & Wolverine.",
+   "body": "Dafne Keen, interprete di Laura, alias X-23, ha raccontato i provini per Logan, il film che nel 2017 chiuse la saga di Wolverine con Hugh Jackman. Secondo quanto riferito da The Playlist, durante la selezione l'attrice era convinta che il ruolo sarebbe andato a un'altra candidata, Millie Bobby Brown, che all'epoca non era ancora diventata famosa con Stranger Things.\n\nKeen è oggi una delle poche interpreti della saga degli X-Men a tornare nel Marvel Cinematic Universe: la sua versione adulta di X-23 compare in Deadpool & Wolverine, dove il personaggio è presentato come la figlia artificiale del mutante interpretato da Jackman. Il racconto dei provini offre uno sguardo dietro le quinte di una scelta che ha poi portato l'attrice a Logan.",
+   "slug": "dafne-keen-ricorda-i-provini-di-logan-e-il-timore-di-perdere-bafe06",
+   "tags": [
+    "Dafne Keen",
+    "Millie Bobby Brown",
+    "Deadpool & Wolverine"
+   ],
+   "scene": "ciak",
+   "source": "theplaylist.net",
+   "url": "https://theplaylist.net/dafne-keen-millie-bobby-brown-logan-audition-20261103/",
+   "published": "2026-11-03T20:08:27+00:00"
+  },
+  {
+   "id": "44bc81d338a0",
+   "section": "tv",
+   "title": "Mentana conduce la maratona sulle elezioni di midterm americane",
+   "summary": "Enrico Mentana guiderà su La7 una maratona televisiva notturna dedicata alle elezioni di midterm negli Stati Uniti, dalle 00:30 alle 07:30. Secondo TVBlog, la serata assume un sapore particolare per il giornalista, alle prese con un futuro professionale ancora da definire.",
+   "body": "Enrico Mentana si prepara a condurre una lunga diretta notturna dedicata alle elezioni di midterm negli Stati Uniti. La maratona, secondo quanto riporta TVBlog, prenderà il via a mezzanotte e mezza e proseguirà fino alle sette e mezza del mattino, con l'obiettivo di seguire lo spoglio e raccontare il voto americano per il rinnovo del Congresso.\n\nLa testata sottolinea come la serata abbia un valore simbolico per il giornalista, che si trova davanti a un percorso professionale ancora da definire. Il collegamento con La7 e la gestione di una diretta così lunga confermano il ruolo centrale di Mentana nell'informazione televisiva della rete, in un momento di passaggio che molti osservatori seguiranno con attenzione.",
+   "slug": "mentana-conduce-la-maratona-sulle-elezioni-di-midterm-americ-44bc81",
+   "tags": [
+    "Enrico Mentana",
+    "La7"
+   ],
+   "scene": "premiere",
+   "source": "tvblog.it",
+   "url": "https://www.tvblog.it/post/la-maratona-mentana-tra-il-futuro-degli-usa-e-lavvenire-di-la7-il-noto-cronista-alle-prese-con-lultimo-miglio-alla-corte-di-cairo",
+   "published": "2026-11-03T20:07:55+00:00"
+  },
+  {
    "id": "30ef6aa50e70",
    "section": "cinema",
    "title": "Fincher e il dubbio film o serie per The Further Mis-Adventures of Cliff Booth",
@@ -1567,6 +1664,40 @@
    "published": "2026-11-03T14:09:06+00:00"
   },
   {
+   "id": "bba6991900ff",
+   "section": "tv",
+   "title": "La Porta Magica torna su Rai2 con Andrea Delogu dal 3 novembre",
+   "summary": "Andrea Delogu torna alla conduzione de \"La Porta Magica\", il people show del pomeriggio di Rai2, con una nuova edizione 2026. Il programma parte martedì 3 novembre 2026.",
+   "body": "Andrea Delogu torna alla conduzione de \"La Porta Magica\", il people show che va in onda nel pomeriggio di Rai2. La nuova edizione 2026 debutterà martedì 3 novembre, secondo quanto riportato da SuperGuidaTV, che annuncia anche le novità del cast di coach e ospiti.\n\nIl programma riparte dunque in autunno con la formula che il pubblico della rete conosce, affidata ancora una volta alla conduttrice. Per i dettagli su coach e ospiti della prima puntata, il materiale disponibile è limitato e non consente di riportare nomi e anticipazioni specifiche.",
+   "slug": "la-porta-magica-torna-su-rai2-con-andrea-delogu-dal-3-novemb-bba699",
+   "tags": [
+    "La Porta Magica",
+    "Andrea Delogu",
+    "Rai2"
+   ],
+   "scene": "tv",
+   "source": "superguidatv.it",
+   "url": "https://www.superguidatv.it/la-porta-magica-2026-di-andrea-delogu-torna-su-rai2-quando-in-tv/",
+   "published": "2026-11-03T14:02:15+00:00"
+  },
+  {
+   "id": "8ddb8e914ce3",
+   "section": "tv",
+   "title": "Un k-drama thriller su Netflix tra Parasite e Squid Game",
+   "summary": "Una nuova serie coreana thriller in arrivo su Netflix è descritta come un ponte tra Parasite e Squid Game, con una satira sul capitalismo. La recensione di BadTaste ne sottolinea la violenza e la critica sociale.",
+   "body": "Netflix propone una nuova serie thriller coreana che, secondo BadTaste, unisce gli elementi di Squid Game e Parasite. Il racconto è una satira dai toni duri sul capitalismo, con una forte componente di violenza e tensione sociale.\n\nLa recensione della testata indica la serie come una visione consigliata agli appassionati dei k-drama e del genere thriller. Il legame con i due titoli di successo, tra i più noti del cinema e della televisione coreani degli ultimi anni, è il punto centrale del pezzo. Al momento non sono disponibili altri dettagli su cast o data di uscita nel materiale ricevuto.",
+   "slug": "un-k-drama-thriller-su-netflix-tra-parasite-e-squid-game-8ddb8e",
+   "tags": [
+    "Squid Game",
+    "Parasite",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/questa-nuova-serie-k-drama-su-netflix-e-un-ponte-tra-parasite-e-squid-game-ed-e-imperdibile",
+   "published": "2026-11-03T14:00:36+00:00"
+  },
+  {
    "id": "764431a14078",
    "section": "gossip",
    "title": "Grande Fratello Vip, Alex Belli annuncia quattro giorni di digiuno",
@@ -2837,7 +2968,31 @@
   "475d4960eea9",
   "90e182bd3495",
   "b765e1160df9",
-  "aeb832558e94"
+  "aeb832558e94",
+  "14ecdaa84f64",
+  "880454c34fa9",
+  "3e588d8beb2d",
+  "f08529b18448",
+  "6e6fba63ccd4",
+  "87f361fc7f14",
+  "7286037d21ab",
+  "c3b38a53a19c",
+  "44bc81d338a0",
+  "9886e7b2997d",
+  "15559bcefcca",
+  "f8c395040562",
+  "35655a1f71a4",
+  "5f2c0df15380",
+  "3f381a11f7c9",
+  "32ae1b5920f1",
+  "7d73d367c936",
+  "bafe068b769e",
+  "b9052fcd1cc6",
+  "187fed648022",
+  "d7c537e1e363",
+  "acbab38fc980",
+  "bba6991900ff",
+  "8ddb8e914ce3"
  ],
  "version": 4,
  "digests": []
