@@ -1,6 +1,72 @@
 {
  "articles": [
   {
+   "id": "aac1e3ad16ce",
+   "section": "gossip",
+   "title": "Camilla a piedi nudi durante la visita di Carlo ad Antigua e Barbuda",
+   "summary": "La regina Camilla ha scelto di camminare scalza durante un'uscita con il re Carlo nel corso del tour nei Caraibi. I sovrani si sono uniti a un gruppo di giovani impegnati a raccogliere rifiuti su una spiaggia.",
+   "body": "Durante il tour nei Caraibi, la regina Camilla ha scelto di non indossare le scarpe in una delle uscite compiute insieme al marito, il re Carlo, ad Antigua e Barbuda. Secondo Hello! Magazine, la coppia reale si è unita a un gruppo di giovani impegnati a ripulire una spiaggia dai rifiuti.\n\nIl momento, descritto come inatteso, ha attirato l'attenzione sui gesti informali della sovrana durante la visita nell'arcipelago caraibico. Il viaggio fa parte di un giro nella regione che i sovrani britannici stanno compiendo in questi giorni. Il materiale disponibile non riporta dichiarazioni dirette dei protagonisti sull'episodio.",
+   "slug": "camilla-a-piedi-nudi-durante-la-visita-di-carlo-ad-antigua-e-aac1e3",
+   "tags": [
+    "Camilla",
+    "Carlo III",
+    "Antigua e Barbuda"
+   ],
+   "scene": "tappeto",
+   "source": "hellomagazine.com",
+   "url": "https://www.hellomagazine.com/royalty/932922/queen-camilla-kicks-off-her-shoes-as-she-and-king-charles-go-litter-picking-amid-caribbean-tour/",
+   "published": "2026-11-04T02:06:38+00:00"
+  },
+  {
+   "id": "44f77f5a5e5b",
+   "section": "tv",
+   "title": "VisionQuest introduce il primo supereroe Marvel",
+   "summary": "La serie VisionQuest, con Paul Bettany, nel settimo episodio della prima stagione presenta il primo supereroe dell'universo Marvel. Secondo Den of Geek, la rivelazione riguarda il passato della storia del MCU.",
+   "body": "Nel Marvel Cinematic Universe Iron Man è considerato di fatto il primo supereroe, anche se nel finale del film del 2008 Nick Fury gli dice che non è il primo e altri personaggi, come Captain Marvel e gli Eterni, lo hanno preceduto. Il settimo episodio della prima stagione di VisionQuest, la serie dedicata a Visione, introduce proprio il primo eroe della storia Marvel, secondo quanto riportato da Den of Geek.\n\nL'articolo originale contiene anticipazioni sull'episodio, che quindi chi non ha ancora visto la serie dovrebbe considerare con attenzione. Il materiale disponibile non offre però ulteriori dettagli sull'identità del personaggio o sul suo ruolo nella trama, e la notizia si limita a segnalare questa novità narrativa.",
+   "slug": "visionquest-introduce-il-primo-supereroe-marvel-44f77f",
+   "tags": [
+    "VisionQuest",
+    "Marvel Studios",
+    "Paul Bettany"
+   ],
+   "scene": "streaming",
+   "source": "denofgeek.com",
+   "url": "https://www.denofgeek.com/tv/visionquest-finally-introduces-very-first-marvel-hero/",
+   "published": "2026-11-04T02:01:00+00:00"
+  },
+  {
+   "id": "9e6891bb4699",
+   "section": "cinema",
+   "title": "Netflix riporta in catalogo un classico d'azione di Sylvester Stallone",
+   "summary": "Netflix ha ufficializzato il ritorno in catalogo di un celebre action thriller con Sylvester Stallone, in attesa del remake con Pierce Brosnan. La notizia è riportata da Collider.",
+   "body": "Netflix ha ufficializzato la disponibilità di un classico del cinema d'azione interpretato da Sylvester Stallone, uno dei titoli più amati del genere. Il film approda sulla piattaforma proprio mentre se ne prepara un nuovo adattamento, un reboot con Pierce Brosnan nel ruolo principale.\n\nSecondo Collider, la mossa arriva a ridosso dell'uscita del remake, e offre al pubblico l'occasione di recuperare l'originale prima di vedere la nuova versione. Il materiale disponibile non specifica ulteriori dettagli su data di arrivo o condizioni di distribuzione.",
+   "slug": "netflix-riporta-in-catalogo-un-classico-d-azione-di-sylveste-9e6891",
+   "tags": [
+    "Sylvester Stallone",
+    "Pierce Brosnan",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/sylvester-stallone-survival-thriller-cliffhanger-streaming-netflix-november-2026/",
+   "published": "2026-11-04T02:00:12+00:00"
+  },
+  {
+   "id": "fb8309a4e11b",
+   "section": "tv",
+   "title": "VisionQuest, la recensione dell'episodio 7: un cast solido e una resa visiva migliorata",
+   "summary": "La recensione di Den of Geek dell'episodio 7 della prima stagione di VisionQuest giudica la serie buona ma imperfetta. Il punto di forza resta il cast, mentre gli ambienti in CGI, criticati nei primi due episodi, risultano meno problematici.",
+   "body": "Secondo Den of Geek, la serie VisionQuest, arrivata al settimo episodio della prima stagione, si conferma come un prodotto valido ma non privo di difetti. Il punto di forza più evidente è il cast, composto da attori capaci di catturare l'attenzione dello spettatore indipendentemente dalla scena in cui si trovano.\n\nIl recensore sottolinea anche un miglioramento rispetto alle prime puntate, nelle quali gli ambienti digitali erano stati oggetto di critiche per la resa poco definita. Nel complesso, la recensione descrive un episodio che mantiene la serie su un buon livello, pur lasciando aperti alcuni dubbi sulla sua solidità.",
+   "slug": "visionquest-la-recensione-dell-episodio-7-un-cast-solido-e-u-fb8309",
+   "tags": [
+    "VisionQuest"
+   ],
+   "scene": "tv",
+   "source": "denofgeek.com",
+   "url": "https://www.denofgeek.com/tv/visionquest-episode-7-review/",
+   "published": "2026-11-04T02:00:00+00:00"
+  },
+  {
    "id": "1802ee16bc83",
    "section": "cinema",
    "title": "Tarantino e lo spin-off su Cliff Booth: il progetto rischiava di saltare",
@@ -3469,6 +3535,55 @@
    "source": "tvblog.it",
    "url": "https://www.tvblog.it/post/libera-il-caso-di-elena-palma-arriva-al-164-di-share-kimi-antonelli-supera-anche-racconto-di-una-notte-i-dati-auditel-del-1-novembre-2026",
    "published": "2026-11-02T11:19:27+00:00"
+  },
+  {
+   "id": "53281d64516a",
+   "section": "cinema",
+   "title": "Taika Waititi contro i critici: \"Irrilevanti, da buttare nella spazzatura\"",
+   "summary": "Il regista Taika Waititi ha attaccato i critici che hanno stroncato il suo film Klara e il sole, definendoli irrilevanti. La notizia riguarda le sue dichiarazioni dopo la ricezione negativa della pellicola.",
+   "body": "Il regista neozelandese Taika Waititi ha replicato alle critiche ricevute dal suo ultimo film, Klara e il sole, prendendosela con i recensori. Secondo quanto riportato da Cinematografo, Waititi ha definito i critici persone irrilevanti, da gettare nella spazzatura, poi ha ridimensionato il tono delle proprie parole.\n\nNella stessa dichiarazione il regista ha ammesso che il film non è riuscito bene, sostenendo che si tratta semplicemente di un brutto film. Il suo intervento ha quindi uniti due messaggi: da un lato la critica a chi lo ha stroncato, dall'altro un'autocritica ironica sul risultato finale dell'opera.",
+   "slug": "taika-waititi-contro-i-critici-irrilevanti-da-buttare-nella-53281d",
+   "tags": [
+    "Taika Waititi",
+    "Klara e il sole"
+   ],
+   "scene": "microfono",
+   "source": "Cinematografo",
+   "url": "https://www.cinematografo.it/riflettori/a-taika-waititi-da-unanima-persa-sep0kkbl",
+   "published": "2026-11-02T10:42:46+00:00"
+  },
+  {
+   "id": "410a909a549c",
+   "section": "cinema",
+   "title": "Cinecittà, dal Ministero della Cultura altri 10 milioni per il 2026",
+   "summary": "Il Consiglio superiore del cinema e dell'audiovisivo ha dato parere favorevole a un incremento di 10 milioni di euro per Cinecittà nel 2026. Le risorse serviranno per attività culturali, progetti e celebrazioni legate ai 90 anni degli studios.",
+   "body": "Il Consiglio superiore del cinema e dell'audiovisivo ha espresso parere favorevole all'aumento delle risorse destinate a Cinecittà per il 2026, pari a 10 milioni di euro in più. Secondo Box Office Biz, il finanziamento arriva dal Ministero della Cultura e sarà impiegato in nuove attività culturali e in progetti dedicati agli studios.\n\nUna parte dei fondi sarà inoltre riservata alle celebrazioni per i 90 anni di Cinecittà, storico polo produttivo del cinema italiano. La decisione del Consiglio rappresenta un passo ulteriore nel sostegno pubblico alla struttura romana, che continua a ospitare set e produzioni nazionali e internazionali.",
+   "slug": "cinecitta-dal-ministero-della-cultura-altri-10-milioni-per-i-410a90",
+   "tags": [
+    "Cinecittà",
+    "Ministero della Cultura"
+   ],
+   "scene": "ciak",
+   "source": "Box Office Biz",
+   "url": "https://boxofficebiz.it/news/cinecitta-in-arrivo-altri-10-milioni-dal-ministero-della-cultura/",
+   "published": "2026-11-02T10:03:59+00:00"
+  },
+  {
+   "id": "6cd12ffcee20",
+   "section": "tv",
+   "title": "It: Welcome to Derry, la seconda stagione è ambientata nel 1935",
+   "summary": "Il co-creatore Andy Muschietti ha annunciato che la seconda stagione di It: Welcome to Derry si svolgerà nel 1935, durante la Grande Depressione. La serie è uno spin-off del film It tratto dai romanzi di Stephen King.",
+   "body": "La seconda stagione di It: Welcome to Derry tornerà indietro nel tempo, fino al 1935. La nuova ambientazione coincide con il periodo della Grande Depressione, che farà da sfondo alle vicende della cittadina del Maine.\n\nSecondo Cinematografo, a dare la notizia è stato il co-creatore Andy Muschietti, che ha confermato la scelta temporale della nuova stagione. La serie è uno spin-off del film It, tratto dal romanzo di Stephen King, e prosegue il racconto delle origini di Derry e delle sue presenze oscure. Al momento non sono stati comunicati altri dettagli sul cast o sulla data di uscita.",
+   "slug": "it-welcome-to-derry-la-seconda-stagione-e-ambientata-nel-193-6cd12f",
+   "tags": [
+    "It: Welcome to Derry",
+    "Andy Muschietti",
+    "Stephen King"
+   ],
+   "scene": "streaming",
+   "source": "Cinematografo",
+   "url": "https://www.cinematografo.it/riflettori/torna-it-welcome-to-derry-qiyaq8hp",
+   "published": "2026-11-02T10:01:14+00:00"
   }
  ],
  "seen": [
@@ -4008,7 +4123,31 @@
   "1e91f3ccc765",
   "7dc7cd69912d",
   "13e5c84f5cbe",
-  "f0839c31cea9"
+  "f0839c31cea9",
+  "2a6f712ca83f",
+  "2f3d2c7be8a2",
+  "5c7a2dd156a0",
+  "2d28ecda0da8",
+  "aac1e3ad16ce",
+  "44f77f5a5e5b",
+  "2cf897b2d7c4",
+  "5a1f6e4e5b9b",
+  "63c611855d5e",
+  "53281d64516a",
+  "7caad093d5e9",
+  "9917255792b2",
+  "37b84ae6a9cb",
+  "bf8f3504e4cb",
+  "495cc80b687f",
+  "9e6891bb4699",
+  "12fb3f1e0899",
+  "313cb2b2a4db",
+  "fb8309a4e11b",
+  "7d8b8bb7e2e8",
+  "410a909a549c",
+  "6cd12ffcee20",
+  "61bff8deec44",
+  "3a54cbe53fba"
  ],
  "version": 4,
  "digests": []
