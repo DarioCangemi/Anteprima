@@ -1,6 +1,73 @@
 {
  "articles": [
   {
+   "id": "d38795f13aba",
+   "section": "gossip",
+   "title": "Jimmy Kimmel prende in giro Martha Stewart per il costume di Halloween",
+   "summary": "Nel monologo di lunedì a Jimmy Kimmel Live!, il conduttore ha ironizzato sul costume di Halloween di Martha Stewart, definito ridicolo. Secondo la testata di origine, la battuta più dura riguardava l'assistente della celebrity.",
+   "body": "Nel monologo di apertura di Jimmy Kimmel Live!, il conduttore Jimmy Kimmel ha preso di mira Martha Stewart per il costume scelto per Halloween. Kimmel ha commentato con ironia che gli piace vedere i ricchi e famosi finire sotto accusa per i loro travestimenti il giorno dopo la festa, e ha definito il costume ridicolo.\n\nSecondo Page Six, la battuta più pungente è stata quella rivolta all'entourage della celebrity: \"Il tuo assistente ti odia\". Il monologo è andato in onda lunedì, e la stessa Stewart non risulta aver commentato la vicenda nel materiale disponibile.",
+   "slug": "jimmy-kimmel-prende-in-giro-martha-stewart-per-il-costume-di-d38795",
+   "tags": [
+    "Jimmy Kimmel",
+    "Martha Stewart",
+    "Jimmy Kimmel Live!"
+   ],
+   "scene": "tv",
+   "source": "pagesix.com",
+   "url": "https://pagesix.com/2026/11/04/entertainment/jimmy-kimmel-skewers-martha-stewart-over-halloween-costume/",
+   "published": "2026-11-04T15:38:25+00:00"
+  },
+  {
+   "id": "477c63c7c4f6",
+   "section": "cinema",
+   "title": "Pappas, Berger e Greetham nel cast di Survive: The Game",
+   "summary": "Isabella Pappas, Heidi Berger e Nico Greetham si uniscono al cast di Survive: The Game, diretto da Scout Taylor-Compton, insieme a Olivia Holt, Jaimie Alexander e Rohan Campbell. Le riprese del film sono in corso nella provincia di Gipuzkoa, in Spagna.",
+   "body": "Isabella Pappas, Heidi Berger e Nico Greetham entrano nel cast principale di Survive: The Game, il film diretto da Scout Taylor-Compton. Pappas e' nota per Stranger Things: The First Shadow, Berger per Ludwig e Greetham per American Horror Story. Il trio si aggiunge agli interpreti gia' annunciati Olivia Holt, Jaimie Alexander e Rohan Campbell.\n\nSecondo Deadline, la notizia e' stata anticipata in esclusiva dalla testata americana. Le riprese del film sono in corso nella provincia di Gipuzkoa, nei Paesi Baschi spagnoli. Al momento non sono disponibili ulteriori dettagli sulla trama o sulla data di uscita.",
+   "slug": "pappas-berger-e-greetham-nel-cast-di-survive-the-game-477c63",
+   "tags": [
+    "Survive: The Game",
+    "Isabella Pappas",
+    "Olivia Holt"
+   ],
+   "scene": "ciak",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/isabella-pappas-heidi-berger-nico-greetham-survive-game-1237213152/",
+   "published": "2026-11-04T15:37:56+00:00"
+  },
+  {
+   "id": "9ecea620856d",
+   "section": "tv",
+   "title": "Giorgio Tirabassi torna nei panni di Ardenzi su Prime Video",
+   "summary": "Lo spin-off di Distretto di Polizia con Giorgio Tirabassi nel ruolo di Ardenzi è approdato su Prime Video. La serie italiana riprende un personaggio apprezzato dal pubblico della fiction originale.",
+   "body": "Su Prime Video è disponibile lo spin-off di Distretto di Polizia dedicato al personaggio di Ardenzi, interpretato ancora una volta da Giorgio Tirabassi. La serie italiana porta sulla piattaforma di Amazon il protagonista che molti spettatori avevano già imparato a conoscere nella fiction di Canale 5.\n\nSecondo BadTaste, il ritorno di Tirabassi è il dato che più attira l'attenzione del pubblico. Il materiale disponibile non entra nel dettaglio su trama, episodi e struttura della nuova serie, quindi per ulteriori informazioni sul cast e sulla programmazione conviene consultare direttamente la piattaforma.",
+   "slug": "giorgio-tirabassi-torna-nei-panni-di-ardenzi-su-prime-video-9ecea6",
+   "tags": [
+    "Giorgio Tirabassi",
+    "Distretto di Polizia",
+    "Prime Video"
+   ],
+   "scene": "streaming",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/giorgio-tirabassi-torna-nei-panni-di-ardenzi-su-prime-video-approda-unamata-serie-spinoff-italiana",
+   "published": "2026-11-04T15:36:21+00:00"
+  },
+  {
+   "id": "1f5b16d043d1",
+   "section": "cinema",
+   "title": "Pieraccioni torna al cinema con Un weekend artificiale",
+   "summary": "Leonardo Pieraccioni presenta il nuovo film Un weekend artificiale, incentrato sull'intelligenza artificiale, in sala dal 12 novembre. Secondo ANSA Cinema, il regista descrive l'IA come un personaggio che guarda con curiosità e quasi con invidia l'essere umano.",
+   "body": "Il nuovo film di Leonardo Pieraccioni, intitolato Un weekend artificiale, arriverà nelle sale italiane il 12 novembre. Al centro della storia c'è l'intelligenza artificiale, raccontata con un tono leggero e ironico, in linea con la commedia che da anni caratterizza il percorso del regista toscano.\n\nSecondo ANSA Cinema, Pieraccioni ha spiegato che nel film l'IA sembra quasi invidiare le caratteristiche tipicamente umane. Una prospettiva che ribalta il solito racconto delle macchine che sostituiscono le persone e che invita a riflettere su cosa significhi davvero essere umani.",
+   "slug": "pieraccioni-torna-al-cinema-con-un-weekend-artificiale-1f5b16",
+   "tags": [
+    "Leonardo Pieraccioni",
+    "Un weekend artificiale"
+   ],
+   "scene": "sala",
+   "source": "ANSA Cinema",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/04/pieraccioni-e-lia-che-invidia-il-nostro-essere-umani_821a70be-de61-4250-a264-acab7b9178c9.html",
+   "published": "2026-11-04T15:27:13+00:00"
+  },
+  {
    "id": "d461a8198658",
    "section": "cinema",
    "title": "The Cat and the Hatchet supera 1,6 milioni di visualizzazioni e cerca fondi per il film",
@@ -15,6 +82,23 @@
    "source": "bloody-disgusting.com",
    "url": "https://bloody-disgusting.com/movie/3974581/the-cat-and-the-hatchet-hits-1-6-million-views-and-a-feature-film-is-being-crowd-funded/",
    "published": "2026-11-04T15:20:33+00:00"
+  },
+  {
+   "id": "7c7fb8d5ea3d",
+   "section": "cinema",
+   "title": "Al via le riprese di Atti osceni in luogo privato con Filippo Scotti e Monica Bellucci",
+   "summary": "Sono iniziate le riprese di Atti osceni in luogo privato, film diretto da Adriano Valerio e tratto dal romanzo di Marco Missiroli. Nel cast figurano Filippo Scotti e Monica Bellucci.",
+   "body": "Sono ufficialmente cominciate le riprese di Atti osceni in luogo privato, il film diretto da Adriano Valerio e ispirato al romanzo di Marco Missiroli. Protagonisti della pellicola sono Filippo Scotti e Monica Bellucci, due nomi di primo piano del cinema italiano che tornano a lavorare insieme in un progetto dal forte impianto letterario.\n\nSecondo ANSA, il set è partito con il lavoro sul materiale tratto dal libro di Missiroli, già noto al pubblico per la sua scrittura intensa e per i temi legati all'identità e alle relazioni. Al momento non sono disponibili ulteriori dettagli su calendario, location o data di uscita nelle sale.",
+   "slug": "al-via-le-riprese-di-atti-osceni-in-luogo-privato-con-filipp-7c7fb8",
+   "tags": [
+    "Atti osceni in luogo privato",
+    "Filippo Scotti",
+    "Monica Bellucci"
+   ],
+   "scene": "ciak",
+   "source": "ANSA Cinema",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/04/atti-osceni-in-luogo-privato-al-via-le-riprese-con-filippo-scotti-e-monica_0f39de67-6fe1-4e04-8512-0d0bb9977a47.html",
+   "published": "2026-11-04T15:19:36+00:00"
   },
   {
    "id": "2d20251551f0",
@@ -165,6 +249,23 @@
    "source": "Cinematografo",
    "url": "https://www.cinematografo.it/riflettori/blade-runner-cine-concert-yge27iw5",
    "published": "2026-11-04T14:57:34+00:00"
+  },
+  {
+   "id": "f78cceca1377",
+   "section": "cinema",
+   "title": "Liam Neeson torna all'azione in The Mongoose, su Prime Video",
+   "summary": "Liam Neeson è protagonista di The Mongoose, thriller d'azione disponibile su Prime Video. Nel film il personaggio è in fuga a forte velocità per dimostrare la propria innocenza.",
+   "body": "Liam Neeson torna al genere action con The Mongoose, thriller disponibile su Prime Video. Secondo BadTaste, l'attore interpreta un uomo costretto a una fuga ad alta velocità, con una sequenza che arriva a circa 200 km/h, mentre tenta di dimostrare la propria innocenza.\n\nIl film riprende la formula che ha reso Neeson popolare nei ruoli di protagonista d'azione degli ultimi anni, con una corsa contro il tempo e un personaggio isolato contro un sistema ostile. La notizia segnala anche l'età dell'attore, 72 anni, che non ha ridotto la sua presenza nelle scene più fisiche del progetto.",
+   "slug": "liam-neeson-torna-all-azione-in-the-mongoose-su-prime-video-f78cce",
+   "tags": [
+    "Liam Neeson",
+    "The Mongoose",
+    "Prime Video"
+   ],
+   "scene": "streaming",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/liam-neeson-torna-allazione-a-72-anni-su-prime-video-il-nuovo-thriller-con-fuga-ad-alta-velocita",
+   "published": "2026-11-04T14:46:12+00:00"
   },
   {
    "id": "ef1e8a1b0146",
@@ -6326,7 +6427,31 @@
   "e92679c79d00",
   "8453f5a5e4af",
   "5dfe35c9390c",
-  "01d0919b188d"
+  "01d0919b188d",
+  "59045c962cdd",
+  "0e43c6f57b94",
+  "f980cb8c3125",
+  "d38795f13aba",
+  "d123e143bf59",
+  "477c63c7c4f6",
+  "445a1a1f1c4e",
+  "9ecea620856d",
+  "688ed24df732",
+  "1f5b16d043d1",
+  "334b039fde81",
+  "7c7fb8d5ea3d",
+  "1ef2303aa26d",
+  "12abb1b6ee90",
+  "1326cac7d944",
+  "171f4ae383fd",
+  "85a085a77e5e",
+  "1798f703b9cc",
+  "9bd7a7eb4e45",
+  "4b339f0975b2",
+  "683e09c47ade",
+  "9db35d7035a7",
+  "45d093a181c8",
+  "f78cceca1377"
  ],
  "version": 4,
  "digests": []
