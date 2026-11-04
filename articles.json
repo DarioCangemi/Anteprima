@@ -1,6 +1,73 @@
 {
  "articles": [
   {
+   "id": "45e219f7046e",
+   "section": "tv",
+   "title": "Toni Collette protagonista di Lenni, dark comedy per Apple TV",
+   "summary": "Toni Collette sarà la protagonista di Lenni, nuova serie comica e drammatica di Apple TV tratta dalla serie norvegese Pernille. Nel cast anche Ciarán Hinds, Dan Wyllie e Josh McKenzie.",
+   "body": "Toni Collette, candidata all'Oscar, interpreterà il ruolo principale di Lenni, dark comedy in sviluppo per Apple TV. Il progetto è ispirato alla serie norvegese Pernille, da cui riprende l'impianto narrativo.\n\nNel cast figurano anche Ciarán Hinds, altro candidato all'Oscar noto al pubblico per The Lord of the Rings: The Rings of Power, insieme a Dan Wyllie, Josh McKenzie, Celeste Barber, Genevieve Hegney e Arka Das. Secondo ShowbizJunkies, la serie si colloca nel filone della commedia nera, un genere che la piattaforma ha già frequentato con diverse produzioni. Al momento non sono disponibili dettagli su trama, data di uscita o numero di episodi.",
+   "slug": "toni-collette-protagonista-di-lenni-dark-comedy-per-apple-tv-45e219",
+   "tags": [
+    "Toni Collette",
+    "Ciarán Hinds",
+    "Lenni"
+   ],
+   "scene": "streaming",
+   "source": "showbizjunkies.com",
+   "url": "https://www.showbizjunkies.com/tv/toni-collette-apple-tv-lenni-series-cast/",
+   "published": "2026-11-04T23:18:57+00:00"
+  },
+  {
+   "id": "f519c1976b3e",
+   "section": "tv",
+   "title": "Detective Hole torna su Netflix: in arrivo la seconda stagione",
+   "summary": "La serie tratta dai romanzi di Jo Nesbø torna questa settimana, dopo il debutto di Harry Hole su Netflix avvenuto all'inizio dell'anno. Esce anche Kill Shot, il quattordicesimo romanzo con protagonista il detective.",
+   "body": "Secondo quanto riportato da Collider, la serie Netflix Detective Hole torna sulla piattaforma questa settimana. Il ritorno arriva a pochi mesi dal debutto del detective Harry Hole sul servizio di streaming, avvenuto all'inizio dell'anno.\n\nNello stesso periodo esce Kill Shot, il quattordicesimo romanzo di Jo Nesbø dedicato al personaggio. Il materiale disponibile non specifica il numero esatto di episodi della nuova stagione né la data precisa di pubblicazione, quindi non è possibile andare oltre questi dati.",
+   "slug": "detective-hole-torna-su-netflix-in-arrivo-la-seconda-stagion-f519c1",
+   "tags": [
+    "Detective Hole",
+    "Jo Nesbø",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/detective-hole-kill-shot-jo-nesbo-harry-hole-book-14/",
+   "published": "2026-11-04T23:17:21+00:00"
+  },
+  {
+   "id": "68fa92f72a41",
+   "section": "cinema",
+   "title": "The Hunchback, Soul of Paris: su Netflix il trailer del nuovo adattamento cupo di Notre-Dame",
+   "summary": "Netflix ha diffuso il trailer di The Hunchback, Soul of Paris, una rilettura dark del romanzo di Victor Hugo Notre-Dame de Paris. Il progetto si distacca dal tono musicale e più leggero del classico Disney del 1996.",
+   "body": "Netflix ha pubblicato il trailer di The Hunchback, Soul of Paris, una nuova versione del romanzo di Victor Hugo Notre-Dame de Paris. Secondo Bloody Disgusting, il progetto punta su un tono molto più cupo rispetto all'adattamento animato Disney, che pure conteneva momenti tragici ma era lontano dalla durezza del testo originale. Il film viene presentato come una rilettura che riporta al centro i temi più sombri del libro.\n\nIl classico Disney del 1996, con le sue canzoni memorabili, resta il riferimento più noto al pubblico. La nuova produzione Netflix si propone invece di riavvicinarsi alla materia originaria di Hugo, con la figura del gobbo Quasimodo e l'ambientazione della Parigi medievale. Il trailer è disponibile sui canali ufficiali della piattaforma, che non ha ancora comunicato una data precisa di uscita nel materiale ricevuto.",
+   "slug": "the-hunchback-soul-of-paris-su-netflix-il-trailer-del-nuovo-68fa92",
+   "tags": [
+    "Netflix",
+    "Victor Hugo",
+    "Notre-Dame de Paris"
+   ],
+   "scene": "streaming",
+   "source": "bloody-disgusting.com",
+   "url": "https://bloody-disgusting.com/movie/3974735/the-hunchback-soul-of-paris-netflix-trailer-notre-dame-reboot/",
+   "published": "2026-11-04T22:58:17+00:00"
+  },
+  {
+   "id": "2901ade1a016",
+   "section": "cinema",
+   "title": "Alberi erranti, Salvatore Mereu porta al cinema una Sardegna arcaica",
+   "summary": "Salvatore Mereu presenta Alberi erranti, opera di quasi tre ore ambientata in una Sardegna arcaica e lontana dal tempo presente. Il film affronta i temi della formazione e dell'autorità genitoriale.",
+   "body": "Il regista Salvatore Mereu torna al cinema con Alberi erranti, un film di ambizione rara che dura quasi tre ore. La storia si svolge in una Sardegna arcaica, sospesa fuori dal tempo, e il racconto ruota attorno ai percorsi di crescita dei personaggi e al peso dell'autorità genitoriale.\n\nSecondo Cineblog, l'opera si distingue per la scelta di un ritmo dilatato e per un'ambientazione che sottrae la vicenda al presente. Il film si inserisce così in un percorso autoriale che guarda alle radici dell'isola e alle relazioni familiari come nodo centrale della narrazione.",
+   "slug": "alberi-erranti-salvatore-mereu-porta-al-cinema-una-sardegna-2901ad",
+   "tags": [
+    "Alberi erranti",
+    "Salvatore Mereu"
+   ],
+   "scene": "sala",
+   "source": "Cineblog",
+   "url": "https://www.cineblog.it/post/alberi-erranti-film-mereu",
+   "published": "2026-11-04T22:47:02+00:00"
+  },
+  {
    "id": "9deb04ffa62d",
    "section": "cinema",
    "title": "AMC Theatres torna all'utile e chiude il terzo trimestre da record",
@@ -2350,6 +2417,23 @@
    "published": "2026-11-04T11:43:06+00:00"
   },
   {
+   "id": "c08434e1e582",
+   "section": "cinema",
+   "title": "Atti osceni in luogo privato: iniziate le riprese del film tratto dal romanzo di Missiroli",
+   "summary": "Sono iniziate le riprese di Atti osceni in luogo privato, diretto da Adriano Valerio e tratto dal romanzo di Marco Missiroli. Nel cast Filippo Scotti, Monica Bellucci, Romana Maggiora Vergano, Cédric Kahn e Nadia Tereszkiewicz.",
+   "body": "Sono cominciate le riprese di Atti osceni in luogo privato, il film diretto da Adriano Valerio e tratto dall'omonimo romanzo di Marco Missiroli. Al centro della storia c'è Filippo Scotti, affiancato da Monica Bellucci, Romana Maggiora Vergano, Cédric Kahn e Nadia Tereszkiewicz.\n\nIl film è previsto nelle sale nel 2027 e sarà distribuito da I Wonder Pictures. Secondo ComingSoon, la notizia riguarda l'avvio della lavorazione, mentre non sono ancora disponibili altri dettagli su trama, set e date precise di uscita.",
+   "slug": "atti-osceni-in-luogo-privato-iniziate-le-riprese-del-film-tr-c08434",
+   "tags": [
+    "Atti osceni in luogo privato",
+    "Filippo Scotti",
+    "Monica Bellucci"
+   ],
+   "scene": "ciak",
+   "source": "ComingSoon",
+   "url": "https://www.comingsoon.it/cinema/news/atti-osceni-in-luogo-privato-in-arrivo-il-film-tratto-dall-omonimo-romanzo/n235193/",
+   "published": "2026-11-04T11:38:00+00:00"
+  },
+  {
    "id": "e4892e31f1e6",
    "section": "musica",
    "title": "Orazio Sciortino dirige I Solisti Aquilani a Napoli, in prima la sua Serenata",
@@ -2482,6 +2566,22 @@
    "source": "gamesradar.com",
    "url": "https://www.gamesradar.com/games/the-legend-of-zelda/the-legend-of-zelda-ocarina-of-time-remake-review/",
    "published": "2026-11-04T11:00:00+00:00"
+  },
+  {
+   "id": "aa86c560b864",
+   "section": "musica",
+   "title": "Gianna Nannini presenta GiannaGold a Milano",
+   "summary": "Gianna Nannini ha presentato al Teatro Gerolamo di Milano il progetto discografico GiannaGold, scelto come ritorno al luogo dove esordì nel 1976. Nel corso dell'incontro la cantautrice ha parlato di politica internazionale e del ruolo dei giovani nelle proteste.",
+   "body": "Gianna Nannini ha scelto il Teatro Gerolamo di Milano per presentare GiannaGold, il suo nuovo progetto discografico. Lo stesso palcoscenico aveva ospitato, nel 1976, uno dei primi passi importanti della sua carriera, e la scelta del luogo segna quindi un ritorno alle origini, con uno sguardo rivolto però al futuro.\n\nDurante la presentazione, la cantautrice ha affrontato temi di attualità, dalle elezioni americane alle manifestazioni dei giovani. Ha dichiarato di credere poco nei governi e ha auspicato un mondo disarmato. Riguardo alle proteste, ha definito i ragazzi persone oneste che esprimono le proprie idee. Il resoconto è riportato da Superguidatv.it.",
+   "slug": "gianna-nannini-presenta-giannagold-a-milano-aa86c5",
+   "tags": [
+    "Gianna Nannini",
+    "Teatro Gerolamo"
+   ],
+   "scene": "microfono",
+   "source": "superguidatv.it",
+   "url": "https://www.superguidatv.it/gianna-nannini-album-giannagold-elezioni-americane-e-proteste/",
+   "published": "2026-11-04T10:35:28+00:00"
   },
   {
    "id": "2ac5a33f9baa",
@@ -8322,7 +8422,31 @@
   "d0ebf320dce1",
   "24135a9d7b8e",
   "d057440a0949",
-  "d60ced817b3b"
+  "d60ced817b3b",
+  "6232463250e9",
+  "45e219f7046e",
+  "f519c1976b3e",
+  "04f12503d88f",
+  "15e1a9508901",
+  "2d51083e4080",
+  "c0f9a7715469",
+  "2901ade1a016",
+  "7275af392871",
+  "c08434e1e582",
+  "754332563adb",
+  "d243d28f94de",
+  "58c75e3c756f",
+  "04b745d78151",
+  "6cbb2e42a6ab",
+  "438fb4ff7cef",
+  "5edef42d8475",
+  "8dab8107a6e3",
+  "68fa92f72a41",
+  "5d85a72b0218",
+  "d4c759879d92",
+  "607c9b0ac59a",
+  "33369c7a0cdf",
+  "aa86c560b864"
  ],
  "version": 4,
  "digests": []
