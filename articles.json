@@ -1,6 +1,22 @@
 {
  "articles": [
   {
+   "id": "d7006819a9f0",
+   "section": "cinema",
+   "title": "Street Fighter del 1994, il regista difende il suo film",
+   "summary": "Steven E. de Souza, regista della versione di Street Fighter del 1994, ha difeso il suo film dalle critiche, mentre il nuovo adattamento fatica al box office. La saga videoludica resta difficile da portare sul grande schermo.",
+   "body": "Il nuovo Street Fighter ha registrato un incasso deludente al box office, e il regista della versione del 1994, Steven E. de Souza, ha colto l'occasione per difendere il proprio lavoro. Secondo quanto riportato da ecranlarge.com, de Souza considera il suo film incompreso e si dice infastidito dalle stroncature ricevute negli anni.\n\nIl racconto sottolinea come portare sul grande schermo la celebre saga di videogiochi di combattimento sia un'impresa complessa. La franchise conta ormai tre adattamenti cinematografici, ciascuno accolto in modo diverso dalla critica e dal pubblico.",
+   "slug": "street-fighter-del-1994-il-regista-difende-il-suo-film-d70068",
+   "tags": [
+    "Street Fighter",
+    "Steven E. de Souza"
+   ],
+   "scene": "pellicola",
+   "source": "ecranlarge.com",
+   "url": "https://www.ecranlarge.com/films/news/street-fighter-realisateur-original-defend-son-film-jcvd",
+   "published": "2026-11-04T05:00:00+00:00"
+  },
+  {
    "id": "0a3781ef9bea",
    "section": "tv",
    "title": "Seth Meyers ironizza sul premio \"Man of the Century\" assegnato a Trump",
@@ -16,6 +32,23 @@
    "source": "okmagazine.com",
    "url": "https://okmagazine.com/p/seth-meyers-mocks-iowa-republican-joe-mitchell-man-of-the-century-honor-donald-trump/",
    "published": "2026-11-04T03:57:40+00:00"
+  },
+  {
+   "id": "48c516d07732",
+   "section": "gossip",
+   "title": "Janet Jackson e il \"guasto\" del Super Bowl 2004: la stilista conferma",
+   "summary": "La stilista che ha firmato il costume di Janet Jackson ribadisce che il celebre \"wardrobe malfunction\" del Super Bowl 2004, con Justin Timberlake, non fu un incidente. L'episodio resta uno dei momenti più discussi nella storia della televisione.",
+   "body": "Secondo quanto riportato da The Blast, la designer che lavorò al costume indossato da Janet Jackson è tornata a parlare dell'esibizione dell'intervallo del Super Bowl del 2004, eseguita insieme a Justin Timberlake. Nel corso dell'intervento ha ribadito che quanto accadde durante lo show non fu un incidente casuale.\n\nL'episodio, passato alla storia come \"wardrobe malfunction\", provocò un enorme clamore mediatico e portò a un ampio dibattito sulla censura televisiva negli Stati Uniti. Ancora oggi, a distanza di oltre vent'anni, il momento resta uno dei più ricordati della storia della TV americana.",
+   "slug": "janet-jackson-e-il-guasto-del-super-bowl-2004-la-stilista-co-48c516",
+   "tags": [
+    "Janet Jackson",
+    "Justin Timberlake",
+    "Super Bowl"
+   ],
+   "scene": "tv",
+   "source": "theblast.com",
+   "url": "https://theblast.com/879505/designer-janet-jackson-super-bowl-wardrobe-malfunction/",
+   "published": "2026-11-04T03:30:00+00:00"
   },
   {
    "id": "69473cadbc84",
@@ -4375,7 +4408,23 @@
   "8b52294d25d6",
   "7a4f1f01488b",
   "cc527dd070d7",
-  "102420902b63"
+  "102420902b63",
+  "0672152d45a0",
+  "b790860794dc",
+  "d7006819a9f0",
+  "eb1580432f4a",
+  "9a8174f6b46b",
+  "3a56943f14f1",
+  "12d41623ddd2",
+  "2ca1969720d8",
+  "ca85efd1801f",
+  "d731d7106963",
+  "385a41f2e116",
+  "e17029850831",
+  "f0de573ad6e4",
+  "61b8fcb6bdf3",
+  "48c516d07732",
+  "7f77853945d9"
  ],
  "version": 4,
  "digests": []
