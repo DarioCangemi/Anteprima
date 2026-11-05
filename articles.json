@@ -1,6 +1,40 @@
 {
  "articles": [
   {
+   "id": "2aaf6fe01d7d",
+   "section": "cinema",
+   "title": "Box-office francese: Moulin in testa, Les Misérables supera il milione",
+   "summary": "Nel weekend del box-office francese cinque film nazionali occupano le prime cinque posizioni, con Moulin al primo posto e Les Misérables che supera il milione di spettatori. Flop per Le Fantôme de l'opéra.",
+   "body": "Nel box-office francese della settimana si conferma il buon momento del cinema nazionale: cinque film francesi occupano le prime cinque posizioni della classifica. Secondo la fonte, Moulin di Gilles Lellouche guida la classifica e ottiene buoni risultati, mentre Les Misérables supera il milione di spettatori in Francia.\n\nPiù deludente il riscontro per Le Fantôme de l'opéra, che viene indicato come un flop al botteghino. La settimana segna anche la presenza di titoli come Le crime du 3e étage e La Vénus électrique, commedie che hanno fatto parte del programma delle sale. Il quadro complessivo mostra un pubblico che, in Francia, premia soprattutto le produzioni locali.",
+   "slug": "box-office-francese-moulin-in-testa-les-miserables-supera-il-2aaf6f",
+   "tags": [
+    "Moulin",
+    "Les Misérables",
+    "Le Fantôme de l'opéra"
+   ],
+   "scene": "sala",
+   "source": "ecranlarge.com",
+   "url": "https://www.ecranlarge.com/films/box-office/fr/2026-10-28-au-2026-11-03-moulin-tete-les-miserables-million-fantome-opera-flop",
+   "published": "2026-11-05T12:15:00+00:00"
+  },
+  {
+   "id": "8c0ccde5c859",
+   "section": "cinema",
+   "title": "Buddy, l'horror di Casper Kelly arriva nei cinema italiani dal 2 dicembre",
+   "summary": "Buddy, horror di Casper Kelly premiato dal pubblico americano, sarà nelle sale italiane dal 2 dicembre con distribuzione Be Water Film in collaborazione con PiperFilm. È disponibile il primo teaser trailer ufficiale.",
+   "body": "Il film Buddy, horror firmato da Casper Kelly e descritto come folle e perverso, approderà nelle sale italiane a partire dal 2 dicembre. Dopo il successo ottenuto negli Stati Uniti, la pellicola sarà distribuita in Italia da Be Water Film in collaborazione con PiperFilm.\n\nSecondo ComingSoon, che ha diffuso in anteprima il primo teaser trailer ufficiale, l'uscita italiana segue quindi il debutto americano del titolo. Il teaser offre un primo sguardo al tono del film, che il materiale promozionale presenta come una storia dai toni surreali e disturbanti.",
+   "slug": "buddy-l-horror-di-casper-kelly-arriva-nei-cinema-italiani-da-8c0ccd",
+   "tags": [
+    "Buddy",
+    "Casper Kelly",
+    "Be Water Film"
+   ],
+   "scene": "sala",
+   "source": "ComingSoon",
+   "url": "https://www.comingsoon.it/cinema/news/mettete-i-bambini-al-riparo-buddy-l-unicorno-arancione-sta-arrivando-anche/n235294/",
+   "published": "2026-11-05T12:12:00+00:00"
+  },
+  {
    "id": "37e7721d5bd3",
    "section": "cinema",
    "title": "LEGO abbassa il prezzo del set di Dobby di Harry Potter",
@@ -103,6 +137,40 @@
    "published": "2026-11-05T11:58:26+00:00"
   },
   {
+   "id": "f600799a894d",
+   "section": "gossip",
+   "title": "Don Mancini replica a Nicki Minaj dopo il post politico con Chucky",
+   "summary": "Il creatore di Child's Play, Don Mancini, ha risposto a Nicki Minaj che aveva pubblicato un'immagine generata con l'IA del personaggio Chucky con un bottone \"Vote Red\". Mancini ha definito la rappresentazione un falso.",
+   "body": "Il creatore della saga di Child's Play, Don Mancini, ha replicato pubblicamente a Nicki Minaj dopo che la rapper aveva condiviso sul suo account X un'immagine generata con l'intelligenza artificiale in cui Chucky indossa un completo rosa con un bottone \"Vote Red\". Il post, pubblicato il martedì 3 novembre, invitava a votare per il partito repubblicano in occasione delle elezioni.\n\nSecondo quanto riportato da OK Magazine, Mancini ha reagito definendo \"impostore\" la versione politica del personaggio, rivendicando di conoscerne le caratteristiche meglio di chiunque altro. La vicenda è un nuovo episodio del dibattito sull'uso di personaggi dell'horror popolare nella propaganda online.",
+   "slug": "don-mancini-replica-a-nicki-minaj-dopo-il-post-politico-con-f60079",
+   "tags": [
+    "Nicki Minaj",
+    "Don Mancini",
+    "Chucky"
+   ],
+   "scene": "microfono",
+   "source": "okmagazine.com",
+   "url": "https://okmagazine.com/p/chucky-creator-hits-back-nicki-minaj-after-made-character-republican/",
+   "published": "2026-11-05T11:47:59+00:00"
+  },
+  {
+   "id": "5422ce764239",
+   "section": "tv",
+   "title": "Milo Ventimiglia disponibile a un cameo in Tracker con Justin Hartley",
+   "summary": "Milo Ventimiglia si è detto disposto a comparire in Tracker, la serie CBS con Justin Hartley, suo ex collega in This Is Us, se i tempi saranno giusti. L'attore ha parlato durante la promozione del film Netflix A Dog's Perfect Christmas.",
+   "body": "Milo Ventimiglia ha dichiarato di essere aperto all'idea di ritrovare sul set Justin Hartley, con cui ha lavorato in This Is Us, in un eventuale cameo nel dramma CBS Tracker. Secondo quanto riportato da OK Magazine, l'attore ha però precisato che tutto dipenderà dal momento giusto per entrambi, senza indicare dettagli su un possibile progetto.\n\nLe parole di Ventimiglia sono arrivate durante la promozione di A Dog's Perfect Christmas, film natalizio disponibile su Netflix. Hartley, protagonista di Tracker, è stato al centro della serie This Is Us, dove ha condiviso con Ventimiglia numerose scene. Al momento non risultano annunci ufficiali su una partecipazione dell'attore alla serie.",
+   "slug": "milo-ventimiglia-disponibile-a-un-cameo-in-tracker-con-justi-5422ce",
+   "tags": [
+    "Milo Ventimiglia",
+    "Justin Hartley",
+    "Tracker"
+   ],
+   "scene": "tv",
+   "source": "okmagazine.com",
+   "url": "https://okmagazine.com/p/milo-ventimiglia-happy-cameo-tracker-justin-hartley/",
+   "published": "2026-11-05T11:41:00+00:00"
+  },
+  {
    "id": "afa698144526",
    "section": "cinema",
    "title": "Rocky torna al cinema per il 50° anniversario dal 7 al 15 dicembre",
@@ -118,6 +186,39 @@
    "source": "Cinefilos",
    "url": "https://cinefilos.it/cinema-news/2026/rocky-dal-7-al-15-dicembre-plaion-pictures-riporta-al-cinema-il-capolavoro-di-sylvester-stallone-729508",
    "published": "2026-11-05T11:39:43+00:00"
+  },
+  {
+   "id": "1b893e36d758",
+   "section": "tv",
+   "title": "Viola come il mare parte con il 17% di share, La forza che unisce debole su Rai 1",
+   "summary": "Il 4 novembre 2026 Viola come il mare ha esordito con il 17% di share su Canale 5, mentre La forza che unisce non ha preso quota su Rai 1. I dati Auditel della serata riportano anche la crescita del Tavolo di Che Tempo Che Fa.",
+   "body": "La prima serata del 4 novembre 2026 ha visto Viola come il mare avviarsi con un risultato del 17% di share su Canale 5, un inizio considerato positivo per la nuova stagione della fiction Mediaset. Secondo i dati Auditel riportati da TVBlog, la serata speciale dedicata alle Forze Armate non ha inciso in modo significativo sugli ascolti complessivi.\n\nSul fronte Rai, La forza che unisce non è riuscita a decollare su Rai 1. Nella stessa fascia il programma di access prime time Affari Tuoi ha confermato la leadership sul concorrente La Ruota della Fortuna. Cresce anche il Tavolo di Che Tempo Che Fa, in crescita nei dati della serata.",
+   "slug": "viola-come-il-mare-parte-con-il-17-di-share-la-forza-che-uni-1b893e",
+   "tags": [
+    "Viola come il mare",
+    "La forza che unisce",
+    "Affari Tuoi"
+   ],
+   "scene": "sala",
+   "source": "tvblog.it",
+   "url": "https://www.tvblog.it/post/viola-come-il-mare-comincia-dal-17-di-share-la-forza-che-unisce-non-decolla-su-raiuno-cresce-il-tavolo-di-che-tempo-che-fa-i-dati-auditel-del-4-novembre-2026",
+   "published": "2026-11-05T11:30:21+00:00"
+  },
+  {
+   "id": "d4e4a7b9ed7a",
+   "section": "tv",
+   "title": "La Promessa, anticipazioni dal 7 al 13 novembre su Rete 4",
+   "summary": "La telenovela spagnola La Promessa torna su Rete 4 con nuove puntate dal 7 al 13 novembre. Secondo le anticipazioni, Petra prende in mano la gestione del rifugio e Jacobo chiede l'aiuto di Adriano.",
+   "body": "La telenovela spagnola La Promessa proseguirà su Rete 4 con una nuova serie di puntate in onda dal 7 al 13 novembre. Secondo le anticipazioni diffuse da SuperGuidaTV, la settimana sarà ricca di colpi di scena per il pubblico della serie.\n\nTra le vicende principali, Petra assume il controllo del rifugio, mentre Jacobo si rivolge ad Adriano nel tentativo di scoprire la verità su un mistero che lo coinvolge. Le trame complete delle singole puntate sono disponibili nelle anticipazioni settimanali della testata.",
+   "slug": "la-promessa-anticipazioni-dal-7-al-13-novembre-su-rete-4-d4e4a7",
+   "tags": [
+    "La Promessa",
+    "Rete 4"
+   ],
+   "scene": "streaming",
+   "source": "superguidatv.it",
+   "url": "https://www.superguidatv.it/la-promessa-trame-dal-7-al-13-novembre/",
+   "published": "2026-11-05T11:29:23+00:00"
   },
   {
    "id": "6fee6d599ce2",
@@ -8130,101 +8231,6 @@
    "source": "dituttounpop.it",
    "url": "https://www.dituttounpop.it/un-uomo-sopra-la-legge-un-film-dazione-stasera-in-tv-trama-e-cast/",
    "published": "2026-11-03T07:13:11+00:00"
-  },
-  {
-   "id": "4870ec12eb60",
-   "section": "tv",
-   "title": "Tale e Quale Show 2026 cambia giorno e va in onda il mercoledì su Rai 1",
-   "summary": "La sedicesima edizione di Tale e Quale Show, condotta da Carlo Conti, va in onda ogni mercoledì su Rai 1 e RaiPlay. Per la prima volta il programma lascia il venerdì e prevede nove puntate in diretta dagli Studi Fabrizio Frizzi di Roma.",
-   "body": "La sedicesima edizione di Tale e Quale Show torna su Rai 1 e su RaiPlay con la conduzione di Carlo Conti. Per la prima volta nella sua storia recente il programma non va più in onda il venerdì, ma il mercoledì sera, con una nuova collocazione nel palinsesto della rete ammiraglia.\n\nSecondo quanto riportato da Dituttounpop.it, sono previste nove puntate in diretta dagli Studi Fabrizio Frizzi di Roma. Il racconto delle imitazioni proposte nella puntata del 3 novembre è al centro dell'articolo della testata, che non fornisce ulteriori dettagli sul cast dei concorrenti nell'anteprima disponibile.",
-   "slug": "tale-e-quale-show-2026-cambia-giorno-e-va-in-onda-il-mercole-4870ec",
-   "tags": [
-    "Tale e Quale Show",
-    "Carlo Conti",
-    "Rai 1"
-   ],
-   "scene": "tv",
-   "source": "dituttounpop.it",
-   "url": "https://www.dituttounpop.it/tale-e-quale-show-2026-classifica-imitazioni/",
-   "published": "2026-11-03T07:12:40+00:00"
-  },
-  {
-   "id": "c34737e22b77",
-   "section": "cinema",
-   "title": "Hunger Games: Sunrise on the Reaping, le prime reazioni paragonano il prequel a Rogue One",
-   "summary": "Le prime reazioni alla premiere di The Hunger Games: Sunrise on the Reaping accostano il prequel a Rogue One. Gli elogi riguardano soprattutto Joseph Zada, nel ruolo del giovane Haymitch.",
-   "body": "Dopo la premiere di The Hunger Games: Sunrise on the Reaping, le prime reazioni del pubblico e della stampa hanno accostato il prequel della saga a Rogue One, il film Star Wars che raccontava le origini della missione dei ribelli. Il paragone suggerisce un racconto più cupo e corale rispetto ai capitoli precedenti, centrato su un passato che spiega gli eventi noti ai fan.\n\nTra gli aspetti più apprezzati c'è l'interpretazione di Joseph Zada, che interpreta il giovane Haymitch. Secondo quanto riportato da Cineblog, le reazioni ne lodano la prova, sottolineando come l'attore riesca a restituire il personaggio nella sua fase più giovane. Il film arriverà nelle sale con un'attesa crescente da parte dei fan della saga.",
-   "slug": "hunger-games-sunrise-on-the-reaping-le-prime-reazioni-parago-c34737",
-   "tags": [
-    "The Hunger Games: Sunrise on the Reaping",
-    "Joseph Zada",
-    "Rogue One"
-   ],
-   "scene": "premiere",
-   "source": "Cineblog",
-   "url": "https://www.cineblog.it/post/hunger-games-sunrise-reaping-rogue-one",
-   "published": "2026-11-03T05:31:35+00:00"
-  },
-  {
-   "id": "a5dae26ef6f4",
-   "section": "tv",
-   "title": "Grande Fratello Vip 2026: le nomination della 15a puntata",
-   "summary": "Nella puntata del 2 novembre 2026 del Grande Fratello Vip si è svolto il consueto appuntamento con le nomination, con votazione palese. I quattro concorrenti più votati sono andati al televoto, mentre Marina La Rosa, prima finalista, è stata esclusa.",
-   "body": "Nella quindicesima puntata del Grande Fratello Vip 2026, andata in onda lunedì 2 novembre, la casa si è trovata di nuovo davanti al momento delle nomination. La votazione è stata palese e, secondo quanto riportato da SuperGuidaTV, ogni concorrente ha espresso le proprie preferenze davanti agli altri.\n\nI quattro concorrenti che hanno ricevuto più voti sono finiti al televoto, quindi affidati al pubblico da casa per la permanenza nella casa. Fa eccezione Marina La Rosa, già prima finalista, che non è entrata nella rosa dei candidati alla nomination.",
-   "slug": "grande-fratello-vip-2026-le-nomination-della-15a-puntata-a5dae2",
-   "tags": [
-    "Grande Fratello Vip",
-    "Marina La Rosa"
-   ],
-   "scene": null,
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/gf-vip-2026-nominati-e-nomination-2-novembre-video/",
-   "published": "2026-11-03T00:32:22+00:00"
-  },
-  {
-   "id": "4bdc60d9cf3b",
-   "section": "musica",
-   "title": "Yōko Kanno a Lucca Comics & Games 2026 tra Cowboy Bebop ed Escaflowne",
-   "summary": "La compositrice Yōko Kanno è stata ospite di Lucca Comics & Games 2026, dove ha ripercorso la sua carriera attraverso le colonne sonore di Cowboy Bebop ed Escaflowne. Secondo quanto riportato, si tratta della sua prima partecipazione alla manifestazione.",
-   "body": "La compositrice giapponese Yōko Kanno è stata protagonista di un incontro a Lucca Comics & Games 2026, dove ha raccontato il proprio percorso artistico partendo dai lavori più noti legati al mondo degli anime. Al centro del racconto ci sono state le musiche di Cowboy Bebop ed Escaflowne, due colonne sonore che hanno contribuito a rendere la sua firma riconoscibile anche al pubblico internazionale.\n\nSecondo Cineblog, la presenza di Kanno al festival toscano ha segnato la sua prima partecipazione alla manifestazione, un'occasione attesa dai tanti appassionati di anime e di musica da film e serie animate. L'evento ha offerto uno sguardo ravvicinato sulla carriera di una delle autrici più celebri del settore, e sul modo in cui le sue composizioni sono entrate nell'immaginario di un'intera generazione di spettatori.",
-   "slug": "yoko-kanno-a-lucca-comics-games-2026-tra-cowboy-bebop-ed-esc-4bdc60",
-   "source": "Cineblog",
-   "url": "https://www.cineblog.it/post/yoko-kanno-lucca-comics-2026",
-   "published": "2026-11-03T00:27:28+00:00"
-  },
-  {
-   "id": "a55007d1b2aa",
-   "section": "tv",
-   "title": "Grande Fratello Vip 2026, Marina La Rosa e Danto in discussione nella casa",
-   "summary": "Nel Grande Fratello Vip 2026 Marina La Rosa ha ripreso Danto per il suo comportamento in casa, e il giovane concorrente ha vissuto un momento di crisi. Il confronto è stato al centro della puntata secondo quanto riportato da SuperGuidaTV.",
-   "body": "Nel corso del Grande Fratello Vip 2026 la prima finalista di questa edizione, Marina La Rosa, ha criticato Danto per il modo in cui si comporta all'interno della casa. Il giovane concorrente ha reagito con una forte crisi emotiva dopo le sue parole, e la discussione tra i due è diventata uno dei momenti più discussi della puntata.\n\nSecondo SuperGuidaTV, il confronto è nato da una divergenza di vedute sul comportamento di Danto con gli altri coinquilini. Il materiale disponibile non riporta ulteriori dettagli sulle dichiarazioni dei due concorrenti né sviluppi successivi. La notizia è accompagnata da un video pubblicato sul sito di Mediaset che mostra i momenti del confronto.",
-   "slug": "grande-fratello-vip-2026-marina-la-rosa-e-danto-in-discussio-a55007",
-   "tags": [
-    "Grande Fratello Vip",
-    "Marina La Rosa",
-    "Danto"
-   ],
-   "scene": "tv",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/gf-vip-2026-crisi-di-danto-per-le-parole-di-marina-la-rosa-video/",
-   "published": "2026-11-03T00:10:45+00:00"
-  },
-  {
-   "id": "993a3f44bbda",
-   "section": "gossip",
-   "title": "Grande Fratello Vip, Alex Belli riceve un video della moglie Delia Duran",
-   "summary": "Al Grande Fratello Vip 2026 Alex Belli ha ricevuto una sorpresa: un video della moglie Delia Duran. Commosso, ha raccontato che la nascita del figlio ha cambiato la sua vita.",
-   "body": "Sorpresa per Alex Belli nella casa del Grande Fratello Vip 2026. L'attore, noto al pubblico per Centovetrine, ha ricevuto un video della moglie Delia Duran e si è commosso fino alle lacrime.\n\nNel corso del momento, Belli ha dichiarato che la nascita del figlio ha cambiato la sua vita. Secondo quanto riportato da SuperGuidaTV, il video e la reazione dell'attore sono stati trasmessi nel programma Mediaset, dove il rapporto con la moglie e il bambino è diventato uno dei temi del racconto dell'edizione.",
-   "slug": "grande-fratello-vip-alex-belli-riceve-un-video-della-moglie-993a3f",
-   "tags": [
-    "Grande Fratello Vip",
-    "Alex Belli",
-    "Delia Duran"
-   ],
-   "scene": "palco",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/gf-vip-2026-alex-belli-riabbraccia-la-moglie-delia-duran-video/",
-   "published": "2026-11-02T23:46:19+00:00"
   }
  ],
  "seen": [
@@ -9707,7 +9713,31 @@
   "f8f0335ca1df",
   "4ecb6c783ba3",
   "afa698144526",
-  "e25c0e96e502"
+  "e25c0e96e502",
+  "0be4fb618f3e",
+  "2aaf6fe01d7d",
+  "8c0ccde5c859",
+  "a64e8f863e44",
+  "02e959014fdd",
+  "4066c7bbc1a2",
+  "9ff550366056",
+  "8b0939a7085e",
+  "881d9a9dd2c4",
+  "1b893e36d758",
+  "f477a238c4f8",
+  "d4e4a7b9ed7a",
+  "af3124576785",
+  "de06e1a54c10",
+  "f600799a894d",
+  "c3faadbf0a5e",
+  "94bb49b8e65c",
+  "52f596b37f2e",
+  "5422ce764239",
+  "f13945a01d19",
+  "d0e9dd9d0f86",
+  "c91e5ce06d67",
+  "1f3f2d7e0d81",
+  "4c342cd5fc04"
  ],
  "version": 4,
  "digests": []
