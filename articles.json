@@ -1,6 +1,155 @@
 {
  "articles": [
   {
+   "id": "c078f328731a",
+   "section": "cinema",
+   "title": "La guerra dei prezzi, la recensione: un film che sta al passo con l'attualità",
+   "summary": "La guerra dei prezzi è una commedia recensita da BadTaste, che la giudica un buon film reso ottimo dal legame tra il tema della sceneggiatura e l'attualità più stringente. La recensione sottolinea come la storia risulti particolarmente pertinente al momento presente.",
+   "body": "Secondo la recensione pubblicata da BadTaste, La guerra dei prezzi è un buon film che raggiunge un livello superiore grazie al rapporto tra il tema scelto dalla sceneggiatura e l'attualità. Il critico sostiene che la vicenda, proprio per il suo argomento, risulti più vicina al presente di quanto ci si potrebbe aspettare da una storia di questo tipo.\n\nIl giudizio complessivo è dunque positivo, con il merito principale attribuito alla capacità del film di muoversi al ritmo dei temi che occupano oggi il dibattito pubblico. Per chi cerca una storia che parli del mondo di oggi, la pellicola si presenta come un'opzione da considerare al cinema.",
+   "slug": "la-guerra-dei-prezzi-la-recensione-un-film-che-sta-al-passo-c078f3",
+   "tags": [
+    "La guerra dei prezzi",
+    "BadTaste"
+   ],
+   "scene": "pellicola",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/recensioni/la-guerra-dei-prezzi-la-recensione-un-film-che-va-al-ritmo-dellattualita",
+   "published": "2026-11-05T10:20:18+00:00"
+  },
+  {
+   "id": "772a352d08da",
+   "section": "cinema",
+   "title": "Matera ospita il Mediterranean Audiovisual & Cinema Summit",
+   "summary": "A Matera una due giorni di panel, meeting e think tank dedicata al cinema e all'audiovisivo mediterraneo, con Italia, Marocco, Tunisia, Libano, Giordania ed Egitto. L'iniziativa è ideata e realizzata da Cinecittà con il sostegno del MiC.",
+   "body": "Il futuro del cinema mediterraneo si discute a Matera, dove Cinecittà ha ideato e organizzato il Mediterranean Audiovisual & Cinema Summit. L'evento riunisce per due giorni panel, incontri e think tank con operatori di Italia, Marocco, Tunisia, Libano, Giordania ed Egitto.\n\nIl Summit fa parte di Matera Capitale Mediterranea della Cultura e del Dialogo 2026 ed è realizzato per conto del Comune di Matera e della Fondazione Matera Basilicata 2019. L'iniziativa ha il sostegno del Ministero della Cultura e la collaborazione dell'Agenzia ICE. La notizia è riportata dal sito cinecitta.com.",
+   "slug": "matera-ospita-il-mediterranean-audiovisual-cinema-summit-772a35",
+   "tags": [
+    "Cinecittà",
+    "Matera"
+   ],
+   "scene": "premiere",
+   "source": "cinecitta.com",
+   "url": "https://cinecitta.com/2026/11/mediterranean-audiovisual-cinema-summit/",
+   "published": "2026-11-05T10:07:49+00:00"
+  },
+  {
+   "id": "50412917174d",
+   "section": "cinema",
+   "title": "Starman, al Vascello di Roma il nuovo lavoro di Pietro Giannini su Elon Musk",
+   "summary": "Il teatro Vascello di Roma ospita la prima di Starman, nuovo spettacolo del genovese Pietro Giannini dedicato al lato oscuro di Elon Musk. La notizia è riportata dall'agenzia ANSA.",
+   "body": "Debutta al teatro Vascello di Roma Starman, il nuovo lavoro del regista e autore genovese Pietro Giannini. Lo spettacolo si concentra sull'imprenditore Elon Musk, fondatore di SpaceX e proprietario di X, e in particolare sulla sua figura più controversa, quella che il titolo definisce l'anima nera del personaggio.\n\nSecondo ANSA, la prima romana segna il passaggio del lavoro di Giannini su un palcoscenico della capitale. Il materiale disponibile non specifica ulteriori dettagli su cast, date della programmazione o impianto drammaturgico, ma l'attenzione sulla figura di Musk rende lo spettacolo un caso di teatro che guarda all'attualità tecnologica e mediatica.",
+   "slug": "starman-al-vascello-di-roma-il-nuovo-lavoro-di-pietro-gianni-504129",
+   "tags": [
+    "Pietro Giannini",
+    "Elon Musk",
+    "Teatro Vascello"
+   ],
+   "scene": "palco",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/05/starman-a-teatro-lanima-nera-di-elon-musk_9bab1d16-1dc3-4dcc-8942-03435d61fb20.html",
+   "published": "2026-11-05T10:06:56+00:00"
+  },
+  {
+   "id": "cf26fa795555",
+   "section": "cinema",
+   "title": "Salvate il soldato Ryan: la battuta finale come modello per i film di guerra",
+   "summary": "Secondo un approfondimento di Collider, il film di Steven Spielberg del 1998 è considerato da molti il miglior film sulla Seconda guerra mondiale. Il suo epilogo continua a fare scuola per il genere.",
+   "body": "Uscito nel 1998, Salvate il soldato Ryan è spesso indicato come il film più importante mai realizzato sulla Seconda guerra mondiale. Secondo quanto riportato da Collider, la sua battuta conclusiva continua a rappresentare un punto di riferimento per i registi che si confrontano con il genere, a quasi trent'anni dall'uscita nelle sale.\n\nLa regia di Steven Spielberg ha lasciato un segno profondo nel modo di raccontare la guerra al cinema, tra realismo delle scene di combattimento e attenzione al peso umano delle scelte dei personaggi. Il finale, in particolare, viene citato come esempio di come una sola frase possa riassumere il senso di un intero racconto. L'articolo di Collider approfondisce il tema, ricordando perché quella scena resti ancora oggi un modello.",
+   "slug": "salvate-il-soldato-ryan-la-battuta-finale-come-modello-per-i-cf26fa",
+   "tags": [
+    "Salvate il soldato Ryan",
+    "Steven Spielberg"
+   ],
+   "scene": "pellicola",
+   "source": "collider.com",
+   "url": "https://collider.com/saving-private-ryan-best-final-quote-world-war-2-film-tom-hanks/",
+   "published": "2026-11-05T10:04:12+00:00"
+  },
+  {
+   "id": "ce5ed8c40530",
+   "section": "cinema",
+   "title": "Pixar, Jonathan Garson nuovo presidente al posto di Jim Morris",
+   "summary": "Jonathan Garson è il nuovo presidente della Pixar. Jim Morris lascia la presidenza dopo oltre vent'anni nello studio e assume un ruolo emerito, mentre Pete Docter resta alla guida creativa.",
+   "body": "Lo studio d'animazione Pixar ha un nuovo presidente: si tratta di Jonathan Garson, che subentra a Jim Morris. Secondo Box Office Biz, Morris lascia la carica dopo oltre vent'anni trascorsi in Pixar e passa a un ruolo emerito, una figura di riconoscimento per il contributo dato allo studio nel corso della sua lunga carriera.\n\nIl cambio al vertice non coinvolge la direzione creativa. Pete Docter, regista e responsabile creativo della Pixar, resta infatti alla guida artistica dello studio, che continua così a far capo a lui per le scelte legate ai film e ai progetti in produzione. Il passaggio riguarda dunque la sfera gestionale e organizzativa, mentre la linea creativa rimane invariata.",
+   "slug": "pixar-jonathan-garson-nuovo-presidente-al-posto-di-jim-morri-ce5ed8",
+   "tags": [
+    "Pixar",
+    "Jonathan Garson",
+    "Pete Docter"
+   ],
+   "scene": "ciak",
+   "source": "Box Office Biz",
+   "url": "https://boxofficebiz.it/news/pixar-jonathan-garson-e-il-nuovo-presidente/",
+   "published": "2026-11-05T10:03:44+00:00"
+  },
+  {
+   "id": "3363159f9f32",
+   "section": "tv",
+   "title": "East of Eden, la miniserie western con Florence Pugh è tra le più viste di Netflix",
+   "summary": "La miniserie western East of Eden, con Florence Pugh, è diventata una delle miniserie più viste della storia di Netflix, secondo quanto riportato da Collider. Il risultato la pone alle spalle solo di Adolescence, altro successo recente della piattaforma.",
+   "body": "East of Eden, la nuova serie western di Netflix interpretata da Florence Pugh, si è affermata come una delle miniserie più viste della storia della piattaforma. Secondo quanto riportato da Collider, il titolo è il più visto tra le miniserie del servizio dopo Adolescence, il successo britannico che negli ultimi mesi ha attirato grande attenzione del pubblico.\n\nLa produzione, di impostazione epica, si inserisce nel filone del western televisivo e conferma l'interesse degli abbonati per le storie in formato breve e completo. Il dato sugli ascolti colloca la serie tra i risultati più solidi della piattaforma nel genere. Per ulteriori dettagli sui numeri ufficiali, occorre attendere i dati pubblicati direttamente da Netflix.",
+   "slug": "east-of-eden-la-miniserie-western-con-florence-pugh-e-tra-le-336315",
+   "tags": [
+    "East of Eden",
+    "Florence Pugh",
+    "Adolescence"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/east-of-eden-streaming-success-netflix-november-2026/",
+   "published": "2026-11-05T10:00:12+00:00"
+  },
+  {
+   "id": "b644337e230d",
+   "section": "cinema",
+   "title": "TrustNordisk acquisisce i diritti internazionali di Stiklestad",
+   "summary": "La società di vendite TrustNordisk ha acquisito i diritti di distribuzione internazionale del dramma vichingo Stiklestad, che sarà presentato al prossimo American Film Market. Il film è diretto da Erik Skjoldbjærg, regista di Insomnia.",
+   "body": "TrustNordisk ha acquisito i diritti di vendita internazionali di Stiklestad, dramma ambientato nell'epoca vichinga, e presenterà il progetto al prossimo American Film Market, uno dei principali appuntamenti del settore dedicati alla compravendita di film. Secondo Deadline, la regia è affidata a Erik Skjoldbjærg.\n\nIl regista norvegese è noto al pubblico internazionale soprattutto per Insomnia, thriller con Stellan Skarsgård che fu poi rifatto in lingua inglese con lo stesso titolo, diretto da Christopher Nolan. Nella notizia non sono indicati ulteriori dettagli su cast, data di uscita o produttori.",
+   "slug": "trustnordisk-acquisisce-i-diritti-internazionali-di-stiklest-b64433",
+   "tags": [
+    "Stiklestad",
+    "Erik Skjoldbjærg",
+    "TrustNordisk"
+   ],
+   "scene": "premiere",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/trustnordisk-stiklestad-erik-skjoldbjaerg-afm-1237214164/",
+   "published": "2026-11-05T10:00:00+00:00"
+  },
+  {
+   "id": "aba07cbb95d2",
+   "section": "tv",
+   "title": "The Rings of Power 3: Charlie Vickers parla di Sauron e Galadriel",
+   "summary": "L'attore Charlie Vickers ha descritto Sauron come frustrato dall'impossibilita' di raggiungere Galadriel nella terza stagione di The Rings of Power. Le sue dichiarazioni sono state riportate in un'intervista esclusiva con GamesRadar.",
+   "body": "Charlie Vickers, interprete di Sauron in The Rings of Power, ha dichiarato che nella terza stagione il suo personaggio appare frustrato perche' non riesce a raggiungere Galadriel. Il rapporto tra i due, al centro della serie Amazon, continua quindi a essere una delle linee narrative principali della nuova stagione.\n\nNell'intervista, anche Morfydd Clark, che interpreta Galadriel, ha parlato della dinamica tra i due personaggi. Secondo GamesRadar, la testata che ha raccolto le dichiarazioni, il confronto tra la nemica e il suo antagonista resta uno dei fili conduttori dello show. Il materiale disponibile non include ulteriori dettagli sugli sviluppi della trama.",
+   "slug": "the-rings-of-power-3-charlie-vickers-parla-di-sauron-e-galad-aba07c",
+   "tags": [
+    "The Rings of Power",
+    "Charlie Vickers",
+    "Morfydd Clark"
+   ],
+   "scene": "microfono",
+   "source": "gamesradar.com",
+   "url": "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/the-rings-of-power-star-charlie-vickers-says-sauron-is-frustrated-that-he-cant-reach-galadriel-in-season-3-she-is-now-beyond-his-reach/",
+   "published": "2026-11-05T10:00:00+00:00"
+  },
+  {
+   "id": "80f47680f633",
+   "section": "cinema",
+   "title": "Ferine, l'opera prima di Andrea Corsetti tra cinema di genere e ricerca formale",
+   "summary": "Ferine è l'opera prima di Andrea Corsetti, un film di genere dal tono crudo e dallo stile quasi clinico, con qualche ambizione d'autore. Secondo la recensione di Cinematografo, il risultato non è affatto anonimo.",
+   "body": "Ferine segna il debutto alla regia di Andrea Corsetti, che sceglie di muoversi nel territorio del cinema di genere con un film dichiaratamente fisico, dove il corpo e il sangue hanno un ruolo centrale. La messa in scena privilegia uno sguardo freddo e quasi clinico, accompagnato da alcune scelte più vicine al cinema d'autore.\n\nSecondo Cinematografo, il risultato non è anonimo: l'opera convince per la personalità con cui il regista unisce queste due anime, pur senza nascondere qualche eccesso di ambizione formale. Un esordio che si fa notare nel panorama del cinema italiano di genere.",
+   "slug": "ferine-l-opera-prima-di-andrea-corsetti-tra-cinema-di-genere-80f476",
+   "tags": [
+    "Ferine",
+    "Andrea Corsetti"
+   ],
+   "scene": "pellicola",
+   "source": "Cinematografo",
+   "url": "https://www.cinematografo.it/recensioni/ferine-fp2gyooh",
+   "published": "2026-11-05T09:59:50+00:00"
+  },
+  {
    "id": "319b660503bc",
    "section": "tv",
    "title": "Viola come il mare 3, la prima puntata su Canale 5 con il 17% di share",
@@ -7969,105 +8118,6 @@
    "source": "ANSA Cultura e Spettacoli",
    "url": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/11/02/ad-ancona-per-la-prima-volta-il-festival-liberi-libri-sulla-liberta-di-pensiero_9397c321-d0c0-4c68-a5e4-9f69ecc300f8.html",
    "published": "2026-11-02T16:57:03+00:00"
-  },
-  {
-   "id": "261e5297f6a4",
-   "section": "cinema",
-   "title": "L'impero dei sensi di Nagisa Ōshima torna al cinema in versione restaurata",
-   "summary": "Il film di Nagisa Ōshima L'impero dei sensi torna in sala dal 9 novembre in versione integrale restaurata. La notizia è riportata da BadTaste.",
-   "body": "Dal 9 novembre L'impero dei sensi di Nagisa Ōshima torna nelle sale italiane in una versione integrale restaurata. Secondo BadTaste, la riedizione riporta sul grande schermo il film del regista giapponese nella sua forma completa.\n\nIl ritorno in sala offre al pubblico l'occasione di riscoprire una delle opere più discusse della filmografia di Ōshima. Il materiale disponibile non specifica ulteriori dettagli su distribuzione, sale coinvolte o eventuali proiezioni speciali, che quindi non sono indicati in questa segnalazione.",
-   "slug": "l-impero-dei-sensi-di-nagisa-oshima-torna-al-cinema-in-versi-261e52",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/limpero-dei-sensi-il-film-di-nagisa-oshima-al-cinema-in-versione-integrale-restaurata",
-   "published": "2026-11-02T16:30:14+00:00"
-  },
-  {
-   "id": "2f2fae47cc6f",
-   "section": "cinema",
-   "title": "Dio ride, Favino e Orlando in vetta al box office",
-   "summary": "Dio ride, il nuovo film di Giovanni Veronesi con Pierfrancesco Favino e Silvio Orlando, debutta al primo posto del botteghino italiano. Superata la soglia di 1,2 milioni di euro di incassi.",
-   "body": "Il nuovo film di Giovanni Veronesi, Dio ride, esordisce al primo posto del box office italiano. La pellicola vede protagonisti Pierfrancesco Favino e Silvio Orlando, due nomi di primo piano del cinema nazionale.\n\nSecondo BadTaste, il film ha superato il muro dei 1,2 milioni di euro di incasso già nel weekend di uscita. Il risultato lo porta in cima alla classifica settimanale delle sale, davanti a tutti gli altri titoli in programmazione. Per ulteriori dettagli su cifre e numero di copie, si rimanda alle fonti di settore.",
-   "slug": "dio-ride-favino-e-orlando-in-vetta-al-box-office-2f2fae",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/dio-ride-il-nuovo-film-con-pierfrancesco-favino-domina-il-box-office",
-   "published": "2026-11-02T16:25:46+00:00"
-  },
-  {
-   "id": "54e99aebd50d",
-   "section": "cinema",
-   "title": "New York celebra Rossellini con una retrospettiva al Film Forum",
-   "summary": "Il Film Forum di New York dedica una retrospettiva di tre settimane a Roberto Rossellini, maestro del neorealismo. L'iniziativa si unisce alle celebrazioni di Los Angeles per il 120° anniversario della nascita del regista.",
-   "body": "Il Film Forum di New York ospita una retrospettiva di tre settimane dedicata a Roberto Rossellini, uno dei protagonisti del neorealismo italiano. L'appuntamento arriva nello stesso periodo in cui Los Angeles celebra la stessa ricorrenza, creando un ideale collegamento tra le due città americane.\n\nIl programma è pensato per ricordare il 120° anniversario della nascita del regista, nato nel 1906. Secondo ANSA, la rassegna newyorkese rientra in un percorso di celebrazioni che attraversa gli Stati Uniti e rilancia l'interesse per un autore che ha segnato la storia del cinema italiano e internazionale.",
-   "slug": "new-york-celebra-rossellini-con-una-retrospettiva-al-film-fo-54e99a",
-   "source": "ANSA Cinema",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/ny-si-unisce-a-los-angeles-e-celebra-il-120o-anniversario-della-nascita-di-rossellini_788ae064-c782-4abc-bb19-192c6bbeabf6.html",
-   "published": "2026-11-02T16:19:01+00:00"
-  },
-  {
-   "id": "46c811dd0655",
-   "section": "cinema",
-   "title": "Bill Burr difende Digger di Iñárritu contro i critici",
-   "summary": "Il comico Bill Burr ha difeso Digger, il nuovo film di Alejandro G. Iñárritu con Tom Cruise e John Goodman, durante il suo Monday Morning Podcast. Secondo Burr, le recensioni negative sul film non invecchieranno bene.",
-   "body": "Il comico, attore e podcaster statunitense Bill Burr è intervenuto in difesa di Digger, l'ultimo film di Alejandro G. Iñárritu con Tom Cruise e John Goodman. Parlando con il collega Sam Morril nel corso di una puntata del suo Monday Morning Podcast, Burr ha espresso la sua opinione sulle stroncature ricevute dalla pellicola.\n\nSecondo quanto riportato da Cinefilos, Burr ha affermato che le recensioni negative non invecchieranno bene, lasciando intendere che il tempo darà una lettura diversa del film rispetto alle critiche iniziali. Le sue parole arrivano in un momento di discussione sull'accoglienza del film, e sono state pronunciate in un contesto informale di conversazione tra comici.",
-   "slug": "bill-burr-difende-digger-di-inarritu-contro-i-critici-46c811",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/bill-burr-difende-digger-inarritu-attacca-critici-728901",
-   "published": "2026-11-02T15:51:14+00:00"
-  },
-  {
-   "id": "bc959391f0fb",
-   "section": "cinema",
-   "title": "Lo schermo dell'arte porta a Firenze film su crisi ecologica e guerra",
-   "summary": "Dall'11 al 15 novembre Firenze ospita una rassegna di film in anteprima proposta da Lo schermo dell'arte. Il programma affronta temi come la crisi ecologica e la guerra.",
-   "body": "Dall'11 al 15 novembre Firenze ospita una rassegna di film in anteprima organizzata da Lo schermo dell'arte, dedicata a opere che riflettono sui grandi temi del presente. Secondo ANSA, il programma spazia dalla crisi ecologica ai conflitti armati, offrendo al pubblico uno sguardo cinematografico su questioni di forte attualità.\n\nLa manifestazione si svolge nel capoluogo toscano nell'arco di cinque giorni. Il materiale disponibile non riporta ulteriori dettagli su titoli, sedi o orari delle proiezioni, che andranno verificati presso gli organizzatori prima di programmare la visita.",
-   "slug": "lo-schermo-dell-arte-porta-a-firenze-film-su-crisi-ecologica-bc9593",
-   "source": "ANSA Cinema",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/dalla-crisi-ecologica-alla-guerra-film-in-anteprima-con-lo-schermo-dellarte_2c3e9618-b2a9-4853-a666-b1051e483d33.html",
-   "published": "2026-11-02T15:48:32+00:00"
-  },
-  {
-   "id": "431cc56369ba",
-   "section": "gossip",
-   "title": "Matilde Brandi critica L'Eredità e difende Greta Zuccarello",
-   "summary": "Matilde Brandi ha espresso critiche al cambio di professoresse a L'Eredità, difendendo Greta Zuccarello. Secondo quanto riportato, l'ex concorrente ha lanciato un appello alla Rai affinché valorizzi i giovani talenti.",
-   "body": "Matilde Brandi è intervenuta sul cambio di professoresse a L'Eredità, il quiz condotto su Rai1, prendendo posizione in difesa di Greta Zuccarello. Secondo quanto riportato da BadTaste, la Brandi ha affermato che la rete ha perso qualcosa con questa scelta, sottolineando che alcuni talenti vanno coltivati con attenzione e tempo.\n\nIl suo intervento si inserisce in un dibattito sulle decisioni di programmazione della trasmissione e sul ruolo delle giovani figure del programma. Le parole della Brandi sono un appello rivolto alla Rai affinché investa nei volti emergenti, invece di sostituirli rapidamente. La notizia riguarda dichiarazioni pubbliche dell'artista e non contiene ulteriori dettagli ufficiali da parte dell'emittente.",
-   "slug": "matilde-brandi-critica-l-eredita-e-difende-greta-zuccarello-431cc5",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/matilde-brandi-attacca-leredita-e-difende-greta-zuccarello-rai1-ha-perso-certi-talenti-vanno-coltivati",
-   "published": "2026-11-02T15:44:01+00:00"
-  },
-  {
-   "id": "98b89a3a871b",
-   "section": "cinema",
-   "title": "Dustin Hoffman ricorda le riprese de Il laureato",
-   "summary": "Dustin Hoffman ha raccontato che le riprese de Il laureato sono state un'esperienza difficile per lui. L'attore ha spiegato di aver temuto di non essere all'altezza del ruolo di Benjamin Braddock.",
-   "body": "Dustin Hoffman è tornato a parlare del film Il laureato, il cui ruolo di Benjamin Braddock lo ha reso celebre. Secondo ANSA, l'attore ha definito le riprese un'esperienza terribile per lui, legata al timore di non riuscire a reggere il personaggio.\n\nIl dubbio di Hoffman riguardava la propria capacità di interpretare un giovane così complesso e lontano da lui. Il racconto arriva dalle parole dell'attore riportate dall'agenzia, che ricostruiscono il clima vissuto durante la lavorazione della pellicola diretta da Mike Nichols. Il film resta uno dei titoli più noti della storia del cinema americano.",
-   "slug": "dustin-hoffman-ricorda-le-riprese-de-il-laureato-98b89a",
-   "source": "ANSA Cinema",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/dustin-hoffman-girare-ll-laureato-e-stata-unesperienza-terribile-per-me_4de57af8-5c4e-40d1-9d18-beb4ef2907dd.html",
-   "published": "2026-11-02T15:25:30+00:00"
-  },
-  {
-   "id": "b95eafc324a5",
-   "section": "cinema",
-   "title": "Aronofsky testa l'intelligenza artificiale per il suo prossimo film",
-   "summary": "Darren Aronofsky sta valutando l'uso dell'intelligenza artificiale nel suo prossimo film, che girerà di nuovo con il direttore della fotografia Matthew Libatique. Lo ha confermato lo stesso Libatique, che ha spiegato che i due stanno preparando dei test per capire come integrare queste tecnologie nel processo creativo.",
-   "body": "Il regista di The Wrestler e Il cigno nero sta valutando di impiegare l'intelligenza artificiale nel suo prossimo lungometraggio. Il progetto vedrà ancora una volta al suo fianco il direttore della fotografia Matthew Libatique, storico collaboratore di Aronofsky.\n\nSecondo quanto riferito da Cinefilos, a confermare la notizia è stato proprio Libatique, che ha spiegato che i due stanno preparando alcuni test per capire come integrare queste tecnologie nel processo creativo. L'esperimento rappresenta un passo nuovo per il cineasta, che si confronta con uno strumento ancora molto discusso nel mondo del cinema. Al momento non sono stati resi noti altri dettagli sul film né sui tempi di realizzazione.",
-   "slug": "aronofsky-testa-l-intelligenza-artificiale-per-il-suo-prossi-b95eaf",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/darren-aronofsky-sperimentera-ai-prossimo-film-728895",
-   "published": "2026-11-02T15:19:30+00:00"
-  },
-  {
-   "id": "adbc33643401",
-   "section": "cinema",
-   "title": "\"Dio ride\" di Giovanni Veronesi debutta in testa al box office",
-   "summary": "Il nuovo film di Giovanni Veronesi, \"Dio ride\", ha conquistato il primo posto del box office nel weekend di Halloween. Il titolo ha incassato 1.233.959 euro con 172.708 spettatori complessivi.",
-   "body": "Il nuovo film di Giovanni Veronesi, \"Dio ride\", apre al primo posto della classifica del box office italiano. Secondo RB Casting, nel primo weekend di programmazione la pellicola ha totalizzato un incasso di 1.233.959 euro, con 172.708 spettatori complessivi, risultando il film più visto del fine settimana di Halloween.\n\nIl regista ha commentato il risultato dichiarando di essere felice per l'affetto con cui il pubblico ha accolto la sua opera. Il dato di esordio colloca il titolo davanti a tutte le altre uscite della settimana, in una stagione autunnale che il cinema italiano cerca di rilanciare dopo i mesi più difficili.",
-   "slug": "dio-ride-di-giovanni-veronesi-debutta-in-testa-al-box-office-adbc33",
-   "source": "RB Casting",
-   "url": "https://www.rbcasting.com/flash-news/2026/11/02/dio-ride-di-giovanni-veronesi-debutta-in-testa-al-box-office/",
-   "published": "2026-11-02T15:18:08+00:00"
   }
  ],
  "seen": [
@@ -9454,7 +9504,31 @@
   "ee5fbf8609cf",
   "abdf064fbf3e",
   "2f6b4061c143",
-  "6b6cae45f6a0"
+  "6b6cae45f6a0",
+  "919ff1481ec1",
+  "25cb287159a2",
+  "82b869b3417d",
+  "772a352d08da",
+  "e1bea4cbb597",
+  "50412917174d",
+  "cf26fa795555",
+  "ce5ed8c40530",
+  "419c97837f9c",
+  "a733ff3d9a34",
+  "9cd388e76bc6",
+  "f6812b773535",
+  "c078f328731a",
+  "2a6f603a642d",
+  "3363159f9f32",
+  "d299be633072",
+  "b118b70cee5e",
+  "bfb2d8c3e33c",
+  "823d2e41043e",
+  "b644337e230d",
+  "aba07cbb95d2",
+  "80f47680f633",
+  "359c0ada2b4d",
+  "70d43315ea90"
  ],
  "version": 4,
  "digests": []
