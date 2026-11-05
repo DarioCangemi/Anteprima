@@ -1,6 +1,38 @@
 {
  "articles": [
   {
+   "id": "bf7b518f5317",
+   "section": "tv",
+   "title": "Ransom Canyon, il western romantico di Netflix in due stagioni",
+   "summary": "Ransom Canyon, western sentimentale disponibile su Netflix, viene descritto come una visione leggera e rilassante, ideale per il binge watching. La serie si distingue per il tono da telenovela e l'ambientazione nel vecchio West.",
+   "body": "Su Netflix arriva al centro dell'attenzione Ransom Canyon, western dal tono sentimentale che il sito Collider definisce una delle maratone più coinvolgenti della piattaforma. La serie, articolata in due stagioni, mescola atmosfere da frontiera e trame romantiche in stile telenovela, con un ritmo pensato per essere seguito senza fatica.\n\nSecondo Collider, il titolo si presta soprattutto come visione di conforto: una fuga semplice e accogliente per chi cerca intrattenimento leggero. Non si tratta di un'opera di grande complessità, ma proprio la sua impostazione immediata la rende adatta a un pomeriggio o a una serata di binge watching.",
+   "slug": "ransom-canyon-il-western-romantico-di-netflix-in-due-stagion-bf7b51",
+   "tags": [
+    "Ransom Canyon",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/ransom-canyon-netflix-western-streaming-binge/",
+   "published": "2026-11-05T05:06:12+00:00"
+  },
+  {
+   "id": "edbd03aa7e44",
+   "section": "tv",
+   "title": "Jimmy Fallon e la battuta sul \"Reverse Jan. 6\" dopo le sconfitte repubblicane",
+   "summary": "Nel suo monologo, il conduttore del Tonight Show Jimmy Fallon ha scherzato sulle sconfitte del Partito Repubblicano alle elezioni di metà mandato, definendole un'onda blu causata da un presidente arancione. Secondo TheWrap, la battuta è stata accompagnata da una risata trattenuta del conduttore.",
+   "body": "Durante il suo monologo al Tonight Show, Jimmy Fallon ha commentato con ironia la sconfitta del Partito Repubblicano alle elezioni di metà mandato. Il conduttore ha costruito una battuta sul \"Reverse Jan. 6\", un rovesciamento scherzoso del riferimento all'assalto al Congresso del 6 gennaio, sostenendo che si sia trattato di un'onda blu provocata da un presidente arancione. Secondo TheWrap, Fallon ha cercato di trattenere una risata mentre pronunciava la frase.\n\nIl passaggio è diventato subito virale tra i commentatori americani, che hanno letto la battuta come un segnale della linea satirica che il programma adotta nei confronti della politica di Washington. La notizia riguarda un momento del monologo serale, senza ulteriori dichiarazioni del conduttore riportate dalla fonte.",
+   "slug": "jimmy-fallon-e-la-battuta-sul-reverse-jan-6-dopo-le-sconfitt-edbd03",
+   "tags": [
+    "Jimmy Fallon",
+    "The Tonight Show"
+   ],
+   "scene": "microfono",
+   "source": "thewrap.com",
+   "url": "https://www.thewrap.com/creative-content/tv-shows/jimmy-fallon-suppresses-laugh-gop-midterms-loss-joke/",
+   "published": "2026-11-05T04:48:46+00:00"
+  },
+  {
    "id": "f8a702a877a4",
    "section": "tv",
    "title": "Dope Thief, la serie di Ridley Scott su Apple TV con Wagner Moura",
@@ -49,6 +81,23 @@
    "scene": "premiere",
    "source": "spoilertv.com",
    "url": "https://www.spoilertv.com/2026/11/chicago-fire-three-hundred-review-huge.html",
+   "published": "2026-11-05T04:00:00+00:00"
+  },
+  {
+   "id": "027f16571860",
+   "section": "tv",
+   "title": "The Amazing Race 39: eliminata una squadra nella settima tappa in Sri Lanka",
+   "summary": "Nella settima tappa di The Amazing Race 39, otto squadre sono arrivate in Sri Lanka dove hanno incontrato il conduttore Phil Keoghan per una nuova prova. Due squadre penalizzate sono finite in lizza per l'ultimo posto e una di loro è stata eliminata.",
+   "body": "Nella settima tappa di The Amazing Race 39, le otto squadre rimaste sono arrivate in Sri Lanka, dove hanno trovato ad attenderle il conduttore Phil Keoghan con una nuova sorpresa. Secondo TV Insider, la tappa si è chiusa con un'altra eliminazione, decisa in un duello tra due squadre che erano già state penalizzate.\n\nDoug e Dylan Matter, arrivati ultimi nella tappa precedente senza eliminazione, hanno ricevuto una penalità anche per questa tappa. Il materiale disponibile non riporta altri dettagli sulla prova né sul percorso delle altre squadre.",
+   "slug": "the-amazing-race-39-eliminata-una-squadra-nella-settima-tapp-027f16",
+   "tags": [
+    "The Amazing Race",
+    "Phil Keoghan",
+    "Doug Matter"
+   ],
+   "scene": null,
+   "source": "tvinsider.com",
+   "url": "https://www.tvinsider.com/1301739/the-amazing-race-2026-episode-7-recap-doug-dylan-eliminated-u-turn/",
    "published": "2026-11-05T04:00:00+00:00"
   },
   {
@@ -9203,7 +9252,23 @@
   "9a70aa6c1f8b",
   "3855bcbe2d58",
   "24e74a879896",
-  "0e356e171f44"
+  "0e356e171f44",
+  "bf7b518f5317",
+  "e22544b8df08",
+  "b0f0a5aa7426",
+  "26da58f30d9e",
+  "7e3000bc3fbb",
+  "b10a73f332dc",
+  "9e2db619ce83",
+  "fec28d6b633e",
+  "499dde203729",
+  "edbd03aa7e44",
+  "90126f1e0d84",
+  "9c693690d7de",
+  "14b0a587b928",
+  "027f16571860",
+  "e02bf80b09c2",
+  "dac7d13dfd2e"
  ],
  "version": 4,
  "digests": []
