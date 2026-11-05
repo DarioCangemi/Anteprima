@@ -1,6 +1,74 @@
 {
  "articles": [
   {
+   "id": "47d801e7417b",
+   "section": "cinema",
+   "title": "Attori sostituiti dopo il casting in grandi film: da Back to the Future a Indiana Jones",
+   "summary": "Una lista di cinque attori scelti per ruoli iconici di grandi produzioni e poi sostituiti prima del set o durante le riprese. Tra i casi citati Eric Stoltz in Ritorno al futuro e Tom Selleck in Indiana Jones.",
+   "body": "Il sito JoBlo ha raccolto cinque casi di attori che erano stati scelti per ruoli di primo piano in film di grande successo e che poi sono stati sostituiti. Tra gli esempi citati ci sono Eric Stoltz, inizialmente previsto per Ritorno al futuro, e Tom Selleck, che era stato scelto per interpretare Indiana Jones prima che il ruolo andasse a Harrison Ford.\n\nSecondo la fonte, questi cambi di casting sono avvenuti in fasi diverse della lavorazione, a volte prima dell'inizio delle riprese, altre volte nel pieno della produzione. L'articolo ripercorre le ragioni artistiche e produttive che hanno portato alle sostituzioni, senza però presentarle come certezze definitive per ogni caso. Il materiale disponibile è una breve anteprima, quindi i dettagli completi della lista restano nell'articolo originale.",
+   "slug": "attori-sostituiti-dopo-il-casting-in-grandi-film-da-back-to-47d801",
+   "tags": [
+    "Ritorno al futuro",
+    "Indiana Jones",
+    "Eric Stoltz"
+   ],
+   "scene": "ciak",
+   "source": "joblo.com",
+   "url": "https://www.joblo.com/5-actors-who-were-cast-in-huge-movies-then-replaced/",
+   "published": "2026-11-05T21:17:38+00:00"
+  },
+  {
+   "id": "6418ebf5801c",
+   "section": "tv",
+   "title": "The Diplomat, la serie Netflix con Keri Russell tra crisi internazionali e giochi di potere",
+   "summary": "The Diplomat è la serie politica di Netflix che segue l'ambasciatrice Kate Wyler tra crisi internazionali e manovre alla Casa Bianca. Una proposta che la testata americana Collider giudica tra le migliori del genere recenti.",
+   "body": "Netflix propone The Diplomat, thriller politico che ruota attorno all'ambasciatrice americana Kate Wyler, chiamata a gestire crisi internazionali di grande delicatezza. La serie intreccia la diplomazia sul campo con le dinamiche di potere interne alla Casa Bianca, dove ogni decisione internazionale ha ricadute immediate sugli equilibri politici di Washington.\n\nSecondo Collider, la serie merita di essere messa al centro dell'attenzione, anche rispetto ad altri titoli del catalogo politico della piattaforma come The Night Agent. La testata americana ne sottolinea la scrittura intelligente e la capacità di tenere alta la tensione episodio dopo episodio, senza rinunciare alla complessità dei personaggi.",
+   "slug": "the-diplomat-la-serie-netflix-con-keri-russell-tra-crisi-int-6418eb",
+   "tags": [
+    "The Diplomat",
+    "Keri Russell",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/the-diplomat-netflix-political-thriller-series/",
+   "published": "2026-11-05T21:17:12+00:00"
+  },
+  {
+   "id": "1a5f3bd0be86",
+   "section": "cinema",
+   "title": "Cara Delevingne al red carpet di Club Kid a Los Angeles",
+   "summary": "Cara Delevingne, Jordan Firstman e Diego Calva sono stati fotografati insieme alla premiere di Club Kid a Los Angeles. Il gruppo ha posato sul red carpet con un momento scherzoso davanti ai fotografi.",
+   "body": "Club Kid è tornato sotto i riflettori sul red carpet di Los Angeles, dove il cast del film si è ritrovato per la premiere. Protagonista della serata è stata Cara Delevingne, che durante le foto ufficiali ha ricevuto un bacio a tre con i colleghi Jordan Firstman e Diego Calva, un gesto giocoso che ha catturato l'attenzione dei fotografi presenti.\n\nSecondo Just Jared, il momento ha confermato il legame tra gli interpreti, reduci dalla lavorazione del film. Il materiale disponibile non specifica altri dettagli sull'evento né sulla trama della pellicola, ma l'immagine del trio sul tappeto rosso offre uno sguardo sull'atmosfera della serata.",
+   "slug": "cara-delevingne-al-red-carpet-di-club-kid-a-los-angeles-1a5f3b",
+   "tags": [
+    "Club Kid",
+    "Cara Delevingne",
+    "Diego Calva"
+   ],
+   "scene": "tappeto",
+   "source": "justjared.com",
+   "url": "https://www.justjared.com/2026/11/05/jordan-firstman-diego-calva-put-cara-delevingne-in-kiss-sandwich-at-club-kid-premiere-in-l-a/",
+   "published": "2026-11-05T21:12:08+00:00"
+  },
+  {
+   "id": "5cba54ae7390",
+   "section": "cinema",
+   "title": "Frankenstein di Guillermo del Toro, nella director's cut torna l'omicidio tagliato",
+   "summary": "Guillermo del Toro ha spiegato perché James Cameron lo convinse a eliminare un omicidio dalla versione in sala di Frankenstein. Nella director's cut quella scena torna nel film.",
+   "body": "Secondo quanto riportato da whats-on-netflix.com, Guillermo del Toro ha raccontato i motivi per cui James Cameron lo spinse a tagliare un omicidio dalla versione cinematografica del suo Frankenstein. La scena, particolarmente forte, era stata eliminata prima dell'uscita nelle sale.\n\nNella director's cut il regista ripristina quel momento, che torna così a far parte del film. Del Toro ha spiegato le ragioni della scelta originaria e del ripensamento, legato al consiglio ricevuto da Cameron durante la lavorazione.",
+   "slug": "frankenstein-di-guillermo-del-toro-nella-director-s-cut-torn-5cba54",
+   "tags": [
+    "Guillermo del Toro",
+    "James Cameron",
+    "Frankenstein"
+   ],
+   "scene": "pellicola",
+   "source": "whats-on-netflix.com",
+   "url": "https://www.whats-on-netflix.com/news/james-cameron-guillermo-del-toro-frankenstein-deleted-scene/",
+   "published": "2026-11-05T21:10:44+00:00"
+  },
+  {
    "id": "cc87e50b46a4",
    "section": "cinema",
    "title": "Curry Barker vorrebbe girare una versione R-rated di Indiana Jones",
@@ -436,6 +504,23 @@
    "source": "Cineblog",
    "url": "https://www.cineblog.it/post/shaun-vita-pecora-operazione-zucca",
    "published": "2026-11-05T18:17:16+00:00"
+  },
+  {
+   "id": "1423d3cbd8fd",
+   "section": "cinema",
+   "title": "Torino Film Festival: ospiti John Travolta, Pamela Anderson e Fanny Ardant",
+   "summary": "Il Torino Film Festival annuncia tra i suoi ospiti John Travolta, Pamela Anderson e Fanny Ardant. L'edizione avrà un'impronta al femminile, con dieci registe su sedici film in programma, e si chiuderà con un film di Denis Villeneuve.",
+   "body": "Il Torino Film Festival si prepara a ospitare nomi di primo piano del cinema internazionale. Secondo ANSA, tra gli ospiti dell'edizione figurano John Travolta, Pamela Anderson e Fanny Ardant, presenze che porteranno al festival piemontese grande attenzione da parte del pubblico e della stampa.\n\nLa rassegna avrà una forte impronta femminile: dieci dei sedici film della selezione base sono diretti da registe. A chiudere il festival sarà Denis Villeneuve, regista noto al pubblico italiano per i suoi film di fantascienza e di grande respiro.",
+   "slug": "torino-film-festival-ospiti-john-travolta-pamela-anderson-e-1423d3",
+   "tags": [
+    "Torino Film Festival",
+    "John Travolta",
+    "Denis Villeneuve"
+   ],
+   "scene": "premiere",
+   "source": "ANSA Cinema",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/05/al-torino-film-festival-john-travolta-pamela-anderson-e-fanny-ardant_c4e261cd-99f9-4790-a142-fb2e62b32988.html",
+   "published": "2026-11-05T18:17:13+00:00"
   },
   {
    "id": "cdad0af9ada3",
@@ -1357,6 +1442,23 @@
    "source": "superguidatv.it",
    "url": "https://www.superguidatv.it/lupin-4-conquista-il-podio-tra-le-serie-netflix-piu-viste/",
    "published": "2026-11-05T14:48:01+00:00"
+  },
+  {
+   "id": "b47fcd21cc27",
+   "section": "tv",
+   "title": "Forbidden fruit 4, nella puntata del 5 novembre un incidente in auto",
+   "summary": "Nuovo appuntamento con la soap turca Forbidden fruit 4 su Mediaset. Nell'episodio di giovedì 5 novembre Yildiz, impartendo lezioni di guida ad Asuman, scambia l'acceleratore per il freno e urta alcune auto in sosta.",
+   "body": "La soap turca Forbidden fruit 4 torna con una nuova puntata in programma giovedì 5 novembre, disponibile in replica anche in streaming sui canali Mediaset. Al centro dell'episodio c'è una lezione di guida improvvisata: Yildiz insegna a Asuman a guidare una delle auto di Hasan Ali.\n\nDurante la prova, però, Yildiz scambia l'acceleratore per il freno e finisce per urtare diverse vetture parcheggiate. Asuman, che non possiede la patente, e Yildiz si allontanano impaurite dal luogo dell'incidente, aprendo una situazione che promette nuovi sviluppi. Secondo quanto riportato da SuperGuidaTV, la replica è consultabile sul sito e sull'app di Mediaset.",
+   "slug": "forbidden-fruit-4-nella-puntata-del-5-novembre-un-incidente-b47fcd",
+   "tags": [
+    "Forbidden fruit 4",
+    "Yildiz",
+    "Asuman"
+   ],
+   "scene": "streaming",
+   "source": "superguidatv.it",
+   "url": "https://www.superguidatv.it/forbidden-fruit-4-replica-puntata-5-novembre-in-streaming-video-mediaset/",
+   "published": "2026-11-05T14:39:42+00:00"
   },
   {
    "id": "e93744811aa5",
@@ -8232,106 +8334,6 @@
    "source": "deadline.com",
    "url": "https://deadline.com/2026/11/nicolas-cage-lucy-hale-films-backed-new-fund-archetype-1237212156/",
    "published": "2026-11-03T17:15:00+00:00"
-  },
-  {
-   "id": "e7da202e2c7b",
-   "section": "cinema",
-   "title": "Chris Jericho protagonista di I Am the Teeth, horror con licantropi",
-   "summary": "Il wrestler Chris Jericho sarà protagonista di I Am the Teeth, creature feature diretta da Scott B. Hansen per il marchio Dread Originals di Epic Pictures Group. Il film è descritto come un incrocio tra The Goonies e i film sui licantropi come Silver Bullet.",
-   "body": "Il wrestler Chris Jericho avrà un ruolo da protagonista in I Am the Teeth, una creature feature horror che prosegue la sua presenza nel genere dopo Terrifier 2 e Dark Match. La regia è affidata a Scott B. Hansen, già autore di Bad Candy, e la produzione fa capo al marchio Dread Originals di Epic Pictures Group.\n\nSecondo quanto riportato da Bloody Disgusting, che cita Deadline, il film segue un gruppo di cinque amici di mezza età e viene presentato come un mix tra l'avventura corale di The Goonies e il racconto di licantropi di Silver Bullet. Al momento non sono disponibili ulteriori dettagli su data di uscita o distribuzione.",
-   "slug": "chris-jericho-protagonista-di-i-am-the-teeth-horror-con-lica-e7da20",
-   "tags": [
-    "Chris Jericho",
-    "I Am the Teeth",
-    "Terrifier 2"
-   ],
-   "scene": "ciak",
-   "source": "bloody-disgusting.com",
-   "url": "https://bloody-disgusting.com/movie/3974417/i-am-the-teeth-chris-jericho-starring-in-the-goonies-meets-silver-bullet-werewolf-movie/",
-   "published": "2026-11-03T17:14:50+00:00"
-  },
-  {
-   "id": "0fae9efd8604",
-   "section": "cinema",
-   "title": "The Twelve Dates of Christmas: Lucy Hale e Ian Harding nel nuovo trailer",
-   "summary": "È uscito il trailer di The Twelve Dates of Christmas, film con Lucy Hale e Ian Harding, ex protagonisti di Pretty Little Liars, tornati a interpretare una coppia a quasi dieci anni di distanza. La data di uscita è stata annunciata insieme al trailer.",
-   "body": "Lucy Hale e Ian Harding tornano a recitare insieme come interpreti di una storia d'amore, quasi dieci anni dopo la fine di Pretty Little Liars. Nel nuovo trailer di The Twelve Dates of Christmas, il personaggio di Hale, Christina, si innamora di quello interpretato da Harding. Secondo TV Insider, il film ha ora anche una data di uscita ufficiale.\n\nLa protagonista ha sempre messo la carriera davanti alla vita sentimentale, ma la pressione della famiglia la spinge ad accettare dodici appuntamenti nelle dodici settimane che precedono il Natale. Il trailer mostra così il percorso di una donna che, appuntamento dopo appuntamento, è costretta a rimettere in discussione le proprie priorità.",
-   "slug": "the-twelve-dates-of-christmas-lucy-hale-e-ian-harding-nel-nu-0fae9e",
-   "tags": [
-    "The Twelve Dates of Christmas",
-    "Lucy Hale",
-    "Ian Harding"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/swooon/1307877/twelve-dates-of-christmas-lucy-hale-ian-harding-movie-release-date-plot-updates/",
-   "published": "2026-11-03T17:12:21+00:00"
-  },
-  {
-   "id": "3321a979887f",
-   "section": "musica",
-   "title": "Kurt Elling e gli Yellowjackets celebrano i Weather Report al Roma Jazz Festival",
-   "summary": "Il cantante Kurt Elling e la band degli Yellowjackets saranno protagonisti di un concerto dedicato ai Weather Report, nell'ambito del Roma Jazz Festival. L'appuntamento è fissato per il 4 novembre all'Auditorium Parco della Musica di Roma.",
-   "body": "Il Roma Jazz Festival ospita il 4 novembre, all'Auditorium Parco della Musica di Roma, un concerto che unisce la voce di Kurt Elling e la formazione degli Yellowjackets. Il programma è dedicato alla musica dei Weather Report, storico gruppo jazz-fusion che ha segnato la scena internazionale negli anni Settanta e Ottanta.\n\nSecondo ANSA, l'evento rientra nel calendario della rassegna capitolina e propone una rilettura del repertorio del celebre gruppo, affidata a due nomi noti del jazz contemporaneo. La notizia è stata diffusa dall'agenzia nella sezione Cultura e Spettacoli.",
-   "slug": "kurt-elling-e-gli-yellowjackets-celebrano-i-weather-report-a-3321a9",
-   "tags": [
-    "Kurt Elling",
-    "Yellowjackets",
-    "Roma Jazz Festival"
-   ],
-   "scene": "palco",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/03/roma-jazz-festival-kurt-elling-yellowjackets-celebrano-i-weather-report_bf896bf8-a4a3-44be-8f0b-ced746ad88c1.html",
-   "published": "2026-11-03T17:07:39+00:00"
-  },
-  {
-   "id": "ce3df4349c2c",
-   "section": "cinema",
-   "title": "Il Gatto col cappello arriva al cinema dal 5 novembre",
-   "summary": "Dal 5 novembre arriva nelle sale il film animato Il Gatto col cappello, co-diretto dall'italiano Alessandro Carloni e distribuito da Warner Bros. La pellicola punta sul tema della libertà di rompere le regole.",
-   "body": "Dal 5 novembre approda nelle sale italiane Il Gatto col cappello, film d'animazione co-diretto dall'italiano Alessandro Carloni e prodotto per Warner Bros. Il film è costruito attorno a un'idea precisa: la libertà di rompere le regole, che secondo quanto riportato dall'ANSA è il filo conduttore della storia.\n\nCarloni, regista di origine italiana, firma la co-regia di un progetto destinato al pubblico delle famiglie e dei più giovani. Il lancio in sala è fissato per la data indicata, mentre il materiale disponibile non riporta ulteriori dettagli sul cast o sulla trama. Per approfondimenti sul film e sulle sue caratteristiche tecniche si rimanda alla distribuzione.",
-   "slug": "il-gatto-col-cappello-arriva-al-cinema-dal-5-novembre-ce3df4",
-   "tags": [
-    "Il Gatto col cappello",
-    "Alessandro Carloni",
-    "Warner Bros"
-   ],
-   "scene": "sala",
-   "source": "ANSA Cinema",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/03/il-gatto-col-cappello-porta-al-cinema-la-liberta-di-rompere-le-regole_c6bad39d-124c-4542-9c64-809bb5896987.html",
-   "published": "2026-11-03T17:02:34+00:00"
-  },
-  {
-   "id": "b6ee0393e631",
-   "section": "tv",
-   "title": "Chris Hemsworth, il franchise d'azione su Netflix cresce ancora",
-   "summary": "Il franchise d'azione con Chris Hemsworth sta avendo grande successo su Netflix, e il suo pubblico è destinato ad aumentare. L'attore australiano, noto soprattutto per il ruolo di Thor nel Marvel Cinematic Universe, è oggi una delle star action più riconoscibili di Hollywood.",
-   "body": "Il franchise d'azione interpretato da Chris Hemsworth sta dominando il catalogo di Netflix, e secondo quanto riportato da Cinefilos le prospettive di crescita del progetto sono ancora positive. La notizia segnala un successo già consolidato sulla piattaforma di streaming, con un interesse del pubblico destinato ad aumentare nei prossimi tempi.\n\nL'attore australiano è diventato nel corso degli anni una delle star action più riconoscibili di Hollywood, soprattutto grazie al decennio trascorso nei panni di Thor nel Marvel Cinematic Universe. Secondo la fonte, il suo fascino va però oltre il celebre martello del personaggio, e questo spiega il richiamo che le sue produzioni d'azione esercitano sugli abbonati di Netflix.",
-   "slug": "chris-hemsworth-il-franchise-d-azione-su-netflix-cresce-anco-b6ee03",
-   "tags": [
-    "Chris Hemsworth",
-    "Netflix",
-    "Thor"
-   ],
-   "scene": "streaming",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/tutto-film/approfondimenti/tyler-rake-serie-azione-chris-hemsworth-netflix-729108",
-   "published": "2026-11-03T17:02:21+00:00"
-  },
-  {
-   "id": "13c0065f54f3",
-   "section": "cinema",
-   "title": "Su Netflix un thriller spagnolo ambientato nella crisi del 2013",
-   "summary": "Un nuovo thriller spagnolo arriva su Netflix e racconta una rapina in banca ambientata durante la crisi economica del 2013. Dopo il colpo, tra i complici emergono tradimenti e segreti.",
-   "body": "Su Netflix è disponibile un nuovo thriller spagnolo ambientato nel pieno della crisi economica del 2013. Al centro della storia c'è una rapina in banca, che però non porta ai risultati sperati: dopo il colpo emergono tradimenti e segreti tra i membri della banda.\n\nSecondo BadTaste, il film costruisce la sua tensione proprio sul sospetto reciproco. Ogni complice nasconde qualcosa agli altri, e il racconto procede svelando, poco alla volta, quanto ciascuno fosse disposto a mentire. Il contesto sociale della crisi fa da sfondo alle scelte dei personaggi.",
-   "slug": "su-netflix-un-thriller-spagnolo-ambientato-nella-crisi-del-2-13c006",
-   "tags": [
-    "Netflix"
-   ],
-   "scene": "streaming",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/questo-nuovo-thriller-spagnolo-su-netflix-nasconde-un-segreto-nessuno-dei-rapinatori-era-sincero",
-   "published": "2026-11-03T17:00:32+00:00"
   }
  ],
  "seen": [
@@ -10078,7 +10080,31 @@
   "f7aa1a7a378e",
   "18cfd3ec7d6b",
   "5520a3441c57",
-  "d8d10e7578ec"
+  "d8d10e7578ec",
+  "65c4e8a99413",
+  "47d801e7417b",
+  "6418ebf5801c",
+  "afe5d8ec8307",
+  "829c2b60250a",
+  "efbfcfc665fe",
+  "3ac36d160d2a",
+  "661a0d820776",
+  "1423d3cbd8fd",
+  "2403b3821137",
+  "4f4c94bf5be0",
+  "b47fcd21cc27",
+  "49ed5c8c4b6d",
+  "546100f3bc7b",
+  "1a5f3bd0be86",
+  "88af6e1e8846",
+  "5cba54ae7390",
+  "d12bf68f139d",
+  "a673e4b254f0",
+  "767ce1dc04d1",
+  "1f56405b529d",
+  "e0ec6c21f3fe",
+  "71053372b36a",
+  "00dd7a957146"
  ],
  "version": 4,
  "digests": []
