@@ -1,6 +1,73 @@
 {
  "articles": [
   {
+   "id": "9648824df2f8",
+   "section": "cinema",
+   "title": "The End of Oak Street arriva in streaming su HBO Max",
+   "summary": "The End of Oak Street, accolto al box office al di sotto delle attese, ha finalmente una data per il debutto in streaming su HBO Max. La notizia riguarda la distribuzione digitale del film dopo la sala.",
+   "body": "Il film The End of Oak Street non ha ottenuto al box office il successo che molti si aspettavano, ma ora ha una data per il debutto in streaming. La piattaforma interessata è HBO Max, dove il titolo approderà dopo il passaggio nelle sale.\n\nSecondo JoBlo, la distribuzione digitale è stata finalmente fissata. La fonte non fornisce però ulteriori dettagli sul calendario o sulle modalità di accesso, che potranno essere verificati sul catalogo ufficiale della piattaforma al momento del lancio.",
+   "slug": "the-end-of-oak-street-arriva-in-streaming-su-hbo-max-964882",
+   "tags": [
+    "The End of Oak Street",
+    "HBO Max"
+   ],
+   "scene": "streaming",
+   "source": "joblo.com",
+   "url": "https://www.joblo.com/the-end-of-oak-street-streaming-release/",
+   "published": "2026-11-06T23:00:00+00:00"
+  },
+  {
+   "id": "d3251d7859bf",
+   "section": "cinema",
+   "title": "Netflix, l'acquisto dei Radford Studios si ferma",
+   "summary": "Secondo quanto dichiarato dal CEO di Hudson Pacific Victor Coleman, Netflix non ha ancora completato l'operazione per l'acquisizione dei Radford Studios di Los Angeles. Il progetto dello storico studio cinematografico risulta quindi in stallo.",
+   "body": "Netflix non ha ancora chiuso l'accordo per rilevare i Radford Studios, il complesso di Los Angeles di proprietà di Hudson Pacific Properties. A dichiararlo è stato il CEO della società immobiliare, Victor Coleman, che ha confermato come la trattativa non sia stata finalizzata. Secondo quanto riportato da TheWrap, il piano della piattaforma di streaming per acquisire lo studio appare dunque fermo.\n\nLo storico lotto, situato nella zona di Studio City, ospita da tempo produzioni cinematografiche e televisive. L'eventuale passaggio nelle mani di Netflix avrebbe rafforzato la presenza della piattaforma nel settore delle infrastrutture produttive. Al momento, però, non sono stati comunicati nuovi tempi né dettagli sull'evoluzione dei negoziati.",
+   "slug": "netflix-l-acquisto-dei-radford-studios-si-ferma-d3251d",
+   "tags": [
+    "Netflix",
+    "Radford Studios",
+    "Hudson Pacific"
+   ],
+   "scene": "ciak",
+   "source": "thewrap.com",
+   "url": "https://www.thewrap.com/industry-news/business/netflix-radford-studios-lot-deal-stalls/",
+   "published": "2026-11-06T22:55:18+00:00"
+  },
+  {
+   "id": "3262f18172e2",
+   "section": "cinema",
+   "title": "Disney prepara un film live-action su Medusa",
+   "summary": "Disney starebbe sviluppando un film live-action originale ispirato al mito greco di Medusa, con Michael Montemayor, autore di Tangled, alla prima stesura. Il progetto nasce nell'ambito dell'accordo con la società di produzione di Dwayne Johnson.",
+   "body": "Disney sta lavorando a un nuovo film live-action originale dedicato a Medusa, la figura della mitologia greca. Secondo quanto riportato da Dark Horizons, la prima bozza della sceneggiatura sarebbe affidata a Michael Montemayor, già autore di Tangled. Il progetto è in sviluppo presso Seven Bucks, la società di produzione di Dwayne Johnson, nell'ambito del contratto che lega la compagnia alla Disney.\n\nMedusa era una delle tre Gorgoni e l'unica di loro a essere mortale. Il personaggio, con i serpenti al posto dei capelli, è da sempre uno dei più riconoscibili del mito greco. Al momento non sono stati annunciati cast, data di uscita o regia, e la notizia resta nella fase iniziale di sviluppo.",
+   "slug": "disney-prepara-un-film-live-action-su-medusa-3262f1",
+   "tags": [
+    "Medusa",
+    "Michael Montemayor",
+    "Dwayne Johnson"
+   ],
+   "scene": "ciak",
+   "source": "darkhorizons.com",
+   "url": "https://www.darkhorizons.com/disney-sets-new-live-action-medusa-film/",
+   "published": "2026-11-06T22:52:55+00:00"
+  },
+  {
+   "id": "8611d4463e1e",
+   "section": "tv",
+   "title": "Jenna Bush Hager racconta la musica misteriosa dal camino della Casa Bianca",
+   "summary": "Jenna Bush Hager ha ricordato di aver sentito, insieme alla sorella Barbara, una musica lirica provenire da un camino durante il periodo alla Casa Bianca. Il racconto è emerso nella puntata del 5 novembre di TODAY with Jenna & Sheinelle, con ospite Scarlett Johansson.",
+   "body": "Jenna Bush Hager ha raccontato un episodio inquietante vissuto durante gli anni trascorsi alla Casa Bianca. Insieme alla sorella gemella Barbara, ha detto di aver sentito provenire da un camino una musica che sembrava di tipo lirico, senza riuscire a spiegarne l'origine.\n\nIl ricordo è emerso nella puntata del 5 novembre di TODAY with Jenna & Sheinelle, il programma che conduce insieme a Sheinelle Jones. Durante la trasmissione, l'ospite Scarlett Johansson è stata interpellata sulla possibilità di aver mai vissuto esperienze paranormali, e la conduttrice ha colto l'occasione per condividere il suo aneddoto. Secondo quanto riportato da OK Magazine, il racconto ha suscitato brividi tra i presenti in studio.",
+   "slug": "jenna-bush-hager-racconta-la-musica-misteriosa-dal-camino-de-8611d4",
+   "tags": [
+    "Jenna Bush Hager",
+    "Scarlett Johansson",
+    "TODAY with Jenna & Sheinelle"
+   ],
+   "scene": "tv",
+   "source": "okmagazine.com",
+   "url": "https://okmagazine.com/p/jenna-bush-hager-hearing-opera-fireplace-haunted-white-house/",
+   "published": "2026-11-06T22:49:19+00:00"
+  },
+  {
    "id": "b4dc3227ea33",
    "section": "cinema",
    "title": "Children of Blood and Bone arriva nelle sale tra dieci settimane",
@@ -665,6 +732,23 @@
    "source": "superguidatv.it",
    "url": "https://www.superguidatv.it/fuze-conto-alla-rovescia-un-thriller-esplosivo-recensione/",
    "published": "2026-11-06T17:34:44+00:00"
+  },
+  {
+   "id": "7d5e1352187f",
+   "section": "tv",
+   "title": "Harry Potter torna su Italia 1 con una maratona di otto venerdì",
+   "summary": "Italia 1 propone l'intera saga cinematografica di Harry Potter in otto appuntamenti del venerdì, a partire da stasera. Il calendario si chiude con un evento speciale il giorno di Natale, quando debutterà anche la nuova serie HBO Max.",
+   "body": "Italia 1 riporta in onda la saga cinematografica di Harry Potter con una maratona composta da otto venerdì, con Harry, Ron e Hermione protagonisti di ogni serata. La programmazione parte dalla sera stessa della notizia e prosegue con un appuntamento settimanale in prima serata.\n\nIl percorso si conclude il giorno di Natale con un programma speciale, data scelta anche per l'arrivo della nuova serie HBO Max dedicata al mondo di Hogwarts. Secondo Movieplayer, il calendario completo è disponibile sul sito della testata, che ne riporta le date e i titoli dei film in programma.",
+   "slug": "harry-potter-torna-su-italia-1-con-una-maratona-di-otto-vene-7d5e13",
+   "tags": [
+    "Harry Potter",
+    "Italia 1",
+    "HBO Max"
+   ],
+   "scene": "tv",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/news/harry-potter-calendario-maratona-film-italia-1_171861/",
+   "published": "2026-11-06T17:26:25+00:00"
   },
   {
    "id": "1e9dacc94456",
@@ -2291,6 +2375,89 @@
    "source": "ComingSoon",
    "url": "https://www.comingsoon.it/cinema/news/se-c-e-lizzy-caplan-l-home-invasion-lo-famo-strano-ecco-il-trailer-di-drag/n235348/",
    "published": "2026-11-06T09:55:00+00:00"
+  },
+  {
+   "id": "fc2d96946275",
+   "section": "tv",
+   "title": "Yellowjackets 4, la stagione finale debutta il 20 novembre su Paramount+",
+   "summary": "La quarta e ultima stagione di Yellowjackets arriverà il 20 novembre su Paramount+. La serie, creata da Ashley Lyle e Bart Nickerson, continuerà a raccontare su due piani temporali la sopravvivenza delle giocatrici e il loro isolamento nella natura.",
+   "body": "La quarta e ultima stagione di Yellowjackets debutterà il 20 novembre su Paramount+. Il racconto resterà diviso tra due linee temporali: da un lato le giovani protagoniste nei boschi, sempre più distanti dal gruppo che un tempo le teneva unite, dall'altro la loro vita adulta, segnata da ciò che è accaduto in quella foresta.\n\nSecondo Dituttounpop.it, questo ciclo porterà la storia verso la resa dei conti definitiva, con tutti i nodi narrativi accumulati nelle stagioni precedenti destinati a venire al pettine. La serie, ideata da Ashley Lyle e Bart Nickerson, ha costruito negli anni un pubblico fedele grazie al suo mix di thriller, dramma psicologico e horror. Con questo capitolo conclusivo, la storia dovrebbe chiudere definitivamente il percorso delle sue protagoniste.",
+   "slug": "yellowjackets-4-la-stagione-finale-debutta-il-20-novembre-su-fc2d96",
+   "tags": [
+    "Yellowjackets",
+    "Ashley Lyle",
+    "Bart Nickerson"
+   ],
+   "scene": "streaming",
+   "source": "dituttounpop.it",
+   "url": "https://www.dituttounpop.it/yellowjackets-4-trama-cast-data-uscita/",
+   "published": "2026-11-06T09:49:22+00:00"
+  },
+  {
+   "id": "d486dc92368a",
+   "section": "gossip",
+   "title": "Henry Cavill trasforma il caso dei baffi di Superman in un videogioco",
+   "summary": "Henry Cavill ha sviluppato un videogioco retrò a 16 bit ispirato al cosiddetto Mustachegate, l'episodio dei baffi digitali del suo Superman in Justice League. La notizia è riportata da Movieplayer.",
+   "body": "Henry Cavill torna a parlare di uno degli episodi più noti legati al suo Superman. Secondo Movieplayer, l'attore ha realizzato un videogioco in stile retrò a 16 bit che prende spunto dal cosiddetto Mustachegate, la vicenda dei baffi digitali comparsi sul volto del personaggio durante la lavorazione di Justice League.\n\nIl gioco nasce a quasi dieci anni di distanza dall'accaduto, e rappresenta un modo ironico con cui Cavill rilegge un momento considerato tra i più imbarazzanti della produzione DC. Il materiale disponibile non specifica ulteriori dettagli su pubblicazione, piattaforme o modalità di distribuzione del progetto.",
+   "slug": "henry-cavill-trasforma-il-caso-dei-baffi-di-superman-in-un-v-d486dc",
+   "tags": [
+    "Henry Cavill",
+    "Justice League"
+   ],
+   "scene": "palco",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/news/henry-cavill-rivincita-justice-league-videogioco-baffi-superman_171847/",
+   "published": "2026-11-06T09:42:47+00:00"
+  },
+  {
+   "id": "bbda4b6eb77e",
+   "section": "tv",
+   "title": "The Gilded Age torna su HBO con ascolti in crescita",
+   "summary": "La quarta stagione di The Gilded Age è partita con quasi 4 milioni di spettatori negli Stati Uniti nei primi tre giorni, il 25% in più rispetto all'inizio della stagione precedente. Il dato riguarda solo il pubblico statunitense.",
+   "body": "La serie The Gilded Age, prodotta per HBO e disponibile anche su HBO Max, ha registrato un buon avvio con la nuova stagione. Secondo quanto riportato da dituttounpop.it, il primo episodio ha raggiunto quasi 4 milioni di spettatori negli Stati Uniti nei primi tre giorni, con una crescita del 25% rispetto all'inizio della stagione precedente, che si era fermata a 3,2 milioni.\n\nLa stagione precedente aveva poi chiuso con una media di 8,8 milioni di spettatori. Il dato riguarda il solo pubblico americano e non tiene conto delle visualizzazioni internazionali. La notizia originale citava anche altri progetti, come The Terminal List e Paul Bettany in Pagans, ma nel materiale ricevuto non ci sono dettagli sufficienti per approfondirli.",
+   "slug": "the-gilded-age-torna-su-hbo-con-ascolti-in-crescita-bbda4b",
+   "tags": [
+    "The Gilded Age",
+    "HBO"
+   ],
+   "scene": "streaming",
+   "source": "dituttounpop.it",
+   "url": "https://www.dituttounpop.it/notizie-serie-tv-the-terminal-list-prosegue-con-savage-son-paul-bettany-in-pagans/",
+   "published": "2026-11-06T09:35:07+00:00"
+  },
+  {
+   "id": "d0caad19308f",
+   "section": "tv",
+   "title": "Harry Potter torna su Italia 1 in prima serata con i film della saga",
+   "summary": "La saga di Harry Potter torna in prima serata su Italia 1, con la programmazione dei film titolo per titolo. Il ciclo arriva in attesa della nuova serie tv tratta dai romanzi di J.K. Rowling.",
+   "body": "Italia 1 riporta in prima serata la saga di Harry Potter, con i film proposti uno dopo l'altro e le relative date di messa in onda. Secondo SuperGuidaTV, il ciclo parte con il primo titolo e prosegue con i capitoli successivi, pensati per i fan dei romanzi di J.K. Rowling.\n\nL'iniziativa arriva in attesa della nuova serie televisiva ispirata ai libri, annunciata come prossimo grande appuntamento per il pubblico. Le date complete, titolo per titolo, sono disponibili nella fonte originale, che elenca il calendario della programmazione sul canale.",
+   "slug": "harry-potter-torna-su-italia-1-in-prima-serata-con-i-film-de-d0caad",
+   "tags": [
+    "Harry Potter",
+    "Italia 1",
+    "J.K. Rowling"
+   ],
+   "scene": "tv",
+   "source": "superguidatv.it",
+   "url": "https://www.superguidatv.it/harry-potter-tutti-i-film-su-italia-1-date-e-dove-vederlo/",
+   "published": "2026-11-06T09:33:15+00:00"
+  },
+  {
+   "id": "9ed1aa30e750",
+   "section": "cinema",
+   "title": "Top Gun 3, Miles Teller aggiorna sui tempi del sequel",
+   "summary": "Ospite del late show di Jimmy Kimmel, Miles Teller ha parlato dei tempi di Top Gun 3. L'attore ha anche descritto il rapporto con Tom Cruise, che definisce un collega molto motivato.",
+   "body": "Miles Teller, protagonista di Top Gun: Maverick, è stato ospite di Jimmy Kimmel e ha fornito alcuni aggiornamenti sulla possibile lavorazione di Top Gun 3. Secondo ComingSoon, l'attore ha accennato alle tempistiche del progetto, senza però entrare nei dettagli su date precise o sulla produzione.\n\nNel corso dell'intervista Teller ha anche raccontato che cosa significhi lavorare e stare accanto a Tom Cruise. Ha descritto l'amico e collega come un artista estremamente motivato, un aspetto che, a suo dire, si percepisce sul set e nel rapporto quotidiano. Il sequel della saga di Top Gun resta uno dei progetti più attesi dal pubblico.",
+   "slug": "top-gun-3-miles-teller-aggiorna-sui-tempi-del-sequel-9ed1aa",
+   "tags": [
+    "Miles Teller",
+    "Tom Cruise",
+    "Top Gun 3"
+   ],
+   "scene": "tappeto",
+   "source": "ComingSoon",
+   "url": "https://www.comingsoon.it/cinema/news/top-gun-3-un-importante-aggiornamento-da-miles-teller-che-adora-tom-cruise/n235345/",
+   "published": "2026-11-06T09:31:00+00:00"
   },
   {
    "id": "9ad584b08ae7",
@@ -8178,171 +8345,6 @@
    "source": "Cinefilos",
    "url": "https://cinefilos.it/tutto-film/approfondimenti/tim-burton-svela-la-nuova-uscita-di-nightmare-before-christmas-729308",
    "published": "2026-11-04T18:04:16+00:00"
-  },
-  {
-   "id": "c72cf0a3413d",
-   "section": "tv",
-   "title": "La Promessa, anticipazioni: Leocadia sospetta l'intesa tra Teresa e Cristóbal",
-   "summary": "Nella soap spagnola La Promessa, in onda su Rai 1, Leocadia inizia a sospettare del legame tra Teresa e Cristóbal dopo un bacio. Intanto Manuel affronta apertamente la donna e Angela ribadisce di non voler sposare Lorenzo.",
-   "body": "Nell'episodio in arrivo, il bacio tra Teresa e Cristóbal fa crescere i dubbi di Leocadia, che comincia a osservare con attenzione i movimenti dei due. La tensione in casa cresce e la donna sembra sempre più decisa a scoprire la verità.\n\nManuel decide di affrontare Leocadia a viso aperto, mentre Angela conferma la propria posizione: non intende sposare Lorenzo, nonostante le minacce ricevute. Secondo quanto riportato da Movieplayer, le anticipazioni del 5 novembre mostrano così un intreccio di sospetti e scelte difficili che promette di far precipitare gli equilibri tra i personaggi.",
-   "slug": "la-promessa-anticipazioni-leocadia-sospetta-l-intesa-tra-ter-c72cf0",
-   "tags": [
-    "La Promessa",
-    "Leocadia",
-    "Angela"
-   ],
-   "scene": "streaming",
-   "source": "Movieplayer",
-   "url": "https://movieplayer.it/news/la-promessa-anticipazioni-5-novembre-leocadia-teresa-cristobal_171825/",
-   "published": "2026-11-04T17:53:00+00:00"
-  },
-  {
-   "id": "cf9092cc9ac7",
-   "section": "cinema",
-   "title": "Ti presento i Fotter: anteprime in nove città con biglietti omaggio",
-   "summary": "Ti presento i Fotter, nuovo capitolo della saga comica con Ben Stiller, Robert De Niro e Ariana Grande, sarà presentato in anteprima in nove città italiane. Secondo Movieplayer, i lettori possono richiedere inviti gratuiti per due persone.",
-   "body": "Il nuovo capitolo della saga comica Ti presento i Fotter, con Ben Stiller, Robert De Niro e Ariana Grande, sarà proiettato in anteprima in nove città italiane. Secondo Movieplayer, il sito offre ai propri lettori la possibilità di assistere gratuitamente alle proiezioni, richiedendo un invito per due persone.\n\nPer partecipare è necessario seguire la procedura indicata dalla testata, che elenca anche le città in cui si terranno gli eventi. Le informazioni complete su date e modalità di richiesta sono disponibili sul sito di Movieplayer.",
-   "slug": "ti-presento-i-fotter-anteprime-in-nove-citta-con-biglietti-o-cf9092",
-   "tags": [
-    "Ti presento i Fotter",
-    "Ben Stiller",
-    "Ariana Grande"
-   ],
-   "scene": "premiere",
-   "source": "Movieplayer",
-   "url": "https://movieplayer.it/news/ti-presento-i-fotter-come-vincere-biglietti-omaggio-anteprime_171824/",
-   "published": "2026-11-04T17:51:32+00:00"
-  },
-  {
-   "id": "c12081970bc9",
-   "section": "cinema",
-   "title": "Coordinamento Autori e Autrici: la riforma del cinema resta sbagliata",
-   "summary": "Il Coordinamento Autori e Autrici giudica ancora sbagliata la riforma della legge cinema, dopo il ritiro degli emendamenti. Critica la scarsa autonomia della nuova Agenzia e l'assenza di garanzie sulle risorse.",
-   "body": "Il Coordinamento Autori e Autrici è tornato a criticare la riforma della legge sul cinema, nonostante il ritiro degli emendamenti presentati al provvedimento. Secondo quanto riportato da Box Office Biz, l'organizzazione contesta in particolare la limitata autonomia della nuova Agenzia prevista dal testo, che dovrebbe occuparsi della gestione del settore.\n\nAl centro delle critiche ci sono anche la mancanza di garanzie sulle risorse economiche destinate al cinema e i rischi legati all'entrata in funzione dell'Agenzia. Il Coordinamento ritiene che, così come è scritta, la legge non risponda alle esigenze degli autori e delle autrici italiani.",
-   "slug": "coordinamento-autori-e-autrici-la-riforma-del-cinema-resta-s-c12081",
-   "tags": [
-    "Coordinamento Autori e Autrici"
-   ],
-   "scene": "sala",
-   "source": "Box Office Biz",
-   "url": "https://boxofficebiz.it/news/coordinamento-autori-e-autrici-la-legge-cinema-resta-sbagliata/",
-   "published": "2026-11-04T17:51:23+00:00"
-  },
-  {
-   "id": "067952ce696e",
-   "section": "musica",
-   "title": "Tosca pubblica il singolo \"Esiste la vergogna?\" con Mama Marjas",
-   "summary": "Tosca ha presentato il nuovo singolo \"Esiste la vergogna?\", realizzato con Mama Marjas. Il brano è legato al tour teatrale Feminae, che parte il 30 novembre dal Teatro Piccolo Strehler di Milano.",
-   "body": "La cantante Tosca annuncia il nuovo singolo \"Esiste la vergogna?\", inciso insieme a Mama Marjas. Il brano accompagna il progetto teatrale Feminae, che porta la musica di Tosca sul palcoscenico.\n\nSecondo ANSA, il tour teatrale partirà il 30 novembre dal Teatro Piccolo Strehler di Milano. Il materiale disponibile non specifica altre date né dettagli sul contenuto del brano, che sarà ascoltabile nelle prossime settimane.",
-   "slug": "tosca-pubblica-il-singolo-esiste-la-vergogna-con-mama-marjas-067952",
-   "tags": [
-    "Tosca",
-    "Mama Marjas",
-    "Feminae"
-   ],
-   "scene": "microfono",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/04/esiste-la-vergogna-nuovo-singolo-di-tosca-con-mama-marjas_0eb5ba01-7a08-42a0-a6c6-c4a2619c2a3e.html",
-   "published": "2026-11-04T17:49:24+00:00"
-  },
-  {
-   "id": "94d3f4171718",
-   "section": "tv",
-   "title": "Patù, su Rai 2 arrivano Daniele Piervincenzi e Federico Ruffo",
-   "summary": "Il programma Patù, condotto da Roberto Inciocchi su Rai 2, si arricchisce della presenza dei giornalisti Daniele Piervincenzi e Federico Ruffo, provenienti da Rai 3. Nelle puntate sono previsti i risultati di Midterm, gli scontri nelle piazze e un reportage sul ponte Morandi.",
-   "body": "Il programma Patù torna su Rai 2 con Roberto Inciocchi alla conduzione e con due volti arrivati da Rai 3, i giornalisti Daniele Piervincenzi e Federico Ruffo. Secondo quanto riportato da Davide Maggio, la nuova stagione prevede un'attenzione ai risultati delle elezioni di Midterm negli Stati Uniti, insieme agli scontri avvenuti nelle piazze.\n\nTra i temi in programma figura anche un reportage dedicato al ponte Morandi di Genova. Il materiale disponibile non riporta ulteriori dettagli su date, formato delle puntate o ruoli specifici dei due giornalisti all'interno della trasmissione.",
-   "slug": "patu-su-rai-2-arrivano-daniele-piervincenzi-e-federico-ruffo-94d3f4",
-   "tags": [
-    "Patù",
-    "Roberto Inciocchi",
-    "Daniele Piervincenzi"
-   ],
-   "scene": "tv",
-   "source": "davidemaggio.it",
-   "url": "https://www.davidemaggio.it/programmi-tv/patu-da-rai-3-arrivano-daniele-piervincenzi-e-federico-ruffo",
-   "published": "2026-11-04T17:45:00+00:00"
-  },
-  {
-   "id": "f6ff48250949",
-   "section": "musica",
-   "title": "Pierdavide Carone: tra il suo progetto artistico e l'eredità di Dalla",
-   "summary": "Il cantautore Pierdavide Carone ha dichiarato di vivere vite parallele tra il suo progetto artistico e il lascito di Lucio Dalla. Parlando di Sanremo, ha detto che è meglio partecipare che non farlo e ha espresso la speranza di essere chiamato.",
-   "body": "Pierdavide Carone ha raccontato di muoversi su due binari paralleli: da una parte il proprio percorso di artista, dall'altra l'eredità di Lucio Dalla, con cui ha lavorato e che resta un riferimento importante per la sua musica. Secondo ANSA, il cantautore descrive questo doppio impegno come una convivenza complessa, che richiede equilibrio tra la propria identità e il ricordo del grande musicista bolognese.\n\nSul Festival di Sanremo, Carone ha dichiarato che partecipare è preferibile a restare fuori, aggiungendo di sperare di essere chiamato. Non sono stati annunciati, al momento, dettagli su una sua eventuale presenza all'Ariston. Le sue parole arrivano in un periodo in cui il cantautore continua a lavorare ai progetti personali, mantenendo vivo il dialogo con il pubblico attraverso la musica.",
-   "slug": "pierdavide-carone-tra-il-suo-progetto-artistico-e-l-eredita-f6ff48",
-   "tags": [
-    "Pierdavide Carone",
-    "Lucio Dalla",
-    "Sanremo"
-   ],
-   "scene": "microfono",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/04/pierdavide-carone-vivo-vite-parallele-tra-mio-progetto-artistico-e-lascito_2cd4586d-1e83-4ced-9c9e-f6ead599ad32.html",
-   "published": "2026-11-04T17:42:49+00:00"
-  },
-  {
-   "id": "1386a40442a5",
-   "section": "musica",
-   "title": "Teatro alla Scala, nuovo sciopero il 18 novembre per il contratto",
-   "summary": "I lavoratori del Teatro alla Scala di Milano tornano a scioperare il 18 novembre per il rinnovo del contratto, con l'astensione dell'intera giornata. Lo stop riguarda anche le prove dell'Otello.",
-   "body": "Il Teatro alla Scala di Milano è di nuovo fermo per una protesta legata al rinnovo del contratto di lavoro. Secondo quanto riportato dall'ANSA, il 18 novembre è previsto un secondo sciopero di intera giornata, che comporta la cancellazione dello spettacolo di balletto in programma quel giorno.\n\nLo sciopero interesserà anche le prove dell'Otello, l'opera di Giuseppe Verdi in allestimento al teatro milanese. La protesta arriva dopo una prima astensione già svolta per le stesse ragioni, a conferma che la trattativa sul contratto non si è ancora chiusa. Non sono al momento disponibili dettagli su eventuali nuovi incontri tra le parti.",
-   "slug": "teatro-alla-scala-nuovo-sciopero-il-18-novembre-per-il-contr-1386a4",
-   "tags": [
-    "Teatro alla Scala",
-    "Otello"
-   ],
-   "scene": "palco",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/04/secondo-sciopero-per-il-contratto-alla-scala-il-18-novembre-salta-il-balletto_4ef087ae-3900-4523-a1a3-d39702e7b929.html",
-   "published": "2026-11-04T17:38:12+00:00"
-  },
-  {
-   "id": "1d9fcdea3e8b",
-   "section": "musica",
-   "title": "Tommaso Primo porta in tour Canzoni 'e 'nnamurate",
-   "summary": "Il cantautore Tommaso Primo presenta Canzoni 'e 'nnamurate, progetto dedicato ai sentimenti, nel tour che toccherà Milano, Napoli e Roma. Il titolo del tour, Nella vita bisogna essere romantici, anticipa il tono dello spettacolo.",
-   "body": "Il cantautore Tommaso Primo porta in tour Canzoni 'e 'nnamurate, un lavoro musicale dedicato ai sentimenti e alla loro espressione attraverso la canzone. Il tour, intitolato Nella vita bisogna essere romantici, farà tappa a Milano, Napoli e Roma.\n\nSecondo ANSA, il progetto nasce dall'idea di raccontare l'amore con il linguaggio della tradizione canora napoletana, rielaborata dall'artista in chiave personale. Le date nelle tre città offriranno al pubblico l'occasione di ascoltare dal vivo il repertorio dedicato ai sentimenti. Per dettagli su calendario e biglietti occorre consultare i canali ufficiali dell'artista.",
-   "slug": "tommaso-primo-porta-in-tour-canzoni-e-nnamurate-1d9fcd",
-   "tags": [
-    "Tommaso Primo",
-    "Canzoni 'e 'nnamurate"
-   ],
-   "scene": "palco",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/04/tommaso-primo-canta-i-sentimenti-con-canzoni-e-nnamurate_c5340fa6-9454-4fab-8c1f-a680931feb76.html",
-   "published": "2026-11-04T17:37:31+00:00"
-  },
-  {
-   "id": "365e71fba9e7",
-   "section": "tv",
-   "title": "X Factor 2026, al terzo Live Show la serata Jukebox con Fulminacci",
-   "summary": "Nel terzo Live Show di X Factor 2026 è in programma la serata Jukebox, con l'ospite Fulminacci. I giudici Francesco Gabbani, Irama, Jake La Furia e Paola Iezzi gestiscono le squadre e puntano sul voto del pubblico.",
-   "body": "Il talent show di Sky condotto su Sky e in streaming su NOW prosegue con il terzo appuntamento dal vivo della stagione 2026. La puntata, dedicata alla serata Jukebox, vedrà come ospite il cantautore Fulminacci. I giudici Francesco Gabbani, Irama, Jake La Furia e Paola Iezzi hanno il compito di guidare le proprie squadre verso la fase decisiva, affidata al giudizio del pubblico.\n\nOgni puntata prevede due manche e i due artisti meno votati finiscono al ballottaggio, dove possono tornare in gara. Secondo dituttounpop.it, i live sono iniziati giovedì 22 ottobre, e la serata Jukebox segna un nuovo passaggio nella competizione.",
-   "slug": "x-factor-2026-al-terzo-live-show-la-serata-jukebox-con-fulmi-365e71",
-   "tags": [
-    "X Factor",
-    "Fulminacci",
-    "Francesco Gabbani"
-   ],
-   "scene": "palco",
-   "source": "dituttounpop.it",
-   "url": "https://www.dituttounpop.it/x-factor-2026-squadre-concorrenti-live-eliminati/",
-   "published": "2026-11-04T17:34:22+00:00"
-  },
-  {
-   "id": "8b05c5895392",
-   "section": "cinema",
-   "title": "Anna Ammirati ricorda Tinto Brass: \"Per lui sono sempre stata la Monella\"",
-   "summary": "L'attrice Anna Ammirati ricorda il regista Tinto Brass, con cui debuttò nel 1998. Racconta che il regista le insegnava che la libertà va vissuta e non raccontata.",
-   "body": "Anna Ammirati ha ricordato il suo rapporto con Tinto Brass, con cui esordì nel 1998. Secondo quanto riportato da ANSA, l'attrice ha spiegato che per il regista lei è rimasta sempre \"la Monella\", il personaggio che la rese nota al pubblico.\n\nNelle sue parole, Brass le trasmetteva un principio preciso: la libertà non va soltanto descritta, ma praticata nella vita di ogni giorno. Un insegnamento che, a distanza di anni, l'attrice continua a considerare un punto di riferimento del proprio lavoro e del modo in cui guarda al cinema.",
-   "slug": "anna-ammirati-ricorda-tinto-brass-per-lui-sono-sempre-stata-8b05c5",
-   "tags": [
-    "Anna Ammirati",
-    "Tinto Brass"
-   ],
-   "scene": "ciak",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/2026/11/04/anna-ammirati-per-tinto-brass-sono-sempre-stata-la-monella_5f93689d-59be-4d6a-9812-eab72a89e78a.html",
-   "published": "2026-11-04T17:26:22+00:00"
   }
  ],
  "seen": [
@@ -10741,7 +10743,30 @@
   "6e4cd2beb540",
   "137598042d5d",
   "1c9d39294c9b",
-  "077ab54f7570"
+  "077ab54f7570",
+  "293735dcf954",
+  "9648824df2f8",
+  "b809415a49df",
+  "6b7ff4972f94",
+  "07365cdb963b",
+  "d3251d7859bf",
+  "135bc5177a47",
+  "ad1bbf1675d0",
+  "7d5e1352187f",
+  "fc2d96946275",
+  "d486dc92368a",
+  "6747b25ff48f",
+  "3262f18172e2",
+  "a07c63661b48",
+  "b28566e897ee",
+  "7b39e253fbb8",
+  "8611d4463e1e",
+  "c2083234046e",
+  "4a1cc2eae71c",
+  "0be97bf57091",
+  "bbda4b6eb77e",
+  "d0caad19308f",
+  "9ed1aa30e750"
  ],
  "version": 4,
  "digests": []
