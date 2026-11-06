@@ -1,6 +1,74 @@
 {
  "articles": [
   {
+   "id": "f6f71e0e8c61",
+   "section": "gossip",
+   "title": "Michael J. Fox con il figlio Sam alla cerimonia di George Stephanopoulos e Robin Roberts",
+   "summary": "Michael J. Fox ha partecipato con il figlio Sam alla cerimonia sulla Walk of Fame di Hollywood dedicata ai conduttori di Good Morning America George Stephanopoulos e Robin Roberts. Un'apparizione pubblica insolita per il giovane, che somiglia molto al padre.",
+   "body": "Michael J. Fox era presente giovedì alla cerimonia con cui Hollywood ha celebrato George Stephanopoulos e Robin Roberts, conduttori di Good Morning America, con una stella sulla Walk of Fame. Accanto all'attore c'era il figlio Sam, che è apparso in pubblico al fianco del padre in un'occasione mondana affollata di volti noti.\n\nSecondo quanto riportato da Hello!, Sam è apparso raramente in eventi pubblici e la sua somiglianza con il padre è stata notata dai presenti. La fonte non riporta dichiarazioni dei protagonisti sull'evento.",
+   "slug": "michael-j-fox-con-il-figlio-sam-alla-cerimonia-di-george-ste-f6f71e",
+   "tags": [
+    "Michael J. Fox",
+    "George Stephanopoulos",
+    "Robin Roberts"
+   ],
+   "scene": "tappeto",
+   "source": "hellomagazine.com",
+   "url": "https://www.hellomagazine.com/us/933453/michael-j-fox-rarely-seen-lookalike-son-makes-surprise-appearance-at-star-studded-event/",
+   "published": "2026-11-06T01:15:52+00:00"
+  },
+  {
+   "id": "0f45e97aba81",
+   "section": "tv",
+   "title": "Alan Cumming e Schmigadoon! in streaming su Apple TV",
+   "summary": "La commedia musicale Schmigadoon!, con Alan Cumming, è disponibile su Apple TV. Un suggerimento per chi ha seguito The Traitors e cerca una nuova serie da guardare nel fine settimana.",
+   "body": "Schmigadoon! è una commedia musicale in cui Alan Cumming offre una delle sue interpretazioni più apprezzate. La serie, due stagioni in tutto, è disponibile in streaming su Apple TV. Secondo Collider, la proposta è indicata soprattutto per chi cerca un'alternativa leggera dopo la visione di The Traitors.\n\nIl materiale disponibile non entra nel dettaglio su trama e cast completo, ma sottolinea il ruolo centrale di Cumming, già noto al pubblico italiano per il suo lavoro in The Traitors. La segnalazione nasce dal confronto tra i due titoli, entrambi legati all'attore, e dalla possibilità di recuperare la serie con una maratona nel fine settimana.",
+   "slug": "alan-cumming-e-schmigadoon-in-streaming-su-apple-tv-0f45e9",
+   "tags": [
+    "Schmigadoon!",
+    "Alan Cumming",
+    "Apple TV"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/schmigadoon-alan-cumming-traitors-apple-tv/",
+   "published": "2026-11-06T01:13:12+00:00"
+  },
+  {
+   "id": "c4bf2ef201db",
+   "section": "tv",
+   "title": "Ghosts, in attesa della sesta stagione: iZombie su Prime Video",
+   "summary": "Per chi aspetta la sesta stagione di Ghosts, iZombie è indicata come alternativa con la stessa protagonista, Rose McIver, e un tono soprannaturale simile. La serie è disponibile in streaming su Prime Video.",
+   "body": "Secondo Collider, i fan di Ghosts in attesa della sesta stagione possono trovare un'alternativa interessante in iZombie, disponibile su Prime Video. La serie condivide con la comedy della CBS la protagonista Rose McIver, nel ruolo che la rende riconoscibile al pubblico della serie sui fantasmi.\n\nIl punto di contatto, spiega la testata, non è solo l'attrice: anche iZombie gioca su situazioni soprannaturali e su un tono leggero, con momenti di ironia che la rendono vicina allo spirito di Ghosts. Per chi cerca un titolo da guardare nell'attesa del nuovo ciclo, il catalogo di Prime Video offre quindi un'opzione immediata.",
+   "slug": "ghosts-in-attesa-della-sesta-stagione-izombie-su-prime-video-c4bf2e",
+   "tags": [
+    "Ghosts",
+    "iZombie",
+    "Rose McIver"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/cbs-ghosts-season-6-replacement-cw-izombie-prime-video/",
+   "published": "2026-11-06T01:10:31+00:00"
+  },
+  {
+   "id": "3344b89b262f",
+   "section": "cinema",
+   "title": "Stallone: Seagal chiedeva di entrare nel cast di The Expendables",
+   "summary": "Sylvester Stallone ha raccontato una versione diversa da quella di Steven Seagal sul mancato ingresso dell'attore nel cast di The Expendables. Secondo Stallone, Seagal avrebbe insistito per partecipare al film.",
+   "body": "Steven Seagal ha sostenuto di aver rifiutato la partecipazione a The Expendables, ma secondo Sylvester Stallone le cose sono andate diversamente. Il regista e protagonista della saga ha dichiarato che è stato Seagal a farsi avanti con insistenza per entrare nel gruppo di attori del film d'azione.\n\nSecondo quanto riportato da JoBlo, Stallone descrive un Seagal desideroso di far parte del progetto, in contrasto con la ricostruzione fornita dallo stesso attore. Il materiale disponibile non specifica i dettagli delle trattative né le date dei contatti tra i due.",
+   "slug": "stallone-seagal-chiedeva-di-entrare-nel-cast-di-the-expendab-3344b8",
+   "tags": [
+    "Sylvester Stallone",
+    "Steven Seagal",
+    "The Expendables"
+   ],
+   "scene": "ciak",
+   "source": "joblo.com",
+   "url": "https://www.joblo.com/sylvester-stallone-steven-seagal-the-expendables/",
+   "published": "2026-11-06T01:06:37+00:00"
+  },
+  {
    "id": "6c1b96e17f1e",
    "section": "cinema",
    "title": "Nicolas Cage e la trasformazione in John Madden: perché si è fermato a 25 libbre",
@@ -8270,70 +8338,6 @@
    "source": "collider.com",
    "url": "https://collider.com/the-social-reckoning-removed-2000-theaters-box-office/",
    "published": "2026-11-03T18:17:53+00:00"
-  },
-  {
-   "id": "87c76f5545c8",
-   "section": "cinema",
-   "title": "Martin McDonagh: il politicamente corretto è peggiorato",
-   "summary": "Il regista Martin McDonagh sostiene che il politicamente corretto sia peggiorato e difende il linguaggio razzista presente nei suoi film. Lo ha detto alla vigilia dell'uscita del nuovo film Wild Horse Nine.",
-   "body": "Secondo quanto riportato da World of Reel, il regista e sceneggiatore Martin McDonagh ha affermato che il politicamente corretto è peggiorato negli ultimi tempi. Parlando del suo modo di lavorare, McDonagh ha spiegato di non scrivere per compiacere il pubblico, e ha difeso l'uso di linguaggio razzista presente in alcune sue opere come parte della costruzione dei personaggi.\n\nL'intervista arriva a tre giorni dall'uscita nelle sale di Wild Horse Nine, il suo ultimo film. Secondo la fonte, il regista ha descritto una tendenza che lo preoccupa, osservata mentre cerca di realizzare il proprio lavoro artistico. Non sono stati precisati, nel materiale disponibile, esempi specifici di questa tendenza.",
-   "slug": "martin-mcdonagh-il-politicamente-corretto-e-peggiorato-87c76f",
-   "tags": [
-    "Martin McDonagh",
-    "Wild Horse Nine"
-   ],
-   "scene": "sala",
-   "source": "worldofreel.com",
-   "url": "https://www.worldofreel.com/blog/2026/11/3/martin-mcdonagh-says-political-correctness-has-gotten-worse-and-defends-racist-language-in-his-work",
-   "published": "2026-11-03T18:17:25+00:00"
-  },
-  {
-   "id": "dccb347e6b01",
-   "section": "cinema",
-   "title": "Ryan Gosling sarà Ghost Rider nel nuovo film Marvel diretto da Shawn Levy",
-   "summary": "Ryan Gosling interpreterà Ghost Rider nel prossimo film Marvel diretto da Shawn Levy, con uscita prevista nel 2028. La notizia riguarda il casting e la produzione del progetto, secondo quanto riportato da Cineblog.",
-   "body": "Ryan Gosling è stato scelto per interpretare Ghost Rider nel nuovo film Marvel diretto da Shawn Levy. Il personaggio, lo spirito di vendetta che possiede un motociclista, torna così sul grande schermo in una nuova versione con un volto noto al pubblico internazionale.\n\nSecondo Cineblog, l'uscita della pellicola è prevista per il 2028. La notizia riguarda dunque il casting e l'avvio della produzione, mentre al momento non sono disponibili ulteriori dettagli sulla trama o sul resto del cast.",
-   "slug": "ryan-gosling-sara-ghost-rider-nel-nuovo-film-marvel-diretto-dccb34",
-   "tags": [
-    "Ryan Gosling",
-    "Shawn Levy",
-    "Ghost Rider"
-   ],
-   "scene": "ciak",
-   "source": "Cineblog",
-   "url": "https://www.cineblog.it/post/ghost-rider-marvel-ryan-gosling-shawn-levy",
-   "published": "2026-11-03T18:17:09+00:00"
-  },
-  {
-   "id": "a748632477a8",
-   "section": "cinema",
-   "title": "Street Fighter, il film incassa ancora dopo il taglio delle sale",
-   "summary": "L'adattamento del videogioco Street Fighter ha superato quella che probabilmente sarà la sua ultima soglia di incassi nel mercato nordamericano. Il film è stato rimosso da circa 750 sale, ma continua a raccogliere risultati al botteghino.",
-   "body": "Il film tratto dal celebre videogioco di combattimento Street Fighter ha raggiunto quello che, secondo Collider, sarà con ogni probabilità il suo ultimo traguardo al box office nazionale statunitense. Il risultato arriva nonostante la pellicola sia stata tolta da circa 750 sale, un segnale della rapida uscita dalle programmazioni che spesso segue le uscite recenti con incassi modesti.\n\nIl titolo, ispirato a una delle saghe di picchiaduro più longeve della storia dei videogiochi, resta quindi un caso da seguire per chi valuta l'andamento delle trasposizioni cinematografiche dai videogame. Le informazioni disponibili non indicano però cifre precise né previsioni sul passaggio in streaming o sulle uscite internazionali.",
-   "slug": "street-fighter-il-film-incassa-ancora-dopo-il-taglio-delle-s-a74863",
-   "tags": [
-    "Street Fighter"
-   ],
-   "scene": "sala",
-   "source": "collider.com",
-   "url": "https://collider.com/street-fighter-removed-from-750-theaters-box-office-milestone/",
-   "published": "2026-11-03T18:16:12+00:00"
-  },
-  {
-   "id": "68ad0f51eade",
-   "section": "cinema",
-   "title": "Liam Neeson, The Mongoose debutta con il peggior incasso della carriera",
-   "summary": "Il thriller d'azione The Mongoose, con Liam Neeson, ha esordito nelle sale americane con meno di 500.000 dollari di incasso. Si tratta del debutto più debole della carriera dell'attore in una programmazione in larga distribuzione, con oltre mille sale.",
-   "body": "Il nuovo thriller d'azione The Mongoose, interpretato da Liam Neeson, ha debuttato al box office nordamericano con un incasso inferiore ai 500.000 dollari. Il film è uscito in più di mille sale, un numero che rende il risultato il peggiore mai registrato dall'attore per un'uscita in larga distribuzione.\n\nSecondo Collider, il dato rappresenta un minimo storico nella carriera di Neeson, da sempre protagonista di action di successo come la saga di Taken. Il risultato evidenzia quanto il pubblico abbia risposto in modo tiepido alla proposta, nonostante la visibilità della grande distribuzione e il nome dell'interprete in cartellone.",
-   "slug": "liam-neeson-the-mongoose-debutta-con-il-peggior-incasso-dell-68ad0f",
-   "tags": [
-    "Liam Neeson",
-    "The Mongoose"
-   ],
-   "scene": "sala",
-   "source": "collider.com",
-   "url": "https://collider.com/the-mongoose-liam-neeson-career-worst-box-office-opening/",
-   "published": "2026-11-03T18:16:00+00:00"
   }
  ],
  "seen": [
@@ -10159,7 +10163,22 @@
   "986b409c69c7",
   "116c2c24368a",
   "1e34ead09ae4",
-  "acab6b04270b"
+  "acab6b04270b",
+  "8dd32df9d51f",
+  "f6f71e0e8c61",
+  "7a83dab4acfb",
+  "0f45e97aba81",
+  "d8d0be2fec24",
+  "4975056980bd",
+  "c4bf2ef201db",
+  "6d56a9fb0622",
+  "3344b89b262f",
+  "9ffd9f5d646c",
+  "cf1825ab929a",
+  "6f958efc11d6",
+  "b6e17d20bad2",
+  "895dc2645d07",
+  "6dfcfb93a8a2"
  ],
  "version": 4,
  "digests": []
