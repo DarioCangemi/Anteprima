@@ -1,6 +1,256 @@
 {
  "articles": [
   {
+   "id": "631e59b8ca0b",
+   "section": "cinema",
+   "title": "Disney, il film d'animazione Clay userà una CG che imita la plastilina",
+   "summary": "Secondo quanto rivelato da Jared Bush, il film Disney Clay, previsto per il 2028 e con Kieran Culkin, adotterà un'animazione in computer grafica che somiglia e si comporta come la claymation. È un cambio di rotta rispetto alla formula che ha premiato lo studio negli ultimi anni.",
+   "body": "Disney prepara per il 2028 un nuovo film d'animazione intitolato Clay, con Kieran Culkin tra i protagonisti. Il regista e produttore Jared Bush ha anticipato in esclusiva a Collider che la pellicola non seguirà il consueto stile della casa, ma userà una computer grafica pensata per apparire e muoversi come la claymation, la tecnica con figure in plastilina animate fotogramma per fotogramma.\n\nLa scelta segna una svolta per lo studio, che negli ultimi anni ha costruito il proprio successo su un linguaggio visivo molto riconoscibile. Secondo quanto riporta Collider, l'obiettivo è ottenere un aspetto tattile e artigianale all'interno di un film realizzato con strumenti digitali. Non sono ancora stati diffusi altri dettagli su trama e data di uscita.",
+   "slug": "disney-il-film-d-animazione-clay-usera-una-cg-che-imita-la-p-631e59",
+   "tags": [
+    "Clay",
+    "Kieran Culkin",
+    "Jared Bush"
+   ],
+   "scene": "ciak",
+   "source": "collider.com",
+   "url": "https://collider.com/clay-movie-disney-animation-style-2028/",
+   "published": "2026-11-06T17:20:42+00:00"
+  },
+  {
+   "id": "42537a50c957",
+   "section": "tv",
+   "title": "Idris Elba protagonista di una nuova serie di spionaggio sull'MI6",
+   "summary": "Idris Elba e Adam Hamdy lanceranno nel maggio 2027 il thriller Exiles, ambientato nell'MI6. Il progetto prevede tre libri e un adattamento televisivo ancora in sviluppo.",
+   "body": "Idris Elba torna al genere di spionaggio con Exiles, un thriller ambientato nei servizi segreti britannici MI6, che debutterà nel maggio 2027. Il titolo nasce dalla collaborazione con lo scrittore Adam Hamdy e prevede una serie di tre romanzi.\n\nSecondo Collider, accanto ai libri è già in sviluppo anche un progetto per lo schermo, al momento senza dettagli su piattaforma, cast o data di uscita. La notizia arriva dopo mesi di attesa e conferma l'interesse dell'attore per storie di intrigo internazionale.",
+   "slug": "idris-elba-protagonista-di-una-nuova-serie-di-spionaggio-sul-42537a",
+   "tags": [
+    "Idris Elba",
+    "Adam Hamdy",
+    "Exiles"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/idris-elba-exiles-mi6-spy-series-may-2027/",
+   "published": "2026-11-06T17:19:57+00:00"
+  },
+  {
+   "id": "cdf56a05870a",
+   "section": "cinema",
+   "title": "The End of Oak Street arriva su HBO Max venerdì 13",
+   "summary": "Il film di dinosauri The End of Oak Street sbarca in streaming esclusivo su HBO Max venerdì 13, dopo aver superato i 115 milioni di dollari al box office mondiale. Il titolo era già disponibile in digitale da settembre.",
+   "body": "Il film di dinosauri The End of Oak Street farà il suo debutto in streaming a livello globale in esclusiva su HBO Max venerdì 13. La pellicola ha superato i 115 milioni di dollari di incasso nei cinema di tutto il mondo ed è già uscita in formato digitale a settembre.\n\nSecondo Bloody Disgusting, la storia riporta i dinosauri nei sobborghi residenziali, con una nuova ondata di caos che invade le case delle famiglie. La piattaforma offre così al pubblico la possibilità di recuperare il film comodamente da casa, proprio nel giorno scelto per il lancio, tradizionalmente associato all'horror.",
+   "slug": "the-end-of-oak-street-arriva-su-hbo-max-venerdi-13-cdf56a",
+   "tags": [
+    "The End of Oak Street",
+    "HBO Max"
+   ],
+   "scene": "streaming",
+   "source": "bloody-disgusting.com",
+   "url": "https://bloody-disgusting.com/home-video/3974989/the-end-of-oak-street-brings-dinosaur-chaos-home-to-hbo-max-this-friday-the-13th/",
+   "published": "2026-11-06T17:16:17+00:00"
+  },
+  {
+   "id": "edad7d6da804",
+   "section": "tv",
+   "title": "Fox, Paul Cheesbrough nuovo CEO delle piattaforme digitali. Lasciano Tubi e Roku",
+   "summary": "Paul Cheesbrough è stato nominato amministratore delegato delle piattaforme digitali di Fox, dopo la chiusura dell'acquisizione di Tubi. Lasciano i rispettivi incarichi Anjali Sud, CEO di Tubi, e Charlie Collier, a capo di Roku.",
+   "body": "Fox ha affidato a Paul Cheesbrough la guida di tutte le sue piattaforme digitali, con la nomina a amministratore delegato. La decisione arriva dopo la chiusura dell'acquisizione della piattaforma di streaming Tubi, avvenuta venerdì, e segue l'uscita di scena di Anjali Sud, finora al vertice di Tubi.\n\nSecondo TheWrap, anche Charlie Collier lascia il proprio incarico ai vertici di Roku. Il sito americano non riporta ulteriori dettagli sulle motivazioni dei cambiamenti né sui ruoli futuri dei dirigenti coinvolti.",
+   "slug": "fox-paul-cheesbrough-nuovo-ceo-delle-piattaforme-digitali-la-edad7d",
+   "tags": [
+    "Tubi",
+    "Roku",
+    "Fox"
+   ],
+   "scene": "streaming",
+   "source": "thewrap.com",
+   "url": "https://www.thewrap.com/media-platforms/tv/fox-roku-charlie-collier-anjali-sud-depart/",
+   "published": "2026-11-06T17:16:06+00:00"
+  },
+  {
+   "id": "45e9fd9132b7",
+   "section": "tv",
+   "title": "PBS Kids presenta lo speciale animato Carnival of the Animals con Gustavo Dudamel",
+   "summary": "PBS Kids ha fissato la premiere di uno speciale animato di mezz'ora dedicato al Carnival of the Animals di Camille Saint-Saëns, diretto da Gustavo Dudamel. Lo speciale andrà in onda il 16 novembre e sarà disponibile gratuitamente in streaming su pbskids.org.",
+   "body": "PBS Kids ha annunciato la messa in onda di uno speciale in 2D della durata di mezz'ora dedicato al Carnival of the Animals. La data scelta è il 16 novembre, e il programma sarà disponibile in streaming gratuito sul sito pbskids.org.\n\nLo speciale accosta sfondi realizzati a mano con acquerelli alla registrazione della Los Angeles Philharmonic eseguita alla Hollywood Bowl, sotto la guida del direttore Gustavo Dudamel. Secondo AWN, il prodotto punta a un pubblico giovane, unendo immagini disegnate e musica dal vivo in un formato breve e accessibile.",
+   "slug": "pbs-kids-presenta-lo-speciale-animato-carnival-of-the-animal-45e9fd",
+   "tags": [
+    "Gustavo Dudamel",
+    "PBS Kids",
+    "Carnival of the Animals"
+   ],
+   "scene": "cuffie",
+   "source": "awn.com",
+   "url": "https://www.awn.com/news/pbs-kids-sets-premiere-gustavo-dudamels-carnival-animals",
+   "published": "2026-11-06T17:14:18+00:00"
+  },
+  {
+   "id": "cc4c539211cf",
+   "section": "musica",
+   "title": "A Milano torna \"Quel Gran Genio\" dedicato a Battisti",
+   "summary": "Dal 20 al 22 novembre Milano ospita nuovamente \"Quel Gran Genio\", appuntamento dedicato alle diverse anime di Lucio Battisti. L'evento celebra anche i trent'anni de \"L'Isola che non c'era\".",
+   "body": "Dal 20 al 22 novembre torna a Milano \"Quel Gran Genio\", una manifestazione dedicata a Lucio Battisti che ne racconta le diverse anime artistiche. Il programma è pensato per ripercorrere la carriera del cantautore attraverso i suoi molteplici volti musicali.\n\nIl momento centrale dei festeggiamenti è il trentesimo anniversario de \"L'Isola che non c'era\", album uscito nel 1992 e ancora molto amato dal pubblico. Secondo ANSA, la kermesse vuole offrire ai appassionati un viaggio nella produzione di uno degli autori più influenti della musica italiana.",
+   "slug": "a-milano-torna-quel-gran-genio-dedicato-a-battisti-cc4c53",
+   "tags": [
+    "Lucio Battisti",
+    "L'Isola che non c'era",
+    "Quel Gran Genio"
+   ],
+   "scene": "vinile",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/2026/11/06/a-milano-torna-quel-gran-genio-un-viaggio-tra-le-diverse-anime-di-battisti_ff54093a-e42c-40d6-9db9-f8bd99ed335f.html",
+   "published": "2026-11-06T17:14:00+00:00"
+  },
+  {
+   "id": "5b8cc829219c",
+   "section": "tv",
+   "title": "Netflix rinnova Nobody Wants This per una quarta stagione",
+   "summary": "Netflix ha confermato il rinnovo della serie Nobody Wants This per una quarta stagione. Il via libera arriva poche settimane dopo il debutto della terza stagione.",
+   "body": "Netflix ha deciso di rinnovare Nobody Wants This per una quarta stagione. La notizia arriva a poche settimane dal debutto della terza stagione della serie romantico-commedia della piattaforma.\n\nSecondo Just Jared, il rinnovo conferma il buon riscontro della serie presso il pubblico della piattaforma streaming. Al momento non sono stati comunicati dettagli su data di uscita, cast o trama della prossima stagione.",
+   "slug": "netflix-rinnova-nobody-wants-this-per-una-quarta-stagione-5b8cc8",
+   "tags": [
+    "Nobody Wants This",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "justjared.com",
+   "url": "https://www.justjared.com/2026/11/06/netflix-renews-nobody-wants-this-for-season-4/",
+   "published": "2026-11-06T17:13:55+00:00"
+  },
+  {
+   "id": "631970a38423",
+   "section": "musica",
+   "title": "Classifica FIMI: Kid Yugi primo tra album e singoli",
+   "summary": "Kid Yugi conquista il primo posto sia nella classifica degli album sia in quella dei singoli. Max Pezzali debutta al terzo posto, mentre Francesca Michielin si piazza settima.",
+   "body": "Kid Yugi chiude la settimana in testa alle classifiche italiane, sia tra gli album sia tra i singoli. Il rapper si conferma così come una delle presenze più forti del momento nelle preferenze del pubblico.\n\nTra i debutti spicca Max Pezzali, che entra direttamente al terzo posto. Più giù, in settima posizione, si trova Francesca Michielin. Secondo ANSA, sono questi i movimenti principali della hit parade, che fotografa il panorama musicale nazionale della settimana.",
+   "slug": "classifica-fimi-kid-yugi-primo-tra-album-e-singoli-631970",
+   "tags": [
+    "Kid Yugi",
+    "Max Pezzali",
+    "Francesca Michielin"
+   ],
+   "scene": "vinile",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/06/hit-parade-kid-yugi-pigliatutto-primo-negli-album-e-nei-singoli_d695fba4-5308-4da4-9cab-943b3d0ec885.html",
+   "published": "2026-11-06T17:12:43+00:00"
+  },
+  {
+   "id": "03d664668c0f",
+   "section": "cinema",
+   "title": "Possible Love: il finale spiegato tra Mi-ok, Ho-seok e l'ultima scena",
+   "summary": "Il nuovo film di Lee Chang-dong, Possible Love, è un dramma psicologico sudcoreano che unisce una crisi familiare a una riflessione su lavoro, disuguaglianze e potere dello sguardo. Una guida al finale, con il destino dei protagonisti Mi-ok e Ho-seok e il significato dell'ultima scena.",
+   "body": "Diretto da Lee Chang-dong, Possible Love è un dramma psicologico sudcoreano che intreccia una crisi familiare con temi come il lavoro, le disuguaglianze sociali e il potere dello sguardo. Al centro della storia ci sono Ho-seok, operaio licenziato dopo una vertenza sindacale segnata da forti tensioni, e la moglie Mi-ok, la cui vita cambia profondamente nel corso del racconto.\n\nSecondo Cinefilos, il film si chiude con una scena finale che ha acceso il dibattito tra gli spettatori e che richiede una lettura attenta. La testata ne propone una spiegazione, soffermandosi sul destino dei due protagonisti e sul valore simbolico dell'ultima inquadratura. Per chi ha già visto il film, l'approfondimento offre una chiave di lettura utile a collegare i temi sociali della storia con il percorso dei personaggi.",
+   "slug": "possible-love-il-finale-spiegato-tra-mi-ok-ho-seok-e-l-ultim-03d664",
+   "tags": [
+    "Possible Love",
+    "Lee Chang-dong"
+   ],
+   "scene": "sala",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/tutto-film/approfondimenti/possible-love-spiegazione-finale-729769",
+   "published": "2026-11-06T17:10:10+00:00"
+  },
+  {
+   "id": "2a221854c33f",
+   "section": "cinema",
+   "title": "Clayface, nuove immagini dal set mostrano gli effetti gore del film Batman",
+   "summary": "Nuove foto dietro le quinte di Clayface, spin-off del Batman DC, mettono in evidenza gli effetti speciali splatter della creatura. La notizia è riportata da Bloody Disgusting.",
+   "body": "Sono state diffuse nuove immagini dietro le quinte di Clayface, il film dedicato al villain di Batman, che mostrano gli effetti pratici usati per dare vita al personaggio. Secondo Bloody Disgusting, gli scatti evidenziano in particolare la componente più cruda e grottesca del progetto, in linea con un approccio visivo più concreto rispetto a molte produzioni supereroistiche.\n\nIl sito americano sottolinea come il film di DC si distingua per una resa fisica e materica delle creature, a differenza di altri blockbuster che puntano quasi esclusivamente sugli effetti digitali. Le immagini offrono quindi un primo sguardo su come il mostro di argilla sarà costruito sullo schermo.",
+   "slug": "clayface-nuove-immagini-dal-set-mostrano-gli-effetti-gore-de-2a2218",
+   "tags": [
+    "Clayface",
+    "Batman"
+   ],
+   "scene": "ciak",
+   "source": "bloody-disgusting.com",
+   "url": "https://bloody-disgusting.com/movie/3974977/clayface-movie-special-effects-behind-the-scenes-tom-rhys-harries/",
+   "published": "2026-11-06T17:10:07+00:00"
+  },
+  {
+   "id": "b2097c9c7f53",
+   "section": "cinema",
+   "title": "Dustin Hoffman racconta se stesso nel memoir Look at me",
+   "summary": "Dustin Hoffman pubblica il suo primo memoir, Look at me, scritto con la giornalista Ariel Levy. Il libro esce il 10 novembre in Italia per Rizzoli.",
+   "body": "Dustin Hoffman si racconta per la prima volta in un libro di memorie che va oltre l'immagine della leggenda di Hollywood. Il volume, dal titolo Look at me, è stato scritto con la giornalista Ariel Levy e arriverà in libreria il 10 novembre.\n\nSecondo ANSA, l'edizione italiana è pubblicata da Rizzoli. Il memoir promette uno sguardo personale sulla carriera e sulla vita dell'attore premio Oscar, celebre per film come Il laureato e Kramer contro Kramer. Il materiale disponibile sulla notizia è limitato, quindi non è possibile riportare dettagli su episodi o contenuti specifici del libro.",
+   "slug": "dustin-hoffman-racconta-se-stesso-nel-memoir-look-at-me-b2097c",
+   "tags": [
+    "Dustin Hoffman",
+    "Ariel Levy",
+    "Look at me"
+   ],
+   "scene": null,
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/06/dustin-hoffman-si-racconta-per-la-prima-volta-dietro-la-leggenda-in-look-at-me_14143a74-e222-4823-a0c7-be5235075ae0.html",
+   "published": "2026-11-06T17:07:35+00:00"
+  },
+  {
+   "id": "f733ae7474ce",
+   "section": "tv",
+   "title": "Deadly Class, la serie teen dei fratelli Russo su Netflix",
+   "summary": "Deadly Class, serie tratta dal fumetto di Rick Remender e prodotta dai fratelli Russo, è tornata in tendenza su Netflix. La serie è stata cancellata dopo una sola stagione.",
+   "body": "Deadly Class è una serie televisiva prodotta dai fratelli Russo e tratta dal fumetto di Rick Remender. Ambientata in una scuola per giovani assassini, racconta la storia di un gruppo di adolescenti alle prese con addestramento, lealtà e identità. Secondo BadTaste, la serie è tornata in tendenza sulla piattaforma Netflix, dove è disponibile.\n\nNel cast figura anche un'attrice vista di recente in Doctor Strange. La serie è stata cancellata dopo una sola stagione, un dato che ne spiega il ritorno d'interesse soprattutto tra chi l'ha scoperta solo in un secondo momento. La fonte riporta anche i motivi della chiusura, ma il materiale a disposizione non li dettaglia.",
+   "slug": "deadly-class-la-serie-teen-dei-fratelli-russo-su-netflix-f733ae",
+   "tags": [
+    "Deadly Class",
+    "Anthony e Joe Russo",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/una-star-di-doctor-strange-nella-serie-teen-in-tendenza-su-netflix-prodotta-dai-fratelli-russo",
+   "published": "2026-11-06T17:00:25+00:00"
+  },
+  {
+   "id": "e863ec5f2c90",
+   "section": "tv",
+   "title": "The Traitors Italia 2, Lorella Cuccarini su Biondo: \"Mi è piaciuto di meno\"",
+   "summary": "I primi tre episodi di The Traitors Italia 2 sono disponibili su Prime Video. Lorella Cuccarini, tra le protagoniste della edizione, ha rilasciato interviste al settimanale Chi e al podcast Non Lo Faccio X Moda di Giulia Salemi.",
+   "body": "I primi tre episodi di The Traitors Italia 2 sono approdati su Prime Video, e Lorella Cuccarini, una delle protagoniste più seguite di questa edizione, ha parlato del programma in due interviste uscite nello stesso giorno: una al settimanale Chi e una a Giulia Salemi per il podcast Non Lo Faccio X Moda.\n\nNel colloquio con Salemi, Cuccarini ha dichiarato che il concorrente Biondo è stato quello che le è piaciuto di meno. Secondo quanto riportato dalla fonte, l'intervista ha offerto alla conduttrice l'occasione di commentare i partecipanti e il gioco. Il materiale disponibile non riporta altri dettagli sulle sue valutazioni.",
+   "slug": "the-traitors-italia-2-lorella-cuccarini-su-biondo-mi-e-piaci-e863ec",
+   "tags": [
+    "The Traitors Italia",
+    "Lorella Cuccarini",
+    "Giulia Salemi"
+   ],
+   "scene": "tv",
+   "source": "biccy.it",
+   "url": "https://www.biccy.it/the-traitors-italia-2-lorella-cuccarini-biondo/",
+   "published": "2026-11-06T16:47:44+00:00"
+  },
+  {
+   "id": "667f3b03aa6c",
+   "section": "tv",
+   "title": "Ok, Il Prezzo è Giusto! torna su Canale 5 a dicembre con Ilary Blasi",
+   "summary": "Il quiz Ok, Il Prezzo è Giusto! tornerà su Canale 5 a dicembre 2026 nella fascia preserale, con la conduzione di Ilary Blasi. La notizia è stata riportata dal sito Davide Maggio.",
+   "body": "Ok, Il Prezzo è Giusto! torna su Canale 5 a dicembre 2026, nella fascia preserale, con Ilary Blasi alla conduzione. Il ritorno del quiz è previsto per il periodo natalizio, come riferito da Davide Maggio.\n\nIl materiale disponibile non indica altri dettagli sul programma, come il numero di puntate o il calendario preciso della messa in onda. Nel testo compare anche un riferimento a Enrico Papi, che sarebbe stato beffato, ma la fonte non chiarisce il contesto di questo passaggio.",
+   "slug": "ok-il-prezzo-e-giusto-torna-su-canale-5-a-dicembre-con-ilary-667f3b",
+   "tags": [
+    "Ok, Il Prezzo è Giusto!",
+    "Ilary Blasi",
+    "Canale 5"
+   ],
+   "scene": "tv",
+   "source": "davidemaggio.it",
+   "url": "https://www.davidemaggio.it/ok-il-prezzo-e-giusto/ok-il-prezzo-e-giusto-torna-a-natale-con-ilary-blasi",
+   "published": "2026-11-06T16:47:41+00:00"
+  },
+  {
+   "id": "88cb374d017a",
+   "section": "musica",
+   "title": "Britney Spears, esce la Edizione 25th Anniversary di Britney",
+   "summary": "È disponibile una versione speciale di Britney, terzo album di Britney Spears, con inediti e bonus track tra cui Am I A Sinner e My Big Secret. Il disco uscì nel novembre 2011 e debuttò al primo posto della Billboard 200 statunitense con 746.000 copie.",
+   "body": "A distanza di quindici anni dalla sua uscita, il terzo album di Britney Spears torna sul mercato in una versione celebrativa. Secondo quanto riportato da Biccy, la Britney 25th Anniversary Edition contiene brani inediti e bonus track, tra cui Am I A Sinner e My Big Secret. Il disco era stato pubblicato il 5 novembre 2011.\n\nAl debutto negli Stati Uniti, l'album aveva venduto 746.000 copie e aveva raggiunto la prima posizione della Billboard 200. Il lavoro confermava il ruolo della cantante come una delle figure centrali del pop internazionale di quegli anni. La nuova edizione riunisce materiale già noto ai fan e nuove aggiunte pensate per i collezionisti.",
+   "slug": "britney-spears-esce-la-edizione-25th-anniversary-di-britney-88cb37",
+   "tags": [
+    "Britney Spears",
+    "Billboard 200"
+   ],
+   "scene": "vinile",
+   "source": "biccy.it",
+   "url": "https://www.biccy.it/britney-25th-anniversary-edition-bonus-track-am-i-a-sinner-my-big-secret/",
+   "published": "2026-11-06T16:39:42+00:00"
+  },
+  {
    "id": "6f365b419278",
    "section": "tv",
    "title": "Stranger Things, Netflix annuncia una nuova serie live-action con un primo teaser",
@@ -8091,257 +8341,6 @@
    "source": "Box Office Biz",
    "url": "https://boxofficebiz.it/news/box-office-spagna-2026-un-ottobre-fenomenale-grazie-a-la-bola-negra/",
    "published": "2026-11-04T13:22:14+00:00"
-  },
-  {
-   "id": "4348d69c7ed3",
-   "section": "cinema",
-   "title": "Se domani non torno apre in 562 sale e guida il box office",
-   "summary": "Il film dedicato a Giulia Cecchettin arriva in 562 cinema dopo le anteprime riservate alle scuole e guida la rassegna delle nuove uscite. Alle sue spalle si collocano Il gatto col cappello, distribuito da Warner, e Wild Horse Nine, prodotto da Disney.",
-   "body": "Il film Se domani non torno esce nelle sale italiane in 562 cinema e occupa la prima posizione tra le nuove uscite della settimana. Il titolo racconta la storia di Giulia Cecchettin ed è preceduto da una serie di anteprime organizzate nelle scuole, che hanno accompagnato il lancio del film prima della distribuzione generale.\n\nSecondo Box Office Biz, alle spalle del film di apertura si piazzano Il gatto col cappello, distribuito da Warner, e Wild Horse Nine, il titolo Disney. La classifica delle nuove uscite conferma così la presenza di produzioni di diversa natura, dal dramma al family movie fino al western.",
-   "slug": "se-domani-non-torno-apre-in-562-sale-e-guida-il-box-office-4348d6",
-   "tags": [
-    "Se domani non torno",
-    "Il gatto col cappello",
-    "Wild Horse Nine"
-   ],
-   "scene": "sala",
-   "source": "Box Office Biz",
-   "url": "https://boxofficebiz.it/news/se-domani-non-torno-arriva-in-562-cinema/",
-   "published": "2026-11-04T13:20:26+00:00"
-  },
-  {
-   "id": "c4c3e02b8367",
-   "section": "tv",
-   "title": "Sky-ITV, il Regno Unito avvia l'esame antitrust sull'acquisizione",
-   "summary": "La ministra della Cultura britannica Lisa Nandy ha chiesto a Ofcom e alla Competition and Markets Authority di esaminare formalmente l'acquisizione di ITV da parte di Sky, operazione da 1,6 miliardi di sterline. Il passo segue la dichiarazione della ministra di voler valutare un possibile intervento.",
-   "body": "Il governo britannico entra nella fase successiva dell'esame sull'acquisizione da parte di Sky di ITV, valutata 1,6 miliardi di sterline, circa 2,2 miliardi di dollari. Secondo quanto riportato da Deadline, la ministra della Cultura Lisa Nandy ha chiesto alle autorità di concorrenza, Ofcom e Competition and Markets Authority (CMA), di analizzare formalmente l'operazione e di riferire sui suoi effetti.\n\nIl mese scorso la ministra aveva già dichiarato di essere orientata a intervenire sull'operazione. L'incarico affidato alle due autorità rappresenta il passaggio successivo della valutazione, che riguarda uno dei principali gruppi televisivi britannici e la sua eventuale fusione con la piattaforma di Sky.",
-   "slug": "sky-itv-il-regno-unito-avvia-l-esame-antitrust-sull-acquisiz-c4c3e0",
-   "tags": [
-    "Sky",
-    "ITV",
-    "Lisa Nandy"
-   ],
-   "scene": "tv",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/sky-itv-deal-formal-investigation-lisa-nandy-competition-1237213061/",
-   "published": "2026-11-04T13:08:21+00:00"
-  },
-  {
-   "id": "f21c91fdaeff",
-   "section": "tv",
-   "title": "Torna Quelli che il Cinema con la seconda stagione su RaiPlay",
-   "summary": "Dal 6 novembre su RaiPlay arriva la seconda stagione di Quelli che il Cinema, il programma che raccoglie le voci degli studenti del Centro sperimentale di cinematografia. Il racconto riguarda sogni e difficoltà dei giovani che si preparano a lavorare nel cinema.",
-   "body": "La seconda stagione di Quelli che il Cinema torna su RaiPlay a partire dal 6 novembre. Il programma dà spazio alle voci degli studenti del Centro sperimentale di cinematografia, che raccontano le proprie aspirazioni e le difficoltà di chi vuole costruire una carriera nel settore.\n\nSecondo ANSA, il racconto mette al centro i giovani allievi della scuola romana e il loro percorso tra progetti, speranze e ostacoli. Il titolo richiama l'omonimo appuntamento dedicato al cinema, qui riproposto con un taglio diretto sulle storie di chi sta iniziando a muovere i primi passi nel mestiere.",
-   "slug": "torna-quelli-che-il-cinema-con-la-seconda-stagione-su-raipla-f21c91",
-   "tags": [
-    "Quelli che il Cinema",
-    "Centro sperimentale di cinematografia",
-    "RaiPlay"
-   ],
-   "scene": "streaming",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/04/torna-quelli-che-il-cinema-con-le-voci-degli-studenti-del-csc_272a2b9e-c00c-45dc-8ec7-5b4b0d43c4b4.html",
-   "published": "2026-11-04T13:03:36+00:00"
-  },
-  {
-   "id": "6a6236d21eed",
-   "section": "tv",
-   "title": "Black Doves 2: Helen e Sam tornano con una nuova minaccia",
-   "summary": "La seconda stagione di Black Doves riunisce Helen e Sam alle prese con un nuovo mistero, che coinvolge gli stessi Black Doves come bersaglio. Una prima anticipazione sui nuovi episodi della serie.",
-   "body": "La seconda stagione di Black Doves riprende la storia di Helen e Sam, di nuovo insieme e impegnati a risolvere un nuovo mistero. Secondo Tell-Tale TV, al centro della trama c'è una minaccia diretta proprio contro i Black Doves, l'organizzazione di agenti al centro della serie.\n\nLa fonte ha pubblicato un'anteprima con le prime informazioni sulla nuova stagione, senza però entrare nel dettaglio di episodi o sviluppi della trama. Restano quindi da scoprire i nuovi personaggi e il modo in cui il mistero si collegherà alle vicende già viste nella prima stagione.",
-   "slug": "black-doves-2-helen-e-sam-tornano-con-una-nuova-minaccia-6a6236",
-   "tags": [
-    "Black Doves",
-    "Helen",
-    "Sam"
-   ],
-   "scene": "streaming",
-   "source": "telltaletv.com",
-   "url": "https://telltaletv.com/2026/11/what-to-expect-from-black-doves-season-2-new-season-new-threats/?utm_source=rss&utm_medium=rss&utm_campaign=what-to-expect-from-black-doves-season-2-new-season-new-threats",
-   "published": "2026-11-04T13:00:45+00:00"
-  },
-  {
-   "id": "f932bd1e313a",
-   "section": "cinema",
-   "title": "Netflix inizia a pubblicare i dati al box office con The Mosquito Bowl",
-   "summary": "Netflix ha avviato la pubblicazione dei dati di incasso al botteghino, una novità per la piattaforma. Il primo titolo coinvolto è il film di guerra The Mosquito Bowl.",
-   "body": "Netflix ha iniziato a rendere noti i dati di incasso al botteghino dei propri film, segnando un cambiamento rispetto alla sua tradizione di non comunicare questi numeri. Secondo Collider, la svolta prende il via con l'ultimo film della piattaforma, The Mosquito Bowl, un titolo di guerra.\n\nLa decisione viene presentata come l'inizio di una nuova fase per lo streamer, che fino a oggi aveva preferito tenere riservati i risultati dei suoi film distribuiti anche in sala. Il materiale disponibile non specifica però le cifre precise dell'esordio né le modalità con cui verranno comunicati i dati nei prossimi mesi.",
-   "slug": "netflix-inizia-a-pubblicare-i-dati-al-box-office-con-the-mos-f932bd",
-   "tags": [
-    "Netflix",
-    "The Mosquito Bowl"
-   ],
-   "scene": "streaming",
-   "source": "collider.com",
-   "url": "https://collider.com/netflix-mosquito-bowl-box-office-1-million/",
-   "published": "2026-11-04T13:00:12+00:00"
-  },
-  {
-   "id": "7b23f28cd492",
-   "section": "tv",
-   "title": "Harry Potter, i professori di Hogwarts meritano più spazio nella serie HBO",
-   "summary": "Secondo un'analisi di Winterfell, i docenti di Hogwarts hanno un ruolo centrale nel mondo di Harry Potter ma nei film sono rimasti spesso in secondo piano. La nuova serie HBO avrebbe l'occasione di trasformarli in personaggi a pieno titolo.",
-   "body": "Nei romanzi e nei film della saga di Harry Potter, i professori di Hogwarts occupano un posto fondamentale nella vita della scuola di magia. Tuttavia, sul grande schermo molti di loro sono apparsi soltanto in ruoli di supporto, con poco spazio per approfondire la loro storia e la loro personalità.\n\nLa nuova serie HBO, tratta dai libri di J.K. Rowling, offre ora la possibilità di cambiare questo approccio e di dare a questi personaggi una dimensione autonoma. Secondo quanto riportato da winteriscoming.net, il progetto potrebbe trasformare i docenti in figure protagoniste, con archi narrativi propri e non solo come sfondo per Harry e i suoi amici.",
-   "slug": "harry-potter-i-professori-di-hogwarts-meritano-piu-spazio-ne-7b23f2",
-   "tags": [
-    "Harry Potter",
-    "HBO"
-   ],
-   "scene": "tv",
-   "source": "winteriscoming.net",
-   "url": "https://winteriscoming.net/harry-potter-hogwarts-professors-deserve-more-than-supporting-roles-hbo-series?utm_source=RSS",
-   "published": "2026-11-04T13:00:03+00:00"
-  },
-  {
-   "id": "063116a46d54",
-   "section": "gossip",
-   "title": "Milly Carlucci prende posizione sul confronto tra Ravagnani e Diaco",
-   "summary": "Milly Carlucci e gli autori di Ballando con le Stelle hanno pubblicato un messaggio di solidarietà ad Alberto Ravagnani, dopo le polemiche nate dal suo confronto con Pino Diaco su BellaMa'. La conduttrice ha definito inaccettabile quanto accaduto.",
-   "body": "La conduttrice di Ballando con le Stelle e il team degli autori del programma hanno diffuso un messaggio pubblico di sostegno al concorrente Alberto Ravagnani. La presa di posizione arriva dopo le polemiche seguite al suo confronto con il conduttore di BellaMa', Pino Diaco, durante il quale sono volati toni duri.\n\nNel comunicato, Carlucci e la squadra degli autori definiscono inaccettabile l'accaduto e manifestano vicinanza al ballerino. Secondo Movieplayer, il messaggio rappresenta una risposta ufficiale della produzione alle reazioni sollevate dall'intervista, che aveva diviso il pubblico sui social e nel dibattito televisivo.",
-   "slug": "milly-carlucci-prende-posizione-sul-confronto-tra-ravagnani-063116",
-   "tags": [
-    "Milly Carlucci",
-    "Alberto Ravagnani",
-    "Ballando con le Stelle"
-   ],
-   "scene": "palco",
-   "source": "Movieplayer",
-   "url": "https://movieplayer.it/news/milly-carlucci-posizione-intervista-diaco-ravagnani_171819/",
-   "published": "2026-11-04T12:56:25+00:00"
-  },
-  {
-   "id": "720e429bc053",
-   "section": "musica",
-   "title": "Andrea Bocelli protagonista del pre-final show delle Atp Finals a Torino",
-   "summary": "Andrea Bocelli sarà il protagonista del pre-final show delle Atp Finals di tennis, in programma domenica 22 novembre sul Campo Centrale dell'Inalpi Arena di Torino. L'evento precede la sfida decisiva del torneo maschile di fine stagione.",
-   "body": "Il tenore Andrea Bocelli sarà il protagonista del pre-final show delle Atp Finals, il torneo di tennis che riunisce i migliori giocatori della stagione. L'appuntamento è fissato per domenica 22 novembre sul Campo Centrale dell'Inalpi Arena di Torino, città che ospita il torneo.\n\nSecondo ANSA, la serata musicale con l'artista italiano farà da cornice all'ultimo atto della manifestazione sportiva. Il pubblico potrà quindi assistere a un evento che unisce musica dal vivo e tennis di alto livello nello stesso spazio.",
-   "slug": "andrea-bocelli-protagonista-del-pre-final-show-delle-atp-fin-720e42",
-   "tags": [
-    "Andrea Bocelli",
-    "Atp Finals",
-    "Inalpi Arena"
-   ],
-   "scene": "palco",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/04/andrea-bocelli-protagonista-del-pre-final-show-atp-finals_4d4e4e4e-d828-488c-b441-ef21f63f95f0.html",
-   "published": "2026-11-04T12:35:45+00:00"
-  },
-  {
-   "id": "b355d46625f4",
-   "section": "cinema",
-   "title": "La storia infinita torna al cinema in versione rimasterizzata",
-   "summary": "Il fantasy La storia infinita, tratto dal romanzo di Michael Ende, torna nelle sale il 16, 17 e 18 novembre in una versione rimasterizzata. A quarantadue anni dalla prima uscita, il film viene riproposto al pubblico per tre giorni.",
-   "body": "Il celebre film fantasy La storia infinita tornerà nelle sale italiane nei giorni 16, 17 e 18 novembre, in una versione rimasterizzata. L'opera, tratta dal romanzo di Michael Ende, ricorre a distanza di quarantadue anni dalla sua uscita originaria, e questa riedizione offre al pubblico l'occasione di rivederla sul grande schermo con una resa tecnica aggiornata.\n\nSecondo ANSA Cinema, la proiezione speciale si concentra su un weekend soltanto, un formato pensato per riportare in sala un titolo amato da generazioni di spettatori. Il materiale disponibile non specifica altri dettagli sulla programmazione o sulle sale coinvolte.",
-   "slug": "la-storia-infinita-torna-al-cinema-in-versione-rimasterizzat-b355d4",
-   "tags": [
-    "La storia infinita",
-    "Michael Ende"
-   ],
-   "scene": "pellicola",
-   "source": "ANSA Cinema",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/04/la-storia-infinita-torna-in-sala-il-16-17-18-novembre-in-versione-rimasterizzata_24f567ac-31e0-45f8-8c44-cb8f9f35e6c4.html",
-   "published": "2026-11-04T12:19:39+00:00"
-  },
-  {
-   "id": "d057440a0949",
-   "section": "cinema",
-   "title": "Neri Marcorè conclude le riprese di \"È il pensiero che conta\" a Trento",
-   "summary": "Si sono concluse a Trento le riprese del film \"È il pensiero che conta\", diretto e interpretato da Neri Marcorè. Nel cast figurano Ksenia Rappoport, Euridice Axen e Fausto Maria Sciarappa.",
-   "body": "Sono terminate a Trento le riprese di \"È il pensiero che conta\", il nuovo film di Neri Marcorè, che ne cura la regia e torna davanti alla macchina da presa. Il ciak finale segna la fine della lavorazione nella città trentina, scelta come location per il progetto.\n\nNel cast compaiono Ksenia Rappoport, Euridice Axen e Fausto Maria Sciarappa. Secondo ANSA, la notizia è stata diffusa al termine delle riprese, ma il materiale disponibile non indica una data di uscita nelle sale né ulteriori dettagli sulla trama.",
-   "slug": "neri-marcore-conclude-le-riprese-di-e-il-pensiero-che-conta-d05744",
-   "tags": [
-    "Neri Marcorè",
-    "Ksenia Rappoport",
-    "È il pensiero che conta"
-   ],
-   "scene": "ciak",
-   "source": "ANSA Cinema",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/04/fine-ciak-a-trento-per-il-film-di-neri-marcore-e-il-pensiero-che-conta_608bb801-66b9-41b5-808f-387028d10f22.html",
-   "published": "2026-11-04T12:15:36+00:00"
-  },
-  {
-   "id": "f91f8850c5f8",
-   "section": "tv",
-   "title": "LEGO propone il razzo rosso di Tintin come set da collezione",
-   "summary": "Il nuovo set LEGO riproduce il razzo che nel fumetto Atterraggio sulla Luna porta Tintin e i suoi amici nello spazio. Nella confezione sono inclusi sei minifigure inedite dei personaggi, Milù compreso, con tute spaziali.",
-   "body": "Il marchio LEGO ha presentato una nuova versione del celebre razzo rosso di Tintin, il mezzo con cui il reporter e i suoi compagni raggiungono la Luna nel fumetto Atterraggio sulla Luna. Il modello è pensato soprattutto per i collezionisti e riproduce con cura la forma dell'astronave del fumetto di Hergé.\n\nSecondo quanto riportato da Fotogramas, la confezione include sei minifigure finora mai viste dei personaggi, compreso il cane Milù, tutte con tute spaziali. La notizia arriva dalla testata spagnola, che parla di un set dal prezzo ribassato rispetto al lancio.",
-   "slug": "lego-propone-il-razzo-rosso-di-tintin-come-set-da-collezione-f91f88",
-   "tags": [
-    "Tintin",
-    "LEGO",
-    "Milù"
-   ],
-   "scene": "vinile",
-   "source": "fotogramas.es",
-   "url": "https://www.fotogramas.es/noticias-cine/a74292737/lego-iconico-cohete-rojo-tintin-espectacular-figura-coleccionistas/",
-   "published": "2026-11-04T12:14:00+00:00"
-  },
-  {
-   "id": "1568fe64cd41",
-   "section": "tv",
-   "title": "VisionQuest, episodio 7: i fan Marvel elogiano Paul Bettany",
-   "summary": "Nel settimo episodio di VisionQuest, la serie Marvel con Paul Bettany, il pubblico dei fan ha reagito con entusiasmo alla prova dell'attore, che interpreta più ruoli. Secondo alcuni commenti, meriterebbe un Emmy.",
-   "body": "Nel settimo episodio di VisionQuest, la serie Marvel che vede Paul Bettany tornare nei panni di Visione, l'attore interpreta più personaggi, e questo ha colpito molto il pubblico. Secondo quanto riportato da gamesradar.com, sui social i fan Marvel hanno espresso ammirazione per la sua performance, al punto che alcuni hanno chiesto che gli venga assegnato un Emmy.\n\nLa reazione dei fan conferma l'interesse per il personaggio di Visione e per la capacità di Bettany di dare vita a ruoli diversi all'interno della stessa serie. Il materiale disponibile non entra nel dettaglio sulla trama dell'episodio né sui singoli personaggi interpretati dall'attore.",
-   "slug": "visionquest-episodio-7-i-fan-marvel-elogiano-paul-bettany-1568fe",
-   "tags": [
-    "VisionQuest",
-    "Paul Bettany",
-    "Marvel"
-   ],
-   "scene": "premiere",
-   "source": "gamesradar.com",
-   "url": "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-episode-7-has-marvel-fans-blown-away-by-paul-bettany-playing-so-many-roles-give-him-the-emmy/",
-   "published": "2026-11-04T12:09:53+00:00"
-  },
-  {
-   "id": "3e4f2f8c377d",
-   "section": "cinema",
-   "title": "Harry Potter, proteste pro diritti trans all'apertura dello store di Oxford Street",
-   "summary": "All'inaugurazione del nuovo store di Harry Potter a Oxford Street, a Londra, una dozzina di attivisti per i diritti delle persone trans ha protestato contro J.K. Rowling. I manifestanti hanno scandito slogan e mostrato cartelli davanti al negozio.",
-   "body": "Il nuovo negozio ufficiale di Harry Potter in Oxford Street, a Londra, ha aperto le porte tra le proteste di un gruppo di attivisti per i diritti delle persone trans. Secondo Deadline, circa una dozzina di manifestanti si è posizionata a lato del punto vendita con megafoni e cartelli, accogliendo i fan in fila per entrare.\n\nGli slogan hanno preso di mira la scrittrice J.K. Rowling, creatrice della saga, accusata dai dimostranti di avere \"sangue sulle mani\". Alcuni cartelli riportavano frasi dedicate ai bambini trans. Il materiale disponibile non dettaglia ulteriori sviluppi né eventuali reazioni ufficiali da parte di Warner Bros. Discovery o della stessa autrice.",
-   "slug": "harry-potter-proteste-pro-diritti-trans-all-apertura-dello-s-3e4f2f",
-   "tags": [
-    "Harry Potter",
-    "J.K. Rowling"
-   ],
-   "scene": "tappeto",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/harry-potter-oxford-street-store-opening-trans-protest-1237212999/",
-   "published": "2026-11-04T12:09:39+00:00"
-  },
-  {
-   "id": "8d0a28d343eb",
-   "section": "cinema",
-   "title": "Star Trek: Primo contatto compie trent'anni, Patrick Stewart nel ruolo d'azione",
-   "summary": "Uscito nel 1996, Star Trek: Primo contatto mostra un capitano Picard più orientato all'azione, interpretato da Patrick Stewart. Il film è disponibile in streaming su Paramount+.",
-   "body": "Secondo Collider, il film Star Trek: Primo contatto, uscito nel 1996, compie trent'anni e resta una delle prove più riuscite della saga cinematografica dedicata a Star Trek. In quella pellicola Patrick Stewart presenta una versione del capitano Picard più vicina al registro dell'azione rispetto alle apparizioni televisive della serie.\n\nIl film è oggi disponibile in streaming su Paramount+. Per il pubblico italiano è un'occasione per rivedere il personaggio in una chiave diversa, con scontri e momenti di tensione più marcati, a trent'anni dalla sua uscita.",
-   "slug": "star-trek-primo-contatto-compie-trent-anni-patrick-stewart-n-8d0a28",
-   "tags": [
-    "Star Trek: Primo contatto",
-    "Patrick Stewart",
-    "Paramount+"
-   ],
-   "scene": "streaming",
-   "source": "collider.com",
-   "url": "https://collider.com/patrick-stewart-star-trek-first-contact-streaming-paramount-plus-november-2026/",
-   "published": "2026-11-04T12:08:12+00:00"
-  },
-  {
-   "id": "b36d8c40bb1f",
-   "section": "tv",
-   "title": "Parker Posey confermata nella quarta stagione di The White Lotus",
-   "summary": "Parker Posey ha annunciato durante una puntata di TODAY with Jenna & Sheinelle di far parte della quarta stagione di The White Lotus. L'attrice ha dato la notizia in diretta alle conduttrici, che non se l'aspettavano.",
-   "body": "Parker Posey ha annunciato a sorpresa la sua partecipazione alla quarta stagione di The White Lotus, la serie dark comedy della HBO. La rivelazione è arrivata durante la puntata del 27 ottobre di TODAY with Jenna & Sheinelle, dove l'attrice ha parlato con le conduttrici Jenna Bush Hager e Sheinelle Jones, colte completamente alla sprovvista.\n\nSecondo quanto riportato da OK! Magazine, Posey ha detto in tono casuale di essere nella quarta stagione della serie, aggiungendo di aver pensato di farlo sapere alle conduttrici. Il racconto dell'episodio sottolinea il carattere scherzoso del momento, con le padrone di casa sorprese dalla notizia.",
-   "slug": "parker-posey-confermata-nella-quarta-stagione-di-the-white-l-b36d8c",
-   "tags": [
-    "The White Lotus",
-    "Parker Posey",
-    "Jenna Bush Hager"
-   ],
-   "scene": "tv",
-   "source": "okmagazine.com",
-   "url": "https://okmagazine.com/p/parker-posey-pranks-jenna-bush-hager-sheinelle-jones-white-lotus/",
-   "published": "2026-11-04T12:06:43+00:00"
   }
  ],
  "seen": [
@@ -10548,7 +10547,31 @@
   "42b5ab976e7b",
   "2e335083a730",
   "b3b7bc9d7261",
-  "429b694d9f98"
+  "429b694d9f98",
+  "d9712fe04eb4",
+  "42537a50c957",
+  "2d758abb8413",
+  "cdf56a05870a",
+  "edad7d6da804",
+  "f225a1d6ed9e",
+  "a6cc1554212d",
+  "cc4c539211cf",
+  "c60d1b6678af",
+  "631970a38423",
+  "03d664668c0f",
+  "f733ae7474ce",
+  "08cabc4ea468",
+  "631e59b8ca0b",
+  "45e9fd9132b7",
+  "5b8cc829219c",
+  "83573b9b562b",
+  "0dc1226ef151",
+  "2a221854c33f",
+  "b2097c9c7f53",
+  "bf110e77bddb",
+  "e863ec5f2c90",
+  "667f3b03aa6c",
+  "88cb374d017a"
  ],
  "version": 4,
  "digests": []
