@@ -1,6 +1,73 @@
 {
  "articles": [
   {
+   "id": "fd82ee652d4d",
+   "section": "cinema",
+   "title": "James Gray critica le prime reazioni social, Letterboxd e Rotten Tomatoes",
+   "summary": "Il regista James Gray attacca la cultura della gratificazione immediata nel dibattito sul cinema, citando le prime reazioni sui social e piattaforme come Letterboxd. Critica anche il sistema di punteggi di Rotten Tomatoes.",
+   "body": "Secondo World of Reel, il regista James Gray ha preso di mira la ricerca di giudizi immediati che, a suo dire, ha contagiato il dibattito sul cinema. Nel mirino finiscono le prime reazioni diffuse sui social network, il sito di recensioni Letterboxd e, in particolare, il sistema di punteggi di Rotten Tomatoes.\n\nGray ha sostenuto che un film come 2001: Odissea nello spazio di Stanley Kubrick, secondo lui, sarebbe probabilmente considerato \"marcio\" se uscisse oggi. Il regista ha quindi messo in discussione la tendenza a giudicare le opere a caldo, prima che il pubblico abbia avuto il tempo di riflettervi.",
+   "slug": "james-gray-critica-le-prime-reazioni-social-letterboxd-e-rot-fd82ee",
+   "tags": [
+    "James Gray",
+    "Rotten Tomatoes",
+    "Letterboxd"
+   ],
+   "scene": "premiere",
+   "source": "worldofreel.com",
+   "url": "https://www.worldofreel.com/blog/2026/11/6/james-gray-slams-letterboxds-star-ratings-an-overt-disrespect-for-cinema",
+   "published": "2026-11-06T23:16:59+00:00"
+  },
+  {
+   "id": "569049bc55f9",
+   "section": "cinema",
+   "title": "Bill Hader presenta They Know, il suo debutto alla regia tra horror e commedia",
+   "summary": "Bill Hader sta completando il suo primo lungometraggio da regista, They Know, annunciato come horror ma descritto come un film a metà tra terrore psicologico, commedia nera e momenti di inattesa dolcezza. Secondo quanto riportato da The Playlist, l'attore ha citato tra le ispirazioni il regista giapponese Kiyoshi Kurosawa.",
+   "body": "Chi si aspetta da Bill Hader un horror tradizionale dopo Barry potrebbe dover rivedere le proprie previsioni. L'attore, autore e regista sta mettendo a punto il suo debutto alla regia con un lungometraggio, They Know, che era stato presentato come film dell'orrore ma che, stando alle sue parole, occupa uno spazio più strano e difficile da definire.\n\nSecondo quanto riportato da The Playlist, Hader descrive il film come divertente, spaventoso e \"stranamente dolce\". Tra i riferimenti che ha citato figura Kiyoshi Kurosawa, maestro del cinema psicologico giapponese, a conferma di un approccio più interessato alla tensione mentale che allo spavento immediato.",
+   "slug": "bill-hader-presenta-they-know-il-suo-debutto-alla-regia-tra-569049",
+   "tags": [
+    "Bill Hader",
+    "They Know",
+    "Kiyoshi Kurosawa"
+   ],
+   "scene": "ciak",
+   "source": "theplaylist.net",
+   "url": "https://theplaylist.net/bill-hader-they-know-kiyoshi-kurosawa-psychological-horror-directorial-debut-20261106/",
+   "published": "2026-11-06T23:14:51+00:00"
+  },
+  {
+   "id": "ec67d60123a8",
+   "section": "tv",
+   "title": "Will Trent, la quinta stagione ha una data di debutto su ABC",
+   "summary": "La rete ABC ha confermato la data di debutto della quinta stagione di Will Trent, la serie poliziesca con Ramón de Ocampo. La notizia è stata riportata dal sito CarterMatt.",
+   "body": "ABC ha ufficializzato la data in cui andrà in onda la quinta stagione di Will Trent, il poliziesco che segue un agente dell'Georgia Bureau of Investigation alle prese con casi complessi e con la sua vita personale. Secondo CarterMatt, l'annuncio mette fine all'attesa dei fan, che da tempo chiedevano notizie sul ritorno della serie.\n\nIl materiale disponibile non riporta dettagli aggiuntivi sul calendario di programmazione né sulla trama della nuova stagione. La conferma arriva direttamente dalla rete, che ha inserito la serie nella propria programmazione televisiva. Per conoscere il giorno esatto e l'orario del debutto occorre consultare i canali ufficiali di ABC.",
+   "slug": "will-trent-la-quinta-stagione-ha-una-data-di-debutto-su-abc-ec67d6",
+   "tags": [
+    "Will Trent",
+    "ABC"
+   ],
+   "scene": "tv",
+   "source": "cartermatt.com",
+   "url": "https://cartermatt.com/731034/will-trent-season-5-premiere-date-confirmed-at-abc/",
+   "published": "2026-11-06T23:09:08+00:00"
+  },
+  {
+   "id": "fd1f815fc8d3",
+   "section": "cinema",
+   "title": "Wildwood, Wētā FX e l'effetto artigianale dietro il film LAIKA",
+   "summary": "Il supervisore degli effetti visivi Guy Williams ha seguito per sei mesi a Portland il lavoro dello studio Wētā FX su Wildwood, nuovo stop-motion di LAIKA. La battaglia di dodici minuti con 400 inquadrature è stata costruita per integrarsi con pupazzi e scenografie realizzati a mano.",
+   "body": "Secondo AWN, il supervisore degli effetti visivi Guy Williams ha trascorso sei mesi a Portland per guidare il lavoro di Wētā FX sul nuovo lungometraggio in stop-motion di LAIKA, Wildwood. Tra gli interventi più impegnativi c'è una sequenza di battaglia di circa dodici minuti, composta da 400 inquadrature, con soldati coyote e una tempesta di edera in movimento.\n\nGli effetti digitali non sono stati pensati per sostituire il lavoro manuale, ma per dialogare con esso. Ogni elemento generato al computer doveva armonizzarsi con i pupazzi e le scenografie costruiti a mano dagli artigiani di LAIKA, così da mantenere la stessa texture e lo stesso ritmo tipici della tecnica stop-motion.",
+   "slug": "wildwood-weta-fx-e-l-effetto-artigianale-dietro-il-film-laik-fd1f81",
+   "tags": [
+    "Wildwood",
+    "LAIKA",
+    "Wētā FX"
+   ],
+   "scene": "ciak",
+   "source": "awn.com",
+   "url": "https://www.awn.com/vfxworld/coyotes-ivy-and-explosions-w-t-fx-goes-handmade-wildwood",
+   "published": "2026-11-06T23:04:49+00:00"
+  },
+  {
    "id": "9648824df2f8",
    "section": "cinema",
    "title": "The End of Oak Street arriva in streaming su HBO Max",
@@ -2822,6 +2889,23 @@
    "source": "dituttounpop.it",
    "url": "https://www.dituttounpop.it/invasion-sotto-attacco-film-stasera-in-tv-trama-e-cast/",
    "published": "2026-11-06T07:35:24+00:00"
+  },
+  {
+   "id": "529ff3482db1",
+   "section": "tv",
+   "title": "Nord Sud Ovest Est, su Sky la seconda stagione dedicata agli 883",
+   "summary": "Sky prepara per il 2026 la seconda stagione di Hanno ucciso l'uomo ragno, la serie sulle origini degli 883, che cambia titolo in Nord Sud Ovest Est. La nuova stagione racconterà il successo e la crisi del gruppo.",
+   "body": "Sky si prepara a lanciare nel 2026 la seconda stagione di Hanno ucciso l'uomo ragno, la serie dedicata alle origini degli 883. Per questo nuovo capitolo la produzione ha scelto il titolo del secondo album del gruppo, Nord Sud Ovest Est, a indicare il passaggio dal debutto alla fase del grande successo.\n\nSecondo quanto riportato da Dituttounpop.it, la stagione seguirà la band nei momenti di massima popolarità ma anche in una fase di crisi. La serie ha già ottenuto apprezzamento sia dal pubblico sia dalla critica, e il racconto della storia del gruppo proseguirà con un episodio di cui la fonte indica la data del 6 novembre.",
+   "slug": "nord-sud-ovest-est-su-sky-la-seconda-stagione-dedicata-agli-529ff3",
+   "tags": [
+    "Hanno ucciso l'uomo ragno",
+    "Sky",
+    "883"
+   ],
+   "scene": "streaming",
+   "source": "dituttounpop.it",
+   "url": "https://www.dituttounpop.it/nord-sud-ovest-est-il-seguito-di-hanno-ucciso-luomo-ragno-trama-cast-trailer-uscita/",
+   "published": "2026-11-06T07:22:53+00:00"
   },
   {
    "id": "5e03e8834e68",
@@ -8261,90 +8345,6 @@
    "source": "theplaylist.net",
    "url": "https://theplaylist.net/katana-jean-claude-van-damme-afm-20261104/",
    "published": "2026-11-04T18:20:29+00:00"
-  },
-  {
-   "id": "4478e66af299",
-   "section": "cinema",
-   "title": "Avengers: Doomsday, Channing Tatum torna come Gambit in un nuovo video",
-   "summary": "Channing Tatum tornerà nei panni di Gambit in Avengers: Doomsday, come mostra una nuova pubblicità girata con Dunkin' Donuts. Il video offre un primo assaggio di come cambierà il personaggio nel prossimo film del Marvel Cinematic Universe.",
-   "body": "Channing Tatum riprenderà il ruolo di Gambit nel prossimo film del Marvel Cinematic Universe, Avengers: Doomsday. Una nuova pubblicità realizzata in collaborazione con Dunkin' Donuts anticipa il personaggio e mostra una novità rispetto alla sua interpretazione in Deadpool & Wolverine, dove uno dei suoi elementi più riconoscibili aveva colpito il pubblico.\n\nSecondo Cinefilos, il video è il primo assaggio concreto di come il personaggio si presenterà nel film. Le informazioni disponibili restano però limitate al filmato promozionale, che non chiarisce il ruolo completo di Gambit nella trama. Per ulteriori dettagli sul cambiamento, occorrerà attendere l'uscita del film o nuovi materiali ufficiali.",
-   "slug": "avengers-doomsday-channing-tatum-torna-come-gambit-in-un-nuo-4478e6",
-   "tags": [
-    "Avengers: Doomsday",
-    "Channing Tatum",
-    "Deadpool & Wolverine"
-   ],
-   "scene": "pellicola",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/il-nuovo-video-di-avengers-doomsday-conferma-il-grande-cambiamento-di-channing-tatum-gambit-729316",
-   "published": "2026-11-04T18:15:39+00:00"
-  },
-  {
-   "id": "ce3d9b4c1c12",
-   "section": "gossip",
-   "title": "Catherine Bell di JAG cambia look con un taglio corto",
-   "summary": "L'attrice Catherine Bell, protagonista della serie JAG, ha sorpreso i fan con una nuova acconciatura corta. Il cambio di look, seguito a un consiglio della figlia Gemma Beason, ricorda il personaggio degli anni Novanta.",
-   "body": "Catherine Bell, interprete di JAG - Avvocati in divisa, ha mostrato una nuova acconciatura che ha colpito i suoi follower sui social. La trasformazione è arrivata dopo il suggerimento della figlia Gemma Beason, che aveva proposto un taglio netto e deciso.\n\nSecondo Hello!, il nuovo look riporta alla mente la sua figura più celebre della serie andata in onda negli anni Novanta. Molti fan hanno commentato positivamente il cambiamento, apprezzandone l'effetto deciso e il richiamo al passato.",
-   "slug": "catherine-bell-di-jag-cambia-look-con-un-taglio-corto-ce3d9b",
-   "tags": [
-    "Catherine Bell",
-    "JAG - Avvocati in divisa",
-    "Gemma Beason"
-   ],
-   "scene": "flash",
-   "source": "hellomagazine.com",
-   "url": "https://www.hellomagazine.com/us/933114/jag-catherine-bell-chops-hair-new-look/",
-   "published": "2026-11-04T18:13:24+00:00"
-  },
-  {
-   "id": "34dfe7a42e11",
-   "section": "tv",
-   "title": "Harry Potter, la serie HBO: trailer, cast e data di uscita",
-   "summary": "HBO prepara la nuova serie di Harry Potter, con un cast rinnovato e un trailer. Secondo HollywoodLife, Hogwarts riaprirà le porte il giorno di Natale, data che segna l'avvio della promozione.",
-   "body": "La nuova serie di Harry Potter prodotta da HBO si avvicina alla messa in onda con un cast interamente rinnovato e con il primo trailer già diffuso. Secondo HollywoodLife, il reboot è accompagnato da una campagna promozionale di grande visibilità, che include anche un'occupazione pubblicitaria di una città intera.\n\nIl materiale promozionale indica il giorno di Natale come momento in cui Hogwarts torna a riaprire le sue porte, con un richiamo diretto all'ambientazione della saga. La fonte riporta anche la data di uscita e l'elenco completo degli interpreti, elementi che restano al centro dell'attesa del pubblico.",
-   "slug": "harry-potter-la-serie-hbo-trailer-cast-e-data-di-uscita-34dfe7",
-   "tags": [
-    "Harry Potter",
-    "HBO"
-   ],
-   "scene": "streaming",
-   "source": "hollywoodlife.com",
-   "url": "https://hollywoodlife.com/feature/harry-potter-tv-show-4602417/",
-   "published": "2026-11-04T18:11:27+00:00"
-  },
-  {
-   "id": "972fe1dc0915",
-   "section": "tv",
-   "title": "Snoopy presenta: Natale con Snoopy, trailer del nuovo speciale su Apple TV",
-   "summary": "Apple TV ha diffuso il trailer di Snoopy presenta: Natale con Snoopy, speciale animato dedicato ai Peanuts in arrivo sulla piattaforma il 13 novembre. Lo special accompagna il pubblico verso le feste con una nuova avventura sul tema dell'amicizia.",
-   "body": "Apple TV ha pubblicato il trailer di Snoopy presenta: Natale con Snoopy, il nuovo speciale animato dedicato ai celebri personaggi dei Peanuts. Il titolo sarà disponibile sulla piattaforma di streaming a partire dal 13 novembre.\n\nIspirato alla celebre striscia a fumetti creata da Charles M. Schulz, il racconto porta gli spettatori verso il periodo natalizio con una storia incentrata sull'amicizia. Secondo Cinefilos, il materiale promozionale anticipa un'avventura pensata per le famiglie e per il pubblico che ha seguito i Peanuts nel corso degli anni.",
-   "slug": "snoopy-presenta-natale-con-snoopy-trailer-del-nuovo-speciale-972fe1",
-   "tags": [
-    "Snoopy",
-    "Peanuts",
-    "Apple TV"
-   ],
-   "scene": "streaming",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/serie-tv/news/snoopy-presenta-natale-con-snoopy-il-trailer-del-nuovo-speciale-natalizio-in-arrivo-su-apple-tv-729312",
-   "published": "2026-11-04T18:08:58+00:00"
-  },
-  {
-   "id": "32d4d7934bac",
-   "section": "cinema",
-   "title": "Loewe e Tim Burton, collezione ispirata a Nightmare Before Christmas",
-   "summary": "Tim Burton torna a celebrare Nightmare Before Christmas con una nuova collaborazione con il marchio di moda Loewe, annunciata sui social il 4 novembre. La collezione speciale, ispirata al film d'animazione del 1993, arriverà nei negozi dal 12 novembre.",
-   "body": "A trentatré anni dall'uscita nelle sale di Nightmare Before Christmas, Tim Burton riprende uno dei suoi universi più amati e lo porta nel mondo della moda. Il regista è protagonista di una nuova collaborazione con il marchio spagnolo Loewe, annunciata sui canali social il 4 novembre.\n\nSecondo Cinefilos, la collezione nata dall'iniziativa è ispirata al film d'animazione del 1993 e comprenderà borse e altri accessori. I pezzi saranno disponibili nei negozi a partire dal 12 novembre.",
-   "slug": "loewe-e-tim-burton-collezione-ispirata-a-nightmare-before-ch-32d4d7",
-   "tags": [
-    "Tim Burton",
-    "Nightmare Before Christmas",
-    "Loewe"
-   ],
-   "scene": "tappeto",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/tutto-film/approfondimenti/tim-burton-svela-la-nuova-uscita-di-nightmare-before-christmas-729308",
-   "published": "2026-11-04T18:04:16+00:00"
   }
  ],
  "seen": [
@@ -10766,7 +10766,24 @@
   "0be97bf57091",
   "bbda4b6eb77e",
   "d0caad19308f",
-  "9ed1aa30e750"
+  "9ed1aa30e750",
+  "4cb232464547",
+  "5d665d946f7a",
+  "fd82ee652d4d",
+  "f4b71db73b9e",
+  "127e66c0dbc5",
+  "569049bc55f9",
+  "d3da81187469",
+  "3b7984de58f0",
+  "4009b2f47128",
+  "6b99e467dd47",
+  "0d384b33f4d5",
+  "ec67d60123a8",
+  "de0f49df54a5",
+  "fd1f815fc8d3",
+  "dbbfcf531ecc",
+  "7befd4284bf2",
+  "529ff3482db1"
  ],
  "version": 4,
  "digests": []
