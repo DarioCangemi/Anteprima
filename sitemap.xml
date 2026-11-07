@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://www.anteprimanews.com/</loc><lastmod>2026-11-06</lastmod></url>
-<url><loc>https://www.anteprimanews.com/archivio.html</loc><lastmod>2026-11-06</lastmod></url>
-<url><loc>https://www.anteprimanews.com/argomenti/</loc><lastmod>2026-11-06</lastmod></url>
-<url><loc>https://www.anteprimanews.com/settimana/</loc><lastmod>2026-11-06</lastmod></url>
-<url><loc>https://www.anteprimanews.com/sezione/cinema.html</loc><lastmod>2026-11-06</lastmod></url>
-<url><loc>https://www.anteprimanews.com/sezione/tv.html</loc><lastmod>2026-11-06</lastmod></url>
-<url><loc>https://www.anteprimanews.com/sezione/musica.html</loc><lastmod>2026-11-06</lastmod></url>
-<url><loc>https://www.anteprimanews.com/sezione/gossip.html</loc><lastmod>2026-11-06</lastmod></url>
+<url><loc>https://www.anteprimanews.com/</loc><lastmod>2026-11-07</lastmod></url>
+<url><loc>https://www.anteprimanews.com/archivio.html</loc><lastmod>2026-11-07</lastmod></url>
+<url><loc>https://www.anteprimanews.com/argomenti/</loc><lastmod>2026-11-07</lastmod></url>
+<url><loc>https://www.anteprimanews.com/settimana/</loc><lastmod>2026-11-07</lastmod></url>
+<url><loc>https://www.anteprimanews.com/sezione/cinema.html</loc><lastmod>2026-11-07</lastmod></url>
+<url><loc>https://www.anteprimanews.com/sezione/tv.html</loc><lastmod>2026-11-07</lastmod></url>
+<url><loc>https://www.anteprimanews.com/sezione/musica.html</loc><lastmod>2026-11-07</lastmod></url>
+<url><loc>https://www.anteprimanews.com/sezione/gossip.html</loc><lastmod>2026-11-07</lastmod></url>
 <url><loc>https://www.anteprimanews.com/chi-siamo.html</loc><lastmod>2026-11-02</lastmod></url>
 <url><loc>https://www.anteprimanews.com/contatti.html</loc><lastmod>2026-11-02</lastmod></url>
 <url><loc>https://www.anteprimanews.com/privacy.html</loc><lastmod>2026-11-02</lastmod></url>
+<url><loc>https://www.anteprimanews.com/argomenti/stephen-king.html</loc><lastmod>2026-11-07</lastmod></url>
+<url><loc>https://www.anteprimanews.com/argomenti/grande-fratello-vip.html</loc><lastmod>2026-11-06</lastmod></url>
+<url><loc>https://www.anteprimanews.com/argomenti/marina-la-rosa.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/rotten-tomatoes.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/letterboxd.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/bill-hader.html</loc><lastmod>2026-11-06</lastmod></url>
@@ -22,8 +25,6 @@
 <url><loc>https://www.anteprimanews.com/argomenti/jenna-bush-hager.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/scarlett-johansson.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/idris-elba.html</loc><lastmod>2026-11-06</lastmod></url>
-<url><loc>https://www.anteprimanews.com/argomenti/american-film-market.html</loc><lastmod>2026-11-06</lastmod></url>
-<url><loc>https://www.anteprimanews.com/argomenti/grande-fratello-vip.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/andreas-muller.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/valeria-marini.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/paranormal-activity.html</loc><lastmod>2026-11-06</lastmod></url>
@@ -46,7 +47,6 @@
 <url><loc>https://www.anteprimanews.com/argomenti/j-k-rowling.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/gerry-scotti.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/stefano-de-martino.html</loc><lastmod>2026-11-06</lastmod></url>
-<url><loc>https://www.anteprimanews.com/argomenti/stephen-king.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/harry-potter.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/italia-1.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/adam-driver.html</loc><lastmod>2026-11-06</lastmod></url>
@@ -72,6 +72,7 @@
 <url><loc>https://www.anteprimanews.com/argomenti/bellama.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/festival-di-sanremo.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/rai-3.html</loc><lastmod>2026-11-06</lastmod></url>
+<url><loc>https://www.anteprimanews.com/argomenti/alex-belli.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/doc-nelle-tue-mani.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/tutto-per-la-mia-famiglia.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/affari-tuoi.html</loc><lastmod>2026-11-06</lastmod></url>
@@ -83,7 +84,6 @@
 <url><loc>https://www.anteprimanews.com/argomenti/x-factor.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/sanremo.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/lupin.html</loc><lastmod>2026-11-06</lastmod></url>
-<url><loc>https://www.anteprimanews.com/argomenti/alex-belli.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/cinecitta.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/milly-carlucci.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/chanel.html</loc><lastmod>2026-11-06</lastmod></url>
@@ -164,7 +164,6 @@
 <url><loc>https://www.anteprimanews.com/argomenti/constantine.html</loc><lastmod>2026-11-05</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/dc-studios.html</loc><lastmod>2026-11-05</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/viola-come-il-mare.html</loc><lastmod>2026-11-05</lastmod></url>
-<url><loc>https://www.anteprimanews.com/argomenti/marina-la-rosa.html</loc><lastmod>2026-11-05</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/ramayana.html</loc><lastmod>2026-11-05</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/dune-parte-tre.html</loc><lastmod>2026-11-05</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/magic-the-gathering.html</loc><lastmod>2026-11-05</lastmod></url>
@@ -175,8 +174,10 @@
 <url><loc>https://www.anteprimanews.com/argomenti/greta-gerwig.html</loc><lastmod>2026-11-05</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/joe-minoso.html</loc><lastmod>2026-11-05</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/cbs.html</loc><lastmod>2026-11-04</lastmod></url>
-<url><loc>https://www.anteprimanews.com/argomenti/star-wars.html</loc><lastmod>2026-11-04</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/cardi-b.html</loc><lastmod>2026-11-04</lastmod></url>
+<url><loc>https://www.anteprimanews.com/notizie/1408-in-sviluppo-un-sequel-del-film-tratto-da-stephen-king-0659b4.html</loc><lastmod>2026-11-07</lastmod></url>
+<url><loc>https://www.anteprimanews.com/notizie/trigun-torna-con-trigun-manuscript-nuova-storia-in-arrivo-in-4dc19c.html</loc><lastmod>2026-11-07</lastmod></url>
+<url><loc>https://www.anteprimanews.com/notizie/grande-fratello-vip-2026-sorpresa-per-marina-la-rosa-arrivan-b0ebb3.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/james-gray-critica-le-prime-reazioni-social-letterboxd-e-rot-fd82ee.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/bill-hader-presenta-they-know-il-suo-debutto-alla-regia-tra-569049.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/will-trent-la-quinta-stagione-ha-una-data-di-debutto-su-abc-ec67d6.html</loc><lastmod>2026-11-06</lastmod></url>
@@ -263,6 +264,7 @@
 <url><loc>https://www.anteprimanews.com/notizie/sanremo-de-martino-sara-alla-mia-maniera-b3b7bc.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/mi-manda-raitre-torna-con-inchieste-su-targhe-polacche-e-igi-f98d10.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/felicita-su-rai-2-con-chiambretti-mcvicar-e-balivo-d46d2b.html</loc><lastmod>2026-11-06</lastmod></url>
+<url><loc>https://www.anteprimanews.com/notizie/gf-vip-9-guendalina-e-la-seconda-finalista-fuori-alex-belli-d573d4.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/auditel-5-novembre-doc-4-sopra-il-23-di-share-tutto-per-la-m-b10056.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/l-essere-amato-javier-bardem-torna-con-rodrigo-sorogoyen-f3234f.html</loc><lastmod>2026-11-06</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/drive-il-film-di-arti-marziali-di-mark-dacascos-da-riscoprir-e6a9a1.html</loc><lastmod>2026-11-06</lastmod></url>
@@ -673,8 +675,4 @@
 <url><loc>https://www.anteprimanews.com/notizie/super-troopers-3-arriva-in-streaming-dove-vederlo-8d6b55.html</loc><lastmod>2026-11-04</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/sonic-compare-nel-trailer-di-angry-birds-3-terremoto-in-fami-9c3d58.html</loc><lastmod>2026-11-04</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/la7-lancia-la7play-piattaforma-gratuita-per-dirette-e-progra-dbe2ad.html</loc><lastmod>2026-11-04</lastmod></url>
-<url><loc>https://www.anteprimanews.com/notizie/ravagnani-e-lo-scontro-con-diaco-a-bellama-attacco-violento-332178.html</loc><lastmod>2026-11-04</lastmod></url>
-<url><loc>https://www.anteprimanews.com/notizie/viola-come-il-mare-3-trama-dei-primi-episodi-e-calendario-de-8a1f2f.html</loc><lastmod>2026-11-04</lastmod></url>
-<url><loc>https://www.anteprimanews.com/notizie/a-trieste-una-mostra-di-dieci-artisti-sull-immaginario-di-st-cd49ef.html</loc><lastmod>2026-11-04</lastmod></url>
-<url><loc>https://www.anteprimanews.com/notizie/jean-claude-van-damme-torna-alle-arti-marziali-con-katana-fi-d014a5.html</loc><lastmod>2026-11-04</lastmod></url>
 </urlset>

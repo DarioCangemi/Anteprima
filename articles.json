@@ -1,6 +1,56 @@
 {
  "articles": [
   {
+   "id": "0659b491fc15",
+   "section": "cinema",
+   "title": "1408, in sviluppo un sequel del film tratto da Stephen King",
+   "summary": "Un sequel di 1408, il thriller soprannaturale del 2007 tratto dal racconto di Stephen King, sarebbe in lavorazione. John Cusack e Samuel L. Jackson sarebbero in trattative per riprendere i loro ruoli, con Natalia Dyer nel cast.",
+   "body": "Secondo Dark Horizons, è in cantiere un seguito di 1408, l'horror soprannaturale uscito nel 2007 e tratto dal racconto breve di Stephen King pubblicato nel 1999. Il progetto è ancora in una fase iniziale: al momento John Cusack e Samuel L. Jackson, protagonisti del primo film, sono in trattativa per tornare nei rispettivi ruoli.\n\nNel cast potrebbe entrare anche Natalia Dyer, nota al pubblico per Stranger Things. La notizia riferisce inoltre che l'attrice sarebbe in colloqui per un ruolo nel progetto, ma non sono ancora stati annunciati dettagli su trama, regia o data di uscita.",
+   "slug": "1408-in-sviluppo-un-sequel-del-film-tratto-da-stephen-king-0659b4",
+   "tags": [
+    "1408",
+    "Stephen King",
+    "John Cusack"
+   ],
+   "scene": "pellicola",
+   "source": "darkhorizons.com",
+   "url": "https://www.darkhorizons.com/stephen-kings-1408-film-gets-a-sequel/",
+   "published": "2026-11-07T00:20:37+00:00"
+  },
+  {
+   "id": "4dc19cd58c5f",
+   "section": "tv",
+   "title": "Trigun torna con Trigun Manuscript, nuova storia in arrivo in inverno",
+   "summary": "Il western spaziale Trigun ritorna con il nuovo progetto Trigun Manuscript, previsto per l'inverno. La storia è scritta da Takehiko Oxi, mentre il creatore Yasuhiro Nightow firma i nuovi disegni.",
+   "body": "Il western spaziale Trigun, creato trentuno anni fa, torna con un nuovo progetto intitolato Trigun Manuscript. Secondo Collider, l'uscita è prevista per il prossimo inverno e segna il ritorno ufficiale della saga con materiale inedito.\n\nLa sceneggiatura è affidata a Takehiko Oxi, mentre Yasuhiro Nightow, autore del manga originale, si occupa delle nuove illustrazioni. La combinazione dei due nomi promette di riportare sulla scena il mondo di Vash the Stampede e della sua storia tra desertificazione e sopravvivenza su pianeti lontani.",
+   "slug": "trigun-torna-con-trigun-manuscript-nuova-storia-in-arrivo-in-4dc19c",
+   "tags": [
+    "Trigun",
+    "Yasuhiro Nightow",
+    "Takehiko Oxi"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/trigun-manuscript-novel-release-winter-vash-stampede/",
+   "published": "2026-11-07T00:06:35+00:00"
+  },
+  {
+   "id": "b0ebb318a745",
+   "section": "tv",
+   "title": "Grande Fratello Vip 2026, sorpresa per Marina La Rosa: arrivano i figli nella casa",
+   "summary": "Al Grande Fratello Vip 2026 Marina La Rosa, prima finalista della edizione, ha ricevuto una sorpresa: i suoi figli sono entrati nella casa. Secondo la fonte, il momento è stato carico di emozione, mentre la concorrente ha parlato della distanza dai ragazzi.",
+   "body": "Nuovo momento di emozione al Grande Fratello Vip 2026, dove Marina La Rosa, indicata come la prima finalista di questa edizione, ha incontrato i suoi figli. La sorpresa è arrivata all'interno della casa e, secondo SuperGuidaTV, la concorrente ha parlato apertamente dei ragazzi e del tempo trascorso lontano da loro.\n\nIl video diffuso da Mediaset mostra il ricongiungimento, descritto come un passaggio particolarmente intenso per la concorrente. Al momento non sono disponibili ulteriori dettagli sull'incontro né sviluppi legati al percorso della finalista nel programma.",
+   "slug": "grande-fratello-vip-2026-sorpresa-per-marina-la-rosa-arrivan-b0ebb3",
+   "tags": [
+    "Grande Fratello Vip",
+    "Marina La Rosa"
+   ],
+   "scene": "premiere",
+   "source": "superguidatv.it",
+   "url": "https://www.superguidatv.it/grande-fratello-vip-2026-una-sorpresa-per-marina-la-rosa-arrivano-i-figli-nella-casa-video-mediaset/",
+   "published": "2026-11-06T23:25:47+00:00"
+  },
+  {
    "id": "fd82ee652d4d",
    "section": "cinema",
    "title": "James Gray critica le prime reazioni social, Letterboxd e Rotten Tomatoes",
@@ -1432,6 +1482,23 @@
    "source": "ANSA Cultura e Spettacoli",
    "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/06/rai-chiambretti-mcvicar-e-balivo-a-felicita-su-rai-2_764c1fd8-1275-4027-a00f-16b0ab42daea.html",
    "published": "2026-11-06T15:34:31+00:00"
+  },
+  {
+   "id": "d573d425e6d9",
+   "section": "tv",
+   "title": "GF Vip 9, Guendalina è la seconda finalista: fuori Alex Belli",
+   "summary": "Nella sedicesima puntata del GF Vip 9, in onda su Canale 5, Guendalina è diventata la seconda finalista del reality. Eliminato Alex Belli.",
+   "body": "Nella sedicesima puntata del GF Vip 9, andata in onda in prima serata su Canale 5 venerdì 6 novembre, Guendalina si è qualificata come seconda finalista della edizione. Il verdetto ha portato all'uscita di Alex Belli dalla casa.\n\nLa puntata è stata seguita in diretta e raccontata minuto per minuto, con i video dei momenti principali della serata. Secondo Davide Maggio, che ha riportato la cronaca, il programma ha chiuso così il percorso che porta alla finale del reality di Canale 5.",
+   "slug": "gf-vip-9-guendalina-e-la-seconda-finalista-fuori-alex-belli-d573d4",
+   "tags": [
+    "GF Vip 9",
+    "Guendalina",
+    "Alex Belli"
+   ],
+   "scene": "tv",
+   "source": "davidemaggio.it",
+   "url": "https://www.davidemaggio.it/grande-fratello/gf-vip-9-diretta-sedicesima-puntata-cosa-e-successo",
+   "published": "2026-11-06T15:30:00+00:00"
   },
   {
    "id": "b100568b9c8a",
@@ -8281,70 +8348,6 @@
    "source": "tvblog.it",
    "url": "https://www.tvblog.it/post/la7play-nuova-piattaforma-digitale-e-gratuita-dellemittente-di-cairo-dirette-programmi-film-documentari-e-produzioni-originali-in-un-unico-spazio",
    "published": "2026-11-04T19:00:21+00:00"
-  },
-  {
-   "id": "332178e4177d",
-   "section": "tv",
-   "title": "Ravagnani e lo scontro con Diaco a BellaMa': “Attacco violento e scorretto”",
-   "summary": "Alberto Ravagnani è intervenuto sullo scontro con Pierluigi Diaco nato durante un'intervista a BellaMa', programma di Rai Due, legata a Ballando con le Stelle. Il caso ha coinvolto anche i vertici Rai e Milly Carlucci.",
-   "body": "Una semplice intervista a Alberto Ravagnani, concorrente di Ballando con le Stelle, si è trasformata in un caso televisivo dopo l'ospitata nel programma di Rai Due BellaMa'. Secondo quanto riportato da Biccy, la vicenda ha coinvolto i vertici Rai e Milly Carlucci, oltre a opinionisti, giornalisti e migliaia di utenti sui social.\n\nRavagnani ha commentato lo scontro con Diaco definendo l'attacco subito \"violento e scorretto\". Le sue parole hanno riaperto il dibattito sul confronto andato in onda, che molti hanno letto come un episodio di grande tensione in studio. Il materiale disponibile non riporta ulteriori dettagli sulle repliche.",
-   "slug": "ravagnani-e-lo-scontro-con-diaco-a-bellama-attacco-violento-332178",
-   "tags": [
-    "Alberto Ravagnani",
-    "BellaMa'",
-    "Pierluigi Diaco"
-   ],
-   "scene": "tv",
-   "source": "biccy.it",
-   "url": "https://www.biccy.it/alberto-ravagnani-scontro-diaco-attacco-violento/",
-   "published": "2026-11-04T18:46:08+00:00"
-  },
-  {
-   "id": "8a1f2f57e3dd",
-   "section": "tv",
-   "title": "Viola come il mare 3: trama dei primi episodi e calendario delle puntate",
-   "summary": "La terza stagione di Viola come il mare debutta con un matrimonio che si trasforma in un delitto e l'arrivo di un nuovo ispettore. Il materiale indica la trama dei primi due episodi e il calendario di messa in onda e streaming.",
-   "body": "La terza stagione di Viola come il mare torna con una storia che parte da un matrimonio finito in tragedia. Secondo Movieplayer, il delitto che si consuma durante la cerimonia porta all'arrivo di un nuovo ispettore, che cambia la quotidianità della protagonista Viola.\n\nAnche in questa stagione la capacità della giovane di leggere le emozioni attraverso i colori si rivela decisiva per le indagini. Il sito dedica la sua scheda alla trama dei primi due episodi e al calendario delle puntate, sia in TV sia in streaming, per chi vuole seguire il debutto.",
-   "slug": "viola-come-il-mare-3-trama-dei-primi-episodi-e-calendario-de-8a1f2f",
-   "tags": [
-    "Viola come il mare"
-   ],
-   "scene": "tv",
-   "source": "Movieplayer",
-   "url": "https://movieplayer.it/news/viola-come-il-mare-3-trama-primi-due-episodi-calendario-puntate_171826/",
-   "published": "2026-11-04T18:34:35+00:00"
-  },
-  {
-   "id": "cd49efd9d83a",
-   "section": "cinema",
-   "title": "A Trieste una mostra di dieci artisti sull'immaginario di Star Wars",
-   "summary": "A Trieste arriva una mostra che raccoglie le opere di dieci artisti ispirate all'immaginario di Star Wars. L'esposizione anticipa il cinquantesimo anniversario del primo film della saga.",
-   "body": "Trieste ospita una mostra dedicata all'universo visivo di Star Wars, con opere firmate da dieci artisti che reinterpretano personaggi, ambientazioni e atmosfere della celebre saga. L'esposizione fa da apripista alle celebrazioni per il cinquantesimo anniversario del primo film, uscito nel 1977 e diventato un punto di riferimento della fantascienza sul grande schermo.\n\nSecondo ANSA Cinema, il progetto mette insieme linguaggi e tecniche diversi, dando spazio a una lettura contemporanea di un immaginario che ha attraversato generazioni di spettatori. Il materiale disponibile non riporta dettagli su date, sede precisa o orari di apertura, che è utile verificare direttamente presso gli organizzatori prima di una visita.",
-   "slug": "a-trieste-una-mostra-di-dieci-artisti-sull-immaginario-di-st-cd49ef",
-   "tags": [
-    "Star Wars"
-   ],
-   "scene": "premiere",
-   "source": "ANSA Cinema",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/04/a-trieste-arriva-la-mostra-che-reinterpreta-limmaginario-di-star-wars_aa619a60-8fea-4347-9ca7-c4d1cc389e5a.html",
-   "published": "2026-11-04T18:32:03+00:00"
-  },
-  {
-   "id": "d014a5deffb5",
-   "section": "cinema",
-   "title": "Jean-Claude Van Damme torna alle arti marziali con Katana, film ambientato tra la Yakuza",
-   "summary": "Jean-Claude Van Damme è protagonista di Katana, nuovo film d'azione di arti marziali ambientato in Giappone e incentrato sulla Yakuza. Il progetto sarà presentato all'American Film Market, che si apre il 10 novembre.",
-   "body": "Jean-Claude Van Damme è al lavoro su Katana, un nuovo film di arti marziali che lo vedrà opporsi alla malavita giapponese e alla Yakuza. Secondo quanto riportato da The Playlist, che cita Deadline, il film è un ritorno a un genere che l'attore frequenta poco da anni.\n\nLa storia segue un ex campione mondiale di combattimento, oggi padre di famiglia, che si è lasciato alle spalle un passato oscuro. Il progetto sarà presentato all'American Film Market, la fiera internazionale del cinema in programma a partire dal 10 novembre.",
-   "slug": "jean-claude-van-damme-torna-alle-arti-marziali-con-katana-fi-d014a5",
-   "tags": [
-    "Jean-Claude Van Damme",
-    "Katana",
-    "American Film Market"
-   ],
-   "scene": "premiere",
-   "source": "theplaylist.net",
-   "url": "https://theplaylist.net/katana-jean-claude-van-damme-afm-20261104/",
-   "published": "2026-11-04T18:20:29+00:00"
   }
  ],
  "seen": [
@@ -10783,7 +10786,25 @@
   "fd1f815fc8d3",
   "dbbfcf531ecc",
   "7befd4284bf2",
-  "529ff3482db1"
+  "529ff3482db1",
+  "0659b491fc15",
+  "7174eb1e5780",
+  "85dc857ae27e",
+  "2ce951232700",
+  "321cf496bc14",
+  "aff3c342a8f0",
+  "beadae2e9183",
+  "f5bb99bb7179",
+  "d573d425e6d9",
+  "48a7b5050668",
+  "4dc19cd58c5f",
+  "0fe679243869",
+  "c8df943988fa",
+  "4119d78c5c6d",
+  "45317668d8ea",
+  "fc1f42626cca",
+  "b1193894b2cf",
+  "b0ebb318a745"
  ],
  "version": 4,
  "digests": []
