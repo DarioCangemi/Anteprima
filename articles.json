@@ -1,6 +1,105 @@
 {
  "articles": [
   {
+   "id": "78db6e7af51e",
+   "section": "cinema",
+   "title": "Steven Seagal, Above the Law esce in 4K",
+   "summary": "Il thriller d'azione Above the Law, con Steven Seagal, arriva in edizione 4K grazie a Toy Robot Video. Il film segno' l'inizio della carriera cinematografica dell'attore.",
+   "body": "Above the Law, il thriller d'azione con Steven Seagal, esce in una nuova edizione in 4K distribuita da Toy Robot Video. Secondo JoBlo, il film e' quello che ha lanciato la carriera cinematografica dell'attore, e la nuova uscita offre l'occasione per riguardarlo in alta definizione.\n\nIl film e' un action brutale che ha contribuito a definire lo stile di Seagal negli anni Ottanta e Novanta. Per chi non lo ricordasse, il ritorno in 4K e' un'occasione per rivedere uno dei titoli piu' noti del genere, nel formato pensato per gli appassionati di home video.",
+   "slug": "steven-seagal-above-the-law-esce-in-4k-78db6e",
+   "tags": [
+    "Steven Seagal",
+    "Above the Law"
+   ],
+   "scene": "pellicola",
+   "source": "joblo.com",
+   "url": "https://www.joblo.com/steven-seagals-above-the-law-hits-4k-and-its-a-reminder-of-why-he-became-a-star/",
+   "published": "2026-11-07T15:02:59+00:00"
+  },
+  {
+   "id": "b64532e9e752",
+   "section": "tv",
+   "title": "Alien: Pianeta Terra, la seconda stagione entra nella fase di lavorazione",
+   "summary": "Un aggiornamento dal set di Alien: Pianeta Terra segna una nuova fase in vista della seconda stagione della serie ideata da Noah Hawley. Il materiale disponibile non fornisce dettagli precisi su date o contenuti.",
+   "body": "La serie Alien: Pianeta Terra, ideata da Noah Hawley, si avvicina al ritorno con la seconda stagione. Secondo BadTaste, un aggiornamento proveniente dal set conferma che il progetto sta andando avanti, e l'attesa dei fan cresce di conseguenza.\n\nAl momento le informazioni disponibili sono limitate. Non sono stati resi noti dettagli ufficiali su una data di uscita o sulla trama dei nuovi episodi. Il riscontro arriva comunque da chi lavora alla produzione, un elemento che rafforza le aspettative di chi segue la serie fin dalla prima stagione.",
+   "slug": "alien-pianeta-terra-la-seconda-stagione-entra-nella-fase-di-b64532",
+   "tags": [
+    "Alien: Pianeta Terra",
+    "Noah Hawley"
+   ],
+   "scene": "ciak",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/alien-pianeta-terra-arriva-una-conferma-dal-set-per-la-seconda-stagione-i-fan-iniziano-il-conto-alla-rovescia",
+   "published": "2026-11-07T15:02:32+00:00"
+  },
+  {
+   "id": "23b65ec93929",
+   "section": "tv",
+   "title": "The Greatest su Prime Video: la serie autorizzata su Muhammad Ali",
+   "summary": "Prime Video propone The Greatest, una serie in otto episodi dedicata alla vita di Muhammad Ali, con il sostegno della famiglia del campione. Il racconto attraversa le battaglie sul ring e l'impegno civile del pugile.",
+   "body": "Prime Video porta sul proprio catalogo The Greatest, una serie in otto episodi dedicata a Muhammad Ali. Il progetto è autorizzato, e racconta la figura del campione partendo dal suo percorso sportivo fino alle battaglie sul ring che ne hanno segnato la carriera.\n\nSecondo BadTaste, la narrazione non si ferma però agli incontri di boxe. Gli episodi affrontano anche l'attivismo civile di Ali, cioè l'impegno che ha accompagnato il pugile ben oltre lo sport. Il formato a otto puntate permette di seguire la sua vita in modo ampio, dalla giovinezza come Cassius Clay fino alla costruzione della leggenda che ancora oggi lo accompagna.",
+   "slug": "the-greatest-su-prime-video-la-serie-autorizzata-su-muhammad-23b65e",
+   "tags": [
+    "Muhammad Ali",
+    "The Greatest",
+    "Prime Video"
+   ],
+   "scene": "streaming",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/da-cassius-clay-a-leggenda-su-prime-video-la-nuova-serie-che-racconta-il-vero-muhammad-ali",
+   "published": "2026-11-07T15:00:20+00:00"
+  },
+  {
+   "id": "3afb7ae60651",
+   "section": "cinema",
+   "title": "Mutiny, il film di Jason Statham balza al primo posto dopo il flop al box office",
+   "summary": "Il film d'azione con Jason Statham Mutiny, uscito in sala nonostante una diffusione illegale prima della distribuzione, è tornato in vetta in una nuova fase della sua carriera. Dopo un incasso nazionale di 15,8 milioni di dollari, ha trovato un nuovo pubblico sul digitale.",
+   "body": "Mutiny, l'action movie con Jason Statham, era trapelato online prima della sua uscita nelle sale americane. Secondo Collider, la pellicola ha incassato 15,8 milioni di dollari sul mercato nazionale, cifra che l'aveva fatta considerare un flop al botteghino.\n\nIl film ha poi ritrovato spettatori sulle piattaforme digitali, dove è salito fino al primo posto della classifica. Il successo in streaming e in digitale ha cambiato la sua posizione complessiva, trasformando un risultato iniziale deludente in un ritorno inatteso per il protagonista.",
+   "slug": "mutiny-il-film-di-jason-statham-balza-al-primo-posto-dopo-il-3afb7a",
+   "tags": [
+    "Jason Statham",
+    "Mutiny"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/mutiny-jason-statham-digital-success-november-2026/",
+   "published": "2026-11-07T15:00:12+00:00"
+  },
+  {
+   "id": "38e43500c4bb",
+   "section": "cinema",
+   "title": "Matt Damon: \"Mi sono convinto a rifiutare il ruolo in Ted\"",
+   "summary": "Matt Damon ha raccontato di aver rifiutato il ruolo da protagonista nella commedia Ted del 2012, poi andato a Mark Wahlberg. In un'intervista a GQ ha spiegato di aver trovato la sceneggiatura più divertente di qualsiasi altra avesse letto.",
+   "body": "Matt Damon ha confessato di pensarci ancora oggi: ha rinunciato al ruolo principale di Ted, la commedia uscita nel 2012, che alla fine è andato a Mark Wahlberg. Nell'intervista rilasciata a GQ, secondo quanto riportato da OK Magazine, l'attore ha spiegato che la sceneggiatura gli era piaciuta moltissimo, più divertente di qualunque altro copione letto in quel periodo.\n\nIl motivo del rifiuto, secondo le sue parole, è stato un eccesso di riflessione. Damon ha dichiarato di aver riflettuto troppo sulla scelta, finendo per convincersi a lasciare il progetto. Un ripensamento che, a distanza di anni, continua a fargli riflettere sulla decisione presa.",
+   "slug": "matt-damon-mi-sono-convinto-a-rifiutare-il-ruolo-in-ted-38e435",
+   "tags": [
+    "Matt Damon",
+    "Ted",
+    "Mark Wahlberg"
+   ],
+   "scene": "tv",
+   "source": "okmagazine.com",
+   "url": "https://okmagazine.com/p/matt-damon-talked-himself-out-playing-ted/",
+   "published": "2026-11-07T15:00:00+00:00"
+  },
+  {
+   "id": "e8283e2f3d14",
+   "section": "tv",
+   "title": "Brothers, la serie Magenta TV ambientata a Nicosia non ha potuto girare a Cipro",
+   "summary": "La nuova serie in sei episodi Brothers, firmata da Simon Farmakas e prodotta per Magenta TV, è ambientata a Nicosia. Secondo le produttrici, il set nella capitale cipriota non è stato possibile per motivi politici.",
+   "body": "Brothers è la nuova miniserie in sei episodi scritta e diretta da Simon Farmakas, ambientata nel cuore di Nicosia, capitale di Cipro. Durante un panel al festival di Salonicco, le produttrici Fenia Cossovitsa e Alexandra Hoesdorff hanno spiegato che le riprese nella città non sono state autorizzate. Alla discussione ha partecipato anche Faye Tsitsipi, vicedirettrice del festival.\n\nSecondo quanto riportato da Deadline, le produttrici hanno attribuito il divieto a ragioni di natura politica, senza entrare nei dettagli. La serie è una produzione per la piattaforma Magenta TV, e il caso riaccende il tema delle difficoltà logistiche per le produzioni che vogliono raccontare Cipro.",
+   "slug": "brothers-la-serie-magenta-tv-ambientata-a-nicosia-non-ha-pot-e8283e",
+   "tags": [
+    "Brothers",
+    "Simon Farmakas",
+    "Magenta TV"
+   ],
+   "scene": "streaming",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/magenta-tv-brothers-cyprus-thessaloniki-1237216243/",
+   "published": "2026-11-07T14:43:39+00:00"
+  },
+  {
    "id": "b8b992fc17e6",
    "section": "tv",
    "title": "Caterina Balivo al Festival dello Spettacolo parla del suo modo di condurre La Volta Buona",
@@ -234,6 +333,40 @@
    "source": "RB Casting",
    "url": "https://www.rbcasting.com/speciali/2026/11/07/i-swear-il-film-con-robert-aramayo-arriva-al-cinema-il-6-dicembre/",
    "published": "2026-11-07T12:39:12+00:00"
+  },
+  {
+   "id": "6cdddd37fcac",
+   "section": "cinema",
+   "title": "Noi, un po' meglio: Elio Germano nella commedia di Daniele Luchetti",
+   "summary": "Nel nuovo film di Daniele Luchetti, Elio Germano interpreta una coppia alle prese con la decisione di adottare un bambino, mentre le differenze tra i protagonisti mettono alla prova il loro legame. Secondo SuperGuidaTV, la commedia sentimentale punta proprio sulle diversità da conciliare.",
+   "body": "Al centro di \"Noi, un po' meglio\" c'è una coppia la cui relazione viene messa alla prova dal tema dell'adozione. La scelta di crescere o meno un figlio diventa il punto di arrivo di una serie di differenze che, col passare del tempo, si sono fatte sempre più evidenti tra i due protagonisti.\n\nDaniele Luchetti costruisce la commedia sentimentale sulla forza degli opposti, che secondo il proverbio finiscono per attrarsi. Elio Germano è tra i protagonisti del film, e secondo SuperGuidaTV la storia lavora proprio sulla capacità dei personaggi di conciliare le proprie diversità.",
+   "slug": "noi-un-po-meglio-elio-germano-nella-commedia-di-daniele-luch-6cdddd",
+   "tags": [
+    "Noi, un po' meglio",
+    "Elio Germano",
+    "Daniele Luchetti"
+   ],
+   "scene": "pellicola",
+   "source": "superguidatv.it",
+   "url": "https://www.superguidatv.it/noi-un-po-meglio-la-commedia-sentimentale-italiana-recensione/",
+   "published": "2026-11-07T12:34:46+00:00"
+  },
+  {
+   "id": "b6c64b48736d",
+   "section": "musica",
+   "title": "Sarcina critica Tony Effe e Fedez: \"Autotune maschera la voce\"",
+   "summary": "Il cantante Francesco Sarcina ha dichiarato che Tony Effe e Fedez non sono cantanti e che l'autotune maschera la voce. Nelle stesse dichiarazioni ha commentato anche la vicenda che riguarda Scamarcio.",
+   "body": "Il cantante Francesco Sarcina ha espresso un giudizio netto sulla musica di Tony Effe e Fedez, sostenendo che i due non siano cantanti e che l'uso dell'autotune serva a mascherare la voce. Secondo quanto riportato da ANSA, Sarcina ha affidato le sue opinioni a un'intervista, senza entrare nel dettaglio dei singoli brani o dei progetti dei due artisti.\n\nNella stessa conversazione il musicista ha affrontato anche la vicenda che riguarda Scamarcio, dichiarando di non averlo perdonato. Il leader dei Negramaro ha aggiunto di essere disposto ad affidargli anche i propri figli, un passaggio che mette in luce il tono personale del suo intervento. Le dichiarazioni sono state rese pubbliche dalla testata e riflettono il dibattito sul ruolo dell'autotune nella musica italiana contemporanea.",
+   "slug": "sarcina-critica-tony-effe-e-fedez-autotune-maschera-la-voce-b6c64b",
+   "tags": [
+    "Francesco Sarcina",
+    "Tony Effe",
+    "Fedez"
+   ],
+   "scene": "microfono",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/07/francesco-sarcina-tony-effe-e-fedez-non-sono-cantanti-autotune-maschera_30773e54-9861-4b91-9083-7ec509f6696a.html",
+   "published": "2026-11-07T12:34:01+00:00"
   },
   {
    "id": "ad01c9c39bb2",
@@ -8216,141 +8349,6 @@
    "source": "superguidatv.it",
    "url": "https://www.superguidatv.it/ascolti-tv-viola-come-il-mare-3-lanalisi-auditel/",
    "published": "2026-11-05T09:17:42+00:00"
-  },
-  {
-   "id": "89592f6567cf",
-   "section": "tv",
-   "title": "Il capo perfetto, Luca Zingaretti nel trailer della nuova serie Netflix",
-   "summary": "Luca Zingaretti è protagonista di Il capo perfetto, commedia Netflix in sei episodi prodotta da Cattleya, di cui è stato diffuso il trailer ufficiale. La serie, ambientata nella Motor Valley emiliana, debutterà il 2 dicembre 2026.",
-   "body": "Luca Zingaretti torna a recitare in una serie televisiva con Il capo perfetto, nuova commedia originale Netflix in sei episodi. La piattaforma ha diffuso il trailer ufficiale della produzione italiana, realizzata da Cattleya, parte di ITV Studios, che arriverà sul catalogo il 2 dicembre 2026.\n\nLa storia è ambientata nel cuore della Motor Valley emiliana e vede Zingaretti nel ruolo di Giulio Zagni. Secondo quanto riporta Cinefilos, il trailer mostra il personaggio alle prese con una perdita di controllo che dà il tono comico alla serie.",
-   "slug": "il-capo-perfetto-luca-zingaretti-nel-trailer-della-nuova-ser-89592f",
-   "tags": [
-    "Il capo perfetto",
-    "Luca Zingaretti",
-    "Netflix"
-   ],
-   "scene": "streaming",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/serie-tv/news/il-capo-perfetto-trailer-serie-netflix-luca-zingaretti-729453",
-   "published": "2026-11-05T09:17:04+00:00"
-  },
-  {
-   "id": "d65d6787df3f",
-   "section": "cinema",
-   "title": "Riforma del cinema, via libera del Senato: nasce l'Agenzia",
-   "summary": "Il Senato ha approvato la riforma della legge sul cinema con 123 voti favorevoli. Dal 2028 è prevista una nuova struttura di governance, un Forum permanente e nuove regole per incentivi, sale e produzioni indipendenti.",
-   "body": "Il Senato ha dato il via libera alla riforma della legge sul cinema con 123 voti favorevoli. Il testo prevede la nascita di un'Agenzia e una nuova struttura di governance che entrerà in funzione dal 2028, insieme a un Forum permanente dedicato al settore.\n\nTra le novità figurano anche nuove regole per gli incentivi alla produzione, per le sale cinematografiche e per le produzioni indipendenti. Secondo quanto riportato da Cinematografo, mentre il provvedimento ha ottenuto un voto unanime in Aula, alcuni autori hanno espresso proteste nei confronti della riforma.",
-   "slug": "riforma-del-cinema-via-libera-del-senato-nasce-l-agenzia-d65d67",
-   "tags": [
-    "Agenzia per il cinema",
-    "Senato"
-   ],
-   "scene": "premiere",
-   "source": "Cinematografo",
-   "url": "https://www.cinematografo.it/riflettori/legge-cinema-via-libera-unanime-nasce-lagenzia-ma-gli-autori-protestano-monwrrsn",
-   "published": "2026-11-05T09:07:39+00:00"
-  },
-  {
-   "id": "ad8cb3ce0d44",
-   "section": "tv",
-   "title": "Trinity, su Netflix il trailer della nuova serie thriller con Richard Madden",
-   "summary": "Netflix ha pubblicato il trailer ufficiale di Trinity, la serie thriller con Richard Madden e Gugu Mbatha-Raw. Il progetto arriva da Jed Mercurio, creatore di Line of Duty.",
-   "body": "Netflix ha diffuso il trailer ufficiale di Trinity, la nuova serie thriller ad alta tensione che vedrà protagonisti Richard Madden e Gugu Mbatha-Raw. Il cast principale è guidato dai due attori, già noti al pubblico internazionale per le loro interpretazioni in produzioni di grande successo.\n\nLa serie porta la firma di Jed Mercurio, autore di Line of Duty, il poliziesco britannico che ha conquistato anche gli spettatori italiani. Secondo quanto riportato da Hello! Magazine, il tono del nuovo progetto è quello di un dramma ritmato e pieno di colpi di scena, pensato per chi ama le storie di tensione. Non sono ancora state annunciate con certezza la data di debutto sulla piattaforma e i dettagli completi della trama.",
-   "slug": "trinity-su-netflix-il-trailer-della-nuova-serie-thriller-con-ad8cb3",
-   "tags": [
-    "Trinity",
-    "Richard Madden",
-    "Jed Mercurio"
-   ],
-   "scene": "streaming",
-   "source": "hellomagazine.com",
-   "url": "https://www.hellomagazine.com/film/933205/richard-madden-nail-biting-netflix-thriller-perfect-for-line-of-duty-fans/",
-   "published": "2026-11-05T09:04:22+00:00"
-  },
-  {
-   "id": "97c7c9a0794b",
-   "section": "tv",
-   "title": "Black Dagger Brotherhood, il cast parla della scena di Rhage e Mary",
-   "summary": "Alexander Cubis e Audrey Hare hanno parlato della serie The Black Dagger Brotherhood, soffermandosi sul rapporto tra Rhage e Mary nella seconda stagione. Gli attori hanno commentato anche le scene di combattimento e quanto deve ancora arrivare.",
-   "body": "Gli attori Alexander Cubis e Audrey Hare sono tornati a parlare di The Black Dagger Brotherhood, la serie tratta dai romanzi di J.R. Ward. Il focus dell'intervista riguarda la scena del secondo episodio della seconda stagione che coinvolge Rhage e Mary, considerata dal cast uno dei momenti più intensi del ciclo narrativo della coppia.\n\nSecondo Collider, Cubis e Hare hanno descritto il lavoro sul rapporto tra i due personaggi, sottolineando anche l'impegno richiesto dalle sequenze di combattimento. Il cast ha inoltre accennato a ciò che deve ancora arrivare nelle prossime puntate, senza anticipare dettagli precisi sulla trama.",
-   "slug": "black-dagger-brotherhood-il-cast-parla-della-scena-di-rhage-97c7c9",
-   "tags": [
-    "The Black Dagger Brotherhood",
-    "Alexander Cubis",
-    "Audrey Hare"
-   ],
-   "scene": "streaming",
-   "source": "collider.com",
-   "url": "https://collider.com/the-black-dagger-brotherhood-season-2-rhage-mary-alexander-cubis-audrey-hare/",
-   "published": "2026-11-05T09:00:12+00:00"
-  },
-  {
-   "id": "a8e2458acf20",
-   "section": "musica",
-   "title": "Hawkstone Farmers Choir, il coro di Jeremy Clarkson sogna il Glastonbury",
-   "summary": "Il Hawkstone Farmers Choir, fondato da Jeremy Clarkson, ha parlato con HELLO! del suo album di debutto e della campagna sulla salute mentale nel mondo agricolo. Clarkson, star di Clarkson's Farm, è descritto dal gruppo come il loro più grande sostenitore.",
-   "body": "Il Hawkstone Farmers Choir, coro formato da agricoltori e fondato da Jeremy Clarkson, si racconta in un'intervista esclusiva al settimanale HELLO!. Al centro del colloquio ci sono il primo album del gruppo e l'obiettivo di portare l'attenzione sulla salute mentale nel mondo agricolo, un tema che il coro considera urgente. Secondo quanto riportato da HELLO!, i cantanti sognano anche di esibirsi al Glastonbury Festival.\n\nNell'intervista il gruppo ha descritto Clarkson, volto della serie Clarkson's Farm, come il proprio più grande sostenitore. Il progetto nasce dunque dall'incontro tra la passione per il canto e la volontà di parlare di un problema spesso taciuto nelle comunità rurali. Per ulteriori dettagli sul disco e sulle date future, si rimanda all'intervista completa.",
-   "slug": "hawkstone-farmers-choir-il-coro-di-jeremy-clarkson-sogna-il-a8e245",
-   "tags": [
-    "Jeremy Clarkson",
-    "Clarkson's Farm",
-    "Glastonbury Festival"
-   ],
-   "scene": "microfono",
-   "source": "hellomagazine.com",
-   "url": "https://www.hellomagazine.com/film/933066/the-hawkstone-farmers-choir-glastonbury-dreams-exclusive/",
-   "published": "2026-11-05T09:00:00+00:00"
-  },
-  {
-   "id": "41aca7b0a17a",
-   "section": "tv",
-   "title": "Ascolti TV di mercoledì 4 novembre: Viola come il Mare riparte dal 17%",
-   "summary": "Secondo i dati Auditel di mercoledì 4 novembre 2026, Viola come il Mare riparte con il 17% di share. Cazzullo supera l'8,8% e Il Tavolo di Fazio migliora attestandosi tra il 5 e il 5,3%.",
-   "body": "Nella serata di mercoledì 4 novembre 2026 la fiction Viola come il Mare torna in onda con uno share del 17%, un dato che segna la ripartenza della serie dopo la pausa. Tra i programmi di approfondimento, il talk condotto da Aldo Cazzullo raggiunge l'8,8% di share, mentre Il Tavolo di Fazio registra un miglioramento e si attesta tra il 5% e il 5,3%.\n\nLe rilevazioni Auditel riportate da Davide Maggio comprendono anche i risultati di Affari Tuoi, La Ruota e degli altri programmi della giornata. Il quadro complessivo conferma la sfida tra fiction e approfondimento nella prima serata di metà settimana.",
-   "slug": "ascolti-tv-di-mercoledi-4-novembre-viola-come-il-mare-ripart-41aca7",
-   "tags": [
-    "Viola come il Mare",
-    "Il Tavolo",
-    "Aldo Cazzullo"
-   ],
-   "scene": "tv",
-   "source": "davidemaggio.it",
-   "url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-4-novembre-2026",
-   "published": "2026-11-05T08:53:11+00:00"
-  },
-  {
-   "id": "f64ff3d838a9",
-   "section": "gossip",
-   "title": "Mick Jagger e Melanie Hamrick al gala benefico di Alan Cumming",
-   "summary": "Mick Jagger e la fidanzata Melanie Hamrick hanno partecipato insieme a una serata di beneficenza organizzata da Alan Cumming. L'evento ha raccolto fondi a favore di Battersea Dogs & Cats Home e Pets As Therapy.",
-   "body": "Mick Jagger, 83 anni, e la fidanzata Melanie Hamrick, 39 anni, sono apparsi insieme in un'uscita pubblica piuttosto rara, trascorrendo una serata con l'attore Alan Cumming. L'appuntamento era a sostegno di due associazioni animaliste: Battersea Dogs & Cats Home, storico rifugio londinese, e Pets As Therapy, che porta animali negli ospedali e nelle case di cura.\n\nSecondo Daily Mail, la coppia ha partecipato all'iniziativa senza particolari dichiarazioni pubbliche riportate nel servizio. Il materiale disponibile non specifica altri dettagli sul programma della serata né sulla raccolta fondi.",
-   "slug": "mick-jagger-e-melanie-hamrick-al-gala-benefico-di-alan-cummi-f64ff3",
-   "tags": [
-    "Mick Jagger",
-    "Melanie Hamrick",
-    "Alan Cumming"
-   ],
-   "scene": "tappeto",
-   "source": "dailymail.co.uk",
-   "url": "https://www.dailymail.com/tvshowbiz/article-16266207/Mick-Jagger-83-enjoys-rare-public-outing-fianc-e-Melanie-Hamrick-39-attend-Alan-Cummings-charity-event.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "published": "2026-11-05T08:49:29+00:00"
-  },
-  {
-   "id": "28828e0beef6",
-   "section": "cinema",
-   "title": "Garfield smentisce Altman: «Non ci siamo mai incontrati» sul set di Artificial",
-   "summary": "Andrew Garfield ha smentito di aver mai incontrato o salutato Sam Altman durante le riprese di Artificial, il film di Luca Guadagnino in cui interpreta il CEO di OpenAI. La dichiarazione contraddice il racconto di Altman, che aveva riferito di averlo visto davanti alla propria abitazione.",
-   "body": "Andrew Garfield ha dichiarato di non aver mai incontrato né salutato Sam Altman durante le riprese di Artificial, il film diretto da Luca Guadagnino in cui l'attore interpreta il fondatore di OpenAI. La precisazione arriva in risposta a quanto raccontato dallo stesso Altman, che aveva detto di aver incrociato Garfield davanti alla propria casa mentre la troupe era al lavoro.\n\nSecondo quanto riporta Cinefilos, la smentita dell'attore mette quindi in discussione il ricordo di Altman sull'episodio. Il film, prodotto con un cast di primo piano, è atteso come uno dei titoli più discussi legati al mondo dell'intelligenza artificiale e della Silicon Valley.",
-   "slug": "garfield-smentisce-altman-non-ci-siamo-mai-incontrati-sul-se-28828e",
-   "tags": [
-    "Andrew Garfield",
-    "Sam Altman",
-    "Artificial"
-   ],
-   "scene": "ciak",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/andrew-garfield-smentisce-sam-altman-artificial-729446",
-   "published": "2026-11-05T08:41:13+00:00"
   }
  ],
  "seen": [
@@ -11151,7 +11149,31 @@
   "3afbb303690c",
   "a33ebaa14207",
   "c27d80422a5d",
-  "32f9f5b0176e"
+  "32f9f5b0176e",
+  "78db6e7af51e",
+  "b64532e9e752",
+  "8efbf77e45f6",
+  "487d8bdd2087",
+  "23b65ec93929",
+  "3afb7ae60651",
+  "c1b7b17c2132",
+  "38e43500c4bb",
+  "a4adcae379eb",
+  "ea577fa4c40d",
+  "289e61e557e1",
+  "a0624a0b05d5",
+  "e94f303bca03",
+  "0558425ad02c",
+  "144873f51722",
+  "b21ba2e31398",
+  "e8283e2f3d14",
+  "9ff64842832c",
+  "19c2b313c671",
+  "7f6c84f73d58",
+  "d791975f772b",
+  "6cdddd37fcac",
+  "b6c64b48736d",
+  "728005950efe"
  ],
  "version": 4,
  "digests": []
