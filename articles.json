@@ -1,6 +1,73 @@
 {
  "articles": [
   {
+   "id": "70b213464082",
+   "section": "musica",
+   "title": "Max Pezzali riascolta le telefonate dei fan degli 883 del 1993",
+   "summary": "Nel programma Nord Sud Ovest Est, Max Pezzali ascolta con Sydney Sibilia le registrazioni delle telefonate dei fan del 1993. Le chiamate raccontano il successo degli 883 in quegli anni.",
+   "body": "Nel programma Nord Sud Ovest Est, Max Pezzali ha riascoltato insieme a Sydney Sibilia le telefonate dei fan registrate nel 1993. Le voci dei ragazzi, che chiamavano per dedicare messaggi e richieste al gruppo, documentano l'entusiasmo che accompagnava allora il successo degli 883.\n\nSecondo BadTaste, il momento è un tuffo nel passato per il cantautore, che ritrova negli archivi testimonianze di un rapporto diretto e spontaneo con il pubblico. Il confronto tra quelle registrazioni e la distanza di oltre trent'anni offre uno sguardo sul modo in cui la musica italiana si viveva in quel periodo.",
+   "slug": "max-pezzali-riascolta-le-telefonate-dei-fan-degli-883-del-19-70b213",
+   "tags": [
+    "Max Pezzali",
+    "Sydney Sibilia",
+    "Nord Sud Ovest Est"
+   ],
+   "scene": "cuffie",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/nord-sud-ovest-est-max-pezzali-riascolta-le-telefonate-dei-fan-del-1993-un-tuffo-nel-passato-degli-883",
+   "published": "2026-11-07T21:15:04+00:00"
+  },
+  {
+   "id": "f3f8048f81e3",
+   "section": "tv",
+   "title": "The Glory, il thriller coreano di Netflix con 16 episodi di vendetta",
+   "summary": "The Glory, serie sudcoreana disponibile su Netflix, racconta una vendetta lunga anni con 16 episodi di forte tensione psicologica. Il titolo è stato accostato a Squid Game dalla stampa internazionale.",
+   "body": "Su Netflix è disponibile The Glory, thriller sudcoreano in sedici episodi che ruota attorno a una vendetta covata per anni. Secondo Collider, la serie punta su una tensione psicologica molto costruita, con un regolamento di conti che arriva dopo un lungo periodo di attesa.\n\nIl racconto segue una donna che torna a confrontarsi con chi le ha inflitto una violenza nel passato. La stampa internazionale la propone come alternativa ancora più intensa a Squid Game, anche se il confronto resta un giudizio della testata e non un dato oggettivo. Per chi cerca un prodotto coreano capace di tenere alta la suspense, la serie è una proposta da considerare.",
+   "slug": "the-glory-il-thriller-coreano-di-netflix-con-16-episodi-di-v-f3f804",
+   "tags": [
+    "The Glory",
+    "Squid Game",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/the-glory-netflix-revenge-thriller-series/",
+   "published": "2026-11-07T21:06:12+00:00"
+  },
+  {
+   "id": "ef7ca662fe36",
+   "section": "gossip",
+   "title": "Joaquin Phoenix protagonista della campagna di Gentle Monster per gli occhiali AI",
+   "summary": "Joaquin Phoenix è il protagonista del nuovo film pubblicitario di Gentle Monster dedicato a una linea di occhiali con intelligenza artificiale. Il video promozionale è stato presentato con un trailer.",
+   "body": "L'attore premio Oscar Joaquin Phoenix entra nel mondo degli occhiali indossabili con intelligenza artificiale. Secondo Just Jared, Phoenix è il volto del nuovo film della campagna del marchio coreano Gentle Monster, che ha diffuso anche un trailer dello spot.\n\nIl materiale disponibile non specifica i dettagli del prodotto né la durata del film. La notizia conferma però il coinvolgimento diretto di uno dei nomi più noti di Hollywood in una campagna legata alla tecnologia AI indossabile, un settore che sta attirando sempre più l'attenzione dei grandi marchi.",
+   "slug": "joaquin-phoenix-protagonista-della-campagna-di-gentle-monste-ef7ca6",
+   "tags": [
+    "Joaquin Phoenix",
+    "Gentle Monster"
+   ],
+   "scene": "tappeto",
+   "source": "justjared.com",
+   "url": "https://www.justjared.com/2026/11/07/joaquin-phoenix-stars-in-gentle-monsters-new-ai-eyewear-campaign-film-watch-the-trailer/",
+   "published": "2026-11-07T20:58:58+00:00"
+  },
+  {
+   "id": "3f56c051f4e7",
+   "section": "musica",
+   "title": "Bolle emoziona al Teatro alla Scala con Apollo e Le sacre du printemps",
+   "summary": "Roberto Bolle ha conquistato il pubblico con il suo Apollo nel dittico che chiude la stagione di danza del Teatro alla Scala. Nel programma anche Le sacre du printemps di Pina Bausch, con il palco ricoperto di terra.",
+   "body": "Roberto Bolle è il protagonista della serata che chiude la stagione di danza del Teatro alla Scala di Milano. Il ballerino ha interpretato Apollo, accolto con grande emozione dal pubblico, in un dittico che unisce due coreografie di forte impatto.\n\nAccanto al suo Apollo viene presentato Le sacre du printemps di Pina Bausch, lavoro che ha conquistato la platea. La scena è ricoperta di terra, scelta visiva che caratterizza lo spettacolo. Secondo ANSA, la serata ha confermato il valore del balletto scaligero nel finale di stagione.",
+   "slug": "bolle-emoziona-al-teatro-alla-scala-con-apollo-e-le-sacre-du-3f56c0",
+   "tags": [
+    "Roberto Bolle",
+    "Pina Bausch",
+    "Teatro alla Scala"
+   ],
+   "scene": "palco",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/07/bolle-emoziona-con-il-suo-apollo-nel-dittico-che-chiude-stagione_904dfa7f-294b-43cc-ad0a-953491133e72.html",
+   "published": "2026-11-07T20:57:31+00:00"
+  },
+  {
    "id": "d047259ef52e",
    "section": "tv",
    "title": "WWE Crown Jewel 2026: risultati e vincitori da Riyadh",
@@ -8277,73 +8344,6 @@
    "source": "pagesix.com",
    "url": "https://pagesix.com/2026/11/05/style/met-gala-2027-new-theme-explores-the-ordinary-after-canceled-john-galliano-retrospective/",
    "published": "2026-11-05T14:12:05+00:00"
-  },
-  {
-   "id": "b610fffafc84",
-   "section": "tv",
-   "title": "Carson Daly nuovo conduttore di Saturday TODAY",
-   "summary": "Il programma mattutino TODAY della NBC ha annunciato Carson Daly come nuovo co-conduttore di Saturday TODAY. La scelta è stata accolta come una sorpresa dal pubblico.",
-   "body": "La NBC ha comunicato che Carson Daly affiancherà la conduzione di Saturday TODAY, l'edizione del sabato del celebre programma mattutino TODAY. Si tratta di un cambiamento nel team di conduzione che, secondo quanto riportato da Hello! Magazine, non era stato previsto dal pubblico.\n\nDaly è noto al pubblico americano per la lunga esperienza televisiva, legata in particolare ai programmi della rete. Il suo ingresso nel weekend del TODAY segna un avvicendamento nella squadra dei conduttori, a conferma di una rete che continua a ridisegnare il proprio palinsesto mattutino.",
-   "slug": "carson-daly-nuovo-conduttore-di-saturday-today-b610ff",
-   "tags": [
-    "Carson Daly",
-    "TODAY",
-    "Saturday TODAY"
-   ],
-   "scene": "tv",
-   "source": "hellomagazine.com",
-   "url": "https://www.hellomagazine.com/us/933321/today-show-co-host-shake-up-announcement-nobody-expecting/",
-   "published": "2026-11-05T14:10:40+00:00"
-  },
-  {
-   "id": "d30cfc701d63",
-   "section": "tv",
-   "title": "Barbareschi torna con Allegro ma non troppo su Rai3",
-   "summary": "Luca Barbareschi riporta in onda il suo talk serale Allegro ma non troppo su Rai3, con debutto domenica 8 novembre in seconda serata. Primo ospite sarà Velardi, con la partecipazione di Bertinotti.",
-   "body": "Il talk serale Allegro ma non troppo, condotto da Luca Barbareschi, torna su Rai3. Secondo quanto riportato da ANSA, la nuova messa in onda è prevista per domenica 8 novembre, in seconda serata.\n\nCome primo ospite della stagione è annunciato Velardi, mentre alla puntata parteciperà anche Bertinotti. Il programma riprende così il formato di approfondimento e confronto che Barbareschi ha già proposto in precedenza sulla rete pubblica.",
-   "slug": "barbareschi-torna-con-allegro-ma-non-troppo-su-rai3-d30cfc",
-   "tags": [
-    "Luca Barbareschi",
-    "Allegro ma non troppo",
-    "Rai3"
-   ],
-   "scene": "tv",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/tv/2026/11/05/luca-barbareschi-torna-con-il-suo-talk-serale-allegro-ma-non-troppo_d36eeff3-77e8-4268-9ae2-5c15e6378690.html",
-   "published": "2026-11-05T14:00:47+00:00"
-  },
-  {
-   "id": "5d258964bdb3",
-   "section": "tv",
-   "title": "Le Iene tornano su Italia 1 con ex Ilva, Fentanyl e il caso Trump-mafia",
-   "summary": "Nella puntata del 5 novembre, Le Iene su Italia 1 affrontano il caso dell'ex Ilva di Taranto, il mistero delle 49 fiale rubate e i presunti legami tra Donald Trump e la mafia americana. Il programma propone inchieste e ospiti dell'episodio.",
-   "body": "La puntata de Le Iene in onda stasera su Italia 1 è dedicata a diversi temi di attualità. Il primo riguarda Taranto, dove la battaglia per la salute e il lavoro legata all'ex Ilva continua a dividere la città. Lo spazio dedicato allo stabilimento si affianca a un'inchiesta sul mistero delle 49 fiale rubate, un caso ancora avvolto da molti interrogativi.\n\nIl programma affronta anche la questione dei presunti legami tra Donald Trump e la mafia americana, uno dei servizi più attesi della serata. Secondo Movieplayer, la puntata del 5 novembre comprende inoltre una serie di ospiti che interverranno durante la trasmissione. Le informazioni disponibili non dicono altro sui contenuti dei singoli servizi.",
-   "slug": "le-iene-tornano-su-italia-1-con-ex-ilva-fentanyl-e-il-caso-t-5d2589",
-   "tags": [
-    "Le Iene",
-    "Donald Trump"
-   ],
-   "scene": "tv",
-   "source": "Movieplayer",
-   "url": "https://movieplayer.it/news/le-iene-stasera-italia-1-ex-ilva-fentanyl-trump-mafia_171838/",
-   "published": "2026-11-05T13:44:54+00:00"
-  },
-  {
-   "id": "f77f6dd1c15a",
-   "section": "cinema",
-   "title": "Constantine, DC Studios prepara un nuovo film: e il sequel con Keanu Reeves?",
-   "summary": "DC Studios ha annunciato a sorpresa un nuovo film dedicato a Constantine, l'investigatore dell'occulto. L'annuncio arriva mentre il sequel con Keanu Reeves è appena stato confermato, lasciando aperti dubbi sul suo futuro.",
-   "body": "DC Studios ha messo in cantiere un nuovo film dedicato a Constantine, il celebre investigatore dell'occulto dei fumetti. L'annuncio è arrivato a sorpresa, secondo quanto riportato da BadTaste, e riguarda un progetto che si aggiunge alle attività dello studio sul personaggio.\n\nIl punto critico è la relazione con il sequel con Keanu Reeves, anch'esso confermato di recente. Al momento non è chiaro come le due produzioni si collocheranno l'una rispetto all'altra, e la fonte non chiarisce quale sarà il destino del progetto con l'attore protagonista.",
-   "slug": "constantine-dc-studios-prepara-un-nuovo-film-e-il-sequel-con-f77f6d",
-   "tags": [
-    "Constantine",
-    "Keanu Reeves",
-    "DC Studios"
-   ],
-   "scene": "ciak",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/constantine-dc-studios-al-lavoro-su-un-nuovo-film-ma-che-ne-sara-del-sequel-con-keanu-reeves",
-   "published": "2026-11-05T13:40:43+00:00"
   }
  ],
  "seen": [
@@ -11334,7 +11334,25 @@
   "8a3d808726fd",
   "b2c0e353c1ae",
   "c880972b2c97",
-  "071498606a7c"
+  "071498606a7c",
+  "73d9c8cf49da",
+  "0fcd2edb0a96",
+  "70b213464082",
+  "82358d8cfbac",
+  "4f4f53c00885",
+  "790c1d472f9d",
+  "abfa29906cbb",
+  "f3f8048f81e3",
+  "99c685ea688f",
+  "3f56c051f4e7",
+  "2c2e15007e8a",
+  "a3259b89706d",
+  "407b3f0fee26",
+  "6da2561e84c9",
+  "f765d337932e",
+  "26571cba36eb",
+  "f2cd05ac1f54",
+  "ef7ca662fe36"
  ],
  "version": 4,
  "digests": []
