@@ -1,6 +1,23 @@
 {
  "articles": [
   {
+   "id": "f89a97b1bac3",
+   "section": "tv",
+   "title": "The Voice Senior batte il GFVip con il 20,7% di share",
+   "summary": "The Voice Senior ha chiuso con il 20,7% di share, superando il GFVip su Canale 5 nei dati Auditel del 6 novembre. Nell'access prime time La Ruota della Fortuna e Affari Tuoi hanno registrato risultati numericamente molto simili.",
+   "body": "The Voice Senior ha perso ascolti rispetto alle puntate precedenti, ma nella serata del 6 novembre ha comunque superato il GFVip su Canale 5, fermandosi al 20,7% di share. Secondo TVBlog, il dato è stato sufficiente per il sorpasso sul reality, mentre su Italia Uno Harry Potter ha ottenuto un risultato che ha fatto salire la rete.\n\nNell'access prime time La Ruota della Fortuna e Affari Tuoi hanno registrato valori praticamente equivalenti, con una sfida molto equilibrata tra i due quiz di Rai e Mediaset. I numeri completi della serata confermano un pubblico ancora diviso tra talent, reality e film di grande richiamo.",
+   "slug": "the-voice-senior-batte-il-gfvip-con-il-20-7-di-share-f89a97",
+   "tags": [
+    "The Voice Senior",
+    "GFVip",
+    "Harry Potter"
+   ],
+   "scene": "tv",
+   "source": "tvblog.it",
+   "url": "https://www.tvblog.it/post/the-voice-senior-perde-punti-ma-batte-ugualmente-il-gfvip-harry-potter-fa-volare-italia-uno-i-dati-auditel-del-6-novembre-2026",
+   "published": "2026-11-07T15:10:49+00:00"
+  },
+  {
    "id": "78db6e7af51e",
    "section": "cinema",
    "title": "Steven Seagal, Above the Law esce in 4K",
@@ -8333,22 +8350,6 @@
    "source": "Movieplayer",
    "url": "https://movieplayer.it/news/ballando-alberto-ravagnani-replica-diaco-attacco-violento_171831/",
    "published": "2026-11-05T09:33:47+00:00"
-  },
-  {
-   "id": "319b660503bc",
-   "section": "tv",
-   "title": "Viola come il mare 3, la prima puntata su Canale 5 con il 17% di share",
-   "summary": "La prima puntata della terza stagione di Viola come il mare, trasmessa mercoledì 4 novembre su Canale 5, ha conquistato 2.380.000 spettatori con il 17% di share. Rispetto alla seconda stagione cala il numero di spettatori ma cresce la quota di ascolto.",
-   "body": "La terza stagione di Viola come il mare ha esordito mercoledì 4 novembre 2026 su Canale 5 con 2.380.000 spettatori e uno share del 17%. Secondo i dati Auditel riportati da SuperGuidaTV, il risultato va letto in confronto con la stagione precedente: il numero assoluto di spettatori è inferiore, mentre la quota di ascolto è salita dal 16,7%.\n\nLa differenza tra pubblico complessivo e share dipende dal diverso andamento della serata televisiva, con una platea più frammentata rispetto agli anni passati. Il dato indica comunque una tenuta della fiction nella sua nuova stagione, che continua a occupare una posizione centrale nella programmazione di Canale 5.",
-   "slug": "viola-come-il-mare-3-la-prima-puntata-su-canale-5-con-il-17-319b66",
-   "tags": [
-    "Viola come il mare",
-    "Canale 5"
-   ],
-   "scene": "tv",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/ascolti-tv-viola-come-il-mare-3-lanalisi-auditel/",
-   "published": "2026-11-05T09:17:42+00:00"
   }
  ],
  "seen": [
@@ -11173,7 +11174,25 @@
   "d791975f772b",
   "6cdddd37fcac",
   "b6c64b48736d",
-  "728005950efe"
+  "728005950efe",
+  "9e7c8d6341e1",
+  "f89a97b1bac3",
+  "422289d11f1b",
+  "2c6d6c8a7fd2",
+  "973de37283ea",
+  "58f60ef2daed",
+  "e2ce58721672",
+  "db8efc26eca4",
+  "c7a275ea1bed",
+  "f22da9d5a0eb",
+  "6498468b0835",
+  "ff4a86911f03",
+  "20bd2f212371",
+  "d387e25f691c",
+  "277e8e457b2f",
+  "ff548ee39d8a",
+  "ad6d2552c688",
+  "74006d05859e"
  ],
  "version": 4,
  "digests": []
