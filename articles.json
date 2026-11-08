@@ -85,6 +85,74 @@
    "published": "2026-11-07T23:56:27+00:00"
   },
   {
+   "id": "26b398306382",
+   "section": "cinema",
+   "title": "Nolan: i grandi studi devono tutelare il copyright dall'intelligenza artificiale",
+   "summary": "Christopher Nolan, presidente della DGA da alcuni mesi, chiede agli studios di perseguire le ricreazioni con intelligenza artificiale delle proprie opere. Il regista ha espresso soddisfazione per la clausola anti-AI inserita in The Odyssey.",
+   "body": "Christopher Nolan, a metà del suo primo mandato come presidente della Directors Guild of America, ha affermato che spetta agli studios intervenire contro le riproduzioni generate dall'intelligenza artificiale delle opere cinematografiche. Secondo quanto riportato da Deadline, in una nuova intervista il regista premio Oscar ha spiegato di essere \"molto soddisfatto\" che il suo film The Odyssey includa una clausola contro l'uso dell'intelligenza artificiale.\n\nNolan ha sottolineato il ruolo della DGA nel chiedere alle case di produzione di rispettare e far rispettare i diritti sui materiali protetti. Il tema del copyright e dell'AI resta uno dei punti centrali della guild, soprattutto dopo le trattative sindacali che hanno riguardato l'uso delle tecnologie generative nel settore.",
+   "slug": "nolan-i-grandi-studi-devono-tutelare-il-copyright-dall-intel-26b398",
+   "tags": [
+    "Christopher Nolan",
+    "The Odyssey",
+    "DGA"
+   ],
+   "scene": "ciak",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/christopher-nolan-dga-holding-studios-account-protecting-ai-1237216368/",
+   "published": "2026-11-07T23:40:57+00:00"
+  },
+  {
+   "id": "ee5dc1dec8d0",
+   "section": "tv",
+   "title": "Adam Driver non tornerà nel revival di Girls",
+   "summary": "Adam Driver ha confermato che non prenderà parte al revival di Girls in cinque episodi annunciato da HBO il mese scorso. L'attore ha risposto così a una domanda di CinemaBlend sul suo possibile ritorno.",
+   "body": "Adam Driver non sarà tra i protagonisti del revival di Girls, la serie HBO in cinque episodi annunciata il mese scorso. Interpellato da CinemaBlend sulla possibilità di un suo ritorno, l'attore ha risposto con un secco no, aggiungendo di augurare il meglio al progetto. Secondo quanto riportato da Dark Horizons, la dichiarazione è arrivata durante un'intervista in cui Driver è stato interrogato sulla nuova stagione.\n\nLa serie originale raccontava le vicissitudini di quattro amiche alle prese con le incertezze della giovinezza a New York, e il personaggio di Driver era uno dei volti più riconoscibili del cast. Il revival proseguirà quindi senza di lui, mentre restano da chiarire i dettagli sul resto del cast e sulla data di uscita. L'attore, reduce da impegni come Star Wars e Megalopolis, non ha aggiunto altri dettagli sulla sua scelta.",
+   "slug": "adam-driver-non-tornera-nel-revival-di-girls-ee5dc1",
+   "tags": [
+    "Adam Driver",
+    "Girls",
+    "HBO"
+   ],
+   "scene": "streaming",
+   "source": "darkhorizons.com",
+   "url": "https://www.darkhorizons.com/adam-driver-wont-return-for-more-girls/",
+   "published": "2026-11-07T23:34:27+00:00"
+  },
+  {
+   "id": "96eb7e45a2e2",
+   "section": "tv",
+   "title": "Tom Hanks e la miniserie HBO Dal nostro pianeta alla Luna",
+   "summary": "Tom Hanks ha prodotto Dal nostro pianeta alla Luna, miniserie HBO in dodici episodi sulla conquista spaziale, tre anni prima di Band of Brothers. Secondo Collider, la serie resta un lavoro di grande valore a distanza di anni.",
+   "body": "Tom Hanks ha prodotto per HBO la miniserie storica in dodici episodi Dal nostro pianeta alla Luna, uscita tre anni prima di Band of Brothers. Il racconto ripercorre il programma spaziale americano e la corsa verso il satellite, con un'attenzione particolare alle vicende umane dietro le missioni Apollo.\n\nSecondo Collider, la serie è un titolo dimenticato rispetto ad altri progetti di Hanks, ma ha retto bene il passare del tempo e viene considerata ancora oggi un'opera di alto livello. Il materiale disponibile non entra nel dettaglio su cast, ascolti o riconoscimenti specifici, ma il giudizio critico sulla produzione resta netto.",
+   "slug": "tom-hanks-e-la-miniserie-hbo-dal-nostro-pianeta-alla-luna-96eb7e",
+   "tags": [
+    "Tom Hanks",
+    "Dal nostro pianeta alla Luna",
+    "Band of Brothers"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/tom-hanks-hbo-from-the-earth-to-the-moon-miniseries/",
+   "published": "2026-11-07T23:30:12+00:00"
+  },
+  {
+   "id": "98c2642d516c",
+   "section": "cinema",
+   "title": "American Made con Tom Cruise arriva su Prime Video",
+   "summary": "Il thriller criminale American Made, con Tom Cruise, è ora disponibile sulla piattaforma Prime Video. Il film, uscito nel 2017, ha un budget di circa 135 milioni di dollari.",
+   "body": "Il thriller criminale American Made, diretto da Doug Liman e interpretato da Tom Cruise, è approdato su Prime Video. Il film, uscito nel 2017, racconta la storia di un pilota americano coinvolto nel traffico di droga e in operazioni clandestine tra gli anni Settanta e Ottanta, con un budget dichiarato di circa 135 milioni di dollari.\n\nSecondo Collider, la pellicola si aggiunge così al catalogo della piattaforma di Amazon, offrendo al pubblico italiano una nuova possibilità di vedere uno dei titoli d'azione più noti dell'attore. Il film ha avuto buoni riscontri al box office nel momento della sua uscita e resta uno dei lavori recenti di Cruise nel genere del thriller.",
+   "slug": "american-made-con-tom-cruise-arriva-su-prime-video-98c264",
+   "tags": [
+    "Tom Cruise",
+    "American Made",
+    "Prime Video"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/tom-cruise-american-made-streaming-prime-video-november-2026/",
+   "published": "2026-11-07T23:30:12+00:00"
+  },
+  {
    "id": "b31de4ed301d",
    "section": "musica",
    "title": "MSG respinge il tour di Macklemore: \"Non è un artista da arena\"",
@@ -8274,74 +8342,6 @@
    "source": "Cinefilos",
    "url": "https://cinefilos.it/serie-tv/news/criminal-prime-video-trailer-data-uscita-2027-729523",
    "published": "2026-11-05T15:52:58+00:00"
-  },
-  {
-   "id": "ce24d4b47ac9",
-   "section": "tv",
-   "title": "UnoMattina, il dibattito su Nord, Sud e cultura divide lo studio",
-   "summary": "Durante una puntata di UnoMattina, Zecchi ha collegato l'aspettativa di vita al Sud con il livello culturale. Timperi e Soave lo hanno fermato, dicendo che non è così, e la discussione è proseguita sui social.",
-   "body": "Nel corso di una puntata di UnoMattina, l'ospite Zecchi ha sostenuto un collegamento tra aspettativa di vita e cultura, affermando che al Nord ci sarebbe più cultura e che questo inciderebbe sulla durata della vita rispetto al Sud. Secondo quanto riporta BadTaste, i conduttori Timperi e Soave lo hanno interrotto, precisando che la questione non stava in questi termini.\n\nLo scambio ha diviso lo studio e ha poi acceso il dibattito sui social, dove il tema del divario tra Nord e Sud è tornato al centro delle reazioni. Il materiale disponibile non riporta ulteriori dettagli sulle argomentazioni degli ospiti né sviluppi successivi della vicenda.",
-   "slug": "unomattina-il-dibattito-su-nord-sud-e-cultura-divide-lo-stud-ce24d4",
-   "tags": [
-    "UnoMattina",
-    "Timperi",
-    "Soave"
-   ],
-   "scene": "tv",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/al-nord-ce-piu-cultura-la-clamorosa-gaffe-a-unomattina-scatena-la-bufera-sui-social",
-   "published": "2026-11-05T15:50:19+00:00"
-  },
-  {
-   "id": "b93c0c05fffb",
-   "section": "tv",
-   "title": "Millennium, Jonathan Pryce e Lena Olin nel cast della serie Sky",
-   "summary": "Jonathan Pryce, James D'Arcy e Lena Olin entrano nel cast della nuova serie tratta da Millennium - Uomini che odiano le donne, prodotta per Sky. Interpreteranno i membri della famiglia Vanger, la dinastia industriale al centro del mistero.",
-   "body": "La nuova serie ispirata a Millennium - Uomini che odiano le donne, prodotta per Sky, si arricchisce di tre nomi di primo piano del cinema e della televisione internazionale. Jonathan Pryce, James D'Arcy e Lena Olin sono stati scelti per interpretare i membri della famiglia Vanger, la potente dinastia industriale che sta al centro del mistero del romanzo di Stieg Larsson.\n\nIl ruolo dei Vanger è decisivo, perché la loro storia familiare e i loro segreti guidano l'intera vicenda. Secondo Cinefilos, la scelta di attori di grande esperienza conferma la volontà di costruire una serie corale e ambiziosa. Il progetto continua a prendere forma e nei prossimi tempi dovrebbero arrivare nuovi annunci sul resto del cast.",
-   "slug": "millennium-jonathan-pryce-e-lena-olin-nel-cast-della-serie-s-b93c0c",
-   "tags": [
-    "Millennium - Uomini che odiano le donne",
-    "Jonathan Pryce",
-    "Lena Olin"
-   ],
-   "scene": "streaming",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/serie-tv/news/millennium-serie-sky-cast-famiglia-vanger-729518",
-   "published": "2026-11-05T15:45:07+00:00"
-  },
-  {
-   "id": "ba6b20a78a73",
-   "section": "cinema",
-   "title": "Cameron Diaz torna su Netflix con il film Bad Day",
-   "summary": "Dall'11 dicembre Netflix propone Bad Day, il nuovo film con protagonista Cameron Diaz. La piattaforma ha reso disponibili trailer e trama del titolo.",
-   "body": "Dall'11 dicembre arriva in streaming su Netflix Bad Day, nuovo film che vede protagonista Cameron Diaz, attrice americana tornata sul grande schermo dopo una lunga pausa. Il titolo sarà disponibile sulla piattaforma a partire da quella data.\n\nSecondo ComingSoon, la notizia è accompagnata dal trailer ufficiale e da una prima presentazione della trama, che il sito ha pubblicato per introdurre il film al pubblico italiano. Per conoscere i dettagli della storia e vedere le immagini promozionali, basta consultare la pagina dedicata sulla piattaforma o le anteprime diffuse dalla stampa specializzata.",
-   "slug": "cameron-diaz-torna-su-netflix-con-il-film-bad-day-ba6b20",
-   "tags": [
-    "Cameron Diaz",
-    "Bad Day",
-    "Netflix"
-   ],
-   "scene": "streaming",
-   "source": "ComingSoon",
-   "url": "https://www.comingsoon.it/cinema/news/cameron-diaz-ha-una-pessima-giornata-ma-solo-su-netflix/n235307/",
-   "published": "2026-11-05T15:42:00+00:00"
-  },
-  {
-   "id": "d811140f8215",
-   "section": "cinema",
-   "title": "Rocky compie 50 anni: torna in sala il film originale in 4K",
-   "summary": "Per celebrare i cinquant'anni di Rocky, il film originale con Sylvester Stallone torna al cinema in versione 4K dal 7 al 15 dicembre. Dal 31 dicembre arriva anche il biopic Rocky sono io.",
-   "body": "Per il cinquantesimo anniversario di Rocky, il film con Sylvester Stallone torna nelle sale italiane in versione restaurata in 4K. Secondo ANSA, la proiezione è prevista dal 7 al 15 dicembre, con una nuova occasione per rivedere sul grande schermo la storia del pugile di Philadelphia.\n\nLa celebrazione prosegue con un biopic dedicato alla vicenda che ha ispirato il personaggio. Il titolo, Rocky sono io, sarà disponibile dal 31 dicembre. Le informazioni disponibili non precisano ulteriori dettagli sul progetto.",
-   "slug": "rocky-compie-50-anni-torna-in-sala-il-film-originale-in-4k-d81114",
-   "tags": [
-    "Rocky",
-    "Sylvester Stallone",
-    "Rocky sono io"
-   ],
-   "scene": "sala",
-   "source": "ANSA Cinema",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/05/per-i-50-anni-di-rocky-torna-in-sala-il-film-originale-in-4k-e-arriva-il-biopic_82d7055d-b1a3-4268-88a7-3b14dbd9973f.html",
-   "published": "2026-11-05T15:33:47+00:00"
   }
  ],
  "seen": [
@@ -11410,7 +11410,21 @@
   "0f9c8299ead1",
   "99d58ebed3d2",
   "c1c90d468368",
-  "69a6cd64dd86"
+  "69a6cd64dd86",
+  "944a61a8bfe2",
+  "4e187285d2a6",
+  "c148515e85eb",
+  "26b398306382",
+  "4c9c7b3154b0",
+  "ee5dc1dec8d0",
+  "4ee4db65b4f0",
+  "ff5768d80204",
+  "96eb7e45a2e2",
+  "98c2642d516c",
+  "4e3cbb10fd06",
+  "d84176655ae1",
+  "88d4c87824a1",
+  "285cc91695a3"
  ],
  "version": 4,
  "digests": []
