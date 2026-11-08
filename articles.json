@@ -1,6 +1,22 @@
 {
  "articles": [
   {
+   "id": "1f0394029fc8",
+   "section": "tv",
+   "title": "Serie cancellata da Prime Video torna a nuova vita in streaming",
+   "summary": "Il procedurale di Dick Wolf, prodotto per Prime Video e cancellato lo scorso anno, ottiene una seconda opportunità su una piattaforma di streaming. La notizia arriva dopo il rinnovato interesse del pubblico per la serie.",
+   "body": "Prime Video aveva cancellato lo scorso anno il primo procedurale in streaming firmato da Dick Wolf, il produttore della famiglia di Law & Order. Nonostante la chiusura, la serie sta registrando un nuovo interesse da parte del pubblico, e ora si apre per lei una seconda possibilità su un'altra piattaforma di streaming.\n\nSecondo Collider, la notizia riguarda il ritorno della serie in streaming dopo la decisione presa da Amazon. Il materiale disponibile non specifica però i dettagli dell'accordo, come la piattaforma coinvolta, la data di debutto o l'eventuale numero di nuovi episodi.",
+   "slug": "serie-cancellata-da-prime-video-torna-a-nuova-vita-in-stream-1f0394",
+   "tags": [
+    "Dick Wolf",
+    "Prime Video"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/on-call-prime-video-streaming-success-november-2026/",
+   "published": "2026-11-08T23:31:12+00:00"
+  },
+  {
    "id": "913069fec62b",
    "section": "cinema",
    "title": "Miles Teller si dice interessato a tornare in Top Gun 3 nel ruolo di Rooster",
@@ -50,6 +66,57 @@
    "source": "screendaily.com",
    "url": "https://www.screendaily.com/news/laila-marrakchis-morocco-oscar-entry-strawberries-lands-us-deal-among-fresh-international-sales/5222149.article",
    "published": "2026-11-08T23:14:00+00:00"
+  },
+  {
+   "id": "d22e8dcff2cb",
+   "section": "cinema",
+   "title": "Bette Midler sul red carpet newyorkese della premiere di Steps",
+   "summary": "Bette Midler ha partecipato con Ali Wong alla premiere newyorkese di Steps, il nuovo film Netflix. L'attrice, che compie 80 anni, si è presentata con un abito lungo nero.",
+   "body": "Bette Midler, 80 anni, ha partecipato alla premiere newyorkese di Steps, il nuovo film Netflix, accanto alla protagonista Ali Wong. Per l'occasione l'attrice ha scelto un lungo abito nero dal taglio elegante, che secondo Hello! Magazine l'ha resa particolarmente brillante davanti ai fotografi.\n\nL'evento ha richiamato numerosi ospiti, in linea con la tradizione delle anteprime cinematografiche della Grande Mela. Il film segna un nuovo progetto che vede Wong al centro della scena insieme a un cast di rilievo. Al momento non sono disponibili altri dettagli ufficiali sul lungometraggio.\n\nLa notizia è riportata da Hello! Magazine.",
+   "slug": "bette-midler-sul-red-carpet-newyorkese-della-premiere-di-ste-d22e8d",
+   "tags": [
+    "Bette Midler",
+    "Ali Wong",
+    "Steps"
+   ],
+   "scene": "tappeto",
+   "source": "hellomagazine.com",
+   "url": "https://www.hellomagazine.com/us/933843/bette-midler-80-looks-incredible-in-rare-red-carpet-appearance/",
+   "published": "2026-11-08T22:53:00+00:00"
+  },
+  {
+   "id": "e247bfe615c2",
+   "section": "gossip",
+   "title": "Jacob Elordi sfoggia un nuovo look con Kendall Jenner a Broadway",
+   "summary": "Jacob Elordi e Kendall Jenner sono stati fotografati a New York durante una serata a teatro a Broadway. L'attore di Euphoria si è presentato con una nuova acconciatura.",
+   "body": "Jacob Elordi e Kendall Jenner sono stati avvistati insieme a New York durante un appuntamento serale a Broadway. Secondo Just Jared, l'attore di Euphoria, 29 anni, ha mostrato al pubblico una nuova pettinatura, un cambio d'immagine che ha attirato l'attenzione dei fotografi presenti.\n\nJenner, 31 anni, era al fianco dell'attore nella serata teatrale. La fonte non riporta dichiarazioni dei due protagonisti né dettagli sulla pièce vista insieme, limitandosi a documentare la presenza della coppia e il nuovo look di Elordi.",
+   "slug": "jacob-elordi-sfoggia-un-nuovo-look-con-kendall-jenner-a-broa-e247bf",
+   "tags": [
+    "Jacob Elordi",
+    "Kendall Jenner",
+    "Euphoria"
+   ],
+   "scene": "flash",
+   "source": "justjared.com",
+   "url": "https://www.justjared.com/2026/11/08/jacob-elordi-hair-transformation-kendall-jenner-broadway-date-night/",
+   "published": "2026-11-08T22:36:04+00:00"
+  },
+  {
+   "id": "bcfba8fa3865",
+   "section": "cinema",
+   "title": "Club Kid e I Play Rocky brillano nelle uscite limitate al box office",
+   "summary": "La commedia drammatica Club Kid, esordio alla regia di Jordan Firstman distribuito da A24, ha incassato una media eccellente di 65.000 dollari per sala. Bene anche I Play Rocky e altri titoli di distributori minori nel fine settimana del box office specializzato.",
+   "body": "Nel weekend del box office specializzato americano, la commedia drammatica Club Kid, primo film diretto da Jordan Firstman e prodotto dalla A24, ha registrato una media per sala di 65.000 dollari, un risultato definito eccellente dagli analisti del settore. Il titolo si è messo in evidenza in un fine settimana affollato di uscite limitate.\n\nSecondo TheWrap, anche diversi film di distributori più piccoli hanno ottenuto buoni risultati, tra cui I Play Rocky. La notizia mostra la vitalità del circuito delle sale d'essai negli Stati Uniti, dove i titoli indipendenti continuano a trovare pubblico nonostante la concorrenza delle grandi produzioni.",
+   "slug": "club-kid-e-i-play-rocky-brillano-nelle-uscite-limitate-al-bo-bcfba8",
+   "tags": [
+    "Club Kid",
+    "Jordan Firstman",
+    "I Play Rocky"
+   ],
+   "scene": "sala",
+   "source": "thewrap.com",
+   "url": "https://www.thewrap.com/culture-lifestyle/culture/club-kid-i-play-rocky-shine-in-limited-release-at-busy-specialty-box-office/",
+   "published": "2026-11-08T22:28:42+00:00"
   },
   {
    "id": "10d3bb6d156d",
@@ -8283,74 +8350,6 @@
    "source": "theblast.com",
    "url": "https://theblast.com/880610/prince-william-wins-praise-flying-commercial-prince-george/",
    "published": "2026-11-06T11:20:00+00:00"
-  },
-  {
-   "id": "28b8caf45963",
-   "section": "cinema",
-   "title": "Frontier Crucible, il nuovo western su Prime Video",
-   "summary": "Il western Frontier Crucible è disponibile in streaming su Prime Video. Secondo Collider, il film richiama i western crudi degli anni Sessanta di Clint Eastwood.",
-   "body": "Frontier Crucible è ora disponibile in streaming su Prime Video. Il nuovo western è stato accostato dalla testata Collider ai film più duri degli anni Sessanta con Clint Eastwood, in particolare al clima aspro di Il buono, il brutto, il cattivo.\n\nSecondo Collider, la pellicola punta su una violenza esplicita e su un tono senza compromessi, caratteristiche che la rendono una proposta per chi cerca il genere nella sua versione più cupa. Il materiale disponibile non riporta dettagli su trama, cast o regia, quindi per approfondire resta consigliata la visione diretta del film sulla piattaforma.",
-   "slug": "frontier-crucible-il-nuovo-western-su-prime-video-28b8ca",
-   "tags": [
-    "Frontier Crucible",
-    "Clint Eastwood",
-    "Prime Video"
-   ],
-   "scene": "streaming",
-   "source": "collider.com",
-   "url": "https://collider.com/frontier-crucible-western-streaming-prime-video-november-2026/",
-   "published": "2026-11-06T11:15:12+00:00"
-  },
-  {
-   "id": "0710484a39a7",
-   "section": "cinema",
-   "title": "Disney conferma la data di uscita di Avengers: Secret Wars",
-   "summary": "Disney ha confermato la data di uscita di Avengers: Secret Wars, dopo le voci su un possibile rinvio. Il film resta quindi in programma secondo il calendario annunciato dallo studio.",
-   "body": "Secondo GamesRadar, Disney ha confermato la data di uscita di Avengers: Secret Wars, smentendo così le voci circolate nelle settimane precedenti su un possibile slittamento del film Marvel.\n\nLa conferma arriva in un momento di attenzione intorno al progetto, uno dei capitoli più attesi del nuovo corso del Marvel Cinematic Universe. Il materiale disponibile non include dettagli ulteriori sul calendario di distribuzione né sulle motivazioni alla base delle indiscrezioni. Restano quindi da verificare eventuali aggiornamenti ufficiali da parte dello studio nei prossimi mesi.",
-   "slug": "disney-conferma-la-data-di-uscita-di-avengers-secret-wars-071048",
-   "tags": [
-    "Avengers: Secret Wars",
-    "Marvel Studios",
-    "Disney"
-   ],
-   "scene": "premiere",
-   "source": "gamesradar.com",
-   "url": "https://www.gamesradar.com/entertainment/marvel-movies/after-rumors-of-a-delay-disney-confirms-avengers-secret-wars-release-date/",
-   "published": "2026-11-06T11:04:32+00:00"
-  },
-  {
-   "id": "f98a9da1b5d7",
-   "section": "cinema",
-   "title": "Matt Damon e il metodo estremo per The Odyssey: giorni senza dormire",
-   "summary": "Matt Damon ha raccontato di aver trascorso giorni senza dormire durante le riprese di The Odyssey, un'esperienza che, a suo dire, lo ha avvicinato al personaggio di Odisseo. L'attore ha scherzato sul fatto che anche l'eroe greco probabilmente non avesse dormito.",
-   "body": "Matt Damon ha rivelato che durante le riprese di The Odyssey, il nuovo film diretto da Christopher Nolan, è rimasto per giorni senza dormire. Secondo GamesRadar, l'attore ha raccontato l'episodio come un vantaggio, perché la stanchezza lo ha aiutato a entrare nella parte del guerriero greco protagonista del poema di Omero.\n\nDamon ha scherzato sul fatto che anche Odisseo, nella notte precedente, probabilmente non avesse chiuso occhio. Il racconto è una sorta di metodo recitativo involontario, come lo ha definito la fonte, che nasce dalla fatica del set più che da una scelta preparata in anticipo. Nel materiale disponibile non sono riportati dettagli su durata e ragioni precise di quella privazione del sonno.",
-   "slug": "matt-damon-e-il-metodo-estremo-per-the-odyssey-giorni-senza-f98a9d",
-   "tags": [
-    "Matt Damon",
-    "The Odyssey",
-    "Christopher Nolan"
-   ],
-   "scene": "ciak",
-   "source": "gamesradar.com",
-   "url": "https://www.gamesradar.com/entertainment/fantasy-movies/matt-damon-didnt-sleep-for-days-while-filming-the-odyssey-but-says-it-worked-in-his-favour-as-odysseus-probably-didnt-sleep-last-night-either/",
-   "published": "2026-11-06T11:04:30+00:00"
-  },
-  {
-   "id": "37d022fa9aab",
-   "section": "cinema",
-   "title": "Adrián Lastra e il film sugli Extremoduro: \"Meritano un grande film\"",
-   "summary": "L'attore Adrián Lastra interpreta Txus di Fellatio in Fiesta Pagäna, film sulla storia della band spagnola Extremoduro. Lastra ha dichiarato che il gruppo merita una grande pellicola per il contributo di Robe come autore e cantante.",
-   "body": "L'attore spagnolo Adrián Lastra, protagonista di Fiesta Pagäna nel ruolo di Txus di Fellatio, ha parlato del progetto dedicato agli Extremoduro, storica band rock spagnola. Secondo quanto riferito da Fotogramas, il film racconta il sogno di un gruppo capace di attraversare le generazioni, evitando però la forma del biopic tradizionale.\n\nLastra ha dichiarato che gli Extremoduro meritano una grande pellicola, per quello che ha significato Robe sia come autore dei testi sia come voce della band. Il film è dunque presentato come un ritratto della musica e dell'eredità del gruppo, più che come una ricostruzione cronologica della sua carriera.",
-   "slug": "adrian-lastra-e-il-film-sugli-extremoduro-meritano-un-grande-37d022",
-   "tags": [
-    "Fiesta Pagäna",
-    "Adrián Lastra",
-    "Extremoduro"
-   ],
-   "scene": "pellicola",
-   "source": "fotogramas.es",
-   "url": "https://www.fotogramas.es/noticias-cine/a74355947/adrian-lastra-actor-fiesta-pagana-pelicula-entrevista-extremoduro-robe/",
-   "published": "2026-11-06T11:02:05+00:00"
   }
  ],
  "seen": [
@@ -11986,7 +11985,21 @@
   "c07c236b1211",
   "24c03f65cf5b",
   "633a78c8ea37",
-  "d001155212af"
+  "d001155212af",
+  "cbae00eee429",
+  "984795ae3c66",
+  "1f0394029fc8",
+  "1396b8d92f4b",
+  "d22e8dcff2cb",
+  "abc7212b8190",
+  "d4c2d61ebd2d",
+  "08388a35ef4a",
+  "9dde970b3e40",
+  "1ddf407bb324",
+  "e247bfe615c2",
+  "7f470f1b3dd1",
+  "ce0f4146856d",
+  "bcfba8fa3865"
  ],
  "version": 4,
  "digests": [
