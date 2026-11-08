@@ -1,6 +1,72 @@
 {
  "articles": [
   {
+   "id": "0c6ce9079f57",
+   "section": "cinema",
+   "title": "Nolan: la DGA punta sugli studios per la tutela dell'AI",
+   "summary": "Christopher Nolan, presidente della DGA e regista di The Odyssey, ha anticipato la prossima fase del sindacato sulle protezioni dall'intelligenza artificiale. Secondo lui la responsabilita' di tutelare i copyright ricade ora sugli studios.",
+   "body": "Christopher Nolan, presidente del sindacato dei registi americani DGA e regista di The Odyssey, ha anticipato la prossima fase delle battaglie del sindacato sull'intelligenza artificiale. Secondo quanto riportato da TheWrap, il sindacato è molto concentrato sul tenere gli studios responsabili della protezione dei propri diritti d'autore. Nolan ha sottolineato che, su questo fronte, il sindacato da solo non può fare abbastanza.\n\nIl messaggio centrale è che la palla passa ora alle major hollywoodiane. Le tutele per i registi e per il lavoro creativo, già al centro delle trattative contrattuali recenti, dovranno essere difese anche nei rapporti con le case di produzione, che controllano i diritti sulle opere. La questione dell'uso dell'AI nei film e nei materiali protetti resta uno dei temi più sensibili per l'intera industria dell'intrattenimento.",
+   "slug": "nolan-la-dga-punta-sugli-studios-per-la-tutela-dell-ai-0c6ce9",
+   "tags": [
+    "Christopher Nolan",
+    "The Odyssey",
+    "DGA"
+   ],
+   "scene": "ciak",
+   "source": "thewrap.com",
+   "url": "https://www.thewrap.com/creative-content/movies/christopher-nolan-previews-dgas-next-phase-of-ai-protections-its-down-to-the-studios/",
+   "published": "2026-11-08T02:17:20+00:00"
+  },
+  {
+   "id": "bb6fa0f766ad",
+   "section": "cinema",
+   "title": "Lou Ferrigno compie 75 anni",
+   "summary": "L'attore Lou Ferrigno festeggia il suo 75esimo compleanno il 9 novembre. Ex bodybuilder, è diventato noto al grande pubblico con il ruolo di Hulk nella serie The Incredible Hulk.",
+   "body": "L'attore statunitense Lou Ferrigno compie 75 anni il 9 novembre. Secondo Hello! Magazine, la ricorrenza offre l'occasione per guardare al suo percorso a quasi cinquant'anni dalla notorietà ottenuta con il ruolo principale in The Incredible Hulk, la serie televisiva ispirata al celebre personaggio dei fumetti Marvel.\n\nEx culturista di grande fama, Ferrigno ha costruito la sua immagine sulla fisicità imponente che lo ha reso riconoscibile per generazioni di spettatori. La sua interpretazione del gigante verde resta uno dei tratti più ricordati della sua carriera, e l'attore continua a essere considerato una figura legata alla storia della televisione americana degli anni Settanta e Ottanta.",
+   "slug": "lou-ferrigno-compie-75-anni-bb6fa0",
+   "tags": [
+    "Lou Ferrigno",
+    "The Incredible Hulk"
+   ],
+   "scene": "premiere",
+   "source": "hellomagazine.com",
+   "url": "https://www.hellomagazine.com/us/933787/incredible-hulk-star-lou-ferrigno-looks-amazing-as-he-turns-75/",
+   "published": "2026-11-08T02:01:32+00:00"
+  },
+  {
+   "id": "d978d7fcffbe",
+   "section": "tv",
+   "title": "Blue Eye Samurai 2: Netflix annuncia la data di uscita della seconda stagione",
+   "summary": "Netflix ha ufficializzato la data di uscita di Blue Eye Samurai 2, seconda stagione dell'anime d'animazione presentato come possibile erede di Arcane. La serie torna con una direzione narrativa nuova.",
+   "body": "Netflix ha confermato ufficialmente la data di uscita di Blue Eye Samurai, la seconda stagione della serie animata per adulti creata da Michael Green e Amber Noizumi. Secondo Collider, la piattaforma punta sul progetto come possibile erede di Arcane, il successo d'animazione che ha conquistato il pubblico e la critica.\n\nLa nuova stagione prosegue la storia ambientata nel Giappone feudale del XVII secolo, seguendo la protagonista Mizu nella sua ricerca di vendetta. La produzione mantiene lo stile visivo che ha caratterizzato la prima stagione, con un approccio narrativo che la testata descrive come un cambio di direzione audace.",
+   "slug": "blue-eye-samurai-2-netflix-annuncia-la-data-di-uscita-della-d978d7",
+   "tags": [
+    "Blue Eye Samurai",
+    "Netflix",
+    "Arcane"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/netflix-blue-eye-samurai-season-2-release-date-arcane/",
+   "published": "2026-11-08T02:01:13+00:00"
+  },
+  {
+   "id": "4966093fd498",
+   "section": "tv",
+   "title": "Candace Cameron Bure torna a The View dopo aver rifiutato l'invito",
+   "summary": "Candace Cameron Bure tornerà come ospite nel talk show The View, dopo aver inizialmente declinato l'invito. Bure è stata co-conduttrice del programma dal 2015 al 2016.",
+   "body": "Candace Cameron Bure farà a sorpresa un ritorno nel talk show statunitense The View, il programma di attualità condotto da una squadra di conduttrici. Secondo Page Six, l'attrice aveva in precedenza rifiutato un invito a partecipare alla trasmissione, prima di cambiare idea.\n\nBure è stata co-conduttrice di The View dal 2015 al 2016, periodo in cui era già nota al pubblico per il suo ruolo nella serie Un medico in famiglia, riadattata in Italia con il titolo originale Full House. Il materiale disponibile non specifica la data della nuova apparizione né i dettagli della partecipazione.",
+   "slug": "candace-cameron-bure-torna-a-the-view-dopo-aver-rifiutato-l-496609",
+   "tags": [
+    "Candace Cameron Bure",
+    "The View"
+   ],
+   "scene": "tv",
+   "source": "pagesix.com",
+   "url": "https://pagesix.com/2026/11/07/entertainment/candace-cameron-bure-sets-surprise-return-to-the-view/",
+   "published": "2026-11-08T01:59:30+00:00"
+  },
+  {
    "id": "8ea7633b2297",
    "section": "gossip",
    "title": "Josh Brolin rinnova le promesse nozze con Kathryn a Las Vegas",
@@ -8274,74 +8340,6 @@
    "source": "davidemaggio.it",
    "url": "https://www.davidemaggio.it/splendida-cornice/splendida-cornice-da-geppi-cucciari-arriva-enrico-mentana",
    "published": "2026-11-05T16:30:00+00:00"
-  },
-  {
-   "id": "592c9cb892b9",
-   "section": "tv",
-   "title": "Off Campus 2: la seconda stagione arriva su Prime Video il 28 aprile 2027",
-   "summary": "Prime Video ha annunciato che la seconda stagione di Off Campus, tratta dai romanzi di Elle Kennedy, debutterà il 28 aprile 2027. Il nuovo capitolo seguirà la relazione tra Allie Hayes, interpretata da Mika Abdalla, e Dean Di Laurentis.",
-   "body": "Prime Video ha fissato al 28 aprile 2027 la data di uscita della seconda stagione di Off Campus, la serie young adult tratta dai romanzi di Elle Kennedy. La piattaforma ha dunque confermato la prosecuzione della storia sentimentale che ha conquistato il pubblico della prima stagione.\n\nSecondo Cinefilos, il nuovo ciclo di episodi sarà incentrato sul rapporto tra Allie Hayes, interpretata da Mika Abdalla, e Dean Di Laurentis. Il racconto riprenderà quindi dal legame tra i due protagonisti, al centro della produzione fin dall'inizio. Per ulteriori dettagli su cast e trama sarà necessario attendere nuovi annunci ufficiali da parte della piattaforma.",
-   "slug": "off-campus-2-la-seconda-stagione-arriva-su-prime-video-il-28-592c9c",
-   "tags": [
-    "Off Campus",
-    "Prime Video",
-    "Mika Abdalla"
-   ],
-   "scene": "streaming",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/serie-tv/news/off-campus-2-data-seconda-stagione-729536",
-   "published": "2026-11-05T16:18:07+00:00"
-  },
-  {
-   "id": "01149ac18500",
-   "section": "tv",
-   "title": "Law & Order: SVU, il 600° episodio riparerà un vecchio errore della serie",
-   "summary": "Il 600° episodio di Law & Order: SVU ruoterà attorno al ritorno di Benson e Stabler, che riaprono un caso del passato. Secondo Collider, la puntata correggerà uno degli errori più discussi della serie.",
-   "body": "Il seriale Law & Order: SVU si prepara a celebrare il suo 600° episodio con una puntata che sembra voler sistemare uno dei passaggi più criticati della sua lunga storia. Secondo quanto riportato da Collider, la trama riunisce Olivia Benson ed Elliot Stabler, che tornano a occuparsi insieme di un caso rimasto aperto in passato.\n\nIl riferimento a un errore della serie viene presentato dalla testata come il cuore dell'episodio, che riprende una vicenda del passato per restituirle una conclusione diversa. Al momento non sono disponibili altri dettagli su trama, cast completo o data di messa in onda, ma l'operazione rappresenta un richiamo esplicito ai fan di lunga data dello show.",
-   "slug": "law-order-svu-il-600-episodio-riparera-un-vecchio-errore-del-01149a",
-   "tags": [
-    "Law & Order: SVU",
-    "Olivia Benson",
-    "Elliot Stabler"
-   ],
-   "scene": "tv",
-   "source": "collider.com",
-   "url": "https://collider.com/law-and-order-svu-600th-episode-benson-stabler-reunion/",
-   "published": "2026-11-05T16:15:55+00:00"
-  },
-  {
-   "id": "a6bbc9cbec94",
-   "section": "cinema",
-   "title": "Jason Bourne: Matt Damon entusiasta del nuovo copione, secondo Joe Barton",
-   "summary": "Lo sceneggiatore Joe Barton ha dichiarato che Matt Damon si è mostrato entusiasta dell'ultima versione della sceneggiatura del nuovo capitolo della saga di Jason Bourne. Il progetto si avvicina così a una realizzazione concreta.",
-   "body": "Lo sceneggiatore Joe Barton ha riferito che Matt Damon ha accolto con entusiasmo l'ultimo copione del nuovo capitolo di Jason Bourne, il film molto atteso che porterebbe avanti la saga di spionaggio iniziata nel 2002 con The Bourne Identity. Secondo quanto riportato da JoBlo, le parole di Barton fanno pensare che il progetto stia facendo passi avanti verso la produzione.\n\nBarton è tornato a scrivere per la saga dopo il lavoro sul precedente capitolo, e la reazione dell'attore protagonista è considerata un segnale positivo per il seguito. Al momento non sono stati comunicati una data di inizio riprese o di uscita in sala.",
-   "slug": "jason-bourne-matt-damon-entusiasta-del-nuovo-copione-secondo-a6bbc9",
-   "tags": [
-    "Jason Bourne",
-    "Matt Damon",
-    "Joe Barton"
-   ],
-   "scene": "ciak",
-   "source": "joblo.com",
-   "url": "https://www.joblo.com/bourne-script-update/",
-   "published": "2026-11-05T16:11:00+00:00"
-  },
-  {
-   "id": "bb3968bc2c6c",
-   "section": "cinema",
-   "title": "Mostra Diamanti a Ferrara, cinquantamila visitatori in cinquanta giorni",
-   "summary": "La mostra \"Da Monet a Van Gogh a Kandinsky\" di Ferrara ha superato i cinquantamila visitatori in cinquanta giorni di apertura. L'esposizione resta visitabile fino al 10 gennaio.",
-   "body": "Ha superato quota cinquantamila spettatori la mostra \"Da Monet a Van Gogh a Kandinsky\" allestita a Ferrara nel Palazzo dei Diamanti. Il dato, riportato da ANSA, riguarda i primi cinquanta giorni di apertura e indica un afflusso significativo per un'esposizione dedicata alle avanguardie dell'arte moderna.\n\nL'evento è visitabile fino al 10 gennaio. Il successo di pubblico conferma l'interesse per le grandi rassegne d'arte nelle città d'arte italiane, con il Palazzo dei Diamanti che torna al centro dell'attenzione culturale nazionale.",
-   "slug": "mostra-diamanti-a-ferrara-cinquantamila-visitatori-in-cinqua-bb3968",
-   "tags": [
-    "Palazzo dei Diamanti",
-    "Claude Monet",
-    "Vincent van Gogh"
-   ],
-   "scene": "tappeto",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/05/cinquantamila-spettatori-in-50-giorni-alla-mostra-dei-diamanti-a-ferrara_2ba22c41-80ba-40f6-8eee-70e242d6c0c3.html",
-   "published": "2026-11-05T16:06:53+00:00"
   }
  ],
  "seen": [
@@ -11443,7 +11441,24 @@
   "cea005707ae6",
   "15c5610bb196",
   "9e34c0ca17ea",
-  "9f43ccc4f1c2"
+  "9f43ccc4f1c2",
+  "0c6ce9079f57",
+  "21eba5d2ad4c",
+  "f090a28d914b",
+  "b29df860d3bc",
+  "46ac54987e81",
+  "bb6fa0f766ad",
+  "d978d7fcffbe",
+  "415c0c27f523",
+  "4966093fd498",
+  "8c69aeb415ee",
+  "b6b2fb087eef",
+  "b5380484e27a",
+  "78337e45c762",
+  "82d426ebdb61",
+  "4fee21c7a5ab",
+  "3bde02bf63cc",
+  "e5e7cff6d659"
  ],
  "version": 4,
  "digests": []
