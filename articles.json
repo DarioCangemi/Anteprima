@@ -1,6 +1,73 @@
 {
  "articles": [
   {
+   "id": "fda494083ce1",
+   "section": "cinema",
+   "title": "The Mosquito Bowl: il cast con Nicholas Galitzine e Bill Skarsgård",
+   "summary": "Il film The Mosquito Bowl, dedicato alla storia vera di campioni di football universitario diventati soldati, porta sullo schermo quattro attori. Tra loro figurano Nicholas Galitzine e Bill Skarsgård.",
+   "body": "Il progetto The Mosquito Bowl racconta la storia vera di alcune stelle del football universitario americano che, arruolatesi come soldati, si trovano a vivere un'esperienza completamente diversa da quella sportiva. Secondo HollywoodLife, il film sarà interpretato da quattro attori, tra cui Nicholas Galitzine e Bill Skarsgård.\n\nLa fonte presenta il cast con una panoramica dei protagonisti, mettendo in evidenza i nomi principali della produzione. Al momento il materiale disponibile non indica una data di uscita né altri dettagli su regia o distribuzione.",
+   "slug": "the-mosquito-bowl-il-cast-con-nicholas-galitzine-e-bill-skar-fda494",
+   "tags": [
+    "The Mosquito Bowl",
+    "Nicholas Galitzine",
+    "Bill Skarsgård"
+   ],
+   "scene": "ciak",
+   "source": "hollywoodlife.com",
+   "url": "https://hollywoodlife.com/feature/the-mosquito-bowl-cast-5579247/",
+   "published": "2026-11-08T20:54:04+00:00"
+  },
+  {
+   "id": "7bd8300a3f0f",
+   "section": "cinema",
+   "title": "Ben Affleck e l'uso dell'AI in Animals: critiche agli effetti visivi",
+   "summary": "Ben Affleck ha paragonato l'uso dell'intelligenza artificiale a un trucco di magia, ma gli spettatori di Animals hanno notato difetti evidenti negli effetti visivi. La questione riapre il dibattito sull'AI nel cinema hollywoodiano.",
+   "body": "Ben Affleck ha difeso il ricorso all'intelligenza artificiale nel suo film Animals paragonandolo a un trucco di magia, cioè a un espediente che il pubblico non dovrebbe notare. Secondo JoBlo, però, molti spettatori hanno individuato con facilità imperfezioni visive evidenti, proprio nelle scene in cui gli effetti generati dall'AI dovevano risultare invisibili.\n\nIl caso diventa così un esempio concreto dei rischi legati alle scorciatoie tecnologiche a Hollywood. La discussione sull'uso dell'AI nella produzione cinematografica resta aperta, e la reazione del pubblico mostra quanto sia difficile nascondere i limiti di queste tecniche quando l'attenzione degli spettatori è alta.",
+   "slug": "ben-affleck-e-l-uso-dell-ai-in-animals-critiche-agli-effetti-7bd830",
+   "tags": [
+    "Ben Affleck",
+    "Animals"
+   ],
+   "scene": "pellicola",
+   "source": "joblo.com",
+   "url": "https://www.joblo.com/ben-affleck-ai-animals/",
+   "published": "2026-11-08T20:47:30+00:00"
+  },
+  {
+   "id": "9d4a3fac4496",
+   "section": "tv",
+   "title": "The Essex Serpent, la miniserie Apple TV con Tom Hiddleston",
+   "summary": "La miniserie Apple TV The Essex Serpent, con Tom Hiddleston, viene descritta come un dramma in costume avvincente, ricco di colpi di scena e suspense. Secondo Collider, la serie migliora episodio dopo episodio.",
+   "body": "La miniserie The Essex Serpent, prodotta per Apple TV, ha come protagonista Tom Hiddleston. Secondo Collider, il dramma in costume è coinvolgente e pieno di suspense, con una serie di colpi di scena che tengono alta l'attenzione dello spettatore.\n\nIl recensore sostiene che la serie migliori man mano che procede, fino a risultare quasi impeccabile. Il materiale disponibile non specifica altri dettagli su trama, cast o date di uscita.",
+   "slug": "the-essex-serpent-la-miniserie-apple-tv-con-tom-hiddleston-9d4a3f",
+   "tags": [
+    "The Essex Serpent",
+    "Tom Hiddleston",
+    "Apple TV"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/the-essex-serpent-apple-tv-drama-miniseries/",
+   "published": "2026-11-08T20:41:12+00:00"
+  },
+  {
+   "id": "9b89cd361256",
+   "section": "cinema",
+   "title": "\"Like any other mortal\" di María Molina Peiró vince al Festival dei Popoli 2026",
+   "summary": "Il documentario \"Like any other mortal\" di María Molina Peiró (Spagna, Paesi Bassi, 2026) si è aggiudicato il Concorso Internazionale della 67esima edizione del Festival dei Popoli. Il film intreccia documentario, fantascienza e misticismo in un viaggio dal Rio Tinto andaluso, sul tema del colonialismo e dello sfruttamento.",
+   "body": "Il documentario \"Like any other mortal\", diretto da María Molina Peiró e coprodotto da Spagna e Paesi Bassi, ha vinto il Concorso Internazionale della 67esima edizione del Festival dei Popoli. L'opera riflette su colonialismo e sfruttamento e mescola linguaggi diversi, dal documentario alla fantascienza fino al misticismo, partendo dal Rio Tinto, in Andalusia.\n\nNella stessa rassegna è stato segnalato anche \"Quando è pronto, il fieno canta\", film italiano del 2026 firmato da Letizia Buoso. Secondo RB Casting, la notizia del premio è stata diffusa con questi dettagli sulla selezione, che conferma il peso della manifestazione fiorentina nel panorama del documentario internazionale.",
+   "slug": "like-any-other-mortal-di-maria-molina-peiro-vince-al-festiva-9b89cd",
+   "tags": [
+    "Festival dei Popoli",
+    "María Molina Peiró",
+    "Like any other mortal"
+   ],
+   "scene": "premiere",
+   "source": "RB Casting",
+   "url": "https://www.rbcasting.com/eventi/2026/11/08/like-any-other-mortal-di-maria-molina-peiro-vince-il-concorso-internazionale-del-festival-dei-popoli-2026/",
+   "published": "2026-11-08T20:35:08+00:00"
+  },
+  {
    "id": "0e69c1c3e732",
    "section": "cinema",
    "title": "Guarding Stars, Leighton Meester e Jared Padalecki nel film Netflix",
@@ -8283,74 +8350,6 @@
    "source": "collider.com",
    "url": "https://collider.com/god-of-war-dave-bautista-kratos-transformation/",
    "published": "2026-11-06T10:15:12+00:00"
-  },
-  {
-   "id": "02c85c6e5b53",
-   "section": "tv",
-   "title": "Studio N e il valore dei webcomic: l'intervista a Mikyung Kwon",
-   "summary": "La CEO di Studio N, Mikyung (Michelle) Kwon, parla in un'intervista a Deadline del valore dei webcomic come proprietà intellettuali e del rischio nel puntare sul fantasy coreano The Remarried Empress. Lo studio coreano è dietro Bloodhounds, di successo su Netflix, e My Daughter is a Zombie.",
-   "body": "Studio N è la casa di produzione coreana che sta attirando l'attenzione dell'industria internazionale. Secondo Deadline, la sua CEO Mikyung (Michelle) Kwon è stata intervistata nella rubrica International Disruptors, dedicata ai dirigenti e alle aziende fuori dagli Stati Uniti che stanno cambiando il mercato globale. Lo studio è legato a Bloodhounds, serie di successo su Netflix, e al blockbuster coreano My Daughter is a Zombie, uscito l'anno scorso.\n\nNell'intervista si parla del valore dei webcomic come materiale di partenza per film e serie e della scelta di investire su progetti rischiosi, come l'epic fantasy coreano The Remarried Empress, tratto da un webcomic e lanciato di recente. Il materiale disponibile è una breve anteprima, quindi per i dettagli completi della conversazione rimandiamo all'intervista originale.",
-   "slug": "studio-n-e-il-valore-dei-webcomic-l-intervista-a-mikyung-kwo-02c85c",
-   "tags": [
-    "Studio N",
-    "Mikyung Kwon",
-    "The Remarried Empress"
-   ],
-   "scene": "streaming",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/studio-n-mikyung-kwon-webtoon-the-remarried-empress-1237212460/",
-   "published": "2026-11-06T10:13:54+00:00"
-  },
-  {
-   "id": "5dda457fbc75",
-   "section": "tv",
-   "title": "Smallville poteva avere spin-off dedicati ad Aquaman e Wonder Woman",
-   "summary": "I creatori di Smallville, Al Gough e Miles Millar, hanno raccontato i progetti di spin-off mai realizzati, dedicati ad Aquaman e Wonder Woman. Le rivelazioni arrivano nel 25° anniversario della serie con Tom Welling.",
-   "body": "Smallville avrebbe potuto anticipare di anni il modello dell'Arrowverse, costruendo un vero universo televisivo DC con serie dedicate ad altri personaggi del fumetto. Secondo quanto riportato da Cinefilos, i creatori Al Gough e Miles Millar hanno raccontato alcuni dei progetti che avrebbero voluto sviluppare dopo il successo della serie.\n\nNell'occasione del 25° anniversario dello show con Tom Welling, i due autori hanno parlato di spin-off su Aquaman e Wonder Woman, mai arrivati sugli schermi. Le dichiarazioni offrono uno sguardo su un possibile universo DC televisivo ideato molto prima di quelli che poi sono effettivamente nati.",
-   "slug": "smallville-poteva-avere-spin-off-dedicati-ad-aquaman-e-wonde-5dda45",
-   "tags": [
-    "Smallville",
-    "Tom Welling",
-    "Al Gough"
-   ],
-   "scene": "tv",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/serie-tv/news/smallville-poteva-diventare-un-universo-dc-condiviso-i-creatori-rivelano-gli-spin-off-mai-realizzati-con-aquaman-e-wonder-woman-729701",
-   "published": "2026-11-06T10:13:16+00:00"
-  },
-  {
-   "id": "52c6f0464721",
-   "section": "cinema",
-   "title": "Operation Pacific, il film di John Wayne del 1951 torna in testa su Tubi",
-   "summary": "Il dramma bellico di John Wayne Operation Pacific, uscito nel 1951, sta registrando un buon successo sulla piattaforma di streaming gratuita Tubi. La pellicola racconta una storia di sottomarini durante la Seconda guerra mondiale.",
-   "body": "Operation Pacific, il thriller sui sottomarini interpretato da John Wayne e uscito nel 1951, è diventato un titolo di successo sulla piattaforma di streaming Tubi. Secondo Collider, il film, che si colloca tra le opere belliche dell'attore, sta attirando un pubblico numeroso a più di settant'anni dall'uscita.\n\nLa pellicola è ambientata durante la Seconda guerra mondiale e segue l'equipaggio di un sommergibile nel Pacifico. Pur nella ricca filmografia di Wayne sul tema, la fonte la considera tra le migliori del genere. Il ritorno in streaming conferma l'interesse del pubblico per i classici di guerra hollywoodiani.",
-   "slug": "operation-pacific-il-film-di-john-wayne-del-1951-torna-in-te-52c6f0",
-   "tags": [
-    "John Wayne",
-    "Operation Pacific",
-    "Tubi"
-   ],
-   "scene": "streaming",
-   "source": "collider.com",
-   "url": "https://collider.com/john-wayne-operation-pacific-streaming-hit-tubi-november-2026/",
-   "published": "2026-11-06T10:12:12+00:00"
-  },
-  {
-   "id": "6b9e649458fb",
-   "section": "cinema",
-   "title": "L'essere amato, Bardem e Luengo nel nuovo film di Sorogoyen",
-   "summary": "Javier Bardem e Victoria Luengo sono protagonisti di L'essere amato, nuovo film di Rodrigo Sorogoyen. La storia racconta il rapporto difficile tra un padre e una figlia sullo sfondo di un set cinematografico.",
-   "body": "Il nuovo film di Rodrigo Sorogoyen, L'essere amato, vede Javier Bardem e Victoria Luengo nei ruoli principali. Al centro della storia c'è un rapporto complicato tra padre e figlia, che si svolge all'interno di un set cinematografico, luogo che fa da cornice a un legame segnato da tensioni e distanze.\n\nSecondo Movieplayer, la recensione giudica il lavoro dei due interpreti particolarmente intenso e il film segna un ritorno importante per il regista spagnolo. La pellicola si inserisce nel percorso di Sorogoyen, autore noto al pubblico internazionale per titoli di forte impatto emotivo.",
-   "slug": "l-essere-amato-bardem-e-luengo-nel-nuovo-film-di-sorogoyen-6b9e64",
-   "tags": [
-    "Javier Bardem",
-    "Victoria Luengo",
-    "Rodrigo Sorogoyen"
-   ],
-   "scene": "ciak",
-   "source": "Movieplayer",
-   "url": "https://movieplayer.it/articoli/l-essere-amato-recensione-film_38172/",
-   "published": "2026-11-06T10:10:00+00:00"
   }
  ],
  "seen": [
@@ -11939,7 +11938,25 @@
   "009dc15477f3",
   "830c6b28cfd5",
   "14e793ddbe6b",
-  "2be9dfb485c2"
+  "2be9dfb485c2",
+  "99d2ea8204bc",
+  "9bc4e72445fe",
+  "9420b892dd30",
+  "faee0d1c50c4",
+  "af3c4f72a983",
+  "b5982017bac8",
+  "699fb29627c2",
+  "7132a89cae3e",
+  "37278aaf9a36",
+  "770fc9662ed2",
+  "9b89cd361256",
+  "fda494083ce1",
+  "da52d4fc7f9d",
+  "628cff3161a7",
+  "7bd8300a3f0f",
+  "5edc2ef639fc",
+  "cb57d87e9665",
+  "9d4a3fac4496"
  ],
  "version": 4,
  "digests": [
