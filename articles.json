@@ -1,6 +1,139 @@
 {
  "articles": [
   {
+   "id": "c8f2ba59618c",
+   "section": "cinema",
+   "title": "James Bond con Daniel Craig: la classifica dei film dal peggiore al migliore",
+   "summary": "Collider ha stilato una classifica di tutti i film di James Bond interpretati da Daniel Craig, da Casino Royale a No Time to Die. Il lavoro ordina i titoli dal meno riuscito al più apprezzato.",
+   "body": "Il sito americano Collider ha pubblicato una classifica di tutti i film della saga di James Bond interpretati da Daniel Craig, ordinati dal peggiore al migliore. Nell'elenco compaiono i cinque titoli dell'attore britannico, dal debutto di Casino Royale fino a No Time to Die, passando per Skyfall e Spectre.\n\nSecondo Collider, la graduatoria offre un bilancio complessivo di una delle fasi più discusse del personaggio creato da Ian Fleming. La redazione ha valutato i film uno per uno, motivando le posizioni in base a regia, trama e interpretazione. Per chi vuole rivedere la saga o confrontare i pareri, l'articolo rappresenta un punto di partenza utile.",
+   "slug": "james-bond-con-daniel-craig-la-classifica-dei-film-dal-peggi-c8f2ba",
+   "tags": [
+    "Daniel Craig",
+    "James Bond",
+    "Casino Royale"
+   ],
+   "scene": "pellicola",
+   "source": "collider.com",
+   "url": "https://collider.com/daniel-craig-james-bond-movies-ranked-officially/",
+   "published": "2026-11-08T13:19:12+00:00"
+  },
+  {
+   "id": "486720b90f49",
+   "section": "cinema",
+   "title": "Enzo D'Alò riceve l'Ulivo d'Oro alla carriera a Lecce",
+   "summary": "Il regista di animazione Enzo D'Alò riceverà l'Ulivo d'Oro alla carriera al Festival del Cinema Europeo di Lecce. Nell'occasione ha espresso la sua opinione sulle politiche per i giovani, sostenendo che la cultura sia più utile delle carceri.",
+   "body": "Il regista di animazione Enzo D'Alò sarà premiato con l'Ulivo d'Oro alla carriera nell'ambito del Festival del Cinema Europeo di Lecce. Il riconoscimento arriva a un autore noto al pubblico italiano per i suoi film d'animazione, tra cui La gabbianella e il gatto.\n\nSecondo ANSA, D'Alò ha colto l'occasione per affrontare il tema dei giovani e del disagio sociale. Ha dichiarato che, invece di costruire nuove carceri, sarebbe più sensato investire in cultura per le nuove generazioni. Una posizione che l'autore ha espresso in prima persona, legando il proprio lavoro artistico al valore educativo del cinema.",
+   "slug": "enzo-d-alo-riceve-l-ulivo-d-oro-alla-carriera-a-lecce-486720",
+   "tags": [
+    "Enzo D'Alò",
+    "Festival del Cinema Europeo di Lecce",
+    "La gabbianella e il gatto"
+   ],
+   "scene": "premiere",
+   "source": "ANSA Cinema",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/08/enzo-dalo-anziche-fare-carceri-avrebbe-piu-senso-fare-cultura_2c75f1a2-f21e-4f73-a1e3-4d07b7bcbbd7.html",
+   "published": "2026-11-08T13:16:55+00:00"
+  },
+  {
+   "id": "f4251fb2aa78",
+   "section": "gossip",
+   "title": "Alessia Marcuzzi e la sua casa romana al Flaminio",
+   "summary": "La conduttrice Alessia Marcuzzi ha una casa a Roma, nel quartiere Flaminio, con ampi spazi in stile minimal e design ricercato. Gli interni e gli affacci sono stati presentati da TVBlog.",
+   "body": "Secondo TVBlog, l'abitazione romana di Alessia Marcuzzi si trova nel quartiere Flaminio e si distingue per ampi spazi arredati con un gusto minimal e un design essenziale. La casa offre anche affacci sul quartiere, elemento che il sito sottolinea tra i tratti principali dell'immobile.\n\nIl servizio mostra dunque uno scorcio degli interni della residenza della conduttrice, che non ha commentato direttamente la pubblicazione. Le informazioni disponibili si fermano alla descrizione dello stile e della zona, senza ulteriori dettagli sugli arredi o sugli spazi specifici.",
+   "slug": "alessia-marcuzzi-e-la-sua-casa-romana-al-flaminio-f4251f",
+   "tags": [
+    "Alessia Marcuzzi"
+   ],
+   "scene": "flash",
+   "source": "tvblog.it",
+   "url": "https://www.tvblog.it/post/casa-romana-alessia-marcuzzi",
+   "published": "2026-11-08T13:15:58+00:00"
+  },
+  {
+   "id": "8ef6793ce6ba",
+   "section": "tv",
+   "title": "Il Capo Perfetto, Luca Zingaretti protagonista della nuova serie su Netflix",
+   "summary": "Il Capo Perfetto è una nuova serie in sei episodi con Luca Zingaretti, in arrivo su Netflix il 2 dicembre. Prodotta da Cattleya, parte di ITV Studios, è un dramedy che racconta un imprenditore amato dai suoi dipendenti.",
+   "body": "Netflix porterà sulla piattaforma dal 2 dicembre Il Capo Perfetto, una serie tv in sei episodi con Luca Zingaretti come protagonista. Il progetto è prodotto da Cattleya, società del gruppo ITV Studios, e si presenta come un dramedy, cioè un racconto che alterna toni comici e drammatici.\n\nZingaretti interpreta un imprenditore che i propri dipendenti considerano un leader esemplare e molto stimato. Secondo SuperGuidaTV, la storia prende una piega inattesa quando questa immagine positiva comincia a incrinarsi. La serie è disponibile in esclusiva su Netflix, come confermato dalla fonte.",
+   "slug": "il-capo-perfetto-luca-zingaretti-protagonista-della-nuova-se-8ef679",
+   "tags": [
+    "Il Capo Perfetto",
+    "Luca Zingaretti",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "superguidatv.it",
+   "url": "https://www.superguidatv.it/il-capo-perfetto-ecco-le-info-sulla-nuova-serie-con-luca-zingaretti/",
+   "published": "2026-11-08T13:06:23+00:00"
+  },
+  {
+   "id": "8bd6c02813d8",
+   "section": "tv",
+   "title": "James Talarico compare a sorpresa nel Saturday Night Live",
+   "summary": "Il candidato democratico James Talarico è apparso come ospite nel Saturday Night Live, dopo la sua vittoria nelle primarie per il Senato in Texas. La notizia è riportata da TMZ.",
+   "body": "James Talarico, esponente democratico che si è aggiudicato la corsa per il Senato in Texas, ha fatto una breve apparizione nel Saturday Night Live, il celebre sketch show della NBC. Secondo TMZ, il politico ha recitato in una scena della trasmissione, in un cameo arrivato pochi giorni dopo il risultato elettorale.\n\nLa notizia è interessante anche per il riferimento al presidente Donald Trump, che in passato ha preso di mira Talarico con il soprannome \"Talafreako\". Il materiale disponibile non specifica il ruolo esatto interpretato dal politico nello sketch né i dettagli della scena, quindi non è possibile andare oltre quanto riportato dalla fonte.",
+   "slug": "james-talarico-compare-a-sorpresa-nel-saturday-night-live-8bd6c0",
+   "tags": [
+    "James Talarico",
+    "Saturday Night Live"
+   ],
+   "scene": "premiere",
+   "source": "tmz.com",
+   "url": "https://www.tmz.com/2026/11/08/james-talarico-snl-appearance/",
+   "published": "2026-11-08T13:00:33+00:00"
+  },
+  {
+   "id": "39aa82f4ca19",
+   "section": "tv",
+   "title": "Love Island Italia arriva su Prime Video con Giulia De Lellis",
+   "summary": "Prime Video annuncia Love Island Italia, reality sentimentale con dieci concorrenti chiusi in una villa. A condurlo sarà Giulia De Lellis, al centro di una formula già nota al pubblico internazionale.",
+   "body": "Prime Video porta in Italia Love Island Italia, il reality che segue un gruppo di concorrenti costretti a vivere insieme in una villa, alla ricerca di legami sentimentali. Secondo BadTaste, i protagonisti sono dieci sconosciuti che dovranno affrontare strategie e alleanze per restare nel gioco, mentre il programma punta a mostrare le dinamiche della convivenza giorno dopo giorno.\n\nAlla conduzione c'è Giulia De Lellis, volto noto della televisione e dei social. Il formato, già diffuso in altri paesi, arriva dunque sulla piattaforma di streaming di Amazon con l'ambizione di intercettare il pubblico che segue i reality sentimentali. Al momento non sono disponibili ulteriori dettagli su date di messa in onda e regolamento.",
+   "slug": "love-island-italia-arriva-su-prime-video-con-giulia-de-lelli-39aa82",
+   "tags": [
+    "Love Island Italia",
+    "Giulia De Lellis",
+    "Prime Video"
+   ],
+   "scene": "streaming",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/10-sconosciuti-chiusi-in-villa-per-amore-su-prime-video-approda-il-reality-italiano-con-giulia-de-lellis",
+   "published": "2026-11-08T13:00:08+00:00"
+  },
+  {
+   "id": "7dd22b532441",
+   "section": "cinema",
+   "title": "The Gallerist: primo trailer per la commedia con Natalie Portman e Jenna Ortega",
+   "summary": "È stato diffuso il primo trailer di The Gallerist, commedia con Natalie Portman e Jenna Ortega. La notizia arriva mentre per Ortega la carriera attraversa un momento difficile, dopo l'uscita dalla saga Scream.",
+   "body": "Il film The Gallerist, commedia con Natalie Portman e Jenna Ortega tra i protagonisti, ha mostrato il suo primo trailer. Il materiale promozionale anticipa il tono brillante del progetto e il rapporto tra le due attrici al centro della storia.\n\nSecondo ecranlarge, il lancio arriva in un periodo complicato per Jenna Ortega. L'attrice ha lasciato la saga di Scream, di cui era diventata una delle nuove protagoniste, e nei mesi successivi ha affrontato alcuni risultati deludenti, tra cui l'insuccesso di Hurry Up Tomorrow. Il trailer di The Gallerist è quindi osservato con attenzione come nuovo banco di prova per lei.",
+   "slug": "the-gallerist-primo-trailer-per-la-commedia-con-natalie-port-7dd22b",
+   "tags": [
+    "The Gallerist",
+    "Natalie Portman",
+    "Jenna Ortega"
+   ],
+   "scene": "pellicola",
+   "source": "ecranlarge.com",
+   "url": "https://www.ecranlarge.com/films/news/the-gallerist-bande-annonce-natalie-portman-jenna-ortega",
+   "published": "2026-11-08T13:00:00+00:00"
+  },
+  {
+   "id": "ef65ff8f8630",
+   "section": "cinema",
+   "title": "Blade Runner torna a Roma in cine-concerto con la musica dal vivo",
+   "summary": "Il cult di Ridley Scott torna sul grande schermo nella versione Final Cut, accompagnato dall'esecuzione dal vivo della colonna sonora di Vangelis. L'appuntamento è domenica 8 novembre a Roma, con The Avex Ensemble.",
+   "body": "Il film cult di Ridley Scott torna al cinema nella versione Final Cut, questa volta con la colonna sonora elettronica di Vangelis eseguita dal vivo. Lo spettacolo, in formula di cine-concerto, porta sul palco The Avex Ensemble e unisce la proiezione del film alla musica suonata in tempo reale.\n\nL'evento è in programma domenica 8 novembre a Roma. Secondo Movieplayer, si tratta di un'occasione per rivedere il film sul grande schermo accompagnati da una delle partiture più riconoscibili della fantascienza al cinema, con la resa dal vivo che ne esalta l'atmosfera sonora.",
+   "slug": "blade-runner-torna-a-roma-in-cine-concerto-con-la-musica-dal-ef65ff",
+   "tags": [
+    "Blade Runner",
+    "Ridley Scott",
+    "Vangelis"
+   ],
+   "scene": "palco",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/news/blade-runner-cinema-musica-vangelis-dal-vivo-oggi-roma_171872/",
+   "published": "2026-11-08T12:27:34+00:00"
+  },
+  {
    "id": "cae8fcac54aa",
    "section": "tv",
    "title": "MasterChef Italia 2026 torna su Sky e Now dal 10 dicembre",
@@ -8208,136 +8341,6 @@
    "source": "collider.com",
    "url": "https://collider.com/high-potential-season-3-2027-return-super-bowl-abc/",
    "published": "2026-11-06T02:59:25+00:00"
-  },
-  {
-   "id": "85b95d3df8f4",
-   "section": "gossip",
-   "title": "Morgan Fairchild apre un profilo su OnlyFans",
-   "summary": "L'attrice Morgan Fairchild, 76 anni, ha annunciato l'apertura di un profilo su OnlyFans per condividere più contenuti con i sostenitori di lunga data. Diventata popolare negli anni Ottanta con la serie Falcon Crest.",
-   "body": "L'attrice statunitense Morgan Fairchild, 76 anni, ha deciso di aprire un profilo su OnlyFans, la piattaforma di abbonamento che ospita contenuti su iscrizione. Secondo quanto riportato da Page Six, l'obiettivo dichiarato è condividere di più con i fan che la seguono da molti anni.\n\nFairchild è nota al grande pubblico soprattutto per il ruolo nella serie televisiva Falcon Crest, che ha interpretato negli anni Ottanta. La sua carriera è proseguita con numerose apparizioni in film e programmi televisivi. La notizia della sua presenza sulla piattaforma arriva in un periodo in cui molti volti storici della televisione americana scelgono canali diretti per rapportarsi con il proprio pubblico.",
-   "slug": "morgan-fairchild-apre-un-profilo-su-onlyfans-85b95d",
-   "tags": [
-    "Morgan Fairchild",
-    "Falcon Crest",
-    "OnlyFans"
-   ],
-   "scene": "streaming",
-   "source": "pagesix.com",
-   "url": "https://pagesix.com/2026/11/05/celebrity-news/morgan-fairchild-76-joins-onlyfans/",
-   "published": "2026-11-06T02:53:50+00:00"
-  },
-  {
-   "id": "df6ce4390dad",
-   "section": "tv",
-   "title": "Haunted Hotel rinnovata per una terza stagione su Netflix",
-   "summary": "Netflix ha ufficialmente confermato il rinnovo di Haunted Hotel per la terza stagione. La decisione interrompe una serie di cancellazioni che negli ultimi anni hanno colpito molti titoli della piattaforma.",
-   "body": "Netflix ha ufficialmente rinnovato Haunted Hotel per una terza stagione, secondo quanto riportato da Collider. Il annuncio arriva in un momento in cui la piattaforma ha cancellato numerose serie dopo poche stagioni, rendendo il rinnovo un risultato significativo per il titolo.\n\nLa notizia viene letta come un'eccezione a una tendenza che ha penalizzato molte produzioni originali del servizio. Al momento il materiale disponibile non fornisce dettagli su data di uscita, cast o trama della nuova stagione.",
-   "slug": "haunted-hotel-rinnovata-per-una-terza-stagione-su-netflix-df6ce4",
-   "tags": [
-    "Haunted Hotel",
-    "Netflix"
-   ],
-   "scene": "streaming",
-   "source": "collider.com",
-   "url": "https://collider.com/haunted-hotel-season-3-renewed-netflix-streaming-curse/",
-   "published": "2026-11-06T02:36:12+00:00"
-  },
-  {
-   "id": "bf7eb557c83f",
-   "section": "gossip",
-   "title": "Stallone ripensa alla rivalità con Schwarzenegger: \"La sfida era lanciata\"",
-   "summary": "Sylvester Stallone, 80 anni, ha ripensato al rapporto con Arnold Schwarzenegger, 79 anni, definendo \"molto controversa\" la loro rivalità. Ha spiegato che fin dall'inizio i due si sono percepiti come antagonisti.",
-   "body": "Sylvester Stallone, che ha compiuto 80 anni, è tornato a parlare del rapporto con Arnold Schwarzenegger, coetaneo di qualche anno più giovane, che ne ha 79. Secondo quanto riportato da Page Six, l'attore ha definito la loro rivalità \"molto controversa\" e ha raccontato che, fin dall'inizio, i due si sono sentiti antagonisti l'uno con l'altro. Nel ricordare quella fase, Stallone ha spiegato che la sfida era stata, in un certo senso, lanciata.\n\nLa rivalità tra i due protagonisti del cinema d'azione degli anni Ottanta e Novanta è da tempo un tema ricorrente nelle interviste. Stallone e Schwarzenegger hanno lavorato insieme e si sono confrontati sul piano professionale per decenni, alimentando un immaginario che ha segnato il genere. Le nuove dichiarazioni confermano che il legame tra le due star resta un capitolo ancora vivo nel racconto della loro carriera.",
-   "slug": "stallone-ripensa-alla-rivalita-con-schwarzenegger-la-sfida-e-bf7eb5",
-   "tags": [
-    "Sylvester Stallone",
-    "Arnold Schwarzenegger"
-   ],
-   "scene": "tappeto",
-   "source": "pagesix.com",
-   "url": "https://pagesix.com/2026/11/05/celebrity-news/sylvester-stallone-reflects-on-very-contentious-arnold-schwarzenegger-feud/",
-   "published": "2026-11-06T02:36:04+00:00"
-  },
-  {
-   "id": "bed056cba931",
-   "section": "gossip",
-   "title": "Julia Stiles e Ezra Sosa, tatuaggi uguali dopo Ballando con le stelle",
-   "summary": "Julia Stiles ed Ezra Sosa hanno celebrato la fine della loro avventura a Dancing with the Stars con due tatuaggi identici. L'attrice di Save the Last Dance ha condiviso il ricordo dopo l'ultima esibizione in pista.",
-   "body": "Julia Stiles e il ballerino Ezra Sosa hanno suggellato con un tatuaggio uguale per entrambi la conclusione del loro percorso nel programma americano Dancing with the Stars. Secondo quanto riportato da E! Online, il gesto è arrivato dopo l'ultima esibizione in pista, come ricordo condiviso di un'esperienza che entrambi hanno descritto come emotivamente intensa.\n\nLa coppia ha scelto di chiudere il viaggio insieme in modo simbolico, mostrando il segno comune ai propri follower. L'attrice, nota al pubblico italiano per Save the Last Dance, ha partecipato al talent di ballo accanto al suo partner durante la stagione.",
-   "slug": "julia-stiles-e-ezra-sosa-tatuaggi-uguali-dopo-ballando-con-l-bed056",
-   "tags": [
-    "Julia Stiles",
-    "Ezra Sosa",
-    "Dancing with the Stars"
-   ],
-   "scene": "tv",
-   "source": "eonline.com",
-   "url": "https://www.eonline.com/news/1437876/dwts-julia-stiles-ezra-sosa-get-matching-star-tattoos-after-elimination?cmpid=rss-syndicate-genericrss-us-top_stories",
-   "published": "2026-11-06T02:13:25+00:00"
-  },
-  {
-   "id": "cdeb631a83ad",
-   "section": "tv",
-   "title": "The Traitors: New Blood, un banchetto porta a un omicidio con veleno",
-   "summary": "Nell'ultimo episodio di The Traitors: New Blood, un banchetto ha esposto i concorrenti rimasti e un giocatore è stato avvelenato e eliminato dai traditori. Nello stesso episodio una sfida in una casa infestata ha aggiunto denaro al montepremi da 250.000 dollari.",
-   "body": "Nel nuovo episodio di The Traitors: New Blood, i ventidue concorrenti, tutti alle prime esperienze nei reality, si contendono un montepremi da 250.000 dollari. Durante un banchetto, i giocatori rimasti hanno abbassato la guardia e uno di loro è stato avvelenato, uscendo così dal gioco in seguito a un omicidio.\n\nSecondo tvinsider, anche una sfida ambientata in una casa infestata ha contribuito ad aumentare il montepremi. Il racconto della serata sottolinea come, nel programma, i concorrenti siano disposti a tutto pur di vincere, compreso eliminare gli avversari.",
-   "slug": "the-traitors-new-blood-un-banchetto-porta-a-un-omicidio-con-cdeb63",
-   "tags": [
-    "The Traitors: New Blood"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1291644/the-traitors-new-blood-recap-murdered-banished/",
-   "published": "2026-11-06T02:00:36+00:00"
-  },
-  {
-   "id": "caa4aee7ac0d",
-   "section": "tv",
-   "title": "9-1-1: Buck si confida con Eddie su Theo, Maddie riflette sul futuro",
-   "summary": "Nel nuovo episodio di 9-1-1 il rapporto tra Buck, interpretato da Oliver Stark, ed Eddie, interpretato da Ryan Guzman, torna teso fin dalle prime scene. Intanto Maddie, interpretata da Jennifer Love Hewitt, inizia a interrogarsi sul proprio futuro.",
-   "body": "Nel nuovo episodio di 9-1-1 il rapporto tra Buck ed Eddie è di nuovo segnato dall'imbarazzo. La puntata si apre con i due migliori amici che si guardano con diffidenza, e secondo TV Insider Buck decide di aprirsi con Eddie proprio riguardo a Theo. Il pubblico si chiede se il suo punto di vista sia quello giusto, dato che la tensione tra i due personaggi è un filo conduttore della stagione.\n\nSul fronte personale, Maddie inizia a mettersi in discussione e a interrogarsi su cosa vuole fare del proprio futuro. Il materiale disponibile non chiarisce ulteriormente la direzione del suo percorso, quindi per ora restano solo gli spunti dell'anteprima. I ruoli sono affidati a Oliver Stark, Ryan Guzman e Jennifer Love Hewitt.",
-   "slug": "9-1-1-buck-si-confida-con-eddie-su-theo-maddie-riflette-sul-caa4ae",
-   "tags": [
-    "9-1-1",
-    "Oliver Stark",
-    "Jennifer Love Hewitt"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1301941/911-season-10-episode-4-recap-buck-eddie-theo/",
-   "published": "2026-11-06T02:00:05+00:00"
-  },
-  {
-   "id": "113fcb2237db",
-   "section": "musica",
-   "title": "Olivia Rodrigo pubblica il nuovo singolo natalizio \"Take Me Home (4 Christmas)\"",
-   "summary": "Olivia Rodrigo ha pubblicato il singolo natalizio \"Take Me Home (4 Christmas)\", accompagnato da un videoclip ricco di stelle. La canzone è disponibile con il testo e il video ufficiale.",
-   "body": "Olivia Rodrigo ha lanciato il suo nuovo singolo a tema natalizio, intitolato \"Take Me Home (4 Christmas)\". Il brano arriva con un videoclip ufficiale che, secondo quanto riportato da Just Jared, si distingue per un'ambientazione costellata di stelle.\n\nLa notizia riguarda una nuova uscita della cantante statunitense, che si aggiunge al repertorio di brani delle festività. Il testo della canzone e il video sono stati resi disponibili online per il pubblico, che può ascoltarli e guardarli sulle piattaforme dedicate.",
-   "slug": "olivia-rodrigo-pubblica-il-nuovo-singolo-natalizio-take-me-h-113fcb",
-   "tags": [
-    "Olivia Rodrigo"
-   ],
-   "scene": "vinile",
-   "source": "justjared.com",
-   "url": "https://www.justjared.com/2026/11/05/take-me-home-4-christmas-lyrics-olivia-rodrigo-drops-new-song-with-starry-music-video-watch-now/",
-   "published": "2026-11-06T01:17:25+00:00"
-  },
-  {
-   "id": "f6f71e0e8c61",
-   "section": "gossip",
-   "title": "Michael J. Fox con il figlio Sam alla cerimonia di George Stephanopoulos e Robin Roberts",
-   "summary": "Michael J. Fox ha partecipato con il figlio Sam alla cerimonia sulla Walk of Fame di Hollywood dedicata ai conduttori di Good Morning America George Stephanopoulos e Robin Roberts. Un'apparizione pubblica insolita per il giovane, che somiglia molto al padre.",
-   "body": "Michael J. Fox era presente giovedì alla cerimonia con cui Hollywood ha celebrato George Stephanopoulos e Robin Roberts, conduttori di Good Morning America, con una stella sulla Walk of Fame. Accanto all'attore c'era il figlio Sam, che è apparso in pubblico al fianco del padre in un'occasione mondana affollata di volti noti.\n\nSecondo quanto riportato da Hello!, Sam è apparso raramente in eventi pubblici e la sua somiglianza con il padre è stata notata dai presenti. La fonte non riporta dichiarazioni dei protagonisti sull'evento.",
-   "slug": "michael-j-fox-con-il-figlio-sam-alla-cerimonia-di-george-ste-f6f71e",
-   "tags": [
-    "Michael J. Fox",
-    "George Stephanopoulos",
-    "Robin Roberts"
-   ],
-   "scene": "tappeto",
-   "source": "hellomagazine.com",
-   "url": "https://www.hellomagazine.com/us/933453/michael-j-fox-rarely-seen-lookalike-son-makes-surprise-appearance-at-star-studded-event/",
-   "published": "2026-11-06T01:15:52+00:00"
   }
  ],
  "seen": [
@@ -11706,7 +11709,31 @@
   "d512204933ae",
   "88bade5e826a",
   "b93bdfafb46c",
-  "d66e59c82b17"
+  "d66e59c82b17",
+  "c8f2ba59618c",
+  "f425a9f94203",
+  "1b5d5867acf0",
+  "486720b90f49",
+  "f4251fb2aa78",
+  "1746784d3f7a",
+  "5cb4f6d0a4d7",
+  "8ef6793ce6ba",
+  "06dd36568697",
+  "8bd6c02813d8",
+  "d35024771088",
+  "39aa82f4ca19",
+  "4aafa8acc37a",
+  "15c58c32bb0e",
+  "d2123d888b27",
+  "c3651274ed60",
+  "6bbad6ba5e4c",
+  "f94361cba400",
+  "e4fb550ff1e6",
+  "59c4a7df7714",
+  "7dd22b532441",
+  "fb64a65e8e11",
+  "79e26885038c",
+  "ef65ff8f8630"
  ],
  "version": 4,
  "digests": []
