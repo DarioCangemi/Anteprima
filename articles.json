@@ -1,6 +1,74 @@
 {
  "articles": [
   {
+   "id": "10d3bb6d156d",
+   "section": "cinema",
+   "title": "No Hard Feelings con Jennifer Lawrence arriva su Prime Video",
+   "summary": "La commedia vietata ai minori No Hard Feelings, con Jennifer Lawrence, è disponibile da ora su Prime Video. Il film aveva incassato circa 87 milioni di dollari al box office.",
+   "body": "La commedia No Hard Feelings, interpretata da Jennifer Lawrence, è ora disponibile in streaming su Prime Video. Il film, classificato R negli Stati Uniti, è approdato sulla piattaforma di Amazon dopo la sua uscita in sala.\n\nAl botteghino il titolo aveva raccolto circa 87 milioni di dollari, risultando uno dei successi della stagione per una commedia con classificazione per adulti. Secondo Collider, l'arrivo sul servizio di streaming porta il film a un pubblico più ampio, anche al di fuori dei cinema.",
+   "slug": "no-hard-feelings-con-jennifer-lawrence-arriva-su-prime-video-10d3bb",
+   "tags": [
+    "Jennifer Lawrence",
+    "No Hard Feelings",
+    "Prime Video"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/jennifer-lawrence-no-hard-feelings-streaming-prime-video-november-2026/",
+   "published": "2026-11-08T22:15:12+00:00"
+  },
+  {
+   "id": "e8dceb1eebaf",
+   "section": "tv",
+   "title": "Druski conduce SNL e apre il finale con un cast di star",
+   "summary": "Il comico Druski è diventato il primo creator digitale a condurre Saturday Night Live, programma NBC. Al saluto finale sul palco sono attesi ospiti come Emma Stone e Michael B. Jordan, secondo quanto riportato da Deadline.",
+   "body": "Il comico Druski è diventato il primo creator nato sul digitale a condurre Saturday Night Live, il storico programma comico della NBC. Per la puntata del sabato era prevista una partecipazione eccezionale di Hollywood, con la presenza di diverse star pronte ad assistere all'evento.\n\nSecondo Deadline, al momento dei saluti finali erano attesi sul palco la co-protagonista di Eddington Emma Stone e il senatore texano James Talarico, eletto di recente. Nel cast della serata figurano anche Michael B. Jordan e Austin Butler, insieme a nomi come Chappelle, The Rock e Goggins citati dalla testata.",
+   "slug": "druski-conduce-snl-e-apre-il-finale-con-un-cast-di-star-e8dceb",
+   "tags": [
+    "Druski",
+    "Saturday Night Live",
+    "Emma Stone"
+   ],
+   "scene": "palco",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/druski-snl-emma-stone-michael-b-jordan-austin-butler-1237216899/",
+   "published": "2026-11-08T22:00:41+00:00"
+  },
+  {
+   "id": "357f096801d6",
+   "section": "tv",
+   "title": "The Remarried Empress: Lee Jong Suk commenta il ruolo di Heinrey",
+   "summary": "L'attore Lee Jong Suk ha commentato le motivazioni del suo personaggio, il principe ereditario Heinrey, nella serie sudcoreana The Remarried Empress. Secondo quanto riportato, Heinrey si avvicina a Navier, interpretata da Shin Min-a, pur essendo rivale dell'imperatore Sovieshu.",
+   "body": "Nella prima stagione della serie sudcoreana The Remarried Empress, l'imperatrice Navier, interpretata da Shin Min-a, inizia a legarsi al principe ereditario Heinrey, portato sullo schermo da Lee Jong Suk. Il percorso dei due personaggi procede in parallelo alla storia dell'imperatore Sovieshu, interpretato da Ju Ji-hoon, che è coinvolto con la schiava fuggitiva Rashta, interpretata da Lee Se-young.\n\nSecondo quanto riportato da TV Insider, il rapporto tra Heinrey e Navier resta però poco chiaro, soprattutto perché il principe è il rivale dell'imperatore. Lo stesso Lee Jong Suk ha commentato il personaggio con una frase in cui suggerisce che Heinrey sia stato colpito dalla bellezza di lei, lasciando così aperta l'interpretazione delle sue intenzioni.",
+   "slug": "the-remarried-empress-lee-jong-suk-commenta-il-ruolo-di-hein-357f09",
+   "tags": [
+    "The Remarried Empress",
+    "Lee Jong Suk",
+    "Shin Min-a"
+   ],
+   "scene": "streaming",
+   "source": "tvinsider.com",
+   "url": "https://www.tvinsider.com/swooon/1311325/the-remarried-empress-prince-heinrey-love-navier-lee-jong-suk-interview/",
+   "published": "2026-11-08T22:00:22+00:00"
+  },
+  {
+   "id": "2aaee359d589",
+   "section": "cinema",
+   "title": "Insidious: Chapter 2 arriva su Netflix prima del nuovo capitolo",
+   "summary": "Il sequel horror Insidious: Chapter 2, con Patrick Wilson, sarà disponibile su Netflix in vista del prossimo capitolo della saga. Il film ha incassato circa 161 milioni di dollari al box office.",
+   "body": "Il secondo capitolo della saga horror Insidious, interpretato da Patrick Wilson, approderà su Netflix. La notizia arriva a pochi mesi dall'uscita del prossimo film della serie, a conferma del buon rendimento del franchise presso il pubblico.\n\nSecondo Collider, il film ha incassato circa 161 milioni di dollari nelle sale di tutto il mondo. Il passaggio sulla piattaforma di streaming permetterà ai fan di recuperare il capitolo prima dell'arrivo del nuovo episodio. Al momento non sono state comunicate date precise per la disponibilità sul catalogo italiano.",
+   "slug": "insidious-chapter-2-arriva-su-netflix-prima-del-nuovo-capito-2aaee3",
+   "tags": [
+    "Insidious: Chapter 2",
+    "Patrick Wilson",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/insidious-chapter-2-streaming-netflix-november-2026/",
+   "published": "2026-11-08T22:00:12+00:00"
+  },
+  {
    "id": "fda494083ce1",
    "section": "cinema",
    "title": "The Mosquito Bowl: il cast con Nicholas Galitzine e Bill Skarsgård",
@@ -8282,74 +8350,6 @@
    "source": "ANSA Cinema",
    "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/06/lee-chang-dong-racconto-loggi-e-i-rapporti-umani-cambiati-radicalmente_a8ead0d5-807b-4e81-80b4-686b387f4466.html",
    "published": "2026-11-06T10:55:41+00:00"
-  },
-  {
-   "id": "368f9172fbd8",
-   "section": "gossip",
-   "title": "Diaco sul caso Ravagnani: \"Non sono dispiaciuto, le domande erano innocue\"",
-   "summary": "Pino Diaco ha dichiarato a Le Iene di non essere dispiaciuto per la polemica sull'intervista a Francesco Ravagnani a BellaMa'. Ha spiegato di averlo convocato in camerino prima dell'intervista.",
-   "body": "Pino Diaco è intervenuto sul caso che ha coinvolto Francesco Ravagnani, l'ex sacerdote ospite dell'intervista a BellaMa'. Nel corso del programma Le Iene, Diaco ha dichiarato di non essere dispiaciuto per quanto accaduto e ha sostenuto che le domande rivolte all'ospite fossero innocue. Ha inoltre rivelato di aver incontrato Ravagnani in camerino prima della registrazione.\n\nLa polemica nasce dall'intervista e dalle reazioni che ne sono seguite. Secondo BadTaste, Diaco ha affrontato la questione davanti alle telecamere de Le Iene, senza mostrare rammarico per il clima creatosi attorno allo spazio televisivo. Il caso resta al centro del dibattito sul programma e sul modo in cui è stato condotto il colloquio con l'ex sacerdote.",
-   "slug": "diaco-sul-caso-ravagnani-non-sono-dispiaciuto-le-domande-era-368f91",
-   "tags": [
-    "Pino Diaco",
-    "Francesco Ravagnani",
-    "Le Iene"
-   ],
-   "scene": "microfono",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/le-iene-chiamano-diaco-sul-caso-ravagnani-non-sono-dispiaciuto-le-domande-erano-innocue",
-   "published": "2026-11-06T10:54:13+00:00"
-  },
-  {
-   "id": "8dd29de818f2",
-   "section": "cinema",
-   "title": "Les Misérables di Fred Cavayé con Vincent Lindon, adattamento fedele di Hugo",
-   "summary": "Il regista Fred Cavayé firma una nuova versione del romanzo di Victor Hugo Les Misérables, con Vincent Lindon protagonista. Il film è descritto come un adattamento robusto e rispettoso del testo, lontano dal tono del musical.",
-   "body": "Il regista francese Fred Cavayé porta sul grande schermo una nuova versione di Les Misérables, il romanzo di Victor Hugo. Secondo la testata spagnola Fotogramas, si tratta della trasposizione più fedele realizzata finora, con un impianto solido e rispettoso del libro. Il film si affida soprattutto all'interpretazione di Vincent Lindon, che regge il racconto e ne costituisce il punto di forza.\n\nChi si aspetta un musical epico, sul modello della celebre versione teatrale e cinematografica, dovrà però regolare le attese. La scelta di restare fedeli al romanzo finisce anche per limitare il film, che privilegia il testo di Hugo rispetto alla spettacolarità. Il risultato è un'opera seria e misurata, più vicina alla letteratura che al grande spettacolo musicale.",
-   "slug": "les-miserables-di-fred-cavaye-con-vincent-lindon-adattamento-8dd29d",
-   "tags": [
-    "Les Misérables",
-    "Fred Cavayé",
-    "Vincent Lindon"
-   ],
-   "scene": "pellicola",
-   "source": "fotogramas.es",
-   "url": "https://www.fotogramas.es/peliculas-criticas/a73789344/los-miserables-pelicula-critica-opinion-adaptacion-2026-victor-hugo-analisis/",
-   "published": "2026-11-06T10:18:00+00:00"
-  },
-  {
-   "id": "5aa7e59b2159",
-   "section": "tv",
-   "title": "Jon Hamm e American Hostage: il sequestro che paralizzò gli Stati Uniti",
-   "summary": "Jon Hamm torna sul sequestro che paralizzò gli Stati Uniti, raccontato nella serie American Hostage disponibile su Movistar Plus. L'attore sottolinea il ruolo della stampa locale e riconosce analogie con il malcontento attuale.",
-   "body": "Jon Hamm ha parlato di American Hostage, la serie che Movistar Plus propone al pubblico e che ricostruisce il sequestro di cui gli Stati Uniti seguirono l'evoluzione con il fiato sospeso. Secondo Fotogramas, l'attore ha messo in risalto il lavoro dei giornalisti locali, che in quella vicenda ebbero un ruolo decisivo nel raccontare i fatti e nel tenere viva l'attenzione.\n\nHamm ha inoltre tracciato un parallelo tra quel caso e il clima sociale di oggi, dichiarando che sembra non aver imparato nulla dal costo di ignorare la rabbia della gente. Un giudizio che, secondo l'attore, rende la storia della serie ancora attuale.",
-   "slug": "jon-hamm-e-american-hostage-il-sequestro-che-paralizzo-gli-s-5aa7e5",
-   "tags": [
-    "Jon Hamm",
-    "American Hostage",
-    "Movistar Plus"
-   ],
-   "scene": "streaming",
-   "source": "fotogramas.es",
-   "url": "https://www.fotogramas.es/series-tv-noticias/a74345582/american-hostage-serie-movistar-critica-opinion-jon-hamm-actor-entrevista/",
-   "published": "2026-11-06T10:16:00+00:00"
-  },
-  {
-   "id": "96c0b8550f27",
-   "section": "tv",
-   "title": "God of War, Dave Bautista mostra la trasformazione per il ruolo di Kratos",
-   "summary": "Dave Bautista ha condiviso le immagini della sua trasformazione fisica per interpretare Kratos nella serie God of War di Prime Video. La serie tratta dal celebre videogioco PlayStation è attesa sulla piattaforma di Amazon.",
-   "body": "Dave Bautista ha mostrato ufficialmente il risultato della sua trasformazione fisica in vista del ruolo di Kratos, il protagonista della serie God of War prodotta per Prime Video. Secondo Collider, l'attore ha pubblicato le immagini che documentano il lavoro fatto per avvicinarsi al personaggio nato dal celebre videogioco PlayStation.\n\nLa serie reinterpreta la saga videoludica con un attore già noto al grande pubblico per film di azione e di fantascienza. Le foto diffuse mostrano un fisico molto muscoloso, in linea con l'iconico guerriero greco del videogioco. Restano da vedere dettagli su tempi di uscita e sviluppo della serie, che la fonte non precisa.",
-   "slug": "god-of-war-dave-bautista-mostra-la-trasformazione-per-il-ruo-96c0b8",
-   "tags": [
-    "God of War",
-    "Dave Bautista",
-    "Prime Video"
-   ],
-   "scene": "streaming",
-   "source": "collider.com",
-   "url": "https://collider.com/god-of-war-dave-bautista-kratos-transformation/",
-   "published": "2026-11-06T10:15:12+00:00"
   }
  ],
  "seen": [
@@ -11956,7 +11956,21 @@
   "7bd8300a3f0f",
   "5edc2ef639fc",
   "cb57d87e9665",
-  "9d4a3fac4496"
+  "9d4a3fac4496",
+  "7950de422d03",
+  "10d3bb6d156d",
+  "4e704c5d2afd",
+  "5369b50e883d",
+  "5587db1b6445",
+  "f5977296274a",
+  "c8090bd43f69",
+  "e8dceb1eebaf",
+  "357f096801d6",
+  "958eb9fd261b",
+  "2aaee359d589",
+  "d3ea9867561a",
+  "5290dc53c7a8",
+  "f3dcf8bbcd23"
  ],
  "version": 4,
  "digests": [
