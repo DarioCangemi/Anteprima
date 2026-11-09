@@ -1,6 +1,39 @@
 {
  "articles": [
   {
+   "id": "93151bf01ea2",
+   "section": "cinema",
+   "title": "Sony acquisisce i diritti di The Heartstring Duet di Liv Zander",
+   "summary": "Sony Pictures ha acquisito i diritti cinematografici di The Heartstring Duet, saga dark fantasy romance di Liv Zander nata in autopubblicazione e diventata un fenomeno editoriale internazionale. Il progetto porta sul grande schermo una storia che mescola horror, fantasy e passione oscura.",
+   "body": "Sony Pictures ha acquisito i diritti cinematografici di The Heartstring Duet, la saga dark fantasy romance scritta da Liv Zander. Il libro, esordito in autopubblicazione, è diventato un caso editoriale internazionale e ora approda a Hollywood con un progetto che punta sul pubblico che ha già decretato il successo della serie.\n\nSecondo Cinefilos, la storia intreccia horror, fantasy e una passione dai toni oscuri, con una protagonista costretta a scegliere tra il sacrificio di sé e un destino diverso. Non sono stati ancora annunciati dettagli su cast, regia o data di uscita della pellicola.",
+   "slug": "sony-acquisisce-i-diritti-di-the-heartstring-duet-di-liv-zan-93151b",
+   "tags": [
+    "Sony Pictures",
+    "Liv Zander",
+    "The Heartstring Duet"
+   ],
+   "scene": "pellicola",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/cinema-news/2026/the-heartstring-duet-diventa-film-sony-saga-dark-romance-liv-zander-729938",
+   "published": "2026-11-09T08:27:35+00:00"
+  },
+  {
+   "id": "8fcb566121be",
+   "section": "cinema",
+   "title": "Se domani al primo posto del box office italiano con quasi 2 milioni",
+   "summary": "Il film distribuito da Notorious Pictures resta in testa agli incassi del weekend in Italia, dopo il buon risultato delle anteprime dedicate alle scuole. Il titolo supera quasi 2 milioni di euro di incasso.",
+   "body": "Anche nel weekend Se domani si conferma al primo posto della classifica del box office italiano, con un incasso che sfiora i 2 milioni di euro. Secondo Box Office Biz, il risultato arriva dopo le anteprime riservate alle scuole, che avevano già mostrato un ottimo riscontro di pubblico.\n\nIl film è distribuito in Italia da Notorious Pictures, che può contare su una tenuta solida nelle sale nel fine settimana. La notizia conferma l'interesse del pubblico per il titolo, che mantiene il primo posto davanti alle altre novità in uscita.",
+   "slug": "se-domani-al-primo-posto-del-box-office-italiano-con-quasi-2-8fcb56",
+   "tags": [
+    "Se domani",
+    "Notorious Pictures"
+   ],
+   "scene": "popcorn",
+   "source": "Box Office Biz",
+   "url": "https://boxofficebiz.it/news/box-office-italia-se-domani-non-torno-in-testa-con-quasi-2-milioni-di-euro/",
+   "published": "2026-11-09T08:25:28+00:00"
+  },
+  {
    "id": "6b796a57f940",
    "section": "cinema",
    "title": "Jeff Daniels ricorda il timore dei suoi agenti per il film con Jim Carrey",
@@ -82,6 +115,22 @@
    "source": "Cineblog",
    "url": "https://www.cineblog.it/post/melania-rea-serie-hbo-mordini",
    "published": "2026-11-09T07:46:27+00:00"
+  },
+  {
+   "id": "2b7355f633e0",
+   "section": "cinema",
+   "title": "Spielberg prepara il suo primo western, riprese previste nel 2027",
+   "summary": "Steven Spielberg si prepara a dirigere il suo primo western, con riprese previste per il 2027. Il direttore della fotografia Janusz Kamiński ha anticipato alcuni dettagli su paesaggi e visione del regista.",
+   "body": "Steven Spielberg si prepara a girare il suo primo western, un genere che non ha mai affrontato in una carriera lunga oltre cinquant'anni. Le riprese sono previste per il 2027, e secondo quanto riportato da BadTaste il progetto subirà alcune modifiche rispetto alle prime ipotesi.\n\nIl direttore della fotografia Janusz Kamiński, storico collaboratore del regista, ha anticipato alcuni aspetti del film, in particolare i paesaggi e il modo in cui Spielberg intende raccontare la storia. Al momento non sono stati resi noti dettagli definitivi su trama, cast o titolo.",
+   "slug": "spielberg-prepara-il-suo-primo-western-riprese-previste-nel-2b7355",
+   "tags": [
+    "Steven Spielberg",
+    "Janusz Kamiński"
+   ],
+   "scene": "ciak",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/steven-spielberg-girera-il-suo-primo-western-le-riprese-si-avvicinano-ma-il-film-sara-diverso-dal-previsto",
+   "published": "2026-11-09T07:30:47+00:00"
   },
   {
    "id": "273cd5f2e574",
@@ -246,6 +295,40 @@
    "source": "dituttounpop.it",
    "url": "https://www.dituttounpop.it/tutto-per-la-mia-famiglia-serie-turca-su-canale-5-puntate-della-settimana/",
    "published": "2026-11-09T06:53:39+00:00"
+  },
+  {
+   "id": "c0fa84c7c575",
+   "section": "cinema",
+   "title": "Arrival stasera su La7Cinema",
+   "summary": "La7Cinema trasmette stasera in prima serata Arrival, il film di Denis Villeneuve presentato in concorso alla Mostra di Venezia. Il film ha incassato 203 milioni di dollari in tutto il mondo.",
+   "body": "La7Cinema ha scelto Arrival per la prima serata di stasera, lunedì 9 novembre. Il film di Denis Villeneuve è stato presentato in concorso alla Mostra del Cinema di Venezia, nella sua 73ª edizione, e ha ottenuto un riscontro importante al box office internazionale.\n\nSecondo quanto riportato da Dituttounpop, la pellicola ha incassato complessivamente 203 milioni di dollari nel mondo, con 2,8 milioni di euro in Italia. La trasmissione offre quindi al pubblico televisivo l'occasione di rivedere il lavoro del regista canadese, noto per la sua fantascienza di impianto intimista.",
+   "slug": "arrival-stasera-su-la7cinema-c0fa84",
+   "tags": [
+    "Arrival",
+    "Denis Villeneuve",
+    "La7Cinema"
+   ],
+   "scene": "tv",
+   "source": "dituttounpop.it",
+   "url": "https://www.dituttounpop.it/arrival-film-trama-completa-trailer-cast-dove-in-streaming-in-onda-stasera/",
+   "published": "2026-11-09T06:50:34+00:00"
+  },
+  {
+   "id": "9c1be87d6f80",
+   "section": "tv",
+   "title": "La custode di mia sorella stasera in TV su La5",
+   "summary": "Lunedì 9 novembre 2026 La5 trasmette La custode di mia sorella, film diretto da Nick Cassavetes tratto dal romanzo di Jodi Picoult. Protagoniste Cameron Diaz, Abigail Breslin e Sofia Vassilieva.",
+   "body": "La rete La5 propone lunedì 9 novembre 2026 il film La custode di mia sorella, diretto da Nick Cassavetes. La messa in onda è prevista intorno alle 21:10. La pellicola è tratta dall'omonimo romanzo di Jodi Picoult, da cui prende spunto la storia di una famiglia alle prese con una scelta difficile.\n\nNel cast figurano Cameron Diaz, Abigail Breslin e Sofia Vassilieva, protagoniste di un racconto che ruota attorno al legame tra due sorelle. Secondo quanto riportato da Dituttounpop, la serata televisiva sarà l'occasione per rivedere il titolo, già noto al pubblico per la sua uscita nelle sale. Per ulteriori dettagli sul palinsesto è consigliabile consultare la programmazione ufficiale del canale.",
+   "slug": "la-custode-di-mia-sorella-stasera-in-tv-su-la5-9c1be8",
+   "tags": [
+    "La custode di mia sorella",
+    "Cameron Diaz",
+    "Nick Cassavetes"
+   ],
+   "scene": "tv",
+   "source": "dituttounpop.it",
+   "url": "https://www.dituttounpop.it/la-custode-di-mia-sorella-film-stasera-trama-completa-trailer-ita-cast-incassi-dove-in-streaming-replica/",
+   "published": "2026-11-09T06:39:23+00:00"
   },
   {
    "id": "83a4113e7d21",
@@ -904,6 +987,23 @@
    "source": "Cineblog",
    "url": "https://www.cineblog.it/post/janusz-kaminski-direttore-fotografia",
    "published": "2026-11-09T00:39:14+00:00"
+  },
+  {
+   "id": "04bb94fa283c",
+   "section": "gossip",
+   "title": "Andi Dorfman e Blaine Hart hanno avuto il secondo figlio",
+   "summary": "Andi Dorfman, ex protagonista di The Bachelorette, e il marito Blaine Hart hanno annunciato la nascita del loro secondo figlio. L'annuncio è arrivato su Instagram con una foto scattata in ospedale.",
+   "body": "Andi Dorfman e il marito Blaine Hart hanno annunciato la nascita del loro secondo figlio. Secondo quanto riportato da US Magazine, la coppia ha condiviso la notizia domenica 8 novembre su Instagram, pubblicando una foto scattata in ospedale che ritrae le mani dei genitori mentre sorreggono il piedino del neonato.\n\nDorfman, 39 anni, è nota al pubblico americano per essere stata protagonista della stagione di The Bachelorette, il reality sentimentale di ABC, nel 2014. Hart ha 40 anni. Il post ha segnato l'arrivo del nuovo membro della famiglia, senza ulteriori dettagli diffusi nel materiale disponibile.",
+   "slug": "andi-dorfman-e-blaine-hart-hanno-avuto-il-secondo-figlio-04bb94",
+   "tags": [
+    "Andi Dorfman",
+    "Blaine Hart",
+    "The Bachelorette"
+   ],
+   "scene": null,
+   "source": "usmagazine.com",
+   "url": "https://www.usmagazine.com/celebrity-moms/news/andi-dorfman-welcomes-2nd-baby-with-husband-blaine-hart/",
+   "published": "2026-11-09T00:33:58+00:00"
   },
   {
    "id": "88205c50df84",
@@ -8249,105 +8349,6 @@
    "source": "awn.com",
    "url": "https://www.awn.com/news/pbs-kids-sets-premiere-gustavo-dudamels-carnival-animals",
    "published": "2026-11-06T17:14:18+00:00"
-  },
-  {
-   "id": "cc4c539211cf",
-   "section": "musica",
-   "title": "A Milano torna \"Quel Gran Genio\" dedicato a Battisti",
-   "summary": "Dal 20 al 22 novembre Milano ospita nuovamente \"Quel Gran Genio\", appuntamento dedicato alle diverse anime di Lucio Battisti. L'evento celebra anche i trent'anni de \"L'Isola che non c'era\".",
-   "body": "Dal 20 al 22 novembre torna a Milano \"Quel Gran Genio\", una manifestazione dedicata a Lucio Battisti che ne racconta le diverse anime artistiche. Il programma è pensato per ripercorrere la carriera del cantautore attraverso i suoi molteplici volti musicali.\n\nIl momento centrale dei festeggiamenti è il trentesimo anniversario de \"L'Isola che non c'era\", album uscito nel 1992 e ancora molto amato dal pubblico. Secondo ANSA, la kermesse vuole offrire ai appassionati un viaggio nella produzione di uno degli autori più influenti della musica italiana.",
-   "slug": "a-milano-torna-quel-gran-genio-dedicato-a-battisti-cc4c53",
-   "tags": [
-    "Lucio Battisti",
-    "L'Isola che non c'era",
-    "Quel Gran Genio"
-   ],
-   "scene": "vinile",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/2026/11/06/a-milano-torna-quel-gran-genio-un-viaggio-tra-le-diverse-anime-di-battisti_ff54093a-e42c-40d6-9db9-f8bd99ed335f.html",
-   "published": "2026-11-06T17:14:00+00:00"
-  },
-  {
-   "id": "5b8cc829219c",
-   "section": "tv",
-   "title": "Netflix rinnova Nobody Wants This per una quarta stagione",
-   "summary": "Netflix ha confermato il rinnovo della serie Nobody Wants This per una quarta stagione. Il via libera arriva poche settimane dopo il debutto della terza stagione.",
-   "body": "Netflix ha deciso di rinnovare Nobody Wants This per una quarta stagione. La notizia arriva a poche settimane dal debutto della terza stagione della serie romantico-commedia della piattaforma.\n\nSecondo Just Jared, il rinnovo conferma il buon riscontro della serie presso il pubblico della piattaforma streaming. Al momento non sono stati comunicati dettagli su data di uscita, cast o trama della prossima stagione.",
-   "slug": "netflix-rinnova-nobody-wants-this-per-una-quarta-stagione-5b8cc8",
-   "tags": [
-    "Nobody Wants This",
-    "Netflix"
-   ],
-   "scene": "streaming",
-   "source": "justjared.com",
-   "url": "https://www.justjared.com/2026/11/06/netflix-renews-nobody-wants-this-for-season-4/",
-   "published": "2026-11-06T17:13:55+00:00"
-  },
-  {
-   "id": "631970a38423",
-   "section": "musica",
-   "title": "Classifica FIMI: Kid Yugi primo tra album e singoli",
-   "summary": "Kid Yugi conquista il primo posto sia nella classifica degli album sia in quella dei singoli. Max Pezzali debutta al terzo posto, mentre Francesca Michielin si piazza settima.",
-   "body": "Kid Yugi chiude la settimana in testa alle classifiche italiane, sia tra gli album sia tra i singoli. Il rapper si conferma così come una delle presenze più forti del momento nelle preferenze del pubblico.\n\nTra i debutti spicca Max Pezzali, che entra direttamente al terzo posto. Più giù, in settima posizione, si trova Francesca Michielin. Secondo ANSA, sono questi i movimenti principali della hit parade, che fotografa il panorama musicale nazionale della settimana.",
-   "slug": "classifica-fimi-kid-yugi-primo-tra-album-e-singoli-631970",
-   "tags": [
-    "Kid Yugi",
-    "Max Pezzali",
-    "Francesca Michielin"
-   ],
-   "scene": "vinile",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/06/hit-parade-kid-yugi-pigliatutto-primo-negli-album-e-nei-singoli_d695fba4-5308-4da4-9cab-943b3d0ec885.html",
-   "published": "2026-11-06T17:12:43+00:00"
-  },
-  {
-   "id": "03d664668c0f",
-   "section": "cinema",
-   "title": "Possible Love: il finale spiegato tra Mi-ok, Ho-seok e l'ultima scena",
-   "summary": "Il nuovo film di Lee Chang-dong, Possible Love, è un dramma psicologico sudcoreano che unisce una crisi familiare a una riflessione su lavoro, disuguaglianze e potere dello sguardo. Una guida al finale, con il destino dei protagonisti Mi-ok e Ho-seok e il significato dell'ultima scena.",
-   "body": "Diretto da Lee Chang-dong, Possible Love è un dramma psicologico sudcoreano che intreccia una crisi familiare con temi come il lavoro, le disuguaglianze sociali e il potere dello sguardo. Al centro della storia ci sono Ho-seok, operaio licenziato dopo una vertenza sindacale segnata da forti tensioni, e la moglie Mi-ok, la cui vita cambia profondamente nel corso del racconto.\n\nSecondo Cinefilos, il film si chiude con una scena finale che ha acceso il dibattito tra gli spettatori e che richiede una lettura attenta. La testata ne propone una spiegazione, soffermandosi sul destino dei due protagonisti e sul valore simbolico dell'ultima inquadratura. Per chi ha già visto il film, l'approfondimento offre una chiave di lettura utile a collegare i temi sociali della storia con il percorso dei personaggi.",
-   "slug": "possible-love-il-finale-spiegato-tra-mi-ok-ho-seok-e-l-ultim-03d664",
-   "tags": [
-    "Possible Love",
-    "Lee Chang-dong"
-   ],
-   "scene": "sala",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/tutto-film/approfondimenti/possible-love-spiegazione-finale-729769",
-   "published": "2026-11-06T17:10:10+00:00"
-  },
-  {
-   "id": "2a221854c33f",
-   "section": "cinema",
-   "title": "Clayface, nuove immagini dal set mostrano gli effetti gore del film Batman",
-   "summary": "Nuove foto dietro le quinte di Clayface, spin-off del Batman DC, mettono in evidenza gli effetti speciali splatter della creatura. La notizia è riportata da Bloody Disgusting.",
-   "body": "Sono state diffuse nuove immagini dietro le quinte di Clayface, il film dedicato al villain di Batman, che mostrano gli effetti pratici usati per dare vita al personaggio. Secondo Bloody Disgusting, gli scatti evidenziano in particolare la componente più cruda e grottesca del progetto, in linea con un approccio visivo più concreto rispetto a molte produzioni supereroistiche.\n\nIl sito americano sottolinea come il film di DC si distingua per una resa fisica e materica delle creature, a differenza di altri blockbuster che puntano quasi esclusivamente sugli effetti digitali. Le immagini offrono quindi un primo sguardo su come il mostro di argilla sarà costruito sullo schermo.",
-   "slug": "clayface-nuove-immagini-dal-set-mostrano-gli-effetti-gore-de-2a2218",
-   "tags": [
-    "Clayface",
-    "Batman"
-   ],
-   "scene": "ciak",
-   "source": "bloody-disgusting.com",
-   "url": "https://bloody-disgusting.com/movie/3974977/clayface-movie-special-effects-behind-the-scenes-tom-rhys-harries/",
-   "published": "2026-11-06T17:10:07+00:00"
-  },
-  {
-   "id": "01ac65aa531f",
-   "section": "cinema",
-   "title": "De Sica: i cinepanettoni oggi non si potrebbero più fare",
-   "summary": "Christian De Sica, presentando al Festival dello Spettacolo la miniserie Netflix The Label, ha detto che i cinepanettoni oggi sarebbero sbagliati. L'attore ha spiegato che il genere non sarebbe più adatto al pubblico di oggi.",
-   "body": "Christian De Sica ha presentato al Festival dello Spettacolo la miniserie Netflix The Label, e in quell'occasione ha affrontato il tema dei cinepanettoni, il genere di commedie natalizie che lo ha reso popolare. Secondo quanto riportato dall'ANSA, l'attore ha dichiarato che quei film oggi non si possono più fare, perché sarebbero sbagliati rispetto alla sensibilità attuale.\n\nLa sua riflessione arriva mentre parla di una serie di produzione recente, distribuita da una delle piattaforme di streaming più seguite in Italia. De Sica non ha aggiunto dettagli sui futuri progetti legati al genere, limitandosi a sottolineare il cambiamento del clima culturale rispetto agli anni in cui i cinepanettoni riempivano le sale durante le feste.",
-   "slug": "de-sica-i-cinepanettoni-oggi-non-si-potrebbero-piu-fare-01ac65",
-   "tags": [
-    "Christian De Sica",
-    "The Label",
-    "Festival dello Spettacolo"
-   ],
-   "scene": "premiere",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/2026/11/06/de-sica-i-cinepanettoni-oggi-non-si-possono-piu-fare-sarebbero-sbagliati_bcf92997-5b10-4908-a708-1cdfa20805ec.html",
-   "published": "2026-11-06T17:09:26+00:00"
   }
  ],
  "seen": [
@@ -12184,7 +12185,27 @@
   "b77ca551c3f5",
   "273cd5f2e574",
   "6d9aacdeb07d",
-  "b6a0b4e49fbb"
+  "b6a0b4e49fbb",
+  "9a54bf0fae72",
+  "14772496614a",
+  "93151bf01ea2",
+  "8fcb566121be",
+  "37cd56562de0",
+  "f0abd1a3682a",
+  "2b7355f633e0",
+  "92727d067dc3",
+  "c0fa84c7c575",
+  "a7c0295ab3d6",
+  "e2bd892f747e",
+  "71df54074271",
+  "9c1be87d6f80",
+  "04bb94fa283c",
+  "0bf8dd7ce5a7",
+  "6d648195601a",
+  "1bf9e14f8f41",
+  "44f6754c79e5",
+  "1e827008e60b",
+  "a97f0ca24017"
  ],
  "version": 4,
  "digests": [
