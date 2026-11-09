@@ -1,6 +1,105 @@
 {
  "articles": [
   {
+   "id": "c3806d99a67c",
+   "section": "cinema",
+   "title": "James Gunn e il licenziamento da Disney del 2018 per vecchi tweet",
+   "summary": "Disney aveva interrotto i rapporti con James Gunn nel 2018 a causa di alcuni tweet controversi da lui pubblicati in passato. Quasi dieci anni dopo, il regista ha lasciato i DC Studios.",
+   "body": "Secondo quanto riportato da HollywoodLife, Disney aveva chiuso il rapporto di collaborazione con James Gunn nel 2018, dopo che erano emersi alcuni post pubblicati dal regista su Twitter anni prima. La vicenda riguardava battute considerate offensive, che la società aveva giudicato incompatibili con la propria linea. All'epoca Gunn stava lavorando alla trilogia dei Guardiani della Galassia, che fu poi interrotta per un periodo.\n\nQuasi dieci anni più tardi, Gunn ha lasciato il ruolo di responsabile dei DC Studios. La fonte ricorda il precedente del 2018 per contestualizzare la nuova uscita, ma il materiale a disposizione non chiarisce in modo dettagliato i motivi della separazione più recente.",
+   "slug": "james-gunn-e-il-licenziamento-da-disney-del-2018-per-vecchi-c3806d",
+   "tags": [
+    "James Gunn",
+    "DC Studios",
+    "Guardiani della Galassia"
+   ],
+   "scene": "ciak",
+   "source": "hollywoodlife.com",
+   "url": "https://hollywoodlife.com/feature/why-was-james-gunn-fired-by-disney-5582280/",
+   "published": "2026-11-09T21:17:30+00:00"
+  },
+  {
+   "id": "9149483a9f3f",
+   "section": "cinema",
+   "title": "Star Trek VI, in arrivo l'edizione 4K Blu-ray per i 35 anni del film",
+   "summary": "Star Trek VI: Rotta verso l'ignoto, ultimo viaggio del cast originale, riceve una nuova edizione in 4K Blu-ray. L'uscita è fissata a trentacinque anni dalla prima del film.",
+   "body": "Il sesto film della saga di Star Trek, Rotta verso l'ignoto, torna in libreria con un'edizione in 4K Blu-ray. La pellicola, che racconta la tensione tra Federazione e Klingon in un clima da thriller di guerra fredda, segna l'ultima missione sul grande schermo del cast originale.\n\nSecondo Collider, la nuova versione arriva a trentacinque anni di distanza dall'uscita nelle sale. Il formato in alta risoluzione è pensato per i appassionati che vogliono rivedere il film con una qualità video aggiornata. Per dettagli su data e contenuti extra occorrerà attendere le comunicazioni ufficiali dell'editore.",
+   "slug": "star-trek-vi-in-arrivo-l-edizione-4k-blu-ray-per-i-35-anni-d-914948",
+   "tags": [
+    "Star Trek VI: Rotta verso l'ignoto"
+   ],
+   "scene": "pellicola",
+   "source": "collider.com",
+   "url": "https://collider.com/star-trek-undiscovered-country-4k-blu-ray-release/",
+   "published": "2026-11-09T21:15:08+00:00"
+  },
+  {
+   "id": "dedf8ecb49bc",
+   "section": "cinema",
+   "title": "Carrie-Anne Moss si unisce a Halsey nel thriller horror Replacer",
+   "summary": "Carrie-Anne Moss entra nel cast di Replacer, horror diretto da Avan Jogia con Halsey e Karl Glusman. Il film è prodotto esecutivamente da Lilly Wachowski.",
+   "body": "Carrie-Anne Moss si è unita al cast di Replacer, film horror diretto dall'attore e regista Avan Jogia. Accanto a lei ci saranno la cantante Halsey e Karl Glusman, protagonisti della pellicola, secondo quanto riportato da JoBlo.\n\nIl progetto è prodotto esecutivamente da Lilly Wachowski, co-creatrice insieme alla sorella Lana della saga di Matrix, con cui Moss è legata per il ruolo di Trinity. Il materiale disponibile non specifica la trama né la data di uscita del film, che non sono ancora stati comunicati.",
+   "slug": "carrie-anne-moss-si-unisce-a-halsey-nel-thriller-horror-repl-dedf8e",
+   "tags": [
+    "Replacer",
+    "Carrie-Anne Moss",
+    "Halsey"
+   ],
+   "scene": "ciak",
+   "source": "joblo.com",
+   "url": "https://www.joblo.com/carrie-anne-moss-replacer/",
+   "published": "2026-11-09T21:11:00+00:00"
+  },
+  {
+   "id": "e8aea58b6e19",
+   "section": "tv",
+   "title": "Derek Hough ricorda le coreografie di Dancing with the Stars più amate",
+   "summary": "Derek Hough, oggi giudice di Dancing with the Stars, ha parlato delle coreografie di cui va più orgoglioso tra le 17 stagioni da ballerino professionista nel programma. Ha vinto sei Mirrorball Trophy e non è mai scivolato oltre il sesto posto.",
+   "body": "Prima di diventare giudice di Dancing with the Stars, Derek Hough ha lavorato per 17 stagioni come ballerino professionista nello show. In questo periodo ha conquistato sei Mirrorball Trophy e non è mai finito oltre il sesto posto in classifica, un risultato che lo rende uno dei protagonisti più costanti del programma.\n\nSecondo TV Insider, Hough ripensa con affetto a una stagione ricca di sfide inedite, quelle che lui stesso descrive come territorio sconosciuto. Il racconto dei balli che considera più riusciti restituisce il lato più personale della sua lunga esperienza sulla pista, tra coreografie complesse e concorrenti sempre diversi.",
+   "slug": "derek-hough-ricorda-le-coreografie-di-dancing-with-the-stars-e8aea5",
+   "tags": [
+    "Derek Hough",
+    "Dancing with the Stars"
+   ],
+   "scene": "palco",
+   "source": "tvinsider.com",
+   "url": "https://www.tvinsider.com/1302486/derek-hough-dancing-with-the-stars-amy-purdy-choreography-proud-interview/",
+   "published": "2026-11-09T21:10:35+00:00"
+  },
+  {
+   "id": "965d12475906",
+   "section": "tv",
+   "title": "HBO Max e Paramount+ insieme in un unico abbonamento dal 2027",
+   "summary": "Il CEO di Skydance David Ellison ha confermato in una lettera agli azionisti che nei primi mesi del 2027 partirà un pacchetto congiunto HBO Max e Paramount+. La data è stata annunciata insieme ai risultati del terzo trimestre.",
+   "body": "Il pacchetto che unisce HBO Max e Paramount+ sarà disponibile nei primi mesi del 2027. Lo ha confermato David Ellison, CEO di Skydance, in una lettera inviata lunedi agli azionisti. L'offerta congiunta era già stata annunciata in precedenza, ma fino ad ora non era stata indicata una tempistica precisa.\n\nLa comunicazione è arrivata insieme ai risultati del terzo trimestre della società. Nella stessa lettera Ellison ha fatto riferimento alla fusione da 110 miliardi di dollari tra Paramount e Warner Bros. Discovery, operazione che sta ridisegnando l'offerta dei due servizi di streaming. Secondo Deadline, che ha riportato la notizia, i dettagli sul prezzo e sui contenuti del pacchetto non sono ancora stati resi noti.",
+   "slug": "hbo-max-e-paramount-insieme-in-un-unico-abbonamento-dal-2027-965d12",
+   "tags": [
+    "HBO Max",
+    "Paramount+",
+    "David Ellison"
+   ],
+   "scene": "streaming",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/hbo-max-paramount-bundle-launching-2027-skydance-david-ellison-1237217635/",
+   "published": "2026-11-09T21:08:02+00:00"
+  },
+  {
+   "id": "26b5b5f2807c",
+   "section": "cinema",
+   "title": "James Gunn lascia la guida di DC Studios e saluta con un messaggio",
+   "summary": "James Gunn ha commentato pubblicamente la fine del suo incarico alla guida di DC Studios, condivisa per quattro anni con Peter Safran. Dopo la scelta di Skydance di affidare presidenza e direzione creativa a Jeremy Latcham, il regista ha ringraziato lo studio in un lungo messaggio.",
+   "body": "James Gunn ha preso la parola dopo la sua uscita dalla guida di DC Studios, incarico che ricopriva da quattro anni insieme a Peter Safran. La decisione è arrivata con la scelta di Skydance di affidare la presidenza e la direzione creativa dello studio a Jeremy Latcham, un cambio che ha colto di sorpresa il mondo del cinema.\n\nNel suo messaggio pubblico, il regista ha ringraziato i collaboratori e ha ripercorso il lavoro svolto in questi anni alla guida dello studio. Secondo Cinefilos, Gunn ha scelto di commentare l'addio con parole misurate, senza entrare nei dettagli delle ragioni che hanno portato alla separazione.",
+   "slug": "james-gunn-lascia-la-guida-di-dc-studios-e-saluta-con-un-mes-26b5b5",
+   "tags": [
+    "James Gunn",
+    "DC Studios",
+    "Peter Safran"
+   ],
+   "scene": "ciak",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/cinema-news/2026/james-gunn-rompe-silenzio-dopo-uscita-dc-studios-730057",
+   "published": "2026-11-09T20:54:37+00:00"
+  },
+  {
    "id": "03454e08384b",
    "section": "gossip",
    "title": "Giorgia ricorda alcuni aneddoti su Valeria Marini",
@@ -1051,6 +1150,23 @@
    "source": "Cinefilos",
    "url": "https://cinefilos.it/serie-tv/approfondimento/il-signore-degli-anelli-gli-anelli-del-potere-stagione-2-cosa-ricordare-prima-vedere-stagione-3-730021",
    "published": "2026-11-09T15:59:48+00:00"
+  },
+  {
+   "id": "b8b41caeabda",
+   "section": "musica",
+   "title": "Romaeuropa Festival ospita l'Opera Ballet Vlaanderen al Costanzi",
+   "summary": "Il Romaeuropa Festival, in corealizzazione con l'Opera di Roma, presenta il 10 e 11 novembre al Teatro Costanzi un trittico di coreografie dell'Opera Ballet Vlaanderen. Lo spettacolo porta a Roma la compagnia belga in una serata dedicata alla danza contemporanea.",
+   "body": "Il Romaeuropa Festival e l'Opera di Roma portano sul palco del Teatro Costanzi la compagnia belga Opera Ballet Vlaanderen. Le due serate in programma il 10 e l'11 novembre propongono un trittico di coreografie, un percorso in tre tappe che mette in dialogo stili e linguaggi diversi della danza contemporanea.\n\nLa notizia è riportata dall'ANSA, che segnala la collaborazione tra il festival e il teatro capitolino come una delle novità della rassegna autunnale. Per il pubblico romano è l'occasione di vedere da vicino una delle compagnie più note del panorama europeo, in un teatro che ospita da sempre il balletto e la grande tradizione dell'opera.",
+   "slug": "romaeuropa-festival-ospita-l-opera-ballet-vlaanderen-al-cost-b8b41c",
+   "tags": [
+    "Romaeuropa Festival",
+    "Opera Ballet Vlaanderen",
+    "Teatro Costanzi"
+   ],
+   "scene": "tappeto",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/09/romaeuropa-festival-opera-ballet-vlaanderen-in-trittico-di-coreografie_00f53219-6432-4706-a78b-541c13a8ea6d.html",
+   "published": "2026-11-09T15:50:30+00:00"
   },
   {
    "id": "eece446e073d",
@@ -8233,149 +8349,9 @@
    "source": "fotogramas.es",
    "url": "https://www.fotogramas.es/noticias-cine/a74323952/michael-douglas-actor-instinto-basico-pelicula-cruce-piernas-escena-sharon-reaccion-opinion/",
    "published": "2026-11-07T09:10:00+00:00"
-  },
-  {
-   "id": "99b206d96080",
-   "section": "gossip",
-   "title": "Sophie di Wessex e il lavoro prima delle nozze reali",
-   "summary": "Prima di sposare il principe Edoardo ed entrare nella vita reale, la duchessa Sophie ha svolto un lavoro inatteso come animatrice per una vacanza. Lo riporta Hello! Magazine, che ricorda questo capitolo poco noto della sua carriera.",
-   "body": "Prima di diventare duchessa di Wessex e di entrare stabilmente nella vita di corte, Sophie di Wessex ha lavorato come animatrice turistica durante una vacanza. Secondo Hello! Magazine, si tratta di un'esperienza professionale sorprendente per una futura membro della famiglia reale britannica.\n\nIl ruolo, come riferisce la testata, risale al periodo precedente alle nozze con il principe Edoardo, quando la duchessa conduceva ancora una vita lontana dai riflettori ufficiali. La fonte sottolinea il contrasto tra quel lavoro leggero e divertente e il protocollo che avrebbe accompagnato il matrimonio.",
-   "slug": "sophie-di-wessex-e-il-lavoro-prima-delle-nozze-reali-99b206",
-   "tags": [
-    "Sophie di Wessex",
-    "Principe Edoardo"
-   ],
-   "scene": "tappeto",
-   "source": "hellomagazine.com",
-   "url": "https://www.hellomagazine.com/royalty/933368/duchess-sophies-surprising-pre-royal-job-as-a-holiday-rep/",
-   "published": "2026-11-07T09:00:00+00:00"
-  },
-  {
-   "id": "c4fa17529827",
-   "section": "cinema",
-   "title": "\"Play it again, Sam\": la citazione di Casablanca che nel film non c'è",
-   "summary": "La frase \"Play it again, Sam\", spesso associata a Casablanca, non compare in questa forma nel film di Michael Curtiz. Secondo MoviePilot, è una delle citazioni cinematografiche più ricordate e più sbagliate della storia del cinema.",
-   "body": "Quasi tutti gli appassionati di cinema ricordano la frase \"Play it again, Sam\" attribuita al classico Casablanca. Eppure, come segnala MoviePilot, quelle parole in questa forma non si sentono mai nel film diretto da Michael Curtiz.\n\nLa battuta nasce quindi da un errore di memoria collettiva, che si è consolidato nel tempo fino a diventare un luogo comune. La notizia riguarda una delle citazioni più note e più sbagliate della storia del cinema, e mostra come il ricordo di una scena possa discostarsi dal testo originale.",
-   "slug": "play-it-again-sam-la-citazione-di-casablanca-che-nel-film-no-c4fa17",
-   "tags": [
-    "Casablanca",
-    "Michael Curtiz"
-   ],
-   "scene": "pellicola",
-   "source": "moviepilot.de",
-   "url": "https://www.moviepilot.de/news/casablanca-zitat-film-geschichte-1165343",
-   "published": "2026-11-07T09:00:00+00:00"
-  },
-  {
-   "id": "8d0a541865d1",
-   "section": "cinema",
-   "title": "Se domani non torno, studenti scuotono le chiavi in sala a Roma",
-   "summary": "Durante una proiezione romana di Se domani non torno, il pubblico di studenti ha scosso le chiavi in ricordo di Giulia Cecchettin. Il gesto, diventato simbolo della protesta contro la violenza sulle donne, è documentato in un video.",
-   "body": "Durante una proiezione del film Se domani non torno in una sala di Roma, un gruppo di studenti ha scosso le chiavi in segno di ricordo di Giulia Cecchettin, la giovane uccisa nel 2023. Il video del momento è circolato online e mostra la platea partecipare al gesto al termine o durante la visione.\n\nIl film, come riferisce BadTaste, affronta il tema della violenza di genere e il gesto richiama una pratica di protesta già vista in altre occasioni pubbliche. Le chiavi, scosse insieme, diventano un richiamo collettivo alla memoria delle vittime e alla necessità di non dimenticare.",
-   "slug": "se-domani-non-torno-studenti-scuotono-le-chiavi-in-sala-a-ro-8d0a54",
-   "tags": [
-    "Se domani non torno",
-    "Giulia Cecchettin"
-   ],
-   "scene": "sala",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/se-domani-non-torno-gli-studenti-scuotono-le-chiavi-al-cinema-a-roma-il-gesto-ha-un-significato-profondo",
-   "published": "2026-11-07T08:30:25+00:00"
-  },
-  {
-   "id": "8ca379b2d241",
-   "section": "tv",
-   "title": "Knockout – Botte da comici arriva a dicembre su Paramount+",
-   "summary": "Paramount+ annuncia per dicembre il debutto di Knockout – Botte da comici, sfida a squadre di comedy stand up guidata da Stefano Rapone e Daniele Tinti. Il programma è l'adattamento televisivo del format digitale Accepteer de Punchline, prodotto da Stand by Me di Knockout Champs.",
-   "body": "Paramount+ ha annunciato che a dicembre debutterà Knockout – Botte da comici, un programma dedicato allo stand up comedy strutturato come sfida tra squadre. A guidare le due formazioni di comici saranno Stefano Rapone e Daniele Tinti, protagonisti di un confronto che porta sul piccolo schermo le dinamiche della competizione tra performer.\n\nIl progetto nasce come evoluzione televisiva del format digitale Accepteer de Punchline ed è realizzato da Stand by Me, società legata a Knockout Champs. Secondo quanto riportato da Dituttounpop.it, la trasmissione prende dunque spunto da una formula già sperimentata online, adattandola alla serialità televisiva e alla piattaforma streaming del gruppo Paramount.",
-   "slug": "knockout-botte-da-comici-arriva-a-dicembre-su-paramount-8ca379",
-   "tags": [
-    "Knockout – Botte da comici",
-    "Stefano Rapone",
-    "Daniele Tinti"
-   ],
-   "scene": "streaming",
-   "source": "dituttounpop.it",
-   "url": "https://www.dituttounpop.it/knockout-botte-da-comici-a-dicembre-su-paramount-sfida-tra-comici/",
-   "published": "2026-11-07T08:23:16+00:00"
-  },
-  {
-   "id": "71f0be199f61",
-   "section": "tv",
-   "title": "Ballando con le stelle 2026, Pieraccioni e Tosca D'Aquino ballerini per una notte",
-   "summary": "Ballando con le stelle 2026 torna su Rai 1 con Milly Carlucci alla conduzione, dalla nuova sede dello Studio Pippo Baudo di Saxa Rubra. Nel programma è previsto anche un sabato speciale con Leonardo Pieraccioni e Tosca D'Aquino in pista.",
-   "body": "Ballando con le stelle è tornato su Rai 1 per la sua ventunesima edizione, condotta da Milly Carlucci e registrata in diretta dal nuovo Studio Pippo Baudo di Saxa Rubra, a Roma. La giuria è composta da Ivan Zazzaroni, Guillermo Mariotto, Carolyn Smith, Alberto Matano e Barbara D'Urso, mentre alcune puntate hanno come riferimento Francesca Fialdini e Simona Ventura, affiancate da Rossella.\n\nSecondo quanto riportato da dituttounpop.it, sabato 7 novembre il programma ospiterà Leonardo Pieraccioni e Tosca D'Aquino, che si cimenteranno nelle danze come ballerini per una notte. Il materiale disponibile non specifica i dettagli della serata né le coppie in gara in quella puntata.",
-   "slug": "ballando-con-le-stelle-2026-pieraccioni-e-tosca-d-aquino-bal-71f0be",
-   "tags": [
-    "Ballando con le stelle",
-    "Milly Carlucci",
-    "Leonardo Pieraccioni"
-   ],
-   "scene": "tv",
-   "source": "dituttounpop.it",
-   "url": "https://www.dituttounpop.it/ballando-con-le-stelle-2026-cast-coppie-giuria-eliminato/",
-   "published": "2026-11-07T08:17:31+00:00"
-  },
-  {
-   "id": "ee056d28e167",
-   "section": "tv",
-   "title": "SWAT: Exilies, la serie prosegue su Starz dopo la chiusura di CBS",
-   "summary": "Dopo la cancellazione di SWAT da parte di CBS, Sony e Shermar Moore hanno portato avanti il progetto con SWAT: Exilies. La serie è approdata negli Stati Uniti su Starz, che ne ha già confermato il rinnovo.",
-   "body": "Dopo la chiusura di SWAT da parte di CBS, Sony e Shermar Moore hanno deciso di proseguire la storia con una nuova serie, SWAT: Exilies, prodotta da Sony e già proposta sul mercato internazionale. Il progetto segue la strada di una continuazione diretta del franchise, con lo stesso protagonista al centro della vicenda.\n\nNegli Stati Uniti la serie è stata acquistata da Starz, piattaforma che ha già annunciato il rinnovo per una nuova stagione. In Italia, secondo quanto riportato da dituttounpop.it, i diritti di trasmissione sono divisi tra Rai 2 e un'altra emittente, ma il materiale disponibile non specifica i dettagli della programmazione né le date delle puntate.",
-   "slug": "swat-exilies-la-serie-prosegue-su-starz-dopo-la-chiusura-di-ee056d",
-   "tags": [
-    "SWAT: Exilies",
-    "Shermar Moore",
-    "Starz"
-   ],
-   "scene": "streaming",
-   "source": "dituttounpop.it",
-   "url": "https://www.dituttounpop.it/swat-exiles-trama-cast-episodi/",
-   "published": "2026-11-07T08:16:29+00:00"
-  },
-  {
-   "id": "2435247d769f",
-   "section": "tv",
-   "title": "Accordi e Disaccordi su NOVE, gli ospiti di sabato 7 novembre",
-   "summary": "Il programma di approfondimento politico Accordi e Disaccordi torna su NOVE nella stagione 2026/27, sempre in prima serata il sabato. Il programma è condotto da Luca Sommi, che guida il confronto tra ospiti senza lasciare spazio a intrattenimento leggero.",
-   "body": "Accordi e Disaccordi, il programma di approfondimento politico di NOVE, torna nella stagione 2026/27 con la collocazione in prima serata del sabato. Il talk è condotto da Luca Sommi, giornalista che guida il dibattito su temi di attualità politica, con la partecipazione di Andrea. Secondo quanto riportato da Dituttounpop, il format rinuncia a musica, balli e momenti comici per concentrarsi interamente sull'analisi politica.\n\nLa puntata di sabato 7 novembre sarà dedicata agli ospiti della serata, annunciati dalla rete e dalla testata che ha dato la notizia. Il programma conferma così la scelta di NOVE di proporre un approfondimento d'attualità nel prime time del fine settimana, uno spazio poco frequente nel panorama televisivo del sabato sera.",
-   "slug": "accordi-e-disaccordi-su-nove-gli-ospiti-di-sabato-7-novembre-243524",
-   "tags": [
-    "Accordi e Disaccordi",
-    "Luca Sommi",
-    "NOVE"
-   ],
-   "scene": "tv",
-   "source": "dituttounpop.it",
-   "url": "https://www.dituttounpop.it/accordi-e-disaccordi-ospiti-anticipazioni-programma-politico-nove/",
-   "published": "2026-11-07T08:16:25+00:00"
   }
  ],
  "seen": [
-  "cfc67a9247b0",
-  "d47f11b88b35",
-  "7b7008b31055",
-  "053b8a67319b",
-  "9054bb17080c",
-  "53c782218643",
-  "b668d6f8e691",
-  "93edcdfdbaf3",
-  "e46dea4706fd",
-  "a84dbdd5de6b",
-  "709a77f541e9",
-  "0044544cdc83",
-  "d2cffbe3646f",
-  "15afdce12b5c",
-  "598a5516c13f",
-  "fa12f6c38824",
-  "5ee38f59d2fc",
-  "0b0c0365457b",
-  "bdff3ccbe8a8",
-  "e644895d7018",
-  "0a26e7a0dfe1",
-  "46d07cef6e87",
-  "d94f5b1aa5b6",
-  "58d40cc1c026",
   "740bf3ee4a79",
   "91709b814078",
   "dbaf6da78e0f",
@@ -12351,7 +12327,31 @@
   "9dc140c7efe0",
   "3d892579ea87",
   "20769105eab9",
-  "1a9906b87376"
+  "1a9906b87376",
+  "c188a86f4f84",
+  "9666e7beba1f",
+  "c3806d99a67c",
+  "f9ea5e1f02d0",
+  "a9ea5e5727ec",
+  "27e802e63c62",
+  "9149483a9f3f",
+  "0b872d222e1d",
+  "96f5ecd2a119",
+  "3c2402e1ad28",
+  "662b44edbac2",
+  "2d5c10d5dacf",
+  "2e8ef3041354",
+  "dedf8ecb49bc",
+  "e8aea58b6e19",
+  "55ca14d00fe0",
+  "67eceb764419",
+  "965d12475906",
+  "b2ef26b2aabf",
+  "26b5b5f2807c",
+  "c8e04ee5c0ae",
+  "b8b41caeabda",
+  "0418ed2b9e80",
+  "3ee988e9c8ed"
  ],
  "version": 4,
  "digests": [
