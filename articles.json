@@ -1,6 +1,91 @@
 {
  "articles": [
   {
+   "id": "0732c7f0626b",
+   "section": "tv",
+   "title": "The Gilded Age, la premiere della terza stagione stabilisce un record",
+   "summary": "La serie storica HBO The Gilded Age ha registrato il miglior debutto di stagione di sempre, con ascolti superiori a quelli di ogni precedente premiere. Il risultato è stato riportato da Collider.",
+   "body": "Secondo Collider, The Gilded Age, la serie storica ideata da Julian Fellowes e trasmessa da HBO, ha ottenuto la premiere di stagione con il punteggio più alto mai registrato dalla produzione.\n\nIl risultato rappresenta un nuovo primato per il titolo, che negli anni ha costruito un pubblico fedele attorno alle vicende della New York di fine Ottocento. La notizia arriva da una testata americana di cinema e televisione, che ha sottolineato come il debutto superi tutti quelli delle stagioni precedenti.",
+   "slug": "the-gilded-age-la-premiere-della-terza-stagione-stabilisce-u-0732c7",
+   "tags": [
+    "The Gilded Age",
+    "Julian Fellowes",
+    "HBO"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/hbo-the-gilded-age-season-4-premiere-series-record/",
+   "published": "2026-11-09T01:00:12+00:00"
+  },
+  {
+   "id": "7a48fc325d37",
+   "section": "cinema",
+   "title": "The Hit List, il film d'azione di Kim Hong-sun affidato a Finecut per le vendite",
+   "summary": "La società coreana Finecut ha acquisito i diritti internazionali di The Hit List, film d'arti marziali diretto da Kim Hong-sun, regista di Gangs of London. Il progetto riunisce il regista con alcuni collaboratori della serie.",
+   "body": "La casa di vendita sudcoreana Finecut ha rilevato i diritti internazionali di The Hit List, film d'azione a base di arti marziali diretto da Kim Hong-sun, noto al pubblico per Project Wolf Hunting e per la serie Gangs of London.\n\nIl progetto segna il ritorno del regista accanto ai collaboratori con cui ha lavorato alla serie, tra cui il direttore della fotografia Lars Cox, già visto in House of the Dragon, e il gaffer Kieran Waites, impegnato di recente in The Odyssey. Secondo quanto riportato da Deadline, entrambi hanno lavorato con Kim proprio su Gangs of London.",
+   "slug": "the-hit-list-il-film-d-azione-di-kim-hong-sun-affidato-a-fin-7a48fc",
+   "tags": [
+    "The Hit List",
+    "Kim Hong-sun",
+    "Gangs of London"
+   ],
+   "scene": "ciak",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/kim-hong-sun-the-hit-list-gangs-of-london-finecut-1237216230/",
+   "published": "2026-11-09T01:00:00+00:00"
+  },
+  {
+   "id": "ea487ad66f9c",
+   "section": "gossip",
+   "title": "Attori di Mass Effect sostengono la campagna per salvare la saga",
+   "summary": "Dopo la chiusura di BioWare da parte di EA e la cancellazione di Mass Effect: Universe, alcuni attori della saga si sono uniti agli appelli dei fan. La petizione ufficiale e una campagna pubblicitaria a Times Square cercano di tenere viva la serie.",
+   "body": "Electronic Arts ha chiuso lo studio BioWare alcune settimane fa, annullando contemporaneamente lo sviluppo di Mass Effect: Universe. La decisione ha colpito duramente l'industria videoludica e in particolare i fan della serie, che si sono mobilitati con diverse iniziative per salvarla, compreso l'acquisto di spazi pubblicitari a Times Square.\n\nSecondo quanto riporta Dark Horizons, anche alcuni attori legati al progetto hanno parlato dello sforzo per salvare il franchise. La petizione ufficiale, lanciata di recente, raccoglie adesioni per chiedere a EA di ripensarci. Al momento non risultano decisioni ufficiali da parte dell'editore sul futuro della saga.",
+   "slug": "attori-di-mass-effect-sostengono-la-campagna-per-salvare-la-ea487a",
+   "tags": [
+    "Mass Effect",
+    "BioWare",
+    "Electronic Arts"
+   ],
+   "scene": "microfono",
+   "source": "darkhorizons.com",
+   "url": "https://www.darkhorizons.com/actors-talk-efforts-to-save-mass-effect/",
+   "published": "2026-11-09T00:47:21+00:00"
+  },
+  {
+   "id": "d486f6cf8185",
+   "section": "cinema",
+   "title": "Janusz Kamiński, il direttore della fotografia di Schindler's List",
+   "summary": "Il direttore della fotografia polacco Janusz Kamiński ha segnato il linguaggio visivo del cinema contemporaneo con film come Schindler's List e Salvate il soldato Ryan. Una figura centrale per la fotografia cinematografica di Hollywood.",
+   "body": "Janusz Kamiński è uno dei direttori della fotografia più influenti del cinema contemporaneo. Nato in Polonia, ha lavorato a lungo con Steven Spielberg, firmando l'immagine di titoli come Schindler's List e Salvate il soldato Ryan, opere che hanno cambiato il modo in cui Hollywood racconta la storia attraverso la luce e il colore.\n\nSecondo Cineblog, il suo contributo va oltre i singoli film: il suo stile ha ridefinito il linguaggio visivo di molte produzioni successive. Il materiale disponibile non entra nel dettaglio di altri progetti o premi, ma il ritratto che emerge è quello di un autore capace di influenzare generazioni di colleghi dietro la macchina da presa.",
+   "slug": "janusz-kaminski-il-direttore-della-fotografia-di-schindler-s-d486f6",
+   "tags": [
+    "Janusz Kamiński",
+    "Schindler's List",
+    "Steven Spielberg"
+   ],
+   "scene": "ciak",
+   "source": "Cineblog",
+   "url": "https://www.cineblog.it/post/janusz-kaminski-direttore-fotografia",
+   "published": "2026-11-09T00:39:14+00:00"
+  },
+  {
+   "id": "ac03f2358e61",
+   "section": "gossip",
+   "title": "GF Vip 9, al televoto Andreas Muller, Carmen Di Pietro, Giulia Provvedi e Valeria Marini",
+   "summary": "Nella puntata di questa sera del GF Vip 9 sarà annunciato il nuovo eliminato, scelto tra Andreas Muller, Carmen Di Pietro, Giulia Provvedi e Valeria Marini. I quattro sono finiti al televoto dopo l'uscita di Alex Belli.",
+   "body": "Nella puntata di questa sera del Grande Fratello Vip 9 verrà svelato il nuovo eliminato dopo l'uscita di Alex Belli, avvenuta tre giorni fa. Al televoto della scorsa settimana sono finiti Andreas Muller, Carmen Di Pietro, Giulia Provvedi e Valeria Marini, e sarà il concorrente con il minor numero di voti a lasciare la casa.\n\nSecondo Biccy, la sfida tra i quattro concorrenti è stata seguita con attenzione dal pubblico, e i risultati dei sondaggi hanno acceso il dibattito sui social. Il verdetto sarà reso noto nel corso della serata, come da programma del reality di Canale 5.",
+   "slug": "gf-vip-9-al-televoto-andreas-muller-carmen-di-pietro-giulia-ac03f2",
+   "tags": [
+    "Grande Fratello Vip",
+    "Andreas Muller",
+    "Carmen Di Pietro"
+   ],
+   "scene": "tv",
+   "source": "biccy.it",
+   "url": "https://www.biccy.it/eliminato-del-gf-vip-tra-andreas-carmen-giulia-e-valeria-risultati-dei-sondaggi/",
+   "published": "2026-11-09T00:27:50+00:00"
+  },
+  {
    "id": "180deb6925da",
    "section": "tv",
    "title": "Rivals 2, la seconda stagione torna con la parte 2 e nuovi colpi di scena",
@@ -8266,90 +8351,6 @@
    "source": "BadTaste",
    "url": "https://www.badtaste.it/articoli/grande-fratello-vip-alex-belli-sbotta-contro-andreas-muller-finche-ero-connesso",
    "published": "2026-11-06T12:32:13+00:00"
-  },
-  {
-   "id": "a99aff90cd0b",
-   "section": "tv",
-   "title": "Il Paradiso delle Signore salta la puntata di lunedì 9 novembre",
-   "summary": "La soap di Rai 1 Il Paradiso delle Signore non andrà in onda lunedì 9 novembre, rinunciando al consueto appuntamento pomeridiano. Per recuperare è prevista una puntata speciale.",
-   "body": "La soap opera di Rai 1 Il Paradiso delle Signore non sarà trasmessa lunedì 9 novembre, giorno in cui la serie occupa di solito la fascia pomeridiana della rete. Lo stop riguarda il solo appuntamento del lunedì, mentre il resto della programmazione settimanale resta invariato.\n\nSecondo Movieplayer, per compensare l'assenza è prevista una puntata speciale. Il materiale disponibile non specifica però l'orario esatto né il giorno in cui la soap tornerà regolarmente in onda, informazione che i telespettatori possono verificare sul palinsesto ufficiale della Rai.",
-   "slug": "il-paradiso-delle-signore-salta-la-puntata-di-lunedi-9-novem-a99aff",
-   "tags": [
-    "Il Paradiso delle Signore",
-    "Rai 1"
-   ],
-   "scene": "tv",
-   "source": "Movieplayer",
-   "url": "https://movieplayer.it/news/il-paradiso-delle-signore-non-in-onda-lunedi-9-novembre-quando-torna_171856/",
-   "published": "2026-11-06T12:30:00+00:00"
-  },
-  {
-   "id": "cd727b159a86",
-   "section": "tv",
-   "title": "Rectify, la serie crime sul ritorno in libertà arriva su Netflix",
-   "summary": "La serie Rectify, trasmessa nel 2013 da Sundance TV, è disponibile da poco su Netflix. Il crime racconta la vita di un uomo dopo anni di carcere, ed è stato accostato a Breaking Bad.",
-   "body": "Rectify, la serie ideata da Ray McKinnon e andata in onda nel 2013 su Sundance TV, è approdata in questi giorni sul catalogo di Netflix. Il racconto segue Daniel Holden, un uomo che dopo molti anni passati in carcere torna a vivere nella piccola città della Georgia dove è cresciuto, dovendo fare i conti con una comunità divisa e con il peso del proprio passato.\n\nSecondo Collider, la serie viene indicata come un'opera più riuscita di Breaking Bad, nonostante sia meno conosciuta dal grande pubblico. Il titolo, composto da trenta episodi distribuiti in quattro stagioni, è un dramma crime che indaga più sulle conseguenze di una condanna che sull'azione criminale in sé, e per questo può interessare chi ha apprezzato le serie che esplorano la morale dei personaggi.",
-   "slug": "rectify-la-serie-crime-sul-ritorno-in-liberta-arriva-su-netf-cd727b",
-   "tags": [
-    "Rectify",
-    "Netflix",
-    "Breaking Bad"
-   ],
-   "scene": "streaming",
-   "source": "collider.com",
-   "url": "https://collider.com/breaking-bad-replacement-netflix-crime-series-rectify/",
-   "published": "2026-11-06T12:19:12+00:00"
-  },
-  {
-   "id": "02cc7f878a45",
-   "section": "tv",
-   "title": "The Voice Senior, stasera la semifinale su Rai 1 con Antonella Clerici",
-   "summary": "Stasera su Rai 1 va in onda la semifinale di The Voice Senior condotta da Antonella Clerici, con i coach e i concorrenti impegnati nelle sfide dei Knock Out. La notizia è stata riportata da BadTaste con le anticipazioni della puntata.",
-   "body": "Stasera Rai 1 trasmette la semifinale di The Voice Senior, il talent dedicato ai cantanti over, condotto ancora una volta da Antonella Clerici. Al centro della puntata ci sono le sfide dei Knock Out, il momento in cui i concorrenti si misurano direttamente tra loro davanti ai coach e al pubblico in studio.\n\nSecondo BadTaste, la serata sarà caratterizzata dalla presenza dei giudici e da una selezione di concorrenti in gara, con ospiti e anticipazioni sul programma. Il materiale disponibile non specifica l'elenco completo dei partecipanti né i dettagli di ogni singola sfida, che andranno verificati nella diretta della trasmissione.",
-   "slug": "the-voice-senior-stasera-la-semifinale-su-rai-1-con-antonell-02cc7f",
-   "tags": [
-    "The Voice Senior",
-    "Antonella Clerici",
-    "Rai 1"
-   ],
-   "scene": "palco",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/the-voice-senior-anticipazioni-semifinale-6-novembre-ospiti-coach-e-concorrenti-in-gara",
-   "published": "2026-11-06T12:18:16+00:00"
-  },
-  {
-   "id": "f075b84bc26e",
-   "section": "cinema",
-   "title": "Short Attacks! torna con la call SCHIACCIA SET dedicata allo sport",
-   "summary": "Cinecittà e Rai Cinema hanno lanciato la nuova edizione di Short Attacks!, la call per cortometraggi originali di autrici e autori under 35. Il tema di quest'anno, SCHIACCIA SET, è dedicato allo sport e celebra i 40 anni della Lega Pallavolo Serie A.",
-   "body": "Cinecittà, in collaborazione con Rai Cinema, riapre la call Short Attacks! per cortometraggi originali firmati da autrici e autori under 35. La nuova edizione si intitola SCHIACCIA SET – Visioni dallo sport che non lascia cadere i sogni ed è dedicata al mondo dello sport. Il progetto è legato anche al quarantesimo anniversario della Lega Pallavolo Serie A, che in questo modo entra nel percorso di selezione dei giovani autori.\n\nSecondo quanto riportato da Cinecittà.com, l'iniziativa punta a dare spazio a nuovi talenti del cinema breve, invitandoli a raccontare lo sport con sguardi personali e originali. Il tema scelto unisce così la promozione dei giovani registi alla celebrazione di una delle federazioni sportive più seguite del panorama italiano.",
-   "slug": "short-attacks-torna-con-la-call-schiaccia-set-dedicata-allo-f075b8",
-   "tags": [
-    "Short Attacks!",
-    "Cinecittà",
-    "Rai Cinema"
-   ],
-   "scene": "premiere",
-   "source": "cinecitta.com",
-   "url": "https://cinecitta.com/2026/11/short-attacks-schiaccia-set/",
-   "published": "2026-11-06T12:12:27+00:00"
-  },
-  {
-   "id": "67e3ed6c6947",
-   "section": "cinema",
-   "title": "Il manoscritto di \"Forse che sì forse che no\" acquisito dal Mic",
-   "summary": "Il Ministero della Cultura ha acquisito il manoscritto del romanzo \"Forse che sì forse che no\" di Gabriele d'Annunzio. Il ministro Alessandro Giuli ha parlato di un impegno a restituire alla collettività testimonianze fondamentali.",
-   "body": "Il Ministero della Cultura ha acquisito il manoscritto di \"Forse che sì forse che no\", il romanzo di Gabriele d'Annunzio pubblicato nel 1910. L'operazione rientra in una linea di acquisizioni di documenti legati alla storia letteraria italiana, destinati a essere custoditi e resi accessibili al pubblico.\n\nIl ministro Alessandro Giuli ha commentato l'acquisizione sottolineando la volontà di proseguire su questa strada, con l'obiettivo di restituire alla collettività testimonianze fondamentali del patrimonio culturale nazionale. La notizia è stata diffusa dall'ANSA.",
-   "slug": "il-manoscritto-di-forse-che-si-forse-che-no-acquisito-dal-mi-67e3ed",
-   "tags": [
-    "Gabriele d'Annunzio",
-    "Alessandro Giuli",
-    "Forse che sì forse che no"
-   ],
-   "scene": "pellicola",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/libri/altre_proposte/2026/11/06/il-manoscritto-di-forse-che-si-forse-che-no-di-gabriele-dannunzio-acquisito-dal-mic_b24c5f4e-d05c-4f72-ac7e-1a826533754d.html",
-   "published": "2026-11-06T12:11:47+00:00"
   }
  ],
  "seen": [
@@ -12014,7 +12015,26 @@
   "6fd4ce543dac",
   "5b8340bd4630",
   "207d132ae79b",
-  "7749554e58c4"
+  "7749554e58c4",
+  "7741a4f7cbbe",
+  "e98a55b849db",
+  "b730c5fd52f6",
+  "0732c7f0626b",
+  "dc1f59a6e901",
+  "7a48fc325d37",
+  "ea487ad66f9c",
+  "d486f6cf8185",
+  "63ae84403538",
+  "ac03f2358e61",
+  "13eb6a998220",
+  "3190d0cd2b18",
+  "ac666aa8bcc6",
+  "00494d1afcd9",
+  "4a3b977d0414",
+  "c454b1e42599",
+  "ec2d823bf5a5",
+  "06f41d0306bf",
+  "4d3a4a576cdc"
  ],
  "version": 4,
  "digests": [
