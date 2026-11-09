@@ -1,6 +1,124 @@
 {
  "articles": [
   {
+   "id": "0f300d88fc04",
+   "section": "cinema",
+   "title": "Minnie and Moskowitz torna nelle sale",
+   "summary": "Il film di John Cassavetes Minnie and Moskowitz torna al cinema, offrendo un ritratto vivace e appassionato della New Hollywood. La riedizione arriva in un momento considerato particolarmente adatto dalla testata che la segnala.",
+   "body": "Minnie and Moskowitz, uno dei titoli più personali di John Cassavetes, torna nelle sale cinematografiche. Secondo BadTaste, la pellicola offre un viaggio intenso e senza filtri dentro la stagione della New Hollywood, con uno sguardo libero e appassionato sulle relazioni tra i personaggi.\n\nLa recensione sottolinea che il ritorno sul grande schermo arriva in un momento particolarmente favorevole, utile per riscoprire il lavoro di un autore che ha segnato il cinema indipendente americano. Per gli spettatori italiani è l'occasione di rivedere in sala un film che mescola commedia e malinconia con la libertà stilistica tipica di Cassavetes.",
+   "slug": "minnie-and-moskowitz-torna-nelle-sale-0f300d",
+   "tags": [
+    "Minnie and Moskowitz",
+    "John Cassavetes"
+   ],
+   "scene": "sala",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/focus/minnie-and-moskowitz-e-tornato-al-cinema-e-non-poteva-scegliere-momento-migliore",
+   "published": "2026-11-09T11:18:37+00:00"
+  },
+  {
+   "id": "3cf6c0afb8bd",
+   "section": "cinema",
+   "title": "Godzilla Minus Zero, Yamazaki: il film come risposta a Oppenheimer",
+   "summary": "Il regista Takashi Yamazaki ha rivelato che Godzilla Minus Zero nasce anche da un confronto con Oppenheimer di Christopher Nolan. Una conversazione con il cineasta americano avrebbe contribuito a definire la direzione tematica del sequel di Godzilla Minus One.",
+   "body": "Il regista Takashi Yamazaki ha dichiarato che Godzilla Minus Zero prende spunto anche dal confronto con Oppenheimer, il film con cui Christopher Nolan ha raccontato la figura di Robert Oppenheimer e la nascita della bomba atomica. Secondo quanto riportato da Cinefilos, Yamazaki ha spiegato che uno scambio diretto con Nolan ha aiutato a mettere a fuoco i temi del nuovo capitolo dedicato al kaiju giapponese.\n\nIl sequel di Godzilla Minus One si colloca quindi in un dialogo ideale con il cinema che affronta il peso storico e morale dell'energia nucleare. Il progetto segue il successo del predecessore, premiato anche a livello internazionale per gli effetti visivi, e conferma l'interesse del regista per il legame tra il mostro e le ferite del Giappone del dopoguerra.",
+   "slug": "godzilla-minus-zero-yamazaki-il-film-come-risposta-a-oppenhe-3cf6c0",
+   "tags": [
+    "Godzilla Minus Zero",
+    "Takashi Yamazaki",
+    "Oppenheimer"
+   ],
+   "scene": "pellicola",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/cinema-news/2026/godzilla-minus-zero-regista-rivela-film-nasce-risposta-oppenheimer-729994",
+   "published": "2026-11-09T11:17:36+00:00"
+  },
+  {
+   "id": "46bb42865388",
+   "section": "tv",
+   "title": "Try Each Other's arriva su Tubi, primo accordo streaming per Pubity",
+   "summary": "Il food show Try Each Other's, prodotto dal publisher digitale Pubity, è approdato su Tubi. È il primo accordo di streaming della società con la piattaforma di proprietà di Fox.",
+   "body": "Try Each Other's, serie di cucina molto seguita prodotta dal publisher digitale Pubity, è ora disponibile sulla piattaforma di streaming Tubi. Secondo Deadline, l'accordo segna il primo passaggio della società verso lo streaming con il servizio di proprietà di Fox.\n\nIl programma è un food show in formato lungo. Persone di generazioni e nazionalità diverse si scambiano le rispettive cucine seguendo temi specifici, assaggiando e provando piatti che non conoscono. La formula punta sul confronto tra culture e abitudini alimentari differenti, con un tono leggero e conviviale.",
+   "slug": "try-each-other-s-arriva-su-tubi-primo-accordo-streaming-per-46bb42",
+   "tags": [
+    "Try Each Other's",
+    "Pubity",
+    "Tubi"
+   ],
+   "scene": "streaming",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/pubity-food-series-try-each-others-launches-on-tubi-1237217150/",
+   "published": "2026-11-09T11:12:14+00:00"
+  },
+  {
+   "id": "523243b9404c",
+   "section": "gossip",
+   "title": "Re Haakon e la figlia Ingrid Alexandra al marathon Nice-Cannes",
+   "summary": "Il re di Norvegia Haakon e la principessa Ingrid Alexandra hanno partecipato insieme al marathon Nice-Cannes, passando quasi inosservati. Padre e figlia hanno tagliato il traguardo insieme sulla Croisette.",
+   "body": "Il re di Norvegia Haakon e la figlia, la principessa Ingrid Alexandra, sono stati protagonisti di una sorpresa nel fine settimana sulla Costa Azzurra. I due hanno preso parte al marathon Nice-Cannes, percorso di gara che si conclude sulla Croisette, muovendosi quasi in incognito tra i concorrenti.\n\nSecondo Paris Match, padre e figlia hanno poi attraversato insieme la linea d'arrivo, attirando comunque l'attenzione degli spettatori. La famiglia reale norvegese è stata quindi vista a Cannes in una giornata lontana dagli impegni ufficiali.",
+   "slug": "re-haakon-e-la-figlia-ingrid-alexandra-al-marathon-nice-cann-523243",
+   "tags": [
+    "Haakon di Norvegia",
+    "Ingrid Alexandra di Norvegia",
+    "marathon Nice-Cannes"
+   ],
+   "scene": "premiere",
+   "source": "parismatch.com",
+   "url": "https://www.parismatch.com/aller-retour-en-france-surprise-pour-haakon-ingrid-alexandra-pere-fille-se-font-remarquer-marathon-nice-cannes-6Ee2c2HfZSOEPHaxVOwQF4",
+   "published": "2026-11-09T11:03:32+00:00"
+  },
+  {
+   "id": "02a3a5b6bf83",
+   "section": "cinema",
+   "title": "Black Bag, Cate Blanchett e Michael Fassbender nel thriller di Soderbergh",
+   "summary": "Cate Blanchett e Michael Fassbender sono protagonisti di Black Bag, thriller di spionaggio diretto da Steven Soderbergh. Il film, tra amore e tradimento, arriva su Netflix.",
+   "body": "Black Bag è un thriller di spionaggio diretto da Steven Soderbergh, con Cate Blanchett e Michael Fassbender nei ruoli principali. La storia ruota attorno a una coppia di agenti dei servizi segreti britannici, costretta a fare i conti con sospetti e lealtà messe alla prova da una caccia a una talpa all'interno dei servizi.\n\nIl film è disponibile in streaming su Netflix. Secondo BadTaste, la pellicola mescola la tensione tipica del genere con una riflessione sul rapporto di coppia e sulla fiducia, tenendo lo spettatore in equilibrio tra amore e tradimento fino alla conclusione.",
+   "slug": "black-bag-cate-blanchett-e-michael-fassbender-nel-thriller-d-02a3a5",
+   "tags": [
+    "Black Bag",
+    "Steven Soderbergh",
+    "Cate Blanchett"
+   ],
+   "scene": "streaming",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/cate-blanchett-e-michael-fassbender-su-netflix-in-un-thriller-di-spionaggio-tra-amore-e-tradimento",
+   "published": "2026-11-09T11:00:26+00:00"
+  },
+  {
+   "id": "7b0f9c73475a",
+   "section": "tv",
+   "title": "Stallone vorrebbe Andrew Garfield come villain in Tulsa King",
+   "summary": "Sylvester Stallone ha raccontato di aver trovato una buona intesa con Andrew Garfield e di voler coinvolgerlo nella seconda stagione... Ha immaginato per lui il ruolo di un antagonista intelligente, capace di mettere in difficoltà Dwight Manfredi nella serie Paramount+.",
+   "body": "Sylvester Stallone ha dichiarato di aver trovato un'intesa inaspettata con Andrew Garfield e di desiderare che l'attore britannico entri nel cast di Tulsa King, la serie Paramount+ di cui Stallone è protagonista nei panni di Dwight Manfredi. Secondo quanto riportato da Movieplayer, l'idea dell'interprete di Rocky è affidare a Garfield il ruolo di un antagonista intelligente, che potrebbe anche essere guidato dall'intelligenza artificiale.\n\nIl personaggio avrebbe il compito di mettere in difficoltà il protagonista. Stallone ha lasciato intendere che, con Garfield nel ruolo del villain, la serie cambierebbe parecchio. Al momento si tratta soltanto di un desiderio espresso dall'attore, senza alcuna conferma su un eventuale ingaggio.",
+   "slug": "stallone-vorrebbe-andrew-garfield-come-villain-in-tulsa-king-7b0f9c",
+   "tags": [
+    "Tulsa King",
+    "Sylvester Stallone",
+    "Andrew Garfield"
+   ],
+   "scene": "tv",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/news/sylvester-stallone-andrew-garfield-villain-tulsa-king-tutto-diverso_171883/",
+   "published": "2026-11-09T11:00:11+00:00"
+  },
+  {
+   "id": "ba5198fbc283",
+   "section": "cinema",
+   "title": "Natalia Dyer ed Elijah Wood nel sequel di 1408",
+   "summary": "Natalia Dyer, nota per Stranger Things, ed Elijah Wood si uniscono al cast del sequel di 1408, tratto dal racconto di Stephen King. Tornano John Cusack e Samuel L. Jackson, mentre la regia resta affidata a Mikael Håfström.",
+   "body": "Natalia Dyer, che nella serie Netflix Stranger Things interpreta Nancy Wheeler, e Elijah Wood entrano nel cast del sequel di 1408, il thriller soprannaturale ispirato al racconto di Stephen King. Secondo ComingSoon, i due attori compaiono tra le new entry del progetto.\n\nNel film tornano anche i protagonisti del primo capitolo, John Cusack e Samuel L. Jackson, che riprendono i rispettivi ruoli. La regia è ancora affidata a Mikael Håfström, regista del film originale del 2007. Al momento la fonte non fornisce ulteriori dettagli sulla trama né sulla data di uscita.",
+   "slug": "natalia-dyer-ed-elijah-wood-nel-sequel-di-1408-ba5198",
+   "tags": [
+    "1408",
+    "Natalia Dyer",
+    "Elijah Wood"
+   ],
+   "scene": "pellicola",
+   "source": "ComingSoon",
+   "url": "https://www.comingsoon.it/cinema/news/da-stranger-things-a-stephen-king-natalia-dyer-in-un-sequel-importante/n235478/",
+   "published": "2026-11-09T10:56:00+00:00"
+  },
+  {
    "id": "35d53127a02d",
    "section": "cinema",
    "title": "Jason Bourne 6, Matt Damon potrebbe tornare: a che punto è il progetto",
@@ -8232,122 +8350,6 @@
    "source": "pagesix.com",
    "url": "https://pagesix.com/2026/11/06/society/todrick-hall-says-he-may-never-fully-trust-scooter-braun-again/",
    "published": "2026-11-06T20:04:00+00:00"
-  },
-  {
-   "id": "47e1e1cd0b8a",
-   "section": "tv",
-   "title": "Grey's Anatomy, ABC ordina lo spin-off ambientato in Texas",
-   "summary": "ABC ha ordinato un nuovo spin-off di Grey's Anatomy ambientato in un centro medico rurale del Texas occidentale. Shonda Rhimes torna come produttrice per la serie prevista nel 2027.",
-   "body": "ABC ha dato il via libera a un nuovo spin-off di Grey's Anatomy, questa volta ambientato in un centro medico rurale nel Texas occidentale. Secondo Collider, la serie dovrebbe arrivare nel 2027 e vedrà il ritorno di Shonda Rhimes, creatrice del franchise.\n\nIl progetto amplia l'universo della serie medica più longeva della rete, portando la storia lontano dagli ospedali di Seattle. Al momento il materiale disponibile non chiarisce ulteriori dettagli su cast, trama e personaggi, che potrebbero essere annunciati nei prossimi mesi.",
-   "slug": "grey-s-anatomy-abc-ordina-lo-spin-off-ambientato-in-texas-47e1e1",
-   "tags": [
-    "Grey's Anatomy",
-    "Shonda Rhimes",
-    "ABC"
-   ],
-   "scene": "tv",
-   "source": "collider.com",
-   "url": "https://collider.com/greys-anatomy-texas-spinoff-2027-abc-shonda-rhimes/",
-   "published": "2026-11-06T20:02:50+00:00"
-  },
-  {
-   "id": "653a2cc58489",
-   "section": "gossip",
-   "title": "Joanna Gaines scherza sulla presunta gravidanza annunciata dal marito Chip",
-   "summary": "Joanna Gaines ha raccontato nel podcast di Kylie Kelce che il marito Chip va dicendo in giro che lei sia incinta del sesto figlio, precisando di non esserlo. La conduttrice ha spiegato che il marito spera così di far avverare il desiderio.",
-   "body": "Joanna Gaines ha svelato un curioso retroscena familiare durante un'apparizione del 5 novembre nel podcast \"Not Gonna Lie\", condotto da Kylie Kelce. Secondo quanto riportato da OK Magazine, il marito Chip starebbe raccontando a tutti che la moglie aspetta il sesto figlio. \"Lo dice a tutti, e tanto per essere chiari, non sono incinta\", ha dichiarato lei, sorridendo davanti alla propria sorpresa.\n\nNel racconto, Joanna ha spiegato che Chip sembra convinto che annunciare la notizia possa aiutare a realizzare il progetto di allargare la famiglia. La coppia, nota al pubblico soprattutto per il programma \"Fixer Upper\" e per il marchio di arredamento costruito insieme, ha già quattro figli. L'episodio, raccontato dalla stessa Gaines, mostra un lato leggero della vita privata della coppia, senza ulteriori dettagli su eventuali progetti futuri.",
-   "slug": "joanna-gaines-scherza-sulla-presunta-gravidanza-annunciata-d-653a2c",
-   "tags": [
-    "Joanna Gaines",
-    "Chip Gaines",
-    "Kylie Kelce"
-   ],
-   "scene": "microfono",
-   "source": "okmagazine.com",
-   "url": "https://okmagazine.com/p/joanna-gaines-husband-chip-telling-people-shes-pregnant-sixth-child/",
-   "published": "2026-11-06T20:01:43+00:00"
-  },
-  {
-   "id": "376ef602ccfe",
-   "section": "tv",
-   "title": "Nord Sud Ovest Est, nell'episodio 6 gli 883 arrivano a Los Angeles",
-   "summary": "Nel sesto episodio di Nord Sud Ovest Est Max Pezzali e Mauro Repetto si spostano a Los Angeles, dove è prevista una tappa al Viper Room. La serie racconta il viaggio del duo tra musica e incontri.",
-   "body": "Nel sesto episodio di Nord Sud Ovest Est, la serie dedicata agli 883, Max Pezzali e Mauro Repetto arrivano a Los Angeles. Secondo BadTaste, la puntata include una tappa al celebre club Viper Room, locale noto della scena musicale californiana, dove il duo si confronta con un pubblico lontano da quello italiano.\n\nLe anticipazioni diffuse dalla testata parlano di un episodio centrato sul viaggio americano del gruppo, che il titolo della serie richiama attraverso i quattro punti cardinali. Il materiale disponibile non dettaglia ulteriormente la trama, e per una panoramica completa degli sviluppi conviene consultare la fonte originale o la messa in onda della puntata.",
-   "slug": "nord-sud-ovest-est-nell-episodio-6-gli-883-arrivano-a-los-an-376ef6",
-   "tags": [
-    "Nord Sud Ovest Est",
-    "Max Pezzali",
-    "Mauro Repetto"
-   ],
-   "scene": "tv",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/nord-sud-ovest-est-episodio-6-anticipazioni-gli-883-sbarcano-a-los-angeles",
-   "published": "2026-11-06T19:30:26+00:00"
-  },
-  {
-   "id": "f2d4a158c4a6",
-   "section": "tv",
-   "title": "Una serie Marvel introduce la magia del Dottor Destino di Robert Downey Jr.",
-   "summary": "Una serie televisiva del Marvel Cinematic Universe ha cambiato gli equilibri di potere del franchise, aprendo la strada al Dottor Destino interpretato da Robert Downey Jr. Il personaggio è atteso in Avengers: Doomsday, film che dovrebbe avviare la conclusione di un percorso narrativo.",
-   "body": "Secondo Cinefilos, una delle serie televisive del Marvel Cinematic Universe ha ufficialmente mostrato la magia del Dottor Destino, il personaggio che Robert Downey Jr. interpreterà nel franchise. La serie ha modificato gli equilibri di potere dell'universo narrativo, preparando il terreno per l'arrivo del villain.\n\nIl personaggio è legato soprattutto ad Avengers: Doomsday, che tra i prossimi film Marvel appare come quello di maggiore importanza. Il lungometraggio dovrebbe dare avvio alla conclusione del percorso narrativo costruito negli ultimi anni dal franchise.",
-   "slug": "una-serie-marvel-introduce-la-magia-del-dottor-destino-di-ro-f2d4a1",
-   "tags": [
-    "Robert Downey Jr.",
-    "Avengers: Doomsday",
-    "Marvel Cinematic Universe"
-   ],
-   "scene": "premiere",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/serie-tv/approfondimento/serie-marvel-introdotto-magia-dottor-destino-robert-downey-jr-729802",
-   "published": "2026-11-06T19:22:06+00:00"
-  },
-  {
-   "id": "e9818a7b3d55",
-   "section": "cinema",
-   "title": "The Cat in the Hat: il cast racconta il dietro le quinte dell'animazione",
-   "summary": "Bill Hader, Quinta Brunson, Giancarlo Esposito, Xochitl Gomez, America Ferrera e Tiago Martinez parlano del lavoro sul film d'animazione The Cat in the Hat, dedicato ai personaggi di Dr. Seuss. Nelle interviste raccontano libertà creativa, tecniche vocali inusuali e legami personali con i personaggi.",
-   "body": "Il cast del film d'animazione The Cat in the Hat, uscito nel 2026, ha presentato il lavoro dietro le quinte dei personaggi creati da Dr. Seuss. Bill Hader, Quinta Brunson, Giancarlo Esposito, Xochitl Gomez, America Ferrera e Tiago Martinez hanno raccontato come hanno prestato le proprie voci al progetto, secondo quanto riportato da Collider.\n\nNelle interviste gli attori descrivono una certa libertà nella costruzione dei personaggi e alcune tecniche vocali non convenzionali, usate per dare forma a figure note a generazioni di lettori. Alcuni di loro parlano anche di un legame personale con il materiale originale, che ha contribuito a rendere più intenso il loro coinvolgimento nel film.",
-   "slug": "the-cat-in-the-hat-il-cast-racconta-il-dietro-le-quinte-dell-e9818a",
-   "tags": [
-    "The Cat in the Hat",
-    "Bill Hader",
-    "Quinta Brunson"
-   ],
-   "scene": "ciak",
-   "source": "collider.com",
-   "url": "https://collider.com/video/the-cat-in-the-hat-3-art-styles-created-a-huge-problem-set-stories/",
-   "published": "2026-11-06T19:16:12+00:00"
-  },
-  {
-   "id": "133e91b89b0d",
-   "section": "cinema",
-   "title": "Godzilla Minus Zero, il nuovo antagonista e la storia nel franchise",
-   "summary": "Godzilla Minus Zero mette il re dei mostri di fronte a un avversario con una lunga storia nel franchise giapponese. Il film approfondisce il ritorno di una creatura già nota ai fan della saga.",
-   "body": "Secondo quanto riportato da Screen Rant... Nota: la fonte indicata è slashfilm.com.\n\nGodzilla Minus Zero schiera il re dei mostri contro un avversario scelto a sorpresa, che vanta un passato lungo e articolato nella saga. La notizia sottolinea come la creatura non sia un antagonista inedito, ma un nome già presente in diversi capitoli della serie giapponese.\n\nSecondo SlashFilm, la scelta del villain serve a collegare il nuovo film alla storia del franchise, richiamando episodi precedenti e dando peso allo scontro. Il materiale disponibile è però limitato e non entra nei dettagli su trama, personaggi o date di uscita nelle sale italiane.",
-   "slug": "godzilla-minus-zero-il-nuovo-antagonista-e-la-storia-nel-fra-133e91",
-   "tags": [
-    "Godzilla Minus Zero"
-   ],
-   "scene": "pellicola",
-   "source": "slashfilm.com",
-   "url": "https://www.slashfilm.com/2309537/king-ghidorah-godzilla-minus-zero-villain-explained/",
-   "published": "2026-11-06T19:11:16+00:00"
-  },
-  {
-   "id": "f079cb9cea50",
-   "section": "musica",
-   "title": "Macklemore denuncia che alcune arene americane bloccano il suo tour \"Free Palestine\"",
-   "summary": "Il rapper Macklemore ha dichiarato che il Madison Square Garden e altre arene statunitensi ostacolerebbero il suo tour \"Free Palestine\". Secondo il rapper, in oltre vent'anni di tournée non aveva mai vissuto nulla di simile.",
-   "body": "Il rapper statunitense Macklemore ha denunciato che il Madison Square Garden di New York e altre arene degli Stati Uniti stanno bloccando il suo tour intitolato \"Free Palestine\". Secondo quanto riportato da TheWrap, il musicista ha dichiarato di non aver mai vissuto nulla di simile in più di vent'anni di concerti.\n\nLa fonte non entra nei dettagli su quali sedi abbiano respinto le date né sulle motivazioni ufficiali delle organizzazioni coinvolte. Il titolo del tour richiama il sostegno alla causa palestinese, da tempo al centro del dibattito pubblico e di scelte artistiche controverse negli Stati Uniti. Al momento non risultano dichiarazioni dei gestori dei locali citate nel materiale disponibile.",
-   "slug": "macklemore-denuncia-che-alcune-arene-americane-bloccano-il-s-f079cb",
-   "tags": [
-    "Macklemore",
-    "Madison Square Garden"
-   ],
-   "scene": "palco",
-   "source": "thewrap.com",
-   "url": "https://www.thewrap.com/creative-content/music/macklemore-accuses-us-arenas-blocking-free-palestine-tour/",
-   "published": "2026-11-06T19:10:55+00:00"
   }
  ],
  "seen": [
@@ -12250,7 +12252,31 @@
   "64bb00775087",
   "c1d73947fc5a",
   "7524c66a988b",
-  "ea9753e39e59"
+  "ea9753e39e59",
+  "0f300d88fc04",
+  "0d517ae23cd0",
+  "10b13f80dd0a",
+  "3cf6c0afb8bd",
+  "d00eef0e7b84",
+  "571925e2189d",
+  "5adcc4f452a3",
+  "8fd7183e4ab8",
+  "6ac6aa51d20f",
+  "46bb42865388",
+  "11b78c114674",
+  "02a3a5b6bf83",
+  "d1a99b02efee",
+  "f25304c82c42",
+  "523243b9404c",
+  "b75cfb496439",
+  "53f6f06ff18a",
+  "7b0f9c73475a",
+  "fcd5326768d0",
+  "12849d41740d",
+  "d4cfcdfbbf06",
+  "ba5198fbc283",
+  "394f895a48f9",
+  "8ae1bca04a90"
  ],
  "version": 4,
  "digests": [
