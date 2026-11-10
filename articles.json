@@ -1,6 +1,74 @@
 {
  "articles": [
   {
+   "id": "77b5ad52c2fb",
+   "section": "tv",
+   "title": "Behind Her Eyes, il thriller psicologico Netflix in sei episodi",
+   "summary": "Behind Her Eyes, serie Netflix in sei episodi, trasforma una relazione clandestina in un thriller psicologico ricco di segreti e lealtà che cambiano. Secondo Collider, il finale è particolarmente spiazzante.",
+   "body": "Behind Her Eyes è una miniserie Netflix composta da sei episodi che parte da una relazione extraconiugale e la trasforma in un thriller psicologico. La storia si costruisce attorno a segreti e a alleanze che cambiano di continuo, tenendo lo spettatore con il fiato sospeso fino alla fine.\n\nSecondo Collider, la serie viene indicata come una proposta più riuscita rispetto a You, altro titolo del catalogo della piattaforma con un'impostazione simile. Il finale, descritto come movimentato e inatteso, è uno dei punti che la testata sottolinea maggiormente. La brevità della serie, appena sei puntate, contribuisce a mantenere alto il ritmo narrativo.",
+   "slug": "behind-her-eyes-il-thriller-psicologico-netflix-in-sei-episo-77b5ad",
+   "tags": [
+    "Behind Her Eyes",
+    "Netflix",
+    "You"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/behind-her-eyes-netflix-psychological-thriller/",
+   "published": "2026-11-10T03:12:12+00:00"
+  },
+  {
+   "id": "841ad829c677",
+   "section": "tv",
+   "title": "CIA, Nick Gehlfuss anticipa la svolta oscura di Bill Goodman",
+   "summary": "Nell'ultimo episodio di CIA, Bill Goodman mostra un lato del tutto diverso mentre indaga sul sicario Felix Vincente, interpretato da Sasha Roiz. L'indagine porta Bill a uccidere una persona e a sfiorare di sparare a un'altra.",
+   "body": "Nell'ultimo episodio di CIA, la serie con Nick Gehlfuss nei panni di Bill Goodman, il personaggio mostra un volto completamente diverso da quello visto finora. Bill prosegue le ricerche sul sicario Felix Vincente, interpretato da Sasha Roiz, e questa indagine lo porta a uccidere una persona e a un passo dallo sparare a un'altra.\n\nSecondo TV Insider, Gehlfuss ha parlato del lato oscuro del suo personaggio e ha avvertito che Bill si spezzerà in modi che il pubblico non ha mai visto. L'attore ha anche commentato le conseguenze di questa svolta sul rapporto di collaborazione tra Bill e Colin.",
+   "slug": "cia-nick-gehlfuss-anticipa-la-svolta-oscura-di-bill-goodman-841ad8",
+   "tags": [
+    "CIA",
+    "Nick Gehlfuss",
+    "Sasha Roiz"
+   ],
+   "scene": "tv",
+   "source": "tvinsider.com",
+   "url": "https://www.tvinsider.com/1302483/cia-bill-kidnapped-felix-vincente-killed-father-nick-gehlfuss-interview/",
+   "published": "2026-11-10T03:00:40+00:00"
+  },
+  {
+   "id": "73519612a0d7",
+   "section": "cinema",
+   "title": "Here There Are Blueberries arriva a Broadway al Barrymore Theatre",
+   "summary": "Il docu-dramma Here There Are Blueberries, finalista al Premio Pulitzer, debutta a Broadway dopo il successo Off Broadway di due anni fa. Lo spettacolo racconta la storia di un misterioso gruppo di fotografie inedite di Auschwitz consegnate allo United States Holocaust Memorial Museum nel 2007.",
+   "body": "Here There Are Blueberries approda finalmente a Broadway, con la prima serata al Barrymore Theatre. Il docu-dramma, finalista al Premio Pulitzer, aveva debuttato Off Broadway due anni fa ottenendo grande apprezzamento da parte di pubblico e critica.\n\nSecondo Deadline, lo spettacolo ruota attorno a un nucleo misterioso di fotografie uniche di Auschwitz, consegnate nel 2007 allo United States Holocaust Memorial Museum. La vicenda reale di quelle immagini resta, a detta della testata, intrigante come sempre, e la pièce ne fa il punto di partenza per interrogarsi sulla memoria della Shoah.",
+   "slug": "here-there-are-blueberries-arriva-a-broadway-al-barrymore-th-735196",
+   "tags": [
+    "Here There Are Blueberries",
+    "Barrymore Theatre",
+    "United States Holocaust Memorial Museum"
+   ],
+   "scene": "premiere",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/here-there-are-blueberries-broadway-review-1237216680/",
+   "published": "2026-11-10T03:00:00+00:00"
+  },
+  {
+   "id": "4dc06588adf8",
+   "section": "cinema",
+   "title": "Here There Are Blueberries a Broadway: le foto naziste al centro dello spettacolo",
+   "summary": "Il dramma di Moisés Kaufman e Amanda Gronich sull'Olocausto è in scena a Broadway con un impianto basato su poche immagini. La recensione di TheWrap sottolinea la forza delle fotografie naziste rispetto alle parole.",
+   "body": "Il nuovo spettacolo \"Here There Are Blueberries\" approda a Broadway con la regia e la scrittura di Moisés Kaufman e Amanda Gronich, un testo dedicato all'Olocausto. Secondo la recensione pubblicata da TheWrap, a colpire di più sono alcune fotografie dell'epoca nazista, che riescono a raccontare la storia con una forza superiore a quella di molte battute.\n\nIl giudizio del critico è che nessun attore possa rubare la scena a quelle immagini. Il lavoro di Kaufman e Gronich punta quindi sulla testimonianza visiva, lasciando che le fotografie parlino più del dialogo. Per il pubblico italiano è un titolo da seguire per la sua scelta drammaturgica insolita su uno dei temi più difficili della storia del Novecento.",
+   "slug": "here-there-are-blueberries-a-broadway-le-foto-naziste-al-cen-4dc065",
+   "tags": [
+    "Moisés Kaufman",
+    "Amanda Gronich",
+    "Here There Are Blueberries"
+   ],
+   "scene": "palco",
+   "source": "thewrap.com",
+   "url": "https://www.thewrap.com/creative-content/theater/here-there-are-blueberries-broadway-review/",
+   "published": "2026-11-10T03:00:00+00:00"
+  },
+  {
    "id": "69391ff42252",
    "section": "gossip",
    "title": "Gordon Ramsay e la moglie Tana insieme al Walpole British Luxury Awards",
@@ -8282,91 +8350,9 @@
    "source": "collider.com",
    "url": "https://collider.com/alarum-streaming-hit-prime-video-november-2026/",
    "published": "2026-11-07T13:45:12+00:00"
-  },
-  {
-   "id": "ae8db118e815",
-   "section": "tv",
-   "title": "Bill Maher e il messaggio a Trump dopo le elezioni di metà mandato",
-   "summary": "Nel episodio di Real Time with Bill Maher del 6 novembre, il conduttore ha commentato la sconfitta dei repubblicani alle elezioni di metà mandato. Maher si è rivolto al presidente Donald Trump con un breve messaggio di quattro parole.",
-   "body": "Nel episodio di venerdì 6 novembre di Real Time with Bill Maher, il conduttore ha affrontato l'esito delle elezioni di metà mandato americane, con i democratici che hanno conquistato sia la Camera sia il Senato. Secondo quanto riportato da TV Insider, Maher ha scelto di rivolgersi direttamente al presidente Donald Trump con un messaggio di quattro parole, indirizzato alla forte sconfitta del Partito Repubblicano.\n\nIl programma, che va in onda su HBO, ha dedicato al tema una parte della puntata, nella quale Maher ha commentato la cosiddetta \"blue wave\". Il conduttore ha descritto il voto come un passaggio politico significativo per la presidenza in carica, pur senza entrare, stando al materiale disponibile, in dettagli ulteriori sulle sue dichiarazioni.",
-   "slug": "bill-maher-e-il-messaggio-a-trump-dopo-le-elezioni-di-meta-m-ae8db1",
-   "tags": [
-    "Bill Maher",
-    "Real Time With Bill Maher",
-    "Donald Trump"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1302258/bill-maher-sends-4-word-message-donald-trump-midterm-losses-real-time/",
-   "published": "2026-11-07T13:43:17+00:00"
-  },
-  {
-   "id": "de7df59c10a3",
-   "section": "tv",
-   "title": "Rachel Bilson apre a un ritorno di The O.C. e Hart of Dixie",
-   "summary": "Rachel Bilson, intervenuta al Collider Ladies Night, ha detto la sua sull'eventualità di reboot di The O.C. e Hart of Dixie nella tv di oggi. L'attrice ha parlato di uno spazio possibile per riprendere le due serie che l'hanno resa nota.",
-   "body": "Rachel Bilson è tornata a parlare di The O.C., la serie che l'ha lanciata nei primi anni Duemila nel ruolo di Summer Roberts. Intervenuta al Collider Ladies Night, l'attrice ha risposto alla domanda sulla possibilità che la tv odierna abbia ancora spazio per un reboot della serie e di Hart of Dixie, il medical drama ambientato in una cittadina del Sud degli Stati Uniti in cui recitava accanto a Wilson Bethel.\n\nSecondo Collider, Bilson si è detta pronta a tornare sul progetto, a distanza di ventitré anni dal debutto di The O.C. Il panel ha permesso di affrontare il tema dei revival nel panorama televisivo attuale, dove le serie del passato sono sempre più spesso riprese dalle piattaforme di streaming.",
-   "slug": "rachel-bilson-apre-a-un-ritorno-di-the-o-c-e-hart-of-dixie-de7df5",
-   "tags": [
-    "Rachel Bilson",
-    "The O.C.",
-    "Hart of Dixie"
-   ],
-   "scene": "tv",
-   "source": "collider.com",
-   "url": "https://collider.com/rachel-bilson-the-oc-hart-of-dixie-reboot-possibilities/",
-   "published": "2026-11-07T13:11:12+00:00"
-  },
-  {
-   "id": "4fd7868b094b",
-   "section": "cinema",
-   "title": "Training Day di Denzel Washington disponibile in streaming gratuito",
-   "summary": "Il thriller poliziesco Training Day, con Denzel Washington nel ruolo di un agente corrotto della polizia di Los Angeles, è ora disponibile in streaming gratuito a venticinque anni dall'uscita. Secondo Collider, la pellicola mostra la diffusa corruzione all'interno dell'LAPD.",
-   "body": "Training Day, il thriller poliziesco diretto da Antoine Fuqua, torna disponibile in streaming gratuito a venticinque anni dalla sua uscita al cinema. Secondo Collider, il film è considerato uno dei migliori del genere e offre a Denzel Washington una delle sue interpretazioni più celebrate.\n\nLa storia segue un giovane agente alle prime armi che affianca un detective veterano del dipartimento di polizia di Los Angeles. Il racconto mette in luce una corruzione diffusa tra le forze dell'ordine, tema che ha reso la pellicola un riferimento del cinema d'azione degli anni Duemila. Il film ha valso a Washington il premio Oscar come miglior attore protagonista.",
-   "slug": "training-day-di-denzel-washington-disponibile-in-streaming-g-4fd786",
-   "tags": [
-    "Training Day",
-    "Denzel Washington",
-    "Antoine Fuqua"
-   ],
-   "scene": "streaming",
-   "source": "collider.com",
-   "url": "https://collider.com/denzel-washington-training-day-perfect-crime-thriller-streaming-on-tubi/",
-   "published": "2026-11-07T13:03:12+00:00"
-  },
-  {
-   "id": "33697c76c5a6",
-   "section": "tv",
-   "title": "Monsterverse, nuova serie derivata da Monarch: nel cast anche attori di rilievo",
-   "summary": "Il Monsterverse prepara una nuova serie televisiva derivata da Monarch, la produzione dedicata alle creature giganti nata dal Godzilla del 2014. Nel cast della nuova serie sono annunciati attori di rilievo.",
-   "body": "Il Monsterverse, l'universo cinematografico dedicato a Godzilla e agli altri kaiju nato con il film del 2014, si prepara ad avere una nuova serie televisiva. Il progetto è derivato da Monarch, la serie ideata da Chris Black e Matt Fraction che ha già completato due stagioni e che viene spesso paragonata a un S.H.I.E.L.D. del filone kaiju americano.\n\nSecondo Ecran Large, la nuova produzione sta ampliando il proprio cast con diversi attori di rilievo. Al momento la fonte non fornisce ulteriori dettagli su ruoli, trama o data di uscita della serie.",
-   "slug": "monsterverse-nuova-serie-derivata-da-monarch-nel-cast-anche-33697c",
-   "tags": [
-    "Godzilla",
-    "Monarch",
-    "Chris Black"
-   ],
-   "scene": "streaming",
-   "source": "ecranlarge.com",
-   "url": "https://www.ecranlarge.com/series/news/godzilla-acteurs-rejoignent-serie-monsterverse-monarch",
-   "published": "2026-11-07T13:00:00+00:00"
   }
  ],
  "seen": [
-  "c3a1a9f52ada",
-  "d233b612852a",
-  "fb2370627d27",
-  "37bc4179d7a7",
-  "1aa86891d245",
-  "d9150d6f262b",
-  "662a3e715aee",
-  "b7bc8458f398",
-  "ea55101ea8d3",
-  "b1790851ddd2",
-  "1e0890b2174b",
-  "95e6d9d0b1c6",
-  "2abe8bb0702f",
-  "7ecfe456ea07",
   "6fae0cc8bd39",
   "1af4b2e1a9d3",
   "3c98a1813f52",
@@ -12352,7 +12338,21 @@
   "d46048bd3041",
   "77addbf42e97",
   "e03c64f5a0c1",
-  "e9d3793b2e26"
+  "e9d3793b2e26",
+  "d33d5f0ac6f6",
+  "77b5ad52c2fb",
+  "520dde874295",
+  "841ad829c677",
+  "6c3c944d6d8b",
+  "e9f3888e51eb",
+  "f93680073779",
+  "73519612a0d7",
+  "4dc06588adf8",
+  "e3ed82135a87",
+  "fa4fd14e5143",
+  "947e8a0dded3",
+  "fe6f5aa9cbca",
+  "0443309fc6df"
  ],
  "version": 4,
  "digests": [
