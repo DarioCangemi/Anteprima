@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Hit List – Notizie | Anteprima</title>
+<meta name="description" content="Tutte le notizie di Anteprima su The Hit List.">
+<link rel="canonical" href="https://www.anteprimanews.com/argomenti/the-hit-list.html">
+<meta property="og:site_name" content="Anteprima">
+<meta property="og:type" content="website">
+<meta property="og:title" content="The Hit List – Notizie | Anteprima">
+<meta property="og:description" content="Tutte le notizie di Anteprima su The Hit List.">
+<meta property="og:url" content="https://www.anteprimanews.com/argomenti/the-hit-list.html">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,&lt;svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22&gt;&lt;text y=%22.9em%22 font-size=%2290%22&gt;🎬&lt;/text&gt;&lt;/svg&gt;">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#130f0f;--panel:#1d1616;--line:#3b2a2a;--text:#f4ece8;--muted:#a99b9b;--red:#e8424f;--red-soft:#8f2b34;
+--serif:"Playfair Display",Georgia,"Times New Roman",serif;--sans:Inter,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color-scheme:dark}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:var(--sans);line-height:1.6}
+a{color:inherit;text-decoration:none}
+a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid var(--red);outline-offset:3px}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+header{border-bottom:1px solid var(--line)}
+.top{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:22px 0 18px;flex-wrap:wrap}
+.logo{font-family:var(--serif);font-weight:900;font-size:clamp(2rem,5vw,2.8rem);color:var(--red);line-height:1}
+.date{color:var(--muted);font-size:.85rem}
+.toplinks{display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.toplinks .ig{color:var(--muted);font-size:.9rem}
+.toplinks .ig:hover{color:var(--red)}
+.search input{background:var(--panel);border:1px solid var(--line);border-radius:999px;color:var(--text);padding:7px 14px;font:inherit;font-size:.9rem;width:170px}
+nav{display:flex;gap:6px;overflow-x:auto;padding-bottom:14px}
+nav a{padding:6px 14px;border:1px solid transparent;border-radius:999px;color:var(--muted);font-weight:500;font-size:.95rem;white-space:nowrap}
+nav a:hover{color:var(--text);border-color:var(--red-soft)}
+.ticker{display:flex;align-items:center;gap:14px;border-top:1px solid var(--line);padding:9px 0;font-size:.85rem;overflow:hidden}
+.ticker b{flex:none;color:var(--red);font-size:.7rem;letter-spacing:.14em;text-transform:uppercase}
+.ticker div{display:flex;gap:28px;overflow-x:auto;white-space:nowrap;scrollbar-width:none}
+.ticker a{color:#cdbfbb}
+.ticker a:hover{color:var(--red)}
+.hero{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(0,1fr);gap:44px;padding:34px 0 36px;border-bottom:1px solid var(--line)}
+.lead .cover{margin-bottom:20px}
+.tag{font-size:.78rem;color:var(--red);font-weight:600;letter-spacing:.12em;text-transform:uppercase}
+.lead h1{font-family:var(--serif);font-weight:900;font-size:clamp(2rem,4.2vw,3.1rem);line-height:1.1;letter-spacing:-.015em;margin:8px 0 14px;overflow-wrap:anywhere}
+.lead h1 a:hover{color:var(--red)}
+.lead p{color:#cdbfbb;margin:0 0 14px;font-size:1.12rem;line-height:1.55;max-width:60ch}
+.meta{font-size:.8rem;color:var(--muted)}
+.latest h2{font-family:var(--sans);font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--red);border:0;margin:0 0 6px;padding:0;display:block}
+.latest a{display:block;padding:14px 0;border-bottom:1px solid var(--line)}
+.latest a:last-child{border-bottom:0}
+.latest strong,.mini strong{display:block;font-family:var(--serif);font-weight:700;font-size:1.08rem;line-height:1.28;margin-bottom:4px}
+.latest a:hover strong,.mini a:hover strong{color:var(--red)}
+.cover{display:block;border-radius:4px;overflow:hidden;aspect-ratio:16/9;background:var(--panel)}
+.cover svg{display:block;width:100%;height:100%}
+.week{margin:30px 0 0;padding:20px 22px;background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--red);border-radius:4px}
+.week h2{font-family:var(--serif);font-size:1.35rem;margin:6px 0 8px;border:0;padding:0;display:block}
+.week p{margin:0 0 10px;color:#cdbfbb}
+.more{display:inline-block;margin:10px 0 0;color:var(--red);font-weight:600;font-size:.9rem}
+section{padding:34px 0 8px}
+section h2{font-family:var(--serif);font-weight:900;font-size:1.7rem;letter-spacing:-.01em;margin:0 0 20px;border-bottom:2px solid var(--red);padding-bottom:10px;display:inline-block;padding-right:28px}
+.featured{padding-top:30px;border-bottom:1px solid var(--line);padding-bottom:24px}
+.featured .grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.sec{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:34px;align-items:start}
+.sec .big h3{font-size:1.65rem}
+.mini a{display:block;padding:13px 0;border-bottom:1px solid var(--line)}
+.mini a:first-child{padding-top:0}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:26px 24px}
+.card{display:flex;flex-direction:column;gap:8px;padding-bottom:18px;border-bottom:1px solid var(--line)}
+.card h3{font-family:var(--serif);font-weight:700;font-size:1.2rem;line-height:1.25;letter-spacing:-.005em;margin:2px 0 0;overflow-wrap:anywhere}
+.card:hover h3{color:var(--red)}
+.card p{margin:0;color:#b9aba7;font-size:.92rem;line-height:1.5}
+.empty{color:var(--muted)}
+.note{margin:36px 0 24px;padding:16px 18px;background:var(--panel);border:1px solid var(--line);border-radius:4px;color:var(--muted);font-size:.88rem}
+.post{max-width:760px;padding:34px 0 8px}
+.post h1{font-family:var(--serif);font-weight:900;font-size:clamp(1.8rem,4.5vw,2.6rem);line-height:1.15;margin:8px 0 10px;overflow-wrap:anywhere}
+.post .when{color:var(--muted);font-size:.85rem;margin-bottom:22px;display:block}
+.post .cover{margin:0 0 22px}
+.post .chapo{font-size:1.2rem;line-height:1.5;color:var(--text);font-weight:500;margin:0 0 18px}
+.post .body p{font-size:1.05rem;margin:0 0 16px}
+.chips{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0 0}
+.chip{border:1px solid var(--line);border-radius:999px;padding:4px 12px;font-size:.82rem;color:var(--muted)}
+a.chip:hover{border-color:var(--red);color:var(--text)}
+.share{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:20px 0 0;font-size:.85rem;color:var(--muted)}
+.share a,.share button{background:none;border:1px solid var(--line);border-radius:999px;color:var(--text);padding:5px 14px;font:inherit;font-size:.85rem;cursor:pointer}
+.share a:hover,.share button:hover{border-color:var(--red);color:var(--red)}
+.srcbox{margin:26px 0 0;padding:16px 18px;background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--red);border-radius:4px;font-size:.92rem;color:var(--muted)}
+.srcbox a{color:var(--red);font-weight:600}
+.related{max-width:1120px;padding:10px 0 24px}
+.back{display:inline-block;margin-top:22px;color:var(--muted);font-size:.9rem}
+.back:hover{color:var(--red)}
+.static{max-width:720px;padding:34px 0 8px}
+.static h1{font-family:var(--serif);font-weight:900;font-size:clamp(1.8rem,4.5vw,2.5rem);margin:0 0 18px}
+.static h2{font-family:var(--serif);font-size:1.3rem;margin:26px 0 8px;border:0;padding:0;display:block}
+.static p,.static li{color:#cdbfbb;font-size:1.03rem}
+.static a{color:var(--red)}
+.list li{padding:9px 0;border-bottom:1px solid var(--line);list-style:none}
+.list{padding:0;margin:0}
+.list small{color:var(--muted);display:block}
+.static input[type=search]{width:100%;background:var(--panel);border:1px solid var(--line);border-radius:6px;color:var(--text);padding:11px 14px;font:inherit;font-size:1.05rem;margin:0 0 18px}
+footer{margin-top:48px;border-top:1px solid var(--line);padding:26px 0 36px;color:var(--muted);font-size:.85rem;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+footer .logo{font-size:1.4rem}
+.fnote{margin:6px 0 0;max-width:46ch}
+.flinks{display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap}
+.flinks a:hover{color:var(--red)}
+@media(max-width:860px){.hero,.sec{grid-template-columns:1fr;gap:26px}.featured .grid{grid-template-columns:1fr}.search input{width:130px}}
+</style>
+
+</head>
+<body>
+<header><div class="wrap"><div class="top"><a class="logo" href="/">Anteprima</a><div class="toplinks"><form class="search" action="/cerca.html" role="search"><input type="search" name="q" placeholder="Cerca" aria-label="Cerca nel sito"></form><a class="ig" href="https://www.instagram.com/anteprimanews/" rel="noopener" target="_blank">Instagram</a></div></div><nav aria-label="Sezioni"><a href="/sezione/cinema.html">Cinema</a><a href="/sezione/tv.html">TV e streaming</a><a href="/sezione/musica.html">Musica</a><a href="/sezione/gossip.html">Gossip</a><a href="/argomenti/">Argomenti</a><a href="/settimana/">La settimana</a><a href="/archivio.html">Archivio</a></nav><div class="ticker"><b>Ultime ore</b><div><a href="/notizie/gordon-ramsay-e-la-moglie-tana-insieme-al-walpole-british-lu-69391f.html">Gordon Ramsay e la moglie Tana insieme al Walpole British Luxury Awards</a><a href="/notizie/ncis-il-personaggio-di-ziva-david-resta-insostituibile-eae8c3.html">NCIS, il personaggio di Ziva David resta insostituibile</a><a href="/notizie/fbi-julian-aiden-martinez-spiega-perche-la-storyline-di-eva-86aff8.html">FBI, Julian Aidén Martinez spiega perché la storyline di Eva lo ha frustrato</a><a href="/notizie/mariah-carey-annuncia-nove-date-di-festival-in-europa-nel-20-03f6b0.html">Mariah Carey annuncia nove date di festival in Europa nel 2027</a><a href="/notizie/johnny-depp-e-ti-west-presentano-ebenezer-a-londra-a48574.html">Johnny Depp e Ti West presentano Ebenezer a Londra</a><a href="/notizie/the-burbs-la-seconda-stagione-si-arricchisce-di-nuovi-attori-4a68b0.html">The &#x27;Burbs, la seconda stagione si arricchisce di nuovi attori</a></div></div></div></header>
+<main class="wrap"><section><h2>The Hit List</h2><div class="grid"><a class="card" href="/notizie/the-hit-list-kim-hong-sun-dirige-l-action-coreano-con-jung-w-ca52f9.html"><span class="cover"><svg viewBox="0 0 640 360" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Illustrazione: ciak"><defs><linearGradient id="gca52f90cfe4b" gradientTransform="rotate(302 .5 .5)"><stop offset="0" stop-color="#2a1d1d"/><stop offset="1" stop-color="#130f0f"/></linearGradient></defs><rect width="640" height="360" fill="url(#gca52f90cfe4b)"/><circle cx="382" cy="127" r="132" fill="#e8424f" opacity=".07"/><circle cx="547" cy="68" r="101" fill="#e8424f" opacity=".07"/><circle cx="439" cy="174" r="138" fill="#e8424f" opacity=".07"/><rect x="180" y="140" width="280" height="160" rx="6" fill="#1d1616" stroke="#f4ece8" stroke-width="5"/><rect x="204" y="168" width="180" height="8" rx="4" fill="#f4ece8" opacity=".4"/><rect x="204" y="202" width="160" height="8" rx="4" fill="#f4ece8" opacity=".4"/><rect x="204" y="236" width="140" height="8" rx="4" fill="#f4ece8" opacity=".4"/><g transform="rotate(-13 180 138)"><rect x="180" y="100" width="280" height="38" fill="#f4ece8"/><polygon points="190,100 218,100 198,138 170,138" fill="#e8424f"/><polygon points="246,100 274,100 254,138 226,138" fill="#e8424f"/><polygon points="302,100 330,100 310,138 282,138" fill="#e8424f"/><polygon points="358,100 386,100 366,138 338,138" fill="#e8424f"/><polygon points="414,100 442,100 422,138 394,138" fill="#e8424f"/></g><rect x="180" y="140" width="280" height="22" fill="#f4ece8"/><polygon points="196,140 224,140 204,162 176,162" fill="#130f0f"/><polygon points="252,140 280,140 260,162 232,162" fill="#130f0f"/><polygon points="308,140 336,140 316,162 288,162" fill="#130f0f"/><polygon points="364,140 392,140 372,162 344,162" fill="#130f0f"/><polygon points="420,140 448,140 428,162 400,162" fill="#130f0f"/><rect x="0" y="352" width="640" height="8" fill="#e8424f"/></svg></span><h3>The Hit List: Kim Hong-sun dirige l&#x27;action coreano con Jung Woo-sung</h3><p>È iniziata la produzione di The Hit List, action coreano diretto da Kim Hong-sun con Jung Woo-sung e Wi Ha-jun. Il progetto è già tra i più attesi del prossimo futuro nel genere.</p><span class="meta">Cineblog – 10 novembre 2026</span></a><a class="card" href="/notizie/the-hit-list-il-film-d-azione-di-kim-hong-sun-affidato-a-fin-7a48fc.html"><span class="cover"><svg viewBox="0 0 640 360" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Illustrazione: ciak"><defs><linearGradient id="g7a48fc325d37" gradientTransform="rotate(273 .5 .5)"><stop offset="0" stop-color="#2a1d1d"/><stop offset="1" stop-color="#130f0f"/></linearGradient></defs><rect width="640" height="360" fill="url(#g7a48fc325d37)"/><circle cx="33" cy="124" r="103" fill="#e8424f" opacity=".07"/><circle cx="370" cy="206" r="71" fill="#e8424f" opacity=".07"/><circle cx="342" cy="282" r="156" fill="#e8424f" opacity=".07"/><rect x="180" y="140" width="280" height="160" rx="6" fill="#1d1616" stroke="#f4ece8" stroke-width="5"/><rect x="204" y="168" width="180" height="8" rx="4" fill="#f4ece8" opacity=".4"/><rect x="204" y="202" width="160" height="8" rx="4" fill="#f4ece8" opacity=".4"/><rect x="204" y="236" width="140" height="8" rx="4" fill="#f4ece8" opacity=".4"/><g transform="rotate(-13 180 138)"><rect x="180" y="100" width="280" height="38" fill="#f4ece8"/><polygon points="190,100 218,100 198,138 170,138" fill="#e8424f"/><polygon points="246,100 274,100 254,138 226,138" fill="#e8424f"/><polygon points="302,100 330,100 310,138 282,138" fill="#e8424f"/><polygon points="358,100 386,100 366,138 338,138" fill="#e8424f"/><polygon points="414,100 442,100 422,138 394,138" fill="#e8424f"/></g><rect x="180" y="140" width="280" height="22" fill="#f4ece8"/><polygon points="196,140 224,140 204,162 176,162" fill="#130f0f"/><polygon points="252,140 280,140 260,162 232,162" fill="#130f0f"/><polygon points="308,140 336,140 316,162 288,162" fill="#130f0f"/><polygon points="364,140 392,140 372,162 344,162" fill="#130f0f"/><polygon points="420,140 448,140 428,162 400,162" fill="#130f0f"/><rect x="0" y="352" width="640" height="8" fill="#e8424f"/></svg></span><h3>The Hit List, il film d&#x27;azione di Kim Hong-sun affidato a Finecut per le vendite</h3><p>La società coreana Finecut ha acquisito i diritti internazionali di The Hit List, film d&#x27;arti marziali diretto da Kim Hong-sun, regista di Gangs of London. Il progetto riunisce il regista con alcuni collaboratori della serie.</p><span class="meta">deadline.com – 9 novembre 2026</span></a></div></section></main>
+<footer class="wrap"><div><span class="logo">Anteprima</span><p class="fnote">Cinema, TV, musica e spettacolo. Testi redatti con l’ausilio di strumenti di intelligenza artificiale.</p></div><nav class="flinks" aria-label="Informazioni"><a href="/chi-siamo.html">Chi siamo</a><a href="/contatti.html">Contatti</a><a href="/privacy.html">Privacy</a><a href="https://www.instagram.com/anteprimanews/" rel="noopener" target="_blank">Instagram</a></nav></footer>
+</body>
+</html>
