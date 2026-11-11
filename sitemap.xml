@@ -11,6 +11,7 @@
 <url><loc>https://www.anteprimanews.com/chi-siamo.html</loc><lastmod>2026-11-02</lastmod></url>
 <url><loc>https://www.anteprimanews.com/contatti.html</loc><lastmod>2026-11-02</lastmod></url>
 <url><loc>https://www.anteprimanews.com/privacy.html</loc><lastmod>2026-11-02</lastmod></url>
+<url><loc>https://www.anteprimanews.com/argomenti/netflix.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/stefano-de-martino.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/lanterns.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/james-gunn.html</loc><lastmod>2026-11-11</lastmod></url>
@@ -19,6 +20,9 @@
 <url><loc>https://www.anteprimanews.com/argomenti/harry-potter.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/beautiful.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/canale-5.html</loc><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://www.anteprimanews.com/argomenti/dustin-hoffman.html</loc><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://www.anteprimanews.com/argomenti/chiaroscuro.html</loc><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://www.anteprimanews.com/argomenti/pierpaolo-spollon.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/avengers-doomsday.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/paul-bettany.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/anthony-mackie.html</loc><lastmod>2026-11-11</lastmod></url>
@@ -36,7 +40,6 @@
 <url><loc>https://www.anteprimanews.com/argomenti/godzilla-minus-one.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/the-age-of-innocence.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/edith-wharton.html</loc><lastmod>2026-11-11</lastmod></url>
-<url><loc>https://www.anteprimanews.com/argomenti/netflix.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/max-pezzali.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/883.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/marvel-studios.html</loc><lastmod>2026-11-11</lastmod></url>
@@ -48,8 +51,6 @@
 <url><loc>https://www.anteprimanews.com/argomenti/colin-farrell.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/sugar.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/apple-tv.html</loc><lastmod>2026-11-11</lastmod></url>
-<url><loc>https://www.anteprimanews.com/argomenti/chiaroscuro.html</loc><lastmod>2026-11-11</lastmod></url>
-<url><loc>https://www.anteprimanews.com/argomenti/pierpaolo-spollon.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/carlo-conti.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/madonna.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/florence-pugh.html</loc><lastmod>2026-11-11</lastmod></url>
@@ -135,8 +136,6 @@
 <url><loc>https://www.anteprimanews.com/argomenti/masterchef.html</loc><lastmod>2026-11-10</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/fbi.html</loc><lastmod>2026-11-10</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/peacock.html</loc><lastmod>2026-11-10</lastmod></url>
-<url><loc>https://www.anteprimanews.com/argomenti/the-hit-list.html</loc><lastmod>2026-11-10</lastmod></url>
-<url><loc>https://www.anteprimanews.com/argomenti/kim-hong-sun.html</loc><lastmod>2026-11-10</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/denis-villeneuve.html</loc><lastmod>2026-11-10</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/alex-belli.html</loc><lastmod>2026-11-09</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/marina-la-rosa.html</loc><lastmod>2026-11-09</lastmod></url>
@@ -167,10 +166,12 @@
 <url><loc>https://www.anteprimanews.com/argomenti/hunger-games.html</loc><lastmod>2026-11-09</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/love-is-blind.html</loc><lastmod>2026-11-09</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/the-gilded-age.html</loc><lastmod>2026-11-09</lastmod></url>
-<url><loc>https://www.anteprimanews.com/argomenti/julian-fellowes.html</loc><lastmod>2026-11-09</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/morgan-spector.html</loc><lastmod>2026-11-09</lastmod></url>
 <url><loc>https://www.anteprimanews.com/argomenti/wanted.html</loc><lastmod>2026-11-09</lastmod></url>
 <url><loc>https://www.anteprimanews.com/settimana/2026-w45.html</loc><lastmod>2026-11-08</lastmod></url>
+<url><loc>https://www.anteprimanews.com/notizie/juno-arriva-su-disney-il-film-di-jason-reitman-e-diablo-cody-959a7e.html</loc><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://www.anteprimanews.com/notizie/one-piece-gli-episodi-finali-dell-arco-whole-cake-island-arr-9bdf55.html</loc><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://www.anteprimanews.com/notizie/flavia-capitani-pubblica-un-libro-su-marina-abramovic-a0fc3d.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/sanremo-2027-i-big-saranno-annunciati-l-11-dicembre-durante-bc9e15.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/lanterns-lo-showrunner-il-rinnovo-per-la-seconda-stagione-e-79ab22.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/house-of-the-dragon-4-la-quarta-e-ultima-stagione-in-arrivo-f7e3db.html</loc><lastmod>2026-11-11</lastmod></url>
@@ -178,6 +179,8 @@
 <url><loc>https://www.anteprimanews.com/notizie/beautiful-le-trame-della-settimana-dal-14-al-20-novembre-su-b0429d.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/samson-et-dalila-torna-a-bologna-in-concerto-dopo-diciotto-a-0f822f.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/napoli-l-archivio-di-stato-ospita-il-festival-della-poesia-d-82dff9.html</loc><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://www.anteprimanews.com/notizie/dustin-hoffman-racconta-le-difficolta-sul-set-di-rain-man-518828.html</loc><lastmod>2026-11-11</lastmod></url>
+<url><loc>https://www.anteprimanews.com/notizie/chiaroscuro-su-netflix-una-nuova-serie-italiana-tra-arte-e-c-a9e79c.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/brian-molko-dei-placebo-si-scaglia-contro-il-pubblico-durant-2e29d7.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/alanis-morissette-si-dichiara-pansessuale-durante-il-podcast-daecec.html</loc><lastmod>2026-11-11</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/paul-bettany-potrebbe-tornare-in-avengers-doomsday-nei-panni-b7f352.html</loc><lastmod>2026-11-11</lastmod></url>
@@ -666,9 +669,4 @@
 <url><loc>https://www.anteprimanews.com/notizie/star-trek-worf-rischiava-di-non-esistere-per-il-veto-di-rodd-38d045.html</loc><lastmod>2026-11-09</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/the-remarried-empress-diventa-un-rivale-di-bridgerton-su-dis-3d8b2c.html</loc><lastmod>2026-11-09</lastmod></url>
 <url><loc>https://www.anteprimanews.com/notizie/lacma-art-film-gala-2026-garfield-e-barbaro-sul-red-carpet-s-7d904d.html</loc><lastmod>2026-11-09</lastmod></url>
-<url><loc>https://www.anteprimanews.com/notizie/hello-tomorrow-la-serie-apple-tv-con-billy-crudup-spesso-dim-b929a2.html</loc><lastmod>2026-11-09</lastmod></url>
-<url><loc>https://www.anteprimanews.com/notizie/the-wolverine-torna-al-successo-in-streaming-su-hbo-max-6dd3af.html</loc><lastmod>2026-11-09</lastmod></url>
-<url><loc>https://www.anteprimanews.com/notizie/the-gilded-age-la-premiere-della-terza-stagione-stabilisce-u-0732c7.html</loc><lastmod>2026-11-09</lastmod></url>
-<url><loc>https://www.anteprimanews.com/notizie/the-hit-list-il-film-d-azione-di-kim-hong-sun-affidato-a-fin-7a48fc.html</loc><lastmod>2026-11-09</lastmod></url>
-<url><loc>https://www.anteprimanews.com/notizie/kpop-demon-hunters-i-registi-svelano-i-segreti-di-produzione-9fdc7d.html</loc><lastmod>2026-11-09</lastmod></url>
 </urlset>
