@@ -1,6 +1,72 @@
 {
  "articles": [
   {
+   "id": "718df4b718aa",
+   "section": "tv",
+   "title": "The Rings of Power 2: il riepilogo prima del ritorno su Prime Video",
+   "summary": "Prime Video si prepara a riportare on line The Rings of Power, la serie fantasy ambientata nella Terza Era della Terra di Mezzo. In vista del nuovo episodio è stato pubblicato un riepilogo degli eventi chiave e dei colpi di scena della seconda stagione.",
+   "body": "La serie fantasy tratta dalle opere di Tolkien torna su Prime Video con un nuovo appuntamento settimanale. Per chi non ricordasse le vicende della seconda stagione, secondo Collider la testata americana ha preparato un riepilogo dei principali sviluppi narrativi e dei colpi di scena che hanno segnato la trama, utile per ritrovare il filo prima della messa in onda.\n\nIl recap ripercorre le linee narrative che portano allo sviluppo della nuova stagione, offrendo ai telespettatori un punto di partenza per seguire i personaggi nelle prossime puntate. La serie, prodotta da Amazon, è una delle produzioni fantasy più costose della piattaforma e continua a far discutere il pubblico italiano.",
+   "slug": "the-rings-of-power-2-il-riepilogo-prima-del-ritorno-su-prime-718df4",
+   "tags": [
+    "The Rings of Power",
+    "Prime Video"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/rings-of-power-season-2-recap-prime-video/",
+   "published": "2026-11-11T00:18:12+00:00"
+  },
+  {
+   "id": "34cc82503fa8",
+   "section": "cinema",
+   "title": "Wildwood, il distributore messicano ordina un nuovo doppiaggio",
+   "summary": "Il distributore messicano Imagem Films Mx pubblicherà una versione alternativa in spagnolo del film d'animazione Wildwood il 12 novembre, due settimane dopo l'uscita nelle sale. La decisione arriva dopo le polemiche sul cast vocale, composto da celebrità e influencer.",
+   "body": "Il distributore messicano Imagem Films Mx ha deciso di far realizzare un nuovo doppiaggio in spagnolo di Wildwood, il film d'animazione che sarà disponibile in una versione alternativa a partire dal 12 novembre. La data arriva appena due settimane dopo il debutto originale nelle sale del Messico.\n\nLa scelta segue le critiche del pubblico nei confronti del cast vocale della versione iniziale, affidata a volti noti del mondo dello spettacolo e a influencer. Secondo cartoonbrew.com, il malcontento ha spinto la società a intervenire sul doppiaggio, senza che il materiale disponibile chiarisca i dettagli della nuova edizione.",
+   "slug": "wildwood-il-distributore-messicano-ordina-un-nuovo-doppiaggi-34cc82",
+   "tags": [
+    "Wildwood",
+    "Imagem Films Mx"
+   ],
+   "scene": "sala",
+   "source": "cartoonbrew.com",
+   "url": "https://www.cartoonbrew.com/voice-acting/wildwood-new-spanish-language-dub-269270.html",
+   "published": "2026-11-11T00:16:18+00:00"
+  },
+  {
+   "id": "4f20f755d625",
+   "section": "tv",
+   "title": "Boy Meets World, Rider Strong racconta le differenze di compenso nell'ultima stagione",
+   "summary": "Rider Strong ha parlato apertamente della grande differenza di compenso tra lui e Ben Savage durante la settima e ultima stagione di Boy Meets World. La serie, nata negli anni Novanta, era un volto noto del pubblico italiano.",
+   "body": "Rider Strong, che in Boy Meets World interpretava Shawn Hunter, ha raccontato in un'intervista quanto fosse ampia la distanza economica tra lui e il collega Ben Savage, protagonista della serie nel ruolo di Cory Matthews. Secondo quanto riportato da E! Online, la differenza di compenso è emersa in modo particolare durante la settima e ultima stagione dello show.\n\nLe dichiarazioni di Strong arrivano a distanza di anni dalla conclusione della serie, che ha segnato un'intera generazione di spettatori. L'attore ha affrontato il tema con franchezza, senza entrare nel dettaglio di cifre precise, offrendo uno sguardo inedito sul dietro le quinte di una delle sitcom più amate della televisione americana.",
+   "slug": "boy-meets-world-rider-strong-racconta-le-differenze-di-compe-4f20f7",
+   "tags": [
+    "Boy Meets World",
+    "Rider Strong",
+    "Ben Savage"
+   ],
+   "scene": "tv",
+   "source": "eonline.com",
+   "url": "https://www.eonline.com/news/1438000/boy-meets-world-cast-rider-strong-reveal-salary-disparity-in-final-season?cmpid=rss-syndicate-genericrss-us-top_stories",
+   "published": "2026-11-11T00:11:27+00:00"
+  },
+  {
+   "id": "fc058063dcfa",
+   "section": "cinema",
+   "title": "Big Tiger, action ambientato a Manila con Luke Goss e Katherine McNamara",
+   "summary": "La società VMI avvia le vendite al American Film Market del thriller d'azione Big Tiger, ambientato a Manila. Nel cast Luke Goss, Katherine McNamara, Byron Mann e Alden Richards, con la regia di Keoni Waxman.",
+   "body": "La società di distribuzione VMI ha annunciato l'avvio delle vendite internazionali, previste all'American Film Market, per Big Tiger, film d'azione ambientato a Manila. Secondo Deadline, la pellicola è diretta da Keoni Waxman, regista noto per il suo lavoro nel genere, già autore di A Dangerous Man.\n\nNel cast figurano Luke Goss, Katherine McNamara, Byron Mann e Alden Richards. La produzione è affidata a Lux Angeles Studios, Birns & Sawyer e Myriad Entertainment. La trama segue un temuto esecutore della malavita filippina, un personaggio al centro di una storia di violenza e tensione nel mondo criminale di Manila.",
+   "slug": "big-tiger-action-ambientato-a-manila-con-luke-goss-e-katheri-fc0580",
+   "tags": [
+    "Big Tiger",
+    "Luke Goss",
+    "Keoni Waxman"
+   ],
+   "scene": "proiettore",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/katherine-mcnamara-luke-goss-film-big-tiger-heads-to-afm-1237219568/",
+   "published": "2026-11-11T00:06:40+00:00"
+  },
+  {
    "id": "0cc569590e8d",
    "section": "tv",
    "title": "Bruno Tonioli a Extra: i professionisti di Dancing with the Stars sono come figli",
@@ -8294,92 +8360,9 @@
    "source": "ANSA Cinema",
    "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/08/look-back-tutta-la-poesia-di-kore-eda-in-un-manga_81317e3d-7e84-459f-97ea-3e4704b64723.html",
    "published": "2026-11-08T14:18:15+00:00"
-  },
-  {
-   "id": "6d50752cac59",
-   "section": "tv",
-   "title": "Lawrence Saint-Victor brilliante nel ruolo di Carter in Beautiful",
-   "summary": "L'attore Lawrence Saint-Victor è stato premiato come interprete della settimana per la sua prova nei panni di Carter Walton in The Bold and the Beautiful. Il personaggio, travolto dalle bugie costruite per salvare i matrimoni suoi e di Steffy, mostra un forte peso emotivo.",
-   "body": "Lawrence Saint-Victor è stato scelto come interprete diurno della settimana secondo TV Insider, per la sua interpretazione di Carter Walton in The Bold and the Beautiful. Nella soap, il personaggio ha trovato una soluzione rapida per spiegare la gravidanza nata da una notte tra lui e Steffy, interpretata da Jacqueline MacInnes Wood, quando entrambi credevano chiusi i rispettivi matrimoni. La versione inventata prevede che il bambino sia stato offerto a Daphne.\n\nIl piano, pensato per salvare due unioni, comincia però a pesare sul personaggio. Secondo la testata americana, le menzogne costruite da Carter lo stanno portando a una spirale emotiva che l'attore rende con grande intensità. Il riconoscimento sottolinea proprio questa dimensione drammatica, che mette al centro il prezzo personale delle bugie raccontate ai propri cari.",
-   "slug": "lawrence-saint-victor-brilliante-nel-ruolo-di-carter-in-beau-6d5075",
-   "tags": [
-    "The Bold and the Beautiful",
-    "Lawrence Saint-Victor",
-    "Jacqueline MacInnes Wood"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1302206/bold-and-the-beautiful-carter-steffy-baby-ridge-lawrence-saint-victor/",
-   "published": "2026-11-08T14:00:57+00:00"
-  },
-  {
-   "id": "89f189c55dd5",
-   "section": "cinema",
-   "title": "Godzilla Minus Zero: i riferimenti nascosti ai film precedenti",
-   "summary": "Godzilla Minus Zero contiene numerosi easter egg, dai richiami ai classici con Ghidorah fino a Shin Godzilla. Secondo JoBlo, sono dieci i riferimenti che molti spettatori potrebbero non aver notato.",
-   "body": "Il film Godzilla Minus Zero è ricco di easter egg, cioè di riferimenti nascosti pensati per i fan della saga. Secondo JoBlo, tra questi ci sono richiami ai classici della serie che vedono protagonista Ghidorah, il mostro a tre teste, e collegamenti con Shin Godzilla, il film giapponese che ha rilanciato il personaggio in anni recenti.\n\nIl sito ha raccolto dieci di questi dettagli, pensati per chi conosce a fondo la storia del kaiju e vuole cogliere le citazioni disseminate lungo la pellicola. Si tratta di rimandi visivi e narrativi che collegano il nuovo capitolo al passato del franchise, offrendo una lettura più ricca a chi riguarda il film con attenzione.",
-   "slug": "godzilla-minus-zero-i-riferimenti-nascosti-ai-film-precedent-89f189",
-   "tags": [
-    "Godzilla Minus Zero",
-    "Shin Godzilla",
-    "Ghidorah"
-   ],
-   "scene": "pellicola",
-   "source": "joblo.com",
-   "url": "https://www.joblo.com/godzilla-minus-zero-10-huge-easter-eggs-and-references-you-might-have-missed/",
-   "published": "2026-11-08T14:00:00+00:00"
-  },
-  {
-   "id": "8d367654da37",
-   "section": "cinema",
-   "title": "Alla Gypsotheca Canova di Possagno il bozzetto del monumento a Nelson",
-   "summary": "La Gypsotheca Canova di Possagno ospita un'esposizione dedicata al monumento a Nelson, l'eroe di Trafalgar, aperta fino al 25 aprile 2027. L'opera di Antonio Canova è al centro del percorso espositivo.",
-   "body": "La Gypsotheca Canova di Possagno, in provincia di Treviso, dedica una mostra al Monumento all'eroe di Trafalgar, l'opera che Antonio Canova realizzò per l'ammiraglio inglese Horatio Nelson. Il percorso espositivo resterà aperto fino al 25 aprile 2027, come riferisce l'ANSA nella sua pagina dedicata a cultura e spettacolo.\n\nL'esposizione mette in luce il rapporto tra lo scultore veneto e il tema della celebrazione dell'eroe militare, un soggetto che Canova affrontò con uno stile solenne. Il titolo scelto per l'evento richiama il giudizio di grandezza e di immortalità attribuito all'opera, qui riproposta al pubblico nel museo che custodisce gran parte dei gessi dello scultore.",
-   "slug": "alla-gypsotheca-canova-di-possagno-il-bozzetto-del-monumento-8d3676",
-   "tags": [
-    "Antonio Canova",
-    "Gypsotheca Canova",
-    "Horatio Nelson"
-   ],
-   "scene": "ciak",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/08/alla-gypsotheca-canova-di-possagno-l-opera-grandiosa-ed-immortale-su-nelson_af7093bb-6fb3-4d6d-97f9-82dba351d47f.html",
-   "published": "2026-11-08T13:38:09+00:00"
-  },
-  {
-   "id": "854c21e11b95",
-   "section": "cinema",
-   "title": "Ercole nelle tavole di Hugo Pratt tra forza e fragilità",
-   "summary": "Cong Edizioni dedica un volume alle tavole di Hugo Pratt sul mito di Ercole, l'eroe greco colto nella sua forza e nelle sue fragilità. Il libro raccoglie il racconto di Fabrizio Paladini e Marco Steiner.",
-   "body": "Il fumettista veneziano Hugo Pratt, creatore di Corto Maltese, è al centro di un nuovo volume pubblicato da Cong Edizioni. Il libro è dedicato a Ercole, una delle figure più celebri della mitologia greca, reinterpretato attraverso le tavole disegnate dall'autore.\n\nSecondo ANSA, il racconto è firmato da Fabrizio Paladini e Marco Steiner, che guidano il lettore nel percorso del personaggio. Al centro dell'opera c'è il contrasto tra la straordinaria potenza fisica dell'eroe e le debolezze umane che lo rendono vicino al lettore contemporaneo.",
-   "slug": "ercole-nelle-tavole-di-hugo-pratt-tra-forza-e-fragilita-854c21",
-   "tags": [
-    "Hugo Pratt",
-    "Fabrizio Paladini",
-    "Marco Steiner"
-   ],
-   "scene": "pellicola",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/libri/ragazzi/2026/11/08/ercole-forza-e-fragilita-delleroe-greco-nelle-tavole-di-hugo-pratt_08631104-a072-4450-9a5f-66686185610a.html",
-   "published": "2026-11-08T13:37:13+00:00"
   }
  ],
  "seen": [
-  "01d0919b188d",
-  "59045c962cdd",
-  "0e43c6f57b94",
-  "f980cb8c3125",
-  "d38795f13aba",
-  "d123e143bf59",
-  "477c63c7c4f6",
-  "445a1a1f1c4e",
-  "9ecea620856d",
-  "688ed24df732",
-  "1f5b16d043d1",
-  "334b039fde81",
-  "7c7fb8d5ea3d",
-  "1ef2303aa26d",
-  "12abb1b6ee90",
   "1326cac7d944",
   "171f4ae383fd",
   "85a085a77e5e",
@@ -12364,7 +12347,22 @@
   "c48bb8398756",
   "c76795922bfe",
   "9a30a47430e9",
-  "5697d487293c"
+  "5697d487293c",
+  "718df4b718aa",
+  "34cc82503fa8",
+  "7f8410ffe806",
+  "16f0d133f486",
+  "4f20f755d625",
+  "8c04724f9c2f",
+  "b694ff7cecb0",
+  "172fd07ce701",
+  "06ac49421e1c",
+  "d9665e37880a",
+  "fc058063dcfa",
+  "8b3a31918251",
+  "918fabc828d6",
+  "798d04f74b30",
+  "e6b786474bff"
  ],
  "version": 4,
  "digests": [
