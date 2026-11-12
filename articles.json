@@ -1,6 +1,142 @@
 {
  "articles": [
   {
+   "id": "8b8c34789da3",
+   "section": "cinema",
+   "title": "James Bond, il toto-attore: chi dovrebbe essere il prossimo 007",
+   "summary": "Il Daily Mail ha aperto un sondaggio per scegliere il prossimo interprete di James Bond, dopo l'addio di Daniel Craig dopo No Time to Die. Tra i nomi proposti figurano Callum Turner, Robert Pattinson e Jack Lowden.",
+   "body": "I produttori della saga di 007 stanno cercando il successore di Daniel Craig, che ha lasciato il ruolo dopo No Time to Die, uscito nel 2021. La scelta del nuovo Bond è uno dei temi più discussi tra i fan del personaggio creato da Ian Fleming e portato sullo schermo per decenni.\n\nSecondo il Daily Mail, il quotidiano britannico ha lanciato un sondaggio che permette ai lettori di votare illoro attore preferito per il ruolo. Nella lista compaiono nomi come Callum Turner, Robert Pattinson e Jack Lowden, tutti attori molto noti nel Regno Unito e apprezzati anche dal pubblico italiano per le loro interpretazioni recenti.",
+   "slug": "james-bond-il-toto-attore-chi-dovrebbe-essere-il-prossimo-00-8b8c34",
+   "tags": [
+    "James Bond",
+    "Daniel Craig",
+    "Robert Pattinson"
+   ],
+   "scene": "pellicola",
+   "source": "dailymail.co.uk",
+   "url": "https://www.dailymail.com/tvshowbiz/article-16284565/Who-James-Bond-Vote-favourite-actor-Callum-Turner-Robert-Pattinson-Jack-Lowden.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "published": "2026-11-12T10:52:28+00:00"
+  },
+  {
+   "id": "83f4d8e58e29",
+   "section": "tv",
+   "title": "Omertà, la serie psicologica in otto episodi ottiene la distribuzione globale",
+   "summary": "Be-Entertainment ha acquisito i diritti di distribuzione internazionale di Omertà, dramma psicologico in otto episodi lanciato su Streamz in Belgio e su Canal+ nei Paesi Bassi. La serie esce in anteprima nei territori d'origine e sarà poi proposta in altri mercati.",
+   "body": "La distributrice belga Be-Entertainment ha ottenuto i diritti di distribuzione globale di Omertà, serie drammatica psicologica composta da otto episodi, al di fuori dei territori di partenza. Secondo quanto riportato da C21 Media, la produzione debutta in Belgio sulla piattaforma Streamz e nei Paesi Bassi su Canal+.\n\nL'accordo consente a Be-Entertainment di proporre il titolo ad altri broadcaster e piattaforme nel mondo, a partire dai mercati che non sono ancora coperti dalla prima messa in onda. Il materiale disponibile non specifica date, cast o ulteriori dettagli sui territori coinvolti nella vendita.",
+   "slug": "omerta-la-serie-psicologica-in-otto-episodi-ottiene-la-distr-83f4d8",
+   "tags": [
+    "Omertà",
+    "Be-Entertainment",
+    "Streamz"
+   ],
+   "scene": "streaming",
+   "source": "c21media.net",
+   "url": "https://www.c21media.net/news/be-entertainment-takes-global-rights-to-canal-streamz-drama-omerta/",
+   "published": "2026-11-12T10:51:47+00:00"
+  },
+  {
+   "id": "7ec4d1935626",
+   "section": "tv",
+   "title": "Line of Duty, prima immagine della stagione 7 con Arnott, Fleming e Hastings",
+   "summary": "La BBC ha diffuso le prime immagini della settima stagione di Line of Duty, il poliziesco di record. Tornano Martin Compston, Vicky McClure e Adrian Dunbar nei panni di Steve Arnott, Kate Fleming e Ted Hastings, con un primo sguardo anche a Robert Carlyle.",
+   "body": "La BBC ha pubblicato un primo sguardo alla settima stagione di Line of Duty, il poliziesco britannico che ha stabilito diversi record di ascolto. Secondo Deadline, nelle immagini tornano Martin Compston, Vicky McClure e Adrian Dunbar, che riprendono i ruoli di Steve Arnott, Kate Fleming e Ted Hastings. Compare anche Robert Carlyle, nei panni del personaggio Shaun Massie.\n\nIl ritorno della serie è molto atteso dal pubblico, che da anni segue le indagini dell'unità anticorruzione della polizia. Le immagini anticipano l'atmosfera della nuova stagione, senza rivelare dettagli sulla trama. Per la messa in onda e le date ufficiali occorre attendere gli annunci della BBC.",
+   "slug": "line-of-duty-prima-immagine-della-stagione-7-con-arnott-flem-7ec4d1",
+   "tags": [
+    "Line of Duty",
+    "Martin Compston",
+    "Robert Carlyle"
+   ],
+   "scene": "streaming",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/line-of-duty-bbc-season-7-first-look-images-1237221458/",
+   "published": "2026-11-12T10:50:25+00:00"
+  },
+  {
+   "id": "6fcab68d38fd",
+   "section": "cinema",
+   "title": "Gal Gadot nel progetto di adattamento cinematografico di Don't Feed the Lion",
+   "summary": "Fox Entertainment Studios e Moriah Media hanno avviato con Gal Gadot e il marito Jaron Varsano, tramite la loro società Pilot Wave Motion Pictures, lo sviluppo di un adattamento per lo schermo di Don't Feed the Lion. La notizia è stata riportata da C21Media.",
+   "body": "Fox Entertainment Studios e Moriah Media lavorano insieme a Gal Gadot, nota per il ruolo di Wonder Woman, e al marito Jaron Varsano, con la loro casa di produzione Pilot Wave Motion Pictures, a una trasposizione cinematografica di Don't Feed the Lion. Il progetto è dunque in fase di sviluppo con i produttori coinvolti, secondo quanto riferito da C21Media.\n\nIl materiale disponibile non indica una data di uscita, un regista o un cast diverso dalla protagonista. Per ora si tratta quindi di un annuncio di sviluppo, che porta nel progetto l'attrice israeliana e la sua società di produzione, già attive nel cinema e nella televisione internazionale.",
+   "slug": "gal-gadot-nel-progetto-di-adattamento-cinematografico-di-don-6fcab6",
+   "tags": [
+    "Gal Gadot",
+    "Don't Feed the Lion",
+    "Fox Entertainment Studios"
+   ],
+   "scene": "ciak",
+   "source": "c21media.net",
+   "url": "https://www.c21media.net/news/gal-gadot-on-board-dont-feed-the-lion-adaptation/",
+   "published": "2026-11-12T10:47:43+00:00"
+  },
+  {
+   "id": "2123398cb61e",
+   "section": "cinema",
+   "title": "Missione: Salvare il Natale arriva su Prime Video con Schwarzenegger",
+   "summary": "Dal 2 dicembre Prime Video propone Missione: Salvare il Natale, film natalizio con Arnold Schwarzenegger e Alan Ritchson. Secondo SuperGuidaTV la pellicola è un'avventura fatta di seconde possibilità e amicizia.",
+   "body": "Con l'avvicinarsi delle feste, Prime Video inserisce nel suo catalogo un nuovo titolo natalizio: Missione: Salvare il Natale, in arrivo sulla piattaforma dal 2 dicembre. Nel cast figurano Arnold Schwarzenegger e Alan Ritchson, due nomi che richiamano il pubblico dell'azione, qui inseriti in una storia dal tono familiare.\n\nSecondo SuperGuidaTV, il film racconta un'avventura di Natale costruita attorno a seconde possibilità e legami di amicizia. Il materiale disponibile non entra nel dettaglio della trama, ma indica chiaramente la vocazione del film come appuntamento per le serate di festa in famiglia.",
+   "slug": "missione-salvare-il-natale-arriva-su-prime-video-con-schwarz-212339",
+   "tags": [
+    "Missione: Salvare il Natale",
+    "Arnold Schwarzenegger",
+    "Alan Ritchson"
+   ],
+   "scene": "streaming",
+   "source": "superguidatv.it",
+   "url": "https://www.superguidatv.it/missione-salvare-il-natale-arriva-il-film-con-schwarzenegger/",
+   "published": "2026-11-12T10:44:47+00:00"
+  },
+  {
+   "id": "58f445d754bd",
+   "section": "cinema",
+   "title": "Tarantino racconta il casting di Bastardi senza gloria tra Laurent e Huppert",
+   "summary": "Nel libro The Making of Quentin Tarantino's Inglourious Basterds, il regista ripercorre il casting del film, con il ripescaggio di Mélanie Laurent e l'esclusione di Isabelle Huppert. Le dichiarazioni sono state raccolte dal giornalista Jay Glennie.",
+   "body": "Nel libro dedicato alla lavorazione di Bastardi senza gloria, Quentin Tarantino ha ripercorso le fasi più difficili del casting. Intervistato da Jay Glennie, il regista ha raccontato di aver riconsiderato una scelta importante prima di tornare su Mélanie Laurent, che poi ha avuto un ruolo centrale nel film.\n\nSecondo ComingSoon, Tarantino ha anche spiegato la decisione di escludere in modo netto Isabelle Huppert dalla selezione. Le parole del regista sono riportate nel volume, che ricostruisce la genesi del film uscito nel 2009 con Brad Pitt e Christoph Waltz.",
+   "slug": "tarantino-racconta-il-casting-di-bastardi-senza-gloria-tra-l-58f445",
+   "tags": [
+    "Quentin Tarantino",
+    "Bastardi senza gloria",
+    "Mélanie Laurent"
+   ],
+   "scene": "ciak",
+   "source": "ComingSoon",
+   "url": "https://www.comingsoon.it/cinema/news/quentin-tarantino-e-la-grande-attrice-licenziata-da-bastardi-senza-gloria/n235729/",
+   "published": "2026-11-12T10:44:00+00:00"
+  },
+  {
+   "id": "7702216f5c3e",
+   "section": "cinema",
+   "title": "La Gradiva di Marine Atlan tra giovinezza e disuguaglianze",
+   "summary": "Il film La Gradiva, esordio al lungometraggio della regista Marine Atlan, racconta il passaggio all'età adulta tra disuguaglianze sociali e un sistema educativo che non offre le stesse opportunità a tutti. Il titolo è stato presentato alla Settimana della Critica del Festival di Cannes 2026.",
+   "body": "Il primo lungometraggio di Marine Atlan, La Gradiva, si interroga su cosa significhi diventare adulti quando il futuro sembra già condizionato dalle disuguaglianze, dalle aspettative sociali e da una scuola che non garantisce a tutti le stesse possibilità. La regista affronta questi temi con uno sguardo personale, legando il racconto di formazione a una riflessione più ampia sul peso delle scelte e sulle origini di ciascuno.\n\nIl film è stato presentato alla Settimana della Critica del Festival di Cannes 2026, dove ha attirato l'attenzione della critica. Secondo Cinefilos, l'opera si distingue per la capacità di unire un tono inquieto alla delicatezza dei personaggi giovani. Il titolo richiama il celebre romanzo di Wilhelm Jensen e le rovine di Pompei, ambientazione che fa da cornice simbolica alla storia.",
+   "slug": "la-gradiva-di-marine-atlan-tra-giovinezza-e-disuguaglianze-770221",
+   "tags": [
+    "La Gradiva",
+    "Marine Atlan",
+    "Festival di Cannes"
+   ],
+   "scene": "premiere",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/tutto-film/recensioni/la-gradiva-recensione-730525",
+   "published": "2026-11-12T10:36:39+00:00"
+  },
+  {
+   "id": "30a7531a4609",
+   "section": "cinema",
+   "title": "Rai Cinema approda su YouTube con corti e docuserie per i giovani",
+   "summary": "Rai Cinema ha inaugurato al Csc Festival di Roma la propria presenza su YouTube, presentata come porta d'accesso al cinema per le nuove generazioni. Il progetto parte con circa 250 cortometraggi e docuserie.",
+   "body": "Rai Cinema approda su YouTube con un nuovo canale dedicato al pubblico giovane. L'iniziativa è stata presentata al Csc Festival di Roma, dove la società l'ha descritta come una porta d'accesso al cinema per i più giovani, pensata per avvicinarli al mondo delle opere audiovisive attraverso una piattaforma che frequentano abitualmente.\n\nIl progetto parte con un catalogo di circa 250 cortometraggi e docuserie. Secondo ANSA, la scelta di puntare su YouTube risponde all'esigenza di raggiungere un pubblico che si informa e si diverte soprattutto online, con contenuti brevi e facilmente fruibili. Il materiale disponibile non specifica ulteriori dettagli su calendario, programmazione o modalità di accesso.",
+   "slug": "rai-cinema-approda-su-youtube-con-corti-e-docuserie-per-i-gi-30a753",
+   "tags": [
+    "Rai Cinema",
+    "Csc Festival di Roma",
+    "YouTube"
+   ],
+   "scene": "streaming",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/12/rai-cinema-sbarca-su-youtube-porta-daccesso-per-i-giovani_58440613-08ee-44c4-ac5c-81dfd96e94a6.html",
+   "published": "2026-11-12T10:36:19+00:00"
+  },
+  {
    "id": "866c51b8a6d9",
    "section": "cinema",
    "title": "Nathan Fillion conferma il ritorno di Guy Gardner in Man of Tomorrow",
@@ -8216,168 +8352,9 @@
    "source": "slashfilm.com",
    "url": "https://www.slashfilm.com/2311748/colin-farrell-90s-sci-fi-movie-remake-total-recall-streaming-prime-video/",
    "published": "2026-11-10T01:51:14+00:00"
-  },
-  {
-   "id": "a485748abae9",
-   "section": "cinema",
-   "title": "Johnny Depp e Ti West presentano Ebenezer a Londra",
-   "summary": "Johnny Depp, il regista Ti West e il cast di Ebenezer hanno partecipato alla premiere mondiale sul red carpet di Leicester Square a Londra. Tra gli interpreti anche Rupert Grint, Sam Claflin ed Ellie Bamber.",
-   "body": "Lunedì il red carpet di Leicester Square, a Londra, si è trasformato in un'atmosfera natalizia per la premiere mondiale di Ebenezer. Sono arrivati Johnny Depp, il regista Ti West e buona parte del cast, tra cui Rupert Grint, Sam Claflin, Tramell Tillman, Ellie Bamber e Robert Strong. La strada era decorata con alberi di Natale e neve artificiale.\n\nSecondo Deadline, l'evento ha richiamato fotografi e curiosi nonostante il freddo. Il film è una rilettura horror del celebre racconto di Dickens Canto di Natale, con Depp al centro della scena.",
-   "slug": "johnny-depp-e-ti-west-presentano-ebenezer-a-londra-a48574",
-   "tags": [
-    "Johnny Depp",
-    "Ti West",
-    "Ebenezer"
-   ],
-   "scene": "premiere",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/johnny-depp-ti-west-london-ebenezer-global-premiere-1237218130/",
-   "published": "2026-11-10T01:24:30+00:00"
-  },
-  {
-   "id": "4a68b0462bfc",
-   "section": "tv",
-   "title": "The 'Burbs, la seconda stagione si arricchisce di nuovi attori",
-   "summary": "Peacock ha rinnovato per una seconda stagione la serie comica e thriller The 'Burbs. Sei interpreti tornano, uno passa al ruolo di protagonista regolare e quattro nuovi attori si uniscono al cast.",
-   "body": "La piattaforma Peacock ha confermato il rinnovo di The 'Burbs, serie che unisce mistero e commedia, per una seconda stagione. Secondo Just Jared, il cast si presenta con diverse novità: sei attori della prima stagione sono confermati, uno dei quali viene promosso a interprete regolare della serie.\n\nNel nuovo ciclo entrano anche quattro attori, di cui la fonte riporta l'arrivo senza che il materiale disponibile ne specifichi i ruoli. Il rinnovo era stato annunciato all'inizio dell'anno. Per i dettagli su personaggi e trama della nuova stagione, occorre attendere ulteriori comunicazioni ufficiali.",
-   "slug": "the-burbs-la-seconda-stagione-si-arricchisce-di-nuovi-attori-4a68b0",
-   "tags": [
-    "The 'Burbs",
-    "Peacock"
-   ],
-   "scene": "streaming",
-   "source": "justjared.com",
-   "url": "https://www.justjared.com/2026/11/09/the-burbs-season-2-cast-six-stars-returning-one-promoted-to-series-regular-four-actors-join/",
-   "published": "2026-11-10T01:13:06+00:00"
-  },
-  {
-   "id": "8138cf870f42",
-   "section": "gossip",
-   "title": "Jennifer Garner ricorda il periodo a Londra con i figli mentre Ben Affleck girava",
-   "summary": "Jennifer Garner ha raccontato un viaggio di sei settimane in Europa con i figli, mentre Ben Affleck era impegnato sul set a Londra. Secondo quanto riportato, anche l'incontro con Ina Garten ha reso speciale quel periodo.",
-   "body": "Jennifer Garner ha ripercorso un capitolo della sua vita privata che ha definito \"incredibile\": un soggiorno di circa sei settimane in Europa insieme ai figli, avvenuto mentre l'ex marito Ben Affleck lavorava a Londra su un set cinematografico. Secondo quanto riportato da Hello! Magazine, l'attrice ha ricordato l'esperienza con affetto, sottolineando il valore di quel tempo trascorso con i bambini.\n\nNel racconto, Garner ha spiegato che a rendere il viaggio particolarmente memorabile è stato anche l'incontro con la celebre chef e scrittrice Ina Garten, che ha contribuito a dare un tono speciale a quelle settimane. La fonte non entra nel dettaglio di date precise o di ulteriori tappe del soggiorno, che restano quindi non specificate.",
-   "slug": "jennifer-garner-ricorda-il-periodo-a-londra-con-i-figli-ment-8138cf",
-   "tags": [
-    "Jennifer Garner",
-    "Ben Affleck",
-    "Ina Garten"
-   ],
-   "scene": null,
-   "source": "hellomagazine.com",
-   "url": "https://www.hellomagazine.com/us/933999/jennifer-garner-makes-rare-confession-about-her-marriage-to-ben-affleck/",
-   "published": "2026-11-10T01:07:46+00:00"
-  },
-  {
-   "id": "c41efcfd76de",
-   "section": "cinema",
-   "title": "Jessica Chastain e il provino per Country Strong, poi il ritorno con lo stesso regista",
-   "summary": "Jessica Chastain ha confermato di aver fatto un provino per il film Country Strong, e ora lavorerà con lo stesso regista nel thriller musicale country Heartland. La notizia è stata riportata da Just Jared.",
-   "body": "Jessica Chastain sarà protagonista di Heartland, nuovo thriller ambientato nel mondo della musica country. L'attrice ha rivelato di aver sostenuto in passato un provino per Country Strong, il film musicale che non l'ha vista nel cast finale.\n\nA distanza di anni, Chastain tornerà a lavorare con il regista che aveva incontrato durante quella selezione. Secondo Just Jared, la collaborazione segna quindi un ritorno sul set con un autore con cui l'attrice aveva già avuto un contatto professionale. Non sono stati forniti ulteriori dettagli su ruolo, data di uscita o distribuzione.",
-   "slug": "jessica-chastain-e-il-provino-per-country-strong-poi-il-rito-c41efc",
-   "tags": [
-    "Jessica Chastain",
-    "Heartland",
-    "Country Strong"
-   ],
-   "scene": "pellicola",
-   "source": "justjared.com",
-   "url": "https://www.justjared.com/2026/11/09/jessica-chastain-confirms-she-auditioned-for-country-strong-movie-is-finally-working-with-same-director-years-later/",
-   "published": "2026-11-10T01:00:58+00:00"
-  },
-  {
-   "id": "914ee0193d70",
-   "section": "tv",
-   "title": "NCIS, James Frain nel cast dell'episodio \"Ride or Die\"",
-   "summary": "James Frain entra nel cast di NCIS per l'episodio \"Ride or Die\" del 17 novembre, in cui Torres complica la sua missione. La CBS ha diffuso la descrizione ufficiale della puntata.",
-   "body": "Nel cast di NCIS arriva James Frain, che comparira nell'episodio \"Ride or Due\"... correzione: nell'episodio intitolato \"Ride or Die\", in onda martedi 17 novembre sulla CBS. Secondo quanto riportato da TV Insider, la trama ruota attorno a Torres, interpretato da Wilmer Valderrama, che viene coinvolto nella guida di un'auto di fuga durante un rapimento.\n\nPer proteggere il bersaglio del sequestro, Torres si infiltra sotto copertura, restando a un passo dall'errore che potrebbe costare caro a lui e a chi lo circonda. La CBS ha diffuso la descrizione ufficiale della puntata, mentre il ruolo specifico affidato a Frain non e' stato ancora descritto nel dettaglio.",
-   "slug": "ncis-james-frain-nel-cast-dell-episodio-ride-or-die-914ee0",
-   "tags": [
-    "NCIS",
-    "James Frain",
-    "Wilmer Valderrama"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1302457/ncis-james-frain-casting-character-torres-season-24/",
-   "published": "2026-11-10T00:53:08+00:00"
-  },
-  {
-   "id": "adc75d972128",
-   "section": "cinema",
-   "title": "Being Heumann: il compositore Francesco Le Metre racconta la colonna sonora",
-   "summary": "Il compositore Francesco Le Metre ha firmato la colonna sonora di Being Heumann, il film Apple Original Films dedicato all'attivista per i diritti delle persone con disabilità Judy Heumann. Ha spiegato di aver cercato un suono onesto e intimo, lontano dall'effetto spettacolare.",
-   "body": "Il compositore Francesco Le Metre ha lavorato alla colonna sonora di Being Heumann, il dramma sui diritti delle persone con disabilità prodotto da Apple Original Films e diretto da Siân Heder. Il punto di partenza, come ha raccontato lui stesso, era restituire con la musica lo spirito di Judy Heumann, la figura centrale del film.\n\nSecondo Deadline, Le Metre ha puntato a una partitura \"onesta e intima\", senza tratti troppo grandi o cinematografici. Ha spiegato di essersi ispirato all'energia della protagonista e a un certo spirito punk rock degli anni Settanta, periodo in cui Heumann si è battuta per i diritti dei disabili. Il risultato è una musica che accompagna la storia senza sovrastarla.",
-   "slug": "being-heumann-il-compositore-francesco-le-metre-racconta-la-adc75d",
-   "tags": [
-    "Being Heumann",
-    "Francesco Le Metre",
-    "Judy Heumann"
-   ],
-   "scene": "cuffie",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/being-heumann-composer-francesco-le-metre-interview-1237217526/",
-   "published": "2026-11-10T00:45:00+00:00"
-  },
-  {
-   "id": "86f677a044e3",
-   "section": "tv",
-   "title": "Netflix ordina due stagioni della serie animata Midnight Sun",
-   "summary": "Netflix ha ordinato due stagioni della serie animata per adulti Midnight Sun, adattamento del romanzo di Stephenie Meyer che racconta la saga di Twilight dal punto di vista di Edward Cullen. Showrunner sarà Sinead Daly, mentre Lynn Wang sarà supervising director.",
-   "body": "Netflix ha deciso di produrre due stagioni della serie animata per adulti Midnight Sun, tratta dal romanzo complementare di Stephenie Meyer. La storia segue la vicenda di Twilight attraverso gli occhi di Edward Cullen, il vampiro protagonista della saga. L'annuncio è arrivato da Kevin Beggs, responsabile di Lionsgate TV, la società che sviluppa il progetto.\n\nAlla guida della serie ci sarà Sinead Daly come showrunner, mentre Lynn Wang curerà la regia come supervising director. Secondo quanto riportato da AWN, l'ordine riguarda due stagioni complete e non un semplice episodio pilota. Al momento non sono state comunicate date di uscita né altri dettagli sul cast.",
-   "slug": "netflix-ordina-due-stagioni-della-serie-animata-midnight-sun-86f677",
-   "tags": [
-    "Midnight Sun",
-    "Stephenie Meyer",
-    "Netflix"
-   ],
-   "scene": "streaming",
-   "source": "awn.com",
-   "url": "https://www.awn.com/news/netflix-orders-2-seasons-animated-twilight-series-midnight-sun",
-   "published": "2026-11-10T00:42:24+00:00"
-  },
-  {
-   "id": "11710d4fbbf8",
-   "section": "cinema",
-   "title": "Fjord di Cristian Mungiu vince l'audience award al Jakarta World Cinema",
-   "summary": "Fjord, film di Cristian Mungiu premiato con la Palma d'Oro a Cannes 2026, ha ottenuto l'audience award al Jakarta World Cinema. Il riconoscimento conferma il consenso del pubblico internazionale per il film.",
-   "body": "Il film Fjord, diretto dal regista romeno Cristian Mungiu, ha conquistato l'audience award al Jakarta World Cinema, il festival indonesiano dedicato al cinema internazionale. Il premio assegnato dal pubblico arriva dopo la Palma d'Oro ottenuta da Fjord al Festival di Cannes 2026, a conferma di un apprezzamento che attraversa festival e Paesi diversi.\n\nSecondo Cineblog, il riconoscimento di Jakarta segnala che l'opera di Mungiu continua a intercettare spettatori lontani dal circuito europeo dei festival. Il regista romeno, già premiato in passato a Cannes, si conferma così una delle voci più seguite del cinema d'autore contemporaneo.",
-   "slug": "fjord-di-cristian-mungiu-vince-l-audience-award-al-jakarta-w-11710d",
-   "tags": [
-    "Cristian Mungiu",
-    "Fjord",
-    "Jakarta World Cinema"
-   ],
-   "scene": "premiere",
-   "source": "Cineblog",
-   "url": "https://www.cineblog.it/post/fjord-film-palme-dor-jakarta",
-   "published": "2026-11-10T00:36:56+00:00"
   }
  ],
  "seen": [
-  "6449081af01d",
-  "f7aa1a7a378e",
-  "18cfd3ec7d6b",
-  "5520a3441c57",
-  "d8d10e7578ec",
-  "65c4e8a99413",
-  "47d801e7417b",
-  "6418ebf5801c",
-  "afe5d8ec8307",
-  "829c2b60250a",
-  "efbfcfc665fe",
-  "3ac36d160d2a",
-  "661a0d820776",
-  "1423d3cbd8fd",
-  "2403b3821137",
-  "4f4c94bf5be0",
-  "b47fcd21cc27",
-  "49ed5c8c4b6d",
-  "546100f3bc7b",
-  "1a5f3bd0be86",
-  "88af6e1e8846",
-  "5cba54ae7390",
-  "d12bf68f139d",
-  "a673e4b254f0",
   "767ce1dc04d1",
   "1f56405b529d",
   "e0ec6c21f3fe",
@@ -12353,7 +12330,31 @@
   "4a42cc5197a0",
   "68c865e50d9e",
   "a6380f21e66c",
-  "0b414804b7df"
+  "0b414804b7df",
+  "8b8c34789da3",
+  "68b8a985e549",
+  "0f30bc12ec25",
+  "83f4d8e58e29",
+  "7ec4d1935626",
+  "45e69a12e1ba",
+  "6fcab68d38fd",
+  "2123398cb61e",
+  "58f445d754bd",
+  "9d3111458cdf",
+  "7702216f5c3e",
+  "30a7531a4609",
+  "34dca86b4b7a",
+  "a24ee4b42d6d",
+  "e22029565f82",
+  "dd56ed4d9421",
+  "e43ae9996b37",
+  "3434aade8781",
+  "de02f9d72b89",
+  "4d616d7a97f9",
+  "a375d91954f7",
+  "33075163cc10",
+  "839956ffb91c",
+  "7f533c964282"
  ],
  "version": 4,
  "digests": [
