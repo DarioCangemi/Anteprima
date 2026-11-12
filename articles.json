@@ -1,6 +1,74 @@
 {
  "articles": [
   {
+   "id": "8f065258420b",
+   "section": "tv",
+   "title": "Maya Jama condurrà il nuovo dating show Netflix Will You Marry Me?",
+   "summary": "La presentatrice britannica Maya Jama condurrà per Netflix il nuovo dating show Will You Marry Me?, prima collaborazione dopo la firma di un accordo da sette cifre con la piattaforma. La notizia è stata rilanciata dal Daily Mail.",
+   "body": "Maya Jama sarà la conduttrice di Will You Marry Me?, nuovo dating show di Netflix. Secondo il Daily Mail, il programma sarà la sua prima proposta dopo la firma di un contratto da sette cifre con la piattaforma di streaming, un accordo di portata globale.\n\nNel frattempo la collega di The Gentlemen Kaya Scodelario ha elogiato la presentatrice, definendola un modello per ogni ragazza della classe operaia del Regno Unito. Il progetto è stato annunciato come un ritorno di Jama davanti alla telecamera in un formato di intrattenimento per il pubblico della piattaforma.",
+   "slug": "maya-jama-condurra-il-nuovo-dating-show-netflix-will-you-mar-8f0652",
+   "tags": [
+    "Maya Jama",
+    "Will You Marry Me?",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "dailymail.co.uk",
+   "url": "https://www.dailymail.com/tvshowbiz/article-16283647/Maya-Jama-role-model-working-class-Gentlemen-Kaya-Scodelario-seven-figure-Netflix.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "published": "2026-11-12T02:06:37+00:00"
+  },
+  {
+   "id": "38221aa15e11",
+   "section": "tv",
+   "title": "Abbott Elementary 6: la teoria su Janine e Gregory",
+   "summary": "Nell'episodio 6 della sesta stagione di Abbott Elementary, intitolato Competition, emergono sviluppi che sembrano avvalorare una teoria dei fan sul futuro sentimentale di Janine e Gregory. La svolta potrebbe incidere sui piani di una eventuale proposta di matrimonio.",
+   "body": "Nel sesto episodio della sesta stagione di Abbott Elementary, intitolato \"Competition\", la serie ha introdotto un'evoluzione che secondo TV Insider sembra confermare una teoria circolata tra gli spettatori sul rapporto tra Janine, interpretata da Quinta Brunson, e Gregory, interpretato da Tyler James Williams. Il racconto del loro legame, da tempo al centro dell'attenzione del pubblico, prende quindi una direzione che molti attendevano.\n\nSecondo la testata, questo sviluppo potrebbe anche influenzare i piani di Gregory per una proposta a Janine. Al momento non sono stati annunciati ulteriori dettagli ufficiali, e resta da vedere come la serie svilupperà la vicenda nei prossimi episodi della stagione.",
+   "slug": "abbott-elementary-6-la-teoria-su-janine-e-gregory-38221a",
+   "tags": [
+    "Abbott Elementary",
+    "Quinta Brunson",
+    "Tyler James Williams"
+   ],
+   "scene": "tv",
+   "source": "tvinsider.com",
+   "url": "https://www.tvinsider.com/1303109/abbott-elementary-season-6-theory-janine-gregory-disneyland-proposal/",
+   "published": "2026-11-12T02:02:18+00:00"
+  },
+  {
+   "id": "ae8bcfc8fabf",
+   "section": "cinema",
+   "title": "Predator vs. Punisher: il primo numero del fumetto Marvel è in uscita",
+   "summary": "È uscito oggi Predator vs. Punisher #1, fumetto Marvel scritto da Frank Tieri e disegnato da Jesús Saíz. La storia porta il Predator a New York per il primo scontro con Frank Castle.",
+   "body": "Marvel ha pubblicato il primo numero di Predator vs. Punisher, la nuova miniserie che mette a confronto il cacciatore alieno e il personaggio di Frank Castle. Secondo Collider, il fumetto è firmato da Frank Tieri ai testi e da Jesús Saíz ai disegni.\n\nLa storia è ambientata a New York, città in cui il Predator dà il via alla sua nuova caccia e affronta per la prima volta il Punitore. Il franchise, nato con il film di John McTiernan del 1987, incontra così uno dei vigilanti più noti dell'universo Marvel.",
+   "slug": "predator-vs-punisher-il-primo-numero-del-fumetto-marvel-e-in-ae8bcf",
+   "tags": [
+    "Predator vs. Punisher",
+    "Frank Tieri",
+    "Jesús Saíz"
+   ],
+   "scene": "palco",
+   "source": "collider.com",
+   "url": "https://collider.com/predator-vs-punisher-1-marvel-comic-release-date-november-2026/",
+   "published": "2026-11-12T02:00:12+00:00"
+  },
+  {
+   "id": "e595c2f199bd",
+   "section": "cinema",
+   "title": "Thomas Crown Affair, il remake con Michael B. Jordan riconosce i due sceneggiatori del 1999",
+   "summary": "Il remake di The Thomas Crown Affair con Michael B. Jordan assegnerà i crediti di sceneggiatura a Kurt Wimmer e Leslie Dixon, autori della versione del 1999, pur non avendo lavorato al nuovo film. Lo riferisce TheWrap in esclusiva.",
+   "body": "Il nuovo adattamento di The Thomas Crown Affair, con Michael B. Jordan, riporterà tra i crediti di sceneggiatura i nomi di Kurt Wimmer e Leslie Dixon. I due avevano firmato la versione del 1999, ma secondo quanto riferito da TheWrap in esclusiva non hanno partecipato in alcun modo alla stesura della nuova edizione.\n\nLa scelta è insolita, perché i crediti di sceneggiatura riconoscono di norma il lavoro effettivo svolto sul copione. Il remake sarà quindi un caso in cui il riconoscimento resta legato al film originale pur in assenza di un contributo diretto alla riscrittura. Secondo TheWrap, la decisione è già stata presa dalla produzione.",
+   "slug": "thomas-crown-affair-il-remake-con-michael-b-jordan-riconosce-e595c2",
+   "tags": [
+    "Michael B. Jordan",
+    "Kurt Wimmer",
+    "Leslie Dixon"
+   ],
+   "scene": "ciak",
+   "source": "thewrap.com",
+   "url": "https://www.thewrap.com/creative-content/movies/michael-b-jordan-thomas-crown-affair-2027-to-credit-1999-writers/",
+   "published": "2026-11-12T02:00:01+00:00"
+  },
+  {
    "id": "5657cb0c3af1",
    "section": "cinema",
    "title": "Cry Macho di Clint Eastwood torna al successo su Netflix",
@@ -8278,90 +8346,9 @@
    "source": "firstshowing.net",
    "url": "https://www.firstshowing.net/2026/fun-full-trailer-for-animated-cocomelon-the-movie-arriving-in-2027/",
    "published": "2026-11-09T17:06:41+00:00"
-  },
-  {
-   "id": "7e7f2f51d66a",
-   "section": "cinema",
-   "title": "Rhys-Davies boccia Indiana Jones e il quadrante del destino",
-   "summary": "John Rhys-Davies, interprete di Sallah nella saga di Indiana Jones, ha espresso forte delusione per Indiana Jones e il quadrante del destino, quinto capitolo diretto da James Mangold. L'attore critica soprattutto le scelte narrative, con nuovi personaggi al posto di quelli storici.",
-   "body": "John Rhys-Davies, che nella saga di Indiana Jones ha interpretato Sallah, ha dichiarato di essere rimasto molto deluso dal quinto capitolo, Indiana Jones e il quadrante del destino, diretto da James Mangold e interpretato da Harrison Ford. Secondo quanto riportato da Cinefilos, il giudizio riguarda in particolare la scrittura del film, che secondo l'attore avrebbe dato spazio a nuovi personaggi a scapito di quelli già noti al pubblico della serie.\n\nLe critiche arrivano da un membro storico del cast, presente fin dai primi capitoli della saga. Il film, uscito nel 2023, ha chiuso la trilogia dedicata all'archeologo dopo Indiana Jones e l'ultima crociata. Le parole di Rhys-Davies riaprono il dibattito tra fan e critica sulle scelte fatte per l'ultimo episodio della serie con Harrison Ford.",
-   "slug": "rhys-davies-boccia-indiana-jones-e-il-quadrante-del-destino-7e7f2f",
-   "tags": [
-    "Indiana Jones e il quadrante del destino",
-    "John Rhys-Davies",
-    "James Mangold"
-   ],
-   "scene": "pellicola",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/john-rhys-davies-critica-indiana-jones-quadrante-destino-730048",
-   "published": "2026-11-09T16:57:11+00:00"
-  },
-  {
-   "id": "e8481b1c809e",
-   "section": "musica",
-   "title": "Miles Davis e John Coltrane, in arrivo il cofanetto con le registrazioni Columbia 1955-1961",
-   "summary": "Torna disponibile il cofanetto che raccoglie le registrazioni Columbia di Miles Davis e John Coltrane tra il 1955 e il 1961. Il box comprende 9 LP e 6 CD, mentre una versione in doppio LP raccoglie i brani degli album più importanti.",
-   "body": "Il cofanetto raccoglie le incisioni realizzate per la Columbia da Miles Davis e John Coltrane nel periodo 1955-1961, anni fondamentali per il jazz moderno. Secondo ANSA, il box set è composto da 9 LP e 6 CD, a cui si affianca un'edizione più contenuta in doppio LP con i brani tratti dagli album più importanti di quella stagione.\n\nIl progetto ripropone dunque l'intero percorso discografico dei due musicisti per l'etichetta, offrendo sia un'esperienza completa per gli appassionati sia un ingresso più accessibile per chi vuole conoscere questo repertorio. Il ritorno sul mercato di materiale così significativo interessa sia i collezionisti sia chi segue la storia del jazz.",
-   "slug": "miles-davis-e-john-coltrane-in-arrivo-il-cofanetto-con-le-re-e8481b",
-   "tags": [
-    "Miles Davis",
-    "John Coltrane",
-    "Columbia"
-   ],
-   "scene": "vinile",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/09/miles-davis-john-coltrane-tornano-tutte-le-registrazioni-columbia-1955-1961_4c105203-104f-4289-b4bb-d37e85412820.html",
-   "published": "2026-11-09T16:55:04+00:00"
-  },
-  {
-   "id": "5fd1db9a4090",
-   "section": "cinema",
-   "title": "Dacia Maraini compie 90 anni, mostra e incontro a Roma",
-   "summary": "Per il novantesimo compleanno di Dacia Maraini sarà allestita una mostra fotografica dedicata alla sua vita e alla sua opera. L'evento è previsto il 14 novembre alla Casa dell'Architettura di Roma, con il titolo \"Agro e Dolce. Una vita in parole e immagini\".",
-   "body": "Dacia Maraini festeggia novant'anni e Roma le dedica una mostra fotografica intitolata \"Agro e Dolce. Una vita in parole e immagini\". Secondo ANSA, l'esposizione sarà inaugurata il 14 novembre alla Casa dell'Architettura, nella capitale, ed è pensata come omaggio alla scrittrice nel giorno del suo compleanno.\n\nAccanto alle fotografie è previsto anche un incontro pubblico con la scrittrice, che racconterà il proprio percorso tra letteratura, teatro e impegno civile. L'iniziativa ripercorre così una lunga carriera, dagli esordi fino ai romanzi e ai saggi più recenti, offrendo al pubblico un'occasione per rivedere la sua vita attraverso parole e immagini.",
-   "slug": "dacia-maraini-compie-90-anni-mostra-e-incontro-a-roma-5fd1db",
-   "tags": [
-    "Dacia Maraini",
-    "Casa dell'Architettura"
-   ],
-   "scene": "premiere",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/09/dacia-maraini-fa-90-anni-una-mostra-fotografica-e-un-incontro-a-roma-per-festeggiarla_c3d15728-13f1-41e9-bc7d-d6c909482a98.html",
-   "published": "2026-11-09T16:50:55+00:00"
-  },
-  {
-   "id": "409aed13043e",
-   "section": "cinema",
-   "title": "Karen Gillan parla con i dirigenti Marvel: possibile ritorno di Nebula",
-   "summary": "Karen Gillan ha confermato di aver avuto colloqui con alcuni dirigenti Marvel sul futuro di Nebula nel Marvel Cinematic Universe. Non c'è ancora alcuna conferma ufficiale su una nuova apparizione dopo Guardiani della Galassia Vol. 3.",
-   "body": "Il futuro di Nebula nel Marvel Cinematic Universe potrebbe includere ancora Karen Gillan, interprete del personaggio dal 2014. Secondo quanto riportato da Cinefilos, l'attrice ha confermato di aver parlato con alcuni dirigenti Marvel, dichiarazioni che hanno riacceso le ipotesi su una sua possibile presenza nei progetti successivi alla trilogia di Guardiani della Galassia.\n\nAl momento, però, non esiste alcuna conferma ufficiale da parte dello studio. Il ritorno di Nebula resta quindi un'ipotesi, senza dettagli su eventuali film o serie né sul ruolo che la92 personaggia potrebbe avere. Gli appassionati dovranno attendere eventuali annunci ufficiali della Marvel.",
-   "slug": "karen-gillan-parla-con-i-dirigenti-marvel-possibile-ritorno-409aed",
-   "tags": [
-    "Karen Gillan",
-    "Guardiani della Galassia",
-    "Marvel Cinematic Universe"
-   ],
-   "scene": "premiere",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/karen-gillan-nebula-futuro-mcu-ritorno-marvel-730045",
-   "published": "2026-11-09T16:46:32+00:00"
   }
  ],
  "seen": [
-  "441137952535",
-  "4d9b7ddf0b01",
-  "d50efb23878b",
-  "2d69d7190c14",
-  "2b0413236a8b",
-  "f70660e7130a",
-  "8c3ce0f4bee1",
-  "50c801f54519",
-  "e38e497d9e4a",
-  "5fe283b78d03",
-  "e71e7ffdd8c6",
-  "e93744811aa5",
-  "b610fffafc84",
-  "3c04fadb54f7",
   "a51d89fa3e42",
   "54942e5b8d0b",
   "d30cfc701d63",
@@ -12347,7 +12334,21 @@
   "925aafaa50c2",
   "a34617065d10",
   "11a8131c0943",
-  "9b4191337ba0"
+  "9b4191337ba0",
+  "e0d30eb9ec0c",
+  "b094367c632c",
+  "8f065258420b",
+  "ca6cc5eaec76",
+  "38221aa15e11",
+  "ae8bcfc8fabf",
+  "e595c2f199bd",
+  "b5bac92720b5",
+  "0f873662d14c",
+  "eef6a61146ee",
+  "964434f862b5",
+  "11b4c3906dc9",
+  "535c86d4d55b",
+  "60f40d6f0073"
  ],
  "version": 4,
  "digests": [
