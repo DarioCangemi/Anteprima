@@ -1,6 +1,73 @@
 {
  "articles": [
   {
+   "id": "1e83eac6e9a9",
+   "section": "tv",
+   "title": "Gabby Windey e la serie horror The Body",
+   "summary": "L'ex protagonista di The Bachelorette Gabby Windey ha parlato del suo rapporto con la propria identità da adolescente, spiegando che avrebbe avuto bisogno di una serie come The Body. Il nuovo horror in cui recita affronta questi temi con una prospettiva diversa.",
+   "body": "Gabby Windey, ex protagonista del reality The Bachelorette, ha dichiarato di aver avuto bisogno da adolescente di una serie come The Body. Racconta di non voler assomigliare a Ellen DeGeneres quando, ancora nell'armadio, cercava modelli a cui guardare. Secondo Decider, le sue parole arrivano in occasione della presentazione della nuova serie horror, di cui è parte del cast.\n\nIl materiale disponibile è essenziale e non entra nel dettaglio della trama né del ruolo dell'attrice. La notizia riguarda soprattutto la riflessione personale di Windey sulla rappresentazione dell'identità nelle storie di genere, un tema che la serie affronta attraverso il racconto dell'horror.",
+   "slug": "gabby-windey-e-la-serie-horror-the-body-1e83ea",
+   "tags": [
+    "Gabby Windey",
+    "The Body"
+   ],
+   "scene": "streaming",
+   "source": "decider.com",
+   "url": "https://decider.com/2026/11/11/gabby-windey-didnt-want-to-look-like-ellen-degeneres-as-a-closeted-teen-her-new-horror-series-the-body-gets-that/",
+   "published": "2026-11-12T00:15:16+00:00"
+  },
+  {
+   "id": "128b0424c8f1",
+   "section": "cinema",
+   "title": "Henry Cavill riprende il baffo di Justice League in una campagna Google",
+   "summary": "Henry Cavill torna con il celebre baffo di Justice League e con il gesto della ricarica del braccio di Mission: Impossible in una nuova campagna pubblicitaria per Google. Secondo Collider, lo spot omaggia il personaggio cattivo interpretato dall'attore nel film con Tom Cruise.",
+   "body": "Henry Cavill ha ripreso in una nuova campagna promozionale per Google due elementi diventati simbolo della sua carriera: il baffo che indossava in Justice League e il gesto di ricarica del braccio visto in Mission: Impossible - Fallout. Il riferimento al suo personaggio della saga con Tom Cruise è esplicito e lo rende riconoscibile per il pubblico dei fan.\n\nSecondo Collider, lo spot rappresenta un omaggio ufficiale al villain più brutale interpretato dall'attore nel franchise di spionaggio. La notizia arriva dopo anni in cui il baffo di Justice League è rimasto uno dei dettagli più discussi della sua filmografia, oggetto di ironia sia dei fan sia della stampa.",
+   "slug": "henry-cavill-riprende-il-baffo-di-justice-league-in-una-camp-128b04",
+   "tags": [
+    "Henry Cavill",
+    "Mission: Impossible",
+    "Justice League"
+   ],
+   "scene": "pellicola",
+   "source": "collider.com",
+   "url": "https://collider.com/henry-cavill-mission-impossible-mustache-google-antigravity-ad/",
+   "published": "2026-11-12T00:15:12+00:00"
+  },
+  {
+   "id": "6fdc1b42790c",
+   "section": "musica",
+   "title": "Re Carlo ospite di Elton John per il Rocket Hour",
+   "summary": "Re Carlo è comparso a sorpresa nel Rocket Hour di Elton John, in occasione del compleanno del sovrano e di un anniversario importante per il King's Trust. La notizia è riportata da Hello! Magazine.",
+   "body": "Re Carlo ha fatto una apparizione a sorpresa nel Rocket Hour, il programma radiofonico condotto da Elton John. L'ospitata è avvenuta nel giorno del compleanno del sovrano e in concomitanza con un traguardo importante per il King's Trust, l'ente benefico fondato dal re.\n\nSecondo Hello! Magazine, l'incontro tra i due è stato scelto per celebrare entrambe le ricorrenze. Il materiale disponibile non riporta ulteriori dettagli sui contenuti della trasmissione né sulle dichiarazioni dei protagonisti.",
+   "slug": "re-carlo-ospite-di-elton-john-per-il-rocket-hour-6fdc1b",
+   "tags": [
+    "Re Carlo",
+    "Elton John",
+    "Rocket Hour"
+   ],
+   "scene": "microfono",
+   "source": "hellomagazine.com",
+   "url": "https://www.hellomagazine.com/royalty/934422/king-charles-joins-forces-elton-john-milestone/",
+   "published": "2026-11-12T00:01:00+00:00"
+  },
+  {
+   "id": "f9c810c0fbe8",
+   "section": "tv",
+   "title": "The Rings of Power 3, chiarito un dettaglio su Sauron",
+   "summary": "I primi minuti della terza stagione di The Rings of Power confermano un particolare su Sauron tratto dai libri, messo in dubbio già nella prima stagione. Lo riferisce TVLine.",
+   "body": "La terza stagione di The Rings of Power apre con una scena che sembra sciogliere un dubbio rimasto aperto fin dalla prima stagione. Secondo TVLine, i primi minuti della nuova serie confermano un dettaglio sul personaggio di Sauron già presente nei romanzi di J.R.R. Tolkien, che nella prima stagione era stato reso poco chiaro.\n\nLa questione riguarda un elemento della storia del Signore Oscuro che, per quattro anni, ha lasciato spazio a interpretazioni tra i fan della serie. Il chiarimento arriva dunque all'inizio della nuova stagione, senza che il materiale disponibile indichi ulteriori dettagli sul modo in cui la serie svilupperà il tema.",
+   "slug": "the-rings-of-power-3-chiarito-un-dettaglio-su-sauron-f9c810",
+   "tags": [
+    "The Rings of Power",
+    "Sauron",
+    "J.R.R. Tolkien"
+   ],
+   "scene": "streaming",
+   "source": "tvline.com",
+   "url": "https://www.tvline.com/2313562/the-rings-of-power-season-3-clear-up-sauron-detail-touch-rings/",
+   "published": "2026-11-12T00:00:00+00:00"
+  },
+  {
    "id": "30bb10df929e",
    "section": "tv",
    "title": "VisionQuest: la serie Marvel con Paul Bettany chiude la trilogia di WandaVision",
@@ -8278,93 +8345,9 @@
    "source": "theplaylist.net",
    "url": "https://theplaylist.net/boutique-paul-giamatti-simon-pegg-20261109/",
    "published": "2026-11-09T16:16:06+00:00"
-  },
-  {
-   "id": "e90713f36cad",
-   "section": "musica",
-   "title": "Torna i Siae Music Awards, a Milano con Amadeus e Noemi",
-   "summary": "La Siae riporta a Milano i Siae Music Awards, premi dedicati alla creatività musicale, in programma il 21 novembre. La serata sarà condotta da Amadeus e vedrà la partecipazione di Noemi.",
-   "body": "La Siae torna a Milano con i Siae Music Awards, la cerimonia dedicata ai premi alla creatività musicale. L'appuntamento è fissato per il 21 novembre, data in cui verranno assegnati i riconoscimenti agli autori e ai protagonisti della musica italiana.\n\nAlla conduzione ci sarà Amadeus, mentre tra gli ospiti della serata è prevista la presenza di Noemi. Secondo ANSA, l'evento conferma il ruolo della Siae come punto di riferimento per la valorizzazione del lavoro creativo legato alla canzone. Ulteriori dettagli su programma e premiati non sono ancora stati comunicati nel materiale disponibile.",
-   "slug": "torna-i-siae-music-awards-a-milano-con-amadeus-e-noemi-e90713",
-   "tags": [
-    "Siae Music Awards",
-    "Amadeus",
-    "Noemi"
-   ],
-   "scene": "premiere",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/09/torna-siae-music-awards-a-milano-con-amadeus-e-noemi_084cfc45-3e47-4a8e-88a2-a38a6dda7640.html",
-   "published": "2026-11-09T16:15:53+00:00"
-  },
-  {
-   "id": "d6731c40dacc",
-   "section": "cinema",
-   "title": "The Take: prime immagini del film di rapina Netflix con Robert Pattinson",
-   "summary": "Netflix ha diffuso le prime immagini di The Take, film di rapina con Robert Pattinson e Denzel Washington. Il materiale ricevuto riporta anche una voce sul possibile coinvolgimento di Pattinson in un nuovo James Bond, che non è confermata.",
-   "body": "Netflix ha pubblicato le prime immagini di The Take, film di rapina che vede protagonisti Robert Pattinson e Denzel Washington. Secondo ecranlarge, la piattaforma ha reso disponibile il primo materiale promozionale del progetto, che appartiene al filone dei film di colpi e furti pensati per lo streaming.\n\nLa fonte riferisce anche una indiscrezione legata a Pattinson e a una possibile partecipazione al nuovo film su James Bond, ma non si tratta di una notizia confermata dagli interessati. Nel materiale non sono presenti dichiarazioni ufficiali su questo punto, quindi resta solo una voce da seguire con prudenza.",
-   "slug": "the-take-prime-immagini-del-film-di-rapina-netflix-con-rober-d6731c",
-   "tags": [
-    "The Take",
-    "Robert Pattinson",
-    "Denzel Washington"
-   ],
-   "scene": "streaming",
-   "source": "ecranlarge.com",
-   "url": "https://www.ecranlarge.com/films/news/the-take-premieres-images-thriller-netflix",
-   "published": "2026-11-09T16:15:00+00:00"
-  },
-  {
-   "id": "84a98ce1aa6b",
-   "section": "tv",
-   "title": "BBC commissiona The Other Elliot Sister, serie ispirata a Jane Austen",
-   "summary": "La BBC ha dato il via libera a The Other Elliot Sister, dramma in dieci episodi prodotto da Bad Wolf. La serie seguirà la sorella maggiore di Persuasione di Jane Austen, sul modello del successo di The Other Bennet Sister.",
-   "body": "La BBC ha commissionato una serie drammatica in dieci episodi intitolata The Other Elliot Sister, prodotta da Bad Wolf. Il progetto arriva dopo il buon riscontro di ascolti ottenuto da The Other Bennet Sister, la serie che dava spazio a Mary Bennet, la sorella trascurata della famiglia di Orgoglio e pregiudizio.\n\nIl nuovo titolo seguirà la figlia maggiore della famiglia Elliot, personaggio di Persuasione, l'ultimo romanzo completato da Jane Austen. Secondo Deadline, la produzione è stata annunciata insieme a BritBox, la piattaforma di contenuti britannici, con cui la serie condivide la distribuzione. Al momento non sono stati comunicati dettagli su cast, data di uscita o titoli dei singoli episodi.",
-   "slug": "bbc-commissiona-the-other-elliot-sister-serie-ispirata-a-jan-84a98c",
-   "tags": [
-    "The Other Elliot Sister",
-    "The Other Bennet Sister",
-    "Bad Wolf"
-   ],
-   "scene": "streaming",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/bbc-britbox-the-other-elliot-sister-1237217337/",
-   "published": "2026-11-09T16:11:04+00:00"
-  },
-  {
-   "id": "6f6fe458d7e6",
-   "section": "tv",
-   "title": "John Oliver rivela la richiesta di espulsione del Pentagono dopo una domanda su Hegseth",
-   "summary": "Il conduttore HBO John Oliver ha raccontato che il Pentagono ha chiesto la sua deportazione quando la redazione ha chiesto un commento su Pete Hegseth. Oliver ha descritto il confronto con lo staff del segretario alla Difesa come poco costruttivo.",
-   "body": "Il conduttore di Last Week Tonight, John Oliver, ha rivelato in una puntata del suo programma HBO che il Pentagono ha reagito in modo insolito quando la redazione ha chiesto un commento su Pete Hegseth. Secondo quanto raccontato da Oliver, alcuni membri dello staff del segretario alla Difesa avrebbero addirittura proposto la deportazione del conduttore, di origine britannica.\n\nOliver ha poi commentato il rapporto con il team di Hegseth con toni molto critici, paragonandolo a un confronto con un gruppo di adolescenti. La notizia, riportata da TheWrap, racconta un episodio che il conduttore ha scelto di mostrare in diretta al proprio pubblico, senza però indicare ulteriori dettagli sulle richieste formulate dal Dipartimento della Difesa.",
-   "slug": "john-oliver-rivela-la-richiesta-di-espulsione-del-pentagono-6f6fe4",
-   "tags": [
-    "John Oliver",
-    "Last Week Tonight",
-    "Pete Hegseth"
-   ],
-   "scene": "microfono",
-   "source": "thewrap.com",
-   "url": "https://www.thewrap.com/creative-content/tv-shows/john-oliver-pentagon-called-to-deport-him-pete-hegseth-story/",
-   "published": "2026-11-09T16:09:24+00:00"
   }
  ],
  "seen": [
-  "f13945a01d19",
-  "d0e9dd9d0f86",
-  "c91e5ce06d67",
-  "1f3f2d7e0d81",
-  "4c342cd5fc04",
-  "9ebf5230d06f",
-  "9a2f56e90a7b",
-  "0ca20fdf4a8a",
-  "b8fb9976f9bf",
-  "f3f8033c7f1a",
-  "2dec2920f3b0",
-  "2ee7258ebf5f",
-  "b390e7dd45c4",
-  "7041b6807a25",
-  "de0bcb994c83",
-  "b8c32ae6e87f",
   "70738a80d574",
   "d2ac5d1f2273",
   "c9d4da47fd75",
@@ -12348,7 +12331,23 @@
   "71e90874ffe6",
   "c5eba67763c0",
   "eca17d278e27",
-  "02b926abdb1c"
+  "02b926abdb1c",
+  "0ca49bce1f7c",
+  "2800ff608bcf",
+  "1e83eac6e9a9",
+  "128b0424c8f1",
+  "991ad32ebc7f",
+  "287bdb831e18",
+  "8af467142060",
+  "0d209b7c239f",
+  "e78072721cc5",
+  "371be2d2d542",
+  "6fdc1b42790c",
+  "c4be35681cee",
+  "f9c810c0fbe8",
+  "60d3e80631d0",
+  "40f7489bb603",
+  "1120bd4d7e03"
  ],
  "version": 4,
  "digests": [
