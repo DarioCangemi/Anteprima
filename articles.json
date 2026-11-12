@@ -1,6 +1,188 @@
 {
  "articles": [
   {
+   "id": "db2f810c30b4",
+   "section": "tv",
+   "title": "Prime Video acquisisce Eşref Rüya per l'America Latina ispanofona",
+   "summary": "Prime Video ha ottenuto in licenza per i Paesi dell'America Latina di lingua spagnola la serie turca Eşref Rüya, 150 episodi da 45 minuti, dal distributore Inter Medya. La serie è interpretata da Çağatay Ulusoy.",
+   "body": "Prime Video, la piattaforma di Amazon, ha acquistato i diritti per la distribuzione in America Latina di lingua spagnola della serie turca Eşref Rüya. Il titolo è stato concesso in licenza dal distributore turco Inter Medya e comprende 150 episodi da 45 minuti ciascuno.\n\nSecondo c21media, la serie è interpretata da Çağatay Ulusoy, uno dei volti più noti del panorama televisivo turco. L'accordo segna un'ulteriore tappa nella diffusione delle fiction turche sulle piattaforme internazionali, con l'obiettivo di raggiungere il pubblico latinoamericano.",
+   "slug": "prime-video-acquisisce-esref-ruya-per-l-america-latina-ispan-db2f81",
+   "tags": [
+    "Prime Video",
+    "Eşref Rüya",
+    "Çağatay Ulusoy"
+   ],
+   "scene": "streaming",
+   "source": "c21media.net",
+   "url": "https://www.c21media.net/news/prime-video-latin-america-acquires-turkish-drama-esref-ruya-from-inter-medya/",
+   "published": "2026-11-12T09:09:52+00:00"
+  },
+  {
+   "id": "3e0deb4c51a4",
+   "section": "cinema",
+   "title": "Jamie Dornan sarà Aragorn in The Hunt for Gollum",
+   "summary": "Jamie Dornan prenderà il posto di Viggo Mortensen nel ruolo di Aragorn in The Hunt for Gollum, nuovo capitolo della saga di Il Signore degli Anelli diretto da Andy Serkis. L'attore ha raccontato di aver pianto quando ha saputo di essere stato scelto.",
+   "body": "Jamie Dornan vestirà i panni di Aragorn in The Hunt for Gollum, il nuovo film della saga tratta dalle opere di Tolkien diretto da Andy Serkis. Il ruolo era stato interpretato finora da Viggo Mortensen nella trilogia di Peter Jackson, e l'attore nordirlandese raccoglie quindi un'eredità importante.\n\nSecondo Movieplayer, Dornan ha confessato di essersi commosso quando ha ricevuto la notizia della scelta. Ha inoltre descritto le riprese come un'esperienza straordinaria, sottolineando l'emozione di far parte di un universo narrativo così amato dal pubblico.",
+   "slug": "jamie-dornan-sara-aragorn-in-the-hunt-for-gollum-3e0deb",
+   "tags": [
+    "Jamie Dornan",
+    "Il Signore degli Anelli",
+    "Andy Serkis"
+   ],
+   "scene": "pellicola",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/news/signore-anelli-jamie-dornan-ruolo-aragorn-pianto_171930/",
+   "published": "2026-11-12T09:00:55+00:00"
+  },
+  {
+   "id": "7ee2a4a5fdd8",
+   "section": "cinema",
+   "title": "Documentari, l'Europa traina il mercato e cresce l'Italia",
+   "summary": "Secondo i dati dell'Osservatorio audiovisivo, il mercato dei documentari nei cinema e in streaming è ancora in fase di ripresa, con un peso crescente delle produzioni europee. In Italia aumentano uscite e successi del genere.",
+   "body": "Secondo Box Office Biz, l'Osservatorio audiovisivo ha analizzato dieci anni di trasformazioni nel settore dei documentari, osservando sia la sala sia lo streaming. Il quadro che emerge mostra una ripresa delle presenze nei cinema ancora incompleta, mentre le produzioni europee acquistano un peso sempre maggiore sul mercato del genere.\n\nIn Italia il documentario registra una crescita sia nel numero di uscite in sala sia nei titoli che ottengono risultati di pubblico apprezzabili. Il materiale disponibile non riporta cifre precise su questi incrementi, ma indica una tendenza favorevole per il genere nel nostro Paese.",
+   "slug": "documentari-l-europa-traina-il-mercato-e-cresce-l-italia-7ee2a4",
+   "tags": [
+    "Osservatorio audiovisivo"
+   ],
+   "scene": "sala",
+   "source": "Box Office Biz",
+   "url": "https://boxofficebiz.it/news/documentari-leuropa-traina-il-mercato-i-dati-tra-cinema-streaming-e-litalia/",
+   "published": "2026-11-12T09:00:49+00:00"
+  },
+  {
+   "id": "53935393cc1d",
+   "section": "musica",
+   "title": "Giorgia racconta come Valeria Marini ispirò una sua celebre canzone",
+   "summary": "Giorgia ha confermato che una delle sue canzoni più note nasce da un incontro con Valeria Marini. La cantante ha raccontato le circostanze di quell'incontro, che diede origine al brano.",
+   "body": "Giorgia ha confermato che una delle sue canzoni più celebri è stata ispirata da Valeria Marini. Secondo BadTaste, la cantante ha raccontato in prima persona l'episodio che portò alla nascita del brano, partito da un incontro che lei stessa definisce inaspettato.\n\nIl racconto offre uno sguardo insolito sul processo creativo della cantante romana, da sempre attenta a far emergere storie personali nei suoi testi. Non è chiaro dal materiale disponibile quale sia esattamente il brano coinvolto, ma la conferma arriva direttamente dall'interprete.",
+   "slug": "giorgia-racconta-come-valeria-marini-ispiro-una-sua-celebre-539353",
+   "tags": [
+    "Giorgia",
+    "Valeria Marini"
+   ],
+   "scene": "microfono",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/valeria-marini-ha-ispirato-una-famosa-canzone-di-giorgia-tutto-e-nato-da-un-incontro-inaspettato",
+   "published": "2026-11-12T09:00:41+00:00"
+  },
+  {
+   "id": "d74cf12b02d5",
+   "section": "tv",
+   "title": "Ethan Hawke spiega il finale del sesto episodio di The Lowdown",
+   "summary": "Ethan Hawke ha commentato il percorso della seconda stagione di The Lowdown e la scena finale tra Lee e il padre nel sesto episodio. L'attore ha parlato anche del rapporto del protagonista con Ginger.",
+   "body": "Ethan Hawke, protagonista di The Lowdown, è tornato a parlare della seconda stagione della serie e in particolare del sesto episodio, la cui scena conclusiva tra Lee e suo padre ha colpito molti spettatori. Secondo quanto riportato da Collider, l'attore ha spiegato il significato di quel momento, che chiude una parte importante del percorso del personaggio.\n\nNell'intervista Hawke ha affrontato anche il legame tra Lee e Ginger, altro nodo centrale della stagione. Le informazioni disponibili nel materiale sono limitate, quindi non è possibile entrare nei dettagli delle sue dichiarazioni. Per approfondire, il pubblico può consultare l'intervista completa sul sito di Collider.",
+   "slug": "ethan-hawke-spiega-il-finale-del-sesto-episodio-di-the-lowdo-d74cf1",
+   "tags": [
+    "The Lowdown",
+    "Ethan Hawke"
+   ],
+   "scene": "microfono",
+   "source": "collider.com",
+   "url": "https://collider.com/the-lowdown-season-2-episode-6-ethan-hawke-tommy-lee-jones-ending/",
+   "published": "2026-11-12T09:00:12+00:00"
+  },
+  {
+   "id": "d28768ff333e",
+   "section": "cinema",
+   "title": "Pieraccioni torna al cinema con Un Weekend Artificiale",
+   "summary": "Il 12 novembre arriva nelle sale Un Weekend Artificiale, nuovo film scritto, diretto e interpretato da Leonardo Pieraccioni, distribuito da Vision Distribution. La commedia affronta con il suo stile il tema dell'intelligenza artificiale.",
+   "body": "Dal 12 novembre sarà al cinema Un Weekend Artificiale, il nuovo film che Leonardo Pieraccioni ha scritto, diretto e interpretato. La distribuzione è affidata a Vision Distribution. Secondo ComingSoon, la pellicola si confronta con uno dei temi più discussi del momento, cioè il rapporto con l'intelligenza artificiale, usando il registro leggero e i toni che caratterizzano il regista toscano.\n\nIl film è presentato come una riflessione sulla ricerca di ciò che resta profondamente umano, con il richiamo a Pinocchio e al tema dei sentimenti. Pieraccioni affronta la materia con la sua consueta ironia, senza rinunciare a una dimensione emotiva. Per il pubblico italiano si tratta di un appuntamento atteso, che riporta il regista davanti e dietro la macchina da presa in una commedia contemporanea.",
+   "slug": "pieraccioni-torna-al-cinema-con-un-weekend-artificiale-d28768",
+   "tags": [
+    "Leonardo Pieraccioni",
+    "Un Weekend Artificiale",
+    "Vision Distribution"
+   ],
+   "scene": "sala",
+   "source": "ComingSoon",
+   "url": "https://www.comingsoon.it/cinema/news/l-intelligenza-artificiale-secondo-leonardo-pieraccioni-tra-pinocchio/n235244/",
+   "published": "2026-11-12T09:00:00+00:00"
+  },
+  {
+   "id": "104dfaf7b6a5",
+   "section": "cinema",
+   "title": "Barbara Broccoli nominata presidente della National Film and Television School",
+   "summary": "Barbara Broccoli, produttrice della saga di James Bond, è stata nominata prima donna presidente della National Film and Television School britannica. La nomina arriva poche settimane prima dell'inaugurazione di un edificio dedicato al padre Cubby Broccoli.",
+   "body": "Barbara Broccoli è stata nominata prima donna alla presidenza della National Film and Television School (NFTS), la storica scuola di cinema e televisione del Regno Unito. La notizia, anticipata in esclusiva da Deadline, riguarda la produttrice della saga di James Bond, che assume l'incarico poche settimane prima dell'apertura di un nuovo edificio intitolato al padre, il leggendario produttore Cubby Broccoli.\n\nSecondo quanto riportato, Broccoli porterà avanti il suo rapporto di lunga data con la scuola, di cui è già legata da tempo. Il ruolo di presidente segna quindi un passo ulteriore nel legame tra la famiglia Broccoli e uno dei centri di formazione cinematografica più noti d'Europa.",
+   "slug": "barbara-broccoli-nominata-presidente-della-national-film-and-104dfa",
+   "tags": [
+    "Barbara Broccoli",
+    "National Film and Television School",
+    "James Bond"
+   ],
+   "scene": "premiere",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/barbara-broccoli-national-film-television-school-president-1237220238/",
+   "published": "2026-11-12T09:00:00+00:00"
+  },
+  {
+   "id": "1036d88850c6",
+   "section": "tv",
+   "title": "Scrubs, il revival chiarisce il dubbio sul figlio adulto di J.D.",
+   "summary": "Nel revival di Scrubs il dubbio su quanti figli abbia J.D. viene chiarito dalla nuova stagione, dopo che la nona non era più considerata canonica. Il personaggio presenta finalmente il figlio ormai adulto.",
+   "body": "Nel revival di Scrubs la continuità con le stagioni precedenti era diventata un problema per i fan, soprattutto dopo che la nona stagione non è più stata considerata parte della storia principale. Molti spettatori si chiedevano quanti figli avesse J.D. e in quale rapporto fossero con lui.\n\nSecondo moviepilot.de, la questione è definitivamente risolta con la nuova stagione, che finalmente mostra il figlio di J.D., ormai adulto. La presenza del personaggio mette così ordine nella cronologia della serie e chiarisce l'equivoco che aveva animato il dibattito tra i appassionati.",
+   "slug": "scrubs-il-revival-chiarisce-il-dubbio-sul-figlio-adulto-di-j-1036d8",
+   "tags": [
+    "Scrubs",
+    "J.D."
+   ],
+   "scene": "tv",
+   "source": "moviepilot.de",
+   "url": "https://www.moviepilot.de/news/scrubs-verwirrung-endgultig-aufgeklart-1165459",
+   "published": "2026-11-12T09:00:00+00:00"
+  },
+  {
+   "id": "dff9be327238",
+   "section": "cinema",
+   "title": "Lionel Uzan guida Federation Studios al posto di Pascal Breton",
+   "summary": "Lionel Uzan prende la presidenza di Federation Studios, il gruppo francese dell'intrattenimento, mentre Pascal Breton si fa da parte. Montefiore Investments sale al ruolo di azionista di maggioranza.",
+   "body": "Lionel Uzan assumerà la presidenza di Federation Studios, il grande gruppo francese dell'intrattenimento, al posto di Pascal Breton, che lascia il ruolo. Contestualmente Montefiore Investments diventa azionista di maggioranza della società, con un aumento della propria quota.\n\nSecondo Deadline, Federation cercava da un paio d'anni una forte iniezione di liquidità, nell'ordine di centinaia di milioni di euro. La società avrà ora una nuova struttura societaria, che la fonte descrive come il risultato di questo rafforzamento finanziario.",
+   "slug": "lionel-uzan-guida-federation-studios-al-posto-di-pascal-bret-dff9be",
+   "tags": [
+    "Federation Studios",
+    "Lionel Uzan",
+    "Pascal Breton"
+   ],
+   "scene": "ciak",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/federation-pascal-breton-lionel-uzan-president-restructure-1237221428/",
+   "published": "2026-11-12T08:59:51+00:00"
+  },
+  {
+   "id": "bf7559b155c4",
+   "section": "tv",
+   "title": "Ascolti TV di mercoledì 11 novembre: Tale e Quale Show in testa con il 22,8%",
+   "summary": "Secondo i dati auditel di mercoledì 11 novembre 2026, Tale e Quale Show guida la serata con il 22,8% di share. Viola come il Mare scende al 14%, mentre Cazzullo ottiene il 9,1%.",
+   "body": "Nella serata di mercoledì 11 novembre 2026 il programma più seguito è stato Tale e Quale Show, che ha raggiunto il 22,8% di share. Il dato colloca il titolo di Rai 1 al primo posto tra i programmi della giornata, come riportato da Davide Maggio nella rilevazione dei dati Auditel.\n\nTra le fiction, Viola come il Mare ha registrato un calo significativo, fermandosi al 14% di ascolti. Buon risultato, invece, per lo speciale di Alessandro Cazzullo, che si è attestato al 9,1%. Il quadro completo comprende anche i dati di Affari Tuoi e La Ruota della Fortuna.",
+   "slug": "ascolti-tv-di-mercoledi-11-novembre-tale-e-quale-show-in-tes-bf7559",
+   "tags": [
+    "Tale e Quale Show",
+    "Viola come il Mare",
+    "Alessandro Cazzullo"
+   ],
+   "scene": null,
+   "source": "davidemaggio.it",
+   "url": "https://www.davidemaggio.it/ascolti-tv/ascolti-tv-mercoledi-11-novembre-2026",
+   "published": "2026-11-12T08:57:35+00:00"
+  },
+  {
+   "id": "2d78db176050",
+   "section": "tv",
+   "title": "Il sogno di Eşref, la nuova serie turca di Mediaset su Canale 5",
+   "summary": "Mediaset ha acquistato il serial turco \"Il sogno di Eşref\" (Eşref Rüya), che sarà trasmesso prossimamente su Canale 5. La trama unisce dramma, romanticismo, azione e criminalità, e nel cast figura un'attrice turca molto apprezzata anche in Italia.",
+   "body": "Mediaset ha acquistato di recente \"Il sogno di Eşref\", in originale \"Eşref Rüya\", una nuova dizi turca che approderà prossimamente su Canale 5. Secondo quanto riportato da Superguidatv, la serie mescola dramma, romanticismo, azione e vicende criminali, con un intreccio pensato per tenere agganciato il pubblico di fiction di produzione straniera.\n\nNel cast compare una delle attrici turche più amate anche in Italia, un nome che potrebbe richiamare il pubblico delle precedenti produzioni arrivate in palinsesto sulle reti del gruppo. Al momento non sono disponibili dettagli ufficiali su data di debutto, orari o ulteriori membri del cast.",
+   "slug": "il-sogno-di-esref-la-nuova-serie-turca-di-mediaset-su-canale-2d78db",
+   "tags": [
+    "Il sogno di Eşref",
+    "Mediaset",
+    "Canale 5"
+   ],
+   "scene": "streaming",
+   "source": "superguidatv.it",
+   "url": "https://www.superguidatv.it/il-sogno-di-esref-e-la-nuova-serie-turca-firmata-mediaset/",
+   "published": "2026-11-12T08:43:01+00:00"
+  },
+  {
    "id": "5c05fda2661e",
    "section": "tv",
    "title": "Anthony Mackie ritrova Kari Skogland per la serie Apple TV 12 12 12",
@@ -8167,216 +8349,9 @@
    "source": "eonline.com",
    "url": "https://www.eonline.com/news/1437971/pink-announces-the-sphere-residency-in-las-vegas-first-female-solo-artist?cmpid=rss-syndicate-genericrss-us-top_stories",
    "published": "2026-11-10T00:09:02+00:00"
-  },
-  {
-   "id": "d43ac4ec0e64",
-   "section": "tv",
-   "title": "Marshals, il cast svela i personaggi di Yellowstone che vorrebbe rivedere",
-   "summary": "Gli attori di Marshals, spin-off di Yellowstone, hanno indicato i personaggi della serie madre che vorrebbero rivedere. Il reportage dal set racconta anche il lavoro dietro la produzione e le sfide di Kayce nella seconda stagione.",
-   "body": "Il cast di Marshals, lo spin-off di Yellowstone, ha raccontato quali volti della serie madre vorrebbe ritrovare nel prossimo futuro. Secondo Collider, che ha visitato il set della produzione, le risposte degli interpreti mostrano il legame che unisce il nuovo progetto al franchise costruito intorno a Kevin Costner e Taylor Sheridan.\n\nIl reportage dal set mette in luce anche la fatica quotidiana necessaria per portare avanti la serie. Nella seconda stagione, il personaggio di Kayce Dutton affronta nuove difficoltà, che richiederanno al protagonista scelte complesse e un percorso diverso rispetto a quello già visto in Yellowstone.",
-   "slug": "marshals-il-cast-svela-i-personaggi-di-yellowstone-che-vorre-d43ac4",
-   "tags": [
-    "Marshals",
-    "Yellowstone",
-    "Kayce Dutton"
-   ],
-   "scene": "ciak",
-   "source": "collider.com",
-   "url": "https://collider.com/marshals-cbs-yellowstone-set-visit-luke-grimes-jefferson-white/",
-   "published": "2026-11-09T23:59:32+00:00"
-  },
-  {
-   "id": "3d77bac4cf87",
-   "section": "tv",
-   "title": "GF Vip, il televoto ribalta i pronostici nella puntata del 9 novembre",
-   "summary": "Nella puntata del GF Vip del 9 novembre il televoto ha determinato l'eliminazione di un concorrente, con un esito inatteso rispetto alle previsioni. Il risultato cambia gli equilibri all'interno della Casa.",
-   "body": "Nella puntata del GF Vip del 9 novembre 2026 il pubblico è stato chiamato a decidere quale concorrente dovesse lasciare la Casa. L'esito del televoto è stato sorprendente e ha smentito i pronostici che circolavano alla vigilia, cambiando gli equilibri tra i concorrenti rimasti.\n\nSecondo BadTaste, il verdetto degli spettatori ha ribaltato le aspettative del pubblico e dei commentatori. Il risultato apre ora nuovi scenari nel percorso del reality show di Canale 5, dove ogni eliminazione incide sugli assetti del gruppo.",
-   "slug": "gf-vip-il-televoto-ribalta-i-pronostici-nella-puntata-del-9-3d77ba",
-   "tags": [
-    "GF Vip"
-   ],
-   "scene": "tv",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/gf-vip-chi-e-stato-eliminato-il-9-novembre-il-verdetto-del-televoto-ribalta-completamente-i-pronostici",
-   "published": "2026-11-09T23:31:39+00:00"
-  },
-  {
-   "id": "39d4f6f7368f",
-   "section": "cinema",
-   "title": "Keira Knightley e il rapporto con Love Actually a ventitré anni dall'uscita",
-   "summary": "Keira Knightley ha parlato di Love Actually, il film corale di Richard Curtis uscito nel 2003, spiegando di non avere interesse a rivederlo. Le sue parole arrivano a ventitré anni di distanza dall'uscita nelle sale.",
-   "body": "Keira Knightley, protagonista di Love Actually, è consapevole che il pubblico considera il film un classico natalizio. Secondo Just Jared, l'attrice ha però spiegato di non avere alcuna intenzione di riguardarlo, un commento che ha colpito i fan a distanza di oltre vent'anni dall'uscita.\n\nLa commedia corale diretta da Richard Curtis è uscita nel 2003 e ha raccolto intorno a sé un cast numeroso, con Hugh Grant, Liam Neeson e Emma Thompson. Le dichiarazioni dell'attrice sono state riprese dalla stampa internazionale proprio mentre il film continua a essere replicato ogni anno durante le festività.",
-   "slug": "keira-knightley-e-il-rapporto-con-love-actually-a-ventitre-a-39d4f6",
-   "tags": [
-    "Keira Knightley",
-    "Love Actually",
-    "Richard Curtis"
-   ],
-   "scene": "pellicola",
-   "source": "justjared.com",
-   "url": "https://www.justjared.com/2026/11/09/keira-knightley-makes-surprising-love-actually-comments-23-years-after-its-release/",
-   "published": "2026-11-09T23:17:40+00:00"
-  },
-  {
-   "id": "f52e1f2f0073",
-   "section": "gossip",
-   "title": "Grande Fratello Vip 2026, Alex Belli e Marina La Rosa si confrontano davanti alle telecamere",
-   "summary": "Alex Belli è tornato nella casa del Grande Fratello Vip 2026 dopo la sua eliminazione per un confronto con Marina La Rosa, che ha definito \"antagonista perfetta\". Il rapporto tra i due, passato dall'amicizia alla rivalità, è stato al centro dell'incontro.",
-   "body": "Alex Belli è tornato nella casa del Grande Fratello Vip 2026 dopo la sua eliminazione, per un ultimo confronto con Marina La Rosa. Il rapporto tra i due, iniziato come un'amicizia e trasformatosi nel corso della convivenza in una rivalità, è stato al centro del colloquio, che si è svolto davanti alle telecamere del programma.\n\nSecondo SuperGuidaTV, durante il faccia a faccia Marina La Rosa ha definito Belli la sua \"antagonista perfetta\". Il video del confronto è stato diffuso da Mediaset, che ha presentato l'incontro come un caffè chiarificatore tra i due concorrenti.",
-   "slug": "grande-fratello-vip-2026-alex-belli-e-marina-la-rosa-si-conf-f52e1f",
-   "tags": [
-    "Grande Fratello Vip",
-    "Alex Belli",
-    "Marina La Rosa"
-   ],
-   "scene": "tv",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/gf-vip-2026-alex-belli-su-marina-la-rosa-antagonista-video/",
-   "published": "2026-11-09T23:10:35+00:00"
-  },
-  {
-   "id": "69840c86c3f3",
-   "section": "tv",
-   "title": "Ade Adepitan sarà il primo concorrente in sedia a rotelle di I'm A Celebrity",
-   "summary": "Ade Adepitan, ex paralimpico di 53 anni, sarà il primo concorrente in sedia a rotelle nella storia del reality I'm A Celebrity. Secondo quanto riportato, ITV ha adattato il campo per renderlo accessibile.",
-   "body": "Ade Adepitan, ex campione paralimpico di 53 anni, è arrivato in Australia per partecipare a I'm A Celebrity... Get Me Out of Here!, dove sarà il primo concorrente che usa la sedia a rotelle nei 23 anni di storia del programma. Insieme a lui è partita anche Leomie Anderson, modella, anch'essa tra i protagonisti della nuova edizione.\n\nSecondo quanto riporta Daily Mail, i vertici di ITV hanno voluto fortemente la presenza di Adepitan nel reality e hanno modificato il campo per rendere la vita quotidiana accessibile anche a lui. Un passo che segna una novità per il format britannico, da sempre criticato per le difficoltà logistiche delle prove e della vita nella giungla.",
-   "slug": "ade-adepitan-sara-il-primo-concorrente-in-sedia-a-rotelle-di-69840c",
-   "tags": [
-    "I'm A Celebrity",
-    "Ade Adepitan",
-    "Leomie Anderson"
-   ],
-   "scene": "tv",
-   "source": "dailymail.co.uk",
-   "url": "https://www.dailymail.com/tvshowbiz/article-16277251/Ade-Adepitan-touches-Australia-prepares-history-Im-Celebritys-wheelchair.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "published": "2026-11-09T23:04:09+00:00"
-  },
-  {
-   "id": "33f248bbc489",
-   "section": "cinema",
-   "title": "M. John Harrison vince il Booker Prize con \"The End of Everything\"",
-   "summary": "Lo scrittore britannico M. John Harrison ha vinto il Booker Prize 2026 con il romanzo \"The End of Everything\", il primo di fantascienza a ottenere il riconoscimento. La storia segue un raccoglitore di relitti che vive sulla costa inglese dopo una catastrofe.",
-   "body": "Il Booker Prize 2026 è stato assegnato a M. John Harrison per \"The End of Everything\", romanzo ambientato sulla costa inglese dopo un disastro che ha sconvolto il paesaggio. Il protagonista è un raccoglitore di relitti che, tra le onde, trova un oggetto misterioso e decide di portarlo nell'entroterra. Secondo Deadline, si tratta della prima opera di fantascienza a conquistare il premio letterario più prestigioso del Regno Unito.\n\nHarrison, che ha 81 anni, entra così nella storia del riconoscimento con un libro che mescola generi e atmosfere inquietanti. Il premio segna un passaggio importante per un genere spesso tenuto ai margini dai grandi premi letterari, e conferma l'attenzione crescente della critica verso la narrativa speculativa.",
-   "slug": "m-john-harrison-vince-il-booker-prize-con-the-end-of-everyth-33f248",
-   "tags": [
-    "M. John Harrison",
-    "Booker Prize"
-   ],
-   "scene": "premiere",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/m-john-harrison-wins-the-booker-prize-the-end-of-everything-1237217813/",
-   "published": "2026-11-09T23:01:10+00:00"
-  },
-  {
-   "id": "d6a03db48d97",
-   "section": "cinema",
-   "title": "Richard Jewell di Clint Eastwood arriva su Netflix",
-   "summary": "Il thriller true-crime di Clint Eastwood Richard Jewell è disponibile su Netflix. Secondo Collider, il film è indicato ai fan di Mindhunter che cercano un'altra indagine coinvolgente.",
-   "body": "Il film Richard Jewell, diretto da Clint Eastwood, è ora disponibile sulla piattaforma Netflix. Il titolo ricostruisce la vicenda reale della guardia di sicurezza accusata ingiustamente dopo l'attentato alla Olimpiadi di Atlanta del 1996, e viene presentato come un dramma investigativo di grande impatto.\n\nSecondo Collider, la pellicola è una proposta adatta a chi ha apprezzato Mindhunter, la serie Netflix dedicata alle indagini sui crimini seriali. Il riferimento non riguarda solo il genere, ma anche il tipo di racconto, centrato su un'indagine che tiene lo spettatore con il fiato sospeso. Per chi cerca un'altra storia di questo tipo, il film rappresenta una scelta immediata sulla piattaforma.",
-   "slug": "richard-jewell-di-clint-eastwood-arriva-su-netflix-d6a03d",
-   "tags": [
-    "Richard Jewell",
-    "Clint Eastwood",
-    "Mindhunter"
-   ],
-   "scene": "streaming",
-   "source": "collider.com",
-   "url": "https://collider.com/clint-eastwood-richard-jewell-netflix-streaming-november-2026/",
-   "published": "2026-11-09T23:00:12+00:00"
-  },
-  {
-   "id": "1e54e04bcfa9",
-   "section": "musica",
-   "title": "Diane Warren racconta la canzone di Maserati: The Brothers cantata con Andrea Bocelli",
-   "summary": "La cantautrice Diane Warren, candidata diciassette volte all'Oscar, ha presentato a Sound & Screen di Deadline il brano \"One Right Here\" scritto per Maserati: The Brothers. Il pezzo è interpretato da Andrea Bocelli e accompagna il film sulla storia della dinastia automobilistica italiana.",
-   "body": "Diane Warren, la cantautrice con il record di diciassette candidature agli Oscar, è intervenuta all'evento Sound & Screen di Deadline per parlare di \"One Right Here\", il brano originale scritto per Maserati: The Brothers. Il film racconta l'ascesa della celebre dinastia italiana delle auto da corsa. Accolta da un applauso caloroso, Warren ha affrontato l'incontro nonostante una fastidiosa laringite.\n\nSecondo Deadline, la songwriter ha raccontato l'emozione provata lavorando con Andrea Bocelli sulla canzone, arrivando a dire di essere scoppiata in lacrime durante la realizzazione del pezzo. La presenza di Bocelli, voce riconoscibile in tutto il mondo, dà al brano un forte legame con l'Italia. Il film, che porta il marchio Maserati nel titolo, si appoggia dunque a una colonna sonora firmata da alcuni dei nomi più noti della musica internazionale.",
-   "slug": "diane-warren-racconta-la-canzone-di-maserati-the-brothers-ca-1e54e0",
-   "tags": [
-    "Diane Warren",
-    "Andrea Bocelli",
-    "Maserati: The Brothers"
-   ],
-   "scene": "microfono",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/diane-warren-maserati-the-brothers-song-interview-1237217258/",
-   "published": "2026-11-09T22:15:00+00:00"
-  },
-  {
-   "id": "6c4e38812a8e",
-   "section": "tv",
-   "title": "Grande Fratello Vip 2026, Carmen Di Pietro sorpresa dai figli Alessandro e Carmelina",
-   "summary": "Nella casa del Grande Fratello Vip 2026 Carmen Di Pietro è stata prima protagonista di uno scherzo e poi di una sorpresa preparata dai figli Alessandro e Carmelina. Il momento è stato proposto nei video di Mediaset.",
-   "body": "Nella casa del Grande Fratello Vip 2026 Carmen Di Pietro è stata la prima vittima di uno scherzo, e subito dopo si è ritrovata davanti a una sorpresa speciale. A organizzarla sono stati i suoi figli Alessandro e Carmelina, che hanno fatto la loro comparsa nel programma di Canale 5 per fare un regalo alla madre.\n\nSecondo quanto riportato da SuperGuidaTV, il momento è stato pubblicato nei video ufficiali Mediaset. Il materiale disponibile non dettaglia ulteriori sviluppi della puntata, ma il filmato mostra la concitazione e la gioia della concorrente nel vedere i ragazzi arrivare nella casa.",
-   "slug": "grande-fratello-vip-2026-carmen-di-pietro-sorpresa-dai-figli-6c4e38",
-   "tags": [
-    "Grande Fratello Vip",
-    "Carmen Di Pietro"
-   ],
-   "scene": "tv",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/gf-vip-2026-sorpresa-per-carmen-di-pietro-arrivano-i-figli-video/",
-   "published": "2026-11-09T22:08:47+00:00"
-  },
-  {
-   "id": "6a2c45aa8041",
-   "section": "tv",
-   "title": "Grande Fratello Vip 2026, tensione tra Valeria Marini e Marina La Rosa e Guendalina Tavassi",
-   "summary": "Nella casa del Grande Fratello Vip 2026 crescono le tensioni tra Valeria Marini e le finaliste Marina La Rosa e Guendalina Tavassi. Il confronto tra le concorrenti è al centro delle immagini diffuse da Mediaset.",
-   "body": "Nella casa del Grande Fratello Vip 2026 il clima tra Valeria Marini e le due finaliste Marina La Rosa e Guendalina Tavassi si fa sempre più teso. Secondo quanto riportato da superguidatv.it, il confronto tra le concorrenti è diventato uno dei momenti più discussi del programma, con la tensione che cresce giorno dopo giorno tra i protagonisti della casa.\n\nLe immagini del confronto sono state diffuse da Mediaset tramite il proprio canale video. Il materiale disponibile non riporta ulteriori dettagli sulle parole pronunciate né sugli sviluppi successivi, quindi il quadro resta quello di un dissidio emerso all'interno del reality. Il pubblico potrà seguire gli aggiornamenti nelle prossime puntate del programma.",
-   "slug": "grande-fratello-vip-2026-tensione-tra-valeria-marini-e-marin-6a2c45",
-   "tags": [
-    "Grande Fratello Vip",
-    "Valeria Marini",
-    "Marina La Rosa"
-   ],
-   "scene": "tv",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/gf-vip-2026-marina-e-guendalina-contro-valeria-marini-video/",
-   "published": "2026-11-09T22:05:05+00:00"
-  },
-  {
-   "id": "5c2d09aad3a7",
-   "section": "cinema",
-   "title": "DC Universe, i piani di James Gunn per i progetti futuri",
-   "summary": "Emergono dettagli sul piano più ampio che James Gunn aveva per il DC Universe. Wonder Woman doveva debuttare in Man of Tomorrow, mentre il nuovo Batman di The Brave and the Bold era previsto nel 2028.",
-   "body": "Secondo quanto riportato da Cinefilos, il futuro del DC Universe immaginato da James Gunn sarebbe stato molto più articolato di quanto reso noto finora. In particolare, Wonder Woman avrebbe fatto la sua prima apparizione in Man of Tomorrow, il film dedicato a Superman.\n\nIl nuovo Batman, protagonista di The Brave and the Bold, era atteso nel 2028. La fonte parla anche di altri due film in programma dopo questi titoli, ma il materiale disponibile non ne specifica titoli né date, quindi al momento non è possibile fornire ulteriori dettagli.",
-   "slug": "dc-universe-i-piani-di-james-gunn-per-i-progetti-futuri-5c2d09",
-   "tags": [
-    "James Gunn",
-    "Man of Tomorrow",
-    "The Brave and the Bold"
-   ],
-   "scene": "ciak",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/dc-universe-svelati-piani-james-gunn-aveva-alcuni-progetti-futuri-730066",
-   "published": "2026-11-09T21:31:50+00:00"
   }
  ],
  "seen": [
-  "7fd295a9d3c7",
-  "84155a2aac35",
-  "49fea5b874e4",
-  "aca8fc251557",
-  "87cc602762bd",
-  "e1a037723495",
-  "b23db26a7899",
-  "90c31b33d627",
-  "782b8602aa46",
-  "1653fcdf0abd",
-  "55a569a2e5d9",
-  "13b97801642a",
-  "4b1d564c74df",
-  "7ce24b878709",
-  "10dd155fee73",
-  "cebf6ee4b763",
-  "ee1ccb3df069",
-  "a92041c3dd73",
-  "7b93d01c543f",
-  "4d38a5c350b2",
-  "b0ed6e74b0fe",
-  "05e3a4847e55",
-  "16e3a32b225d",
-  "2a7e604508c0",
   "6f30095c222a",
   "a5ccd5ac27f8",
   "274dd1c02c4f",
@@ -12352,7 +12327,31 @@
   "98b410c30fe5",
   "450b1de13513",
   "8399aa9ec585",
-  "54323b1e8b41"
+  "54323b1e8b41",
+  "5dfb65955d86",
+  "bf7e34e10b37",
+  "cc7ece042273",
+  "cf99e3d6e121",
+  "3ddc2e33096c",
+  "596604d5c2d9",
+  "db2f810c30b4",
+  "fe5bf92d6141",
+  "310eec71bad0",
+  "3e0deb4c51a4",
+  "7ee2a4a5fdd8",
+  "35e5d02c5a12",
+  "53935393cc1d",
+  "d74cf12b02d5",
+  "d28768ff333e",
+  "0a2be0b6d51c",
+  "20d69b02b1af",
+  "f5697eaa24b2",
+  "104dfaf7b6a5",
+  "1036d88850c6",
+  "dff9be327238",
+  "bf7559b155c4",
+  "dac7233ecfbd",
+  "2d78db176050"
  ],
  "version": 4,
  "digests": [
