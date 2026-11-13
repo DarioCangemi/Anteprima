@@ -1,6 +1,155 @@
 {
  "articles": [
   {
+   "id": "9fa12ac8cf4a",
+   "section": "tv",
+   "title": "Savannah Guthrie rinnova con NBC News e resta a Today",
+   "summary": "La conduttrice Savannah Guthrie ha rinnovato il contratto con NBC News e continuerà a condurre Today. Il programma del mattino guida la classifica degli ascolti per la prima volta da 14 anni.",
+   "body": "La giornalista e conduttrice Savannah Guthrie ha firmato il rinnovo del contratto con NBC News, confermando la sua presenza alla guida di Today, lo storico programma del mattino della rete americana. La notizia arriva dopo un anno definito difficile, come riferito dalla testata TheWrap.\n\nIl rinnovo coincide con un risultato significativo per il programma: Today è in testa alle classifiche di ascolto del mattino per la prima volta in 14 anni. Secondo quanto riportato da TheWrap, la conferma di Guthrie arriva proprio mentre lo show registra questo successo nella corsa agli ascolti.",
+   "slug": "savannah-guthrie-rinnova-con-nbc-news-e-resta-a-today-9fa12a",
+   "tags": [
+    "Savannah Guthrie",
+    "Today",
+    "NBC News"
+   ],
+   "scene": "tv",
+   "source": "thewrap.com",
+   "url": "https://www.thewrap.com/culture-lifestyle/culture/savannah-guthrie-nbc-news-today-contract-extension/",
+   "published": "2026-11-13T15:21:07+00:00"
+  },
+  {
+   "id": "2433f6b8c8f9",
+   "section": "musica",
+   "title": "KPop Demon Hunters, annunciata una tappa italiana del Golden World Tour a Milano",
+   "summary": "Il Golden World Tour ispirato a KPop Demon Hunters farà tappa in Italia, a Milano. La prevendita dei biglietti per la data italiana sta per partire.",
+   "body": "È stata annunciata la data italiana del KPop Demon Hunters Golden World Tour, il concerto dal vivo ispirato al film animato di Sony Pictures Animation. La tappa si terrà a Milano e la prevendita dei biglietti partirà a breve, secondo quanto riportato da ComingSoon.\n\nLo spettacolo porta sul palco l'esperienza delle Huntr/x, il gruppo protagonista del film, disponibile su Netflix. Chi vuole rivedere la pellicola in vista dell'evento può farlo sulla piattaforma, dove il titolo è già disponibile.",
+   "slug": "kpop-demon-hunters-annunciata-una-tappa-italiana-del-golden-2433f6",
+   "tags": [
+    "KPop Demon Hunters",
+    "Huntr/x",
+    "Netflix"
+   ],
+   "scene": "palco",
+   "source": "ComingSoon",
+   "url": "https://www.comingsoon.it/cinema/news/kpop-demon-hunters-golden-world-tour-annunciata-la-data-italiana-del/n235857/",
+   "published": "2026-11-13T15:19:00+00:00"
+  },
+  {
+   "id": "fd5d74709d80",
+   "section": "gossip",
+   "title": "Pete Davidson e la rimozione dei tatuaggi: dolorosa e costosa",
+   "summary": "Pete Davidson ha raccontato le difficoltà della rimozione dei suoi numerosi tatuaggi, paragonando il trattamento a mettere il braccio su una griglia. Secondo quanto riferito, la procedura ha già superato i 200mila dollari di spesa e potrebbe richiedere ancora un decennio.",
+   "body": "L'ex protagonista del Saturday Night Live Pete Davidson ha parlato in prima persona del percorso per eliminare il suo ampio corredo di tatuaggi. Secondo quanto riportato da OK Magazine, l'attore e comico ha descritto il trattamento con il laser come un'esperienza molto dolorosa, paragonandola a tenere il braccio su una griglia.\n\nDavidson ha inoltre spiegato che i costi finora sostenuti sono già molto alti, superiori ai 200mila dollari, e che la rimozione completa potrebbe richiedere ancora circa dieci anni. Le informazioni arrivano dalle sue dichiarazioni pubbliche, riportate dalla testata, che non specifica dettagli ulteriori sui singoli interventi.",
+   "slug": "pete-davidson-e-la-rimozione-dei-tatuaggi-dolorosa-e-costosa-fd5d74",
+   "tags": [
+    "Pete Davidson",
+    "Saturday Night Live"
+   ],
+   "scene": "microfono",
+   "source": "okmagazine.com",
+   "url": "https://okmagazine.com/p/pete-davidson-says-tattoo-removal-feels-like-putting-your-arm-grill/",
+   "published": "2026-11-13T15:12:30+00:00"
+  },
+  {
+   "id": "186d50d7d883",
+   "section": "cinema",
+   "title": "Friday the 13th torna al cinema nel 2027 con Steve Miner alla regia",
+   "summary": "Il franchise horror Friday the 13th tornerà nelle sale nel 2027 con il tredicesimo capitolo. Dietro la macchina da presa ci sarà Steve Miner, regista di Friday the 13th Part II e Part III.",
+   "body": "Jason Voorhees, il killer con la maschera da hockey, tornerà sul grande schermo nel 2027 con il tredicesimo capitolo della saga horror Friday the 13th. Secondo The Playlist, la pellicola sarà diretta da Steve Miner, che aveva già firmato i due sequel Friday the 13th Part II e Friday the 13th Part III.\n\nPer i fan della serie si tratta di un ritorno atteso da quasi vent'anni. Il ritorno di Miner dietro la macchina da presa richiama il periodo che ha dato al personaggio il suo look più riconoscibile, quello della maschera da hockey.",
+   "slug": "friday-the-13th-torna-al-cinema-nel-2027-con-steve-miner-all-186d50",
+   "tags": [
+    "Friday the 13th",
+    "Steve Miner",
+    "Jason Voorhees"
+   ],
+   "scene": "pellicola",
+   "source": "theplaylist.net",
+   "url": "https://theplaylist.net/friday-the-13th-horror-franchise-returns-steve-miner-20261113/",
+   "published": "2026-11-13T15:12:25+00:00"
+  },
+  {
+   "id": "64efa8043583",
+   "section": "cinema",
+   "title": "Hong Sang-soo presenta due nuovi film al New York Film Festival",
+   "summary": "Il regista sudcoreano Hong Sang-soo porta al New York Film Festival due nuovi titoli, tra cui The Day She Returns, in uscita negli Stati Uniti il 18 dicembre. Il film è interpretato da Song Sunmi nel ruolo di un'attrice che torna a recitare dopo il divorzio.",
+   "body": "Il regista sudcoreano Hong Sang-soo presenta due nuovi film alla sessantaquattresima edizione del New York Film Festival. Il primo è The Day She Returns, trentaquattresimo lungometraggio del regista, che ha avuto la sua premiere nordamericana nella rassegna newyorkese. Secondo quanto riportato da The Playlist, il film sarà distribuito negli Stati Uniti da Cinema Guild e arriverà nelle sale del Metrograph di New York il 18 dicembre.\n\nProtagonista della storia è Song Sunmi, che interpreta Bae Jeongsu, un'attrice che aveva lasciato la carriera dopo il matrimonio e che, dopo il divorzio, torna a recitare in un film indipendente. Il secondo titolo presentato a New York è Nowhere To Lay My Eyes, di cui sono stati diffusi i trailer insieme a quello del film principale.",
+   "slug": "hong-sang-soo-presenta-due-nuovi-film-al-new-york-film-festi-64efa8",
+   "tags": [
+    "Hong Sang-soo",
+    "The Day She Returns",
+    "New York Film Festival"
+   ],
+   "scene": "premiere",
+   "source": "theplaylist.net",
+   "url": "https://theplaylist.net/hong-sangsoo-the-day-she-returns-trailer-20261113/",
+   "published": "2026-11-13T15:10:46+00:00"
+  },
+  {
+   "id": "b16051139244",
+   "section": "tv",
+   "title": "Life With Derek, l'ex attore Disney ammette la scelta del romance tra fratellastri",
+   "summary": "Un ex attore Disney ha ammesso di aver puntato sulla storia d'amore tra fratellastri per aumentare la popolarita' della serie Life With Derek. Le sue parole arrivano quasi vent'anni dopo la fine delle riprese dell'ultimo episodio.",
+   "body": "Secondo Page Six, l'attore protagonista di Life With Derek ha confessato di aver assecondato, insieme alla sua co-protagonista, il legame sentimentale tra i due personaggi, che erano fratellastri nella finzione, per rendere la serie piu' seguita. Ha spiegato di aver percepito fin da subito una chimica innegabile tra i due interpreti sul set.\n\nLe dichiarazioni sono arrivate quasi vent'anni dopo le riprese dell'episodio finale della serie, prodotta per il canale Disney Channel. Il racconto dell'attore riporta alla memoria una delle dinamiche piu' discusse della sitcom, che negli anni e' rimasta nel ricordo del pubblico di quella generazione.",
+   "slug": "life-with-derek-l-ex-attore-disney-ammette-la-scelta-del-rom-b16051",
+   "tags": [
+    "Life With Derek"
+   ],
+   "scene": "tv",
+   "source": "pagesix.com",
+   "url": "https://pagesix.com/2026/11/13/entertainment/disney-alum-admits-he-and-co-star-leaned-into-step-sibling-romance-on-screen-to-boost-show/",
+   "published": "2026-11-13T15:08:58+00:00"
+  },
+  {
+   "id": "aed08adc5e97",
+   "section": "tv",
+   "title": "Andrea Delogu vorrebbe riportare Tonica in televisione",
+   "summary": "Andrea Delogu ha dichiarato di sperare in una nuova edizione di Tonica, il late show di Raidue che conduceva in seconda serata. L'appello è arrivato durante il DeCore Podcast.",
+   "body": "Andrea Delogu ha dichiarato di desiderare il ritorno di Tonica su Raidue, il programma in seconda serata che ha condotto e a cui, come ha raccontato, ha dedicato molto impegno. Secondo quanto riportato da tvblog.it, la conduttrice ha espresso questo desiderio durante un intervento nel DeCore Podcast, auspicando che il format possa avere una nuova edizione.\n\nIl late show viene ricordato come una trasmissione che ha lasciato un segno nella fascia notturna della rete. Al momento non risultano annunci ufficiali da parte di Rai su un eventuale ritorno del programma, quindi la proposta resta una speranza espressa dalla stessa Delogu.",
+   "slug": "andrea-delogu-vorrebbe-riportare-tonica-in-televisione-aed08a",
+   "tags": [
+    "Andrea Delogu",
+    "Tonica",
+    "DeCore Podcast"
+   ],
+   "scene": "tv",
+   "source": "tvblog.it",
+   "url": "https://www.tvblog.it/post/andrea-delogu-vorrebbe-riportare-tonica-in-televisione-il-late-show-che-ha-cambiato-la-seconda-serata",
+   "published": "2026-11-13T15:00:50+00:00"
+  },
+  {
+   "id": "ec84b679a1bf",
+   "section": "tv",
+   "title": "The Voice Senior, stasera la finale su Rai 1",
+   "summary": "Stasera su Rai 1 va in onda la finale di The Voice Senior, con dodici concorrenti over 60 che si contendono la vittoria. Tra i favoriti viene indicata Francesca Magnelli, apprezzata dalla giuria per la sua voce.",
+   "body": "Stasera su Rai 1 va in onda la finale di The Voice Senior, il talent dedicato ai cantanti over 60. Dodici concorrenti si sfidano per il titolo, ma alla vigilia la lista dei favoriti attira l'attenzione del pubblico.\n\nSecondo BadTaste, tra i protagonisti più quotati c'è Francesca Magnelli, voce transgender che nel corso della competizione ha colpito Arisa. Il programma promette una serata con un solo vincitore, scelto tra i dodici finalisti.",
+   "slug": "the-voice-senior-stasera-la-finale-su-rai-1-ec84b6",
+   "tags": [
+    "The Voice Senior",
+    "Francesca Magnelli",
+    "Arisa"
+   ],
+   "scene": "palco",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/the-voice-senior-stasera-la-finale-chi-sono-i-favoriti-12-concorrenti-uno-solo-puo-vincere",
+   "published": "2026-11-13T14:56:04+00:00"
+  },
+  {
+   "id": "92bce1400872",
+   "section": "musica",
+   "title": "Limp Bizkit a luglio a From Milano Live",
+   "summary": "La band nu metal statunitense Limp Bizkit si esibirà a luglio nell'ambito di From Milano Live, la rassegna che raccoglie l'eredità delle precedenti edizioni di Fiera Milano Live. La notizia è riportata dall'agenzia ANSA.",
+   "body": "I Limp Bizkit, storica band nu metal statunitense, saranno protagonisti a luglio di From Milano Live, la rassegna musicale che prosegue l'esperienza delle precedenti edizioni di Fiera Milano Live. Secondo ANSA, il gruppo porterà il proprio sound a Milano nel periodo estivo, all'interno di un calendario di concerti pensato per il pubblico della città.\n\nLa rassegna nasce come erede dei format già proposti negli anni scorsi nel quartiere fieristico milanese, con l'obiettivo di offrire eventi dal vivo di richiamo. La presenza di una band come i Limp Bizkit conferma la volontà degli organizzatori di puntare su nomi noti del rock e del metal internazionale.",
+   "slug": "limp-bizkit-a-luglio-a-from-milano-live-92bce1",
+   "tags": [
+    "Limp Bizkit",
+    "From Milano Live"
+   ],
+   "scene": "palco",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/il-nu-metal-dei-limp-bikzit-a-luglio-a-from-milano-live_50139695-c6d8-4bac-9cd6-ff860db4f3c2.html",
+   "published": "2026-11-13T14:36:21+00:00"
+  },
+  {
    "id": "2fec794e5351",
    "section": "cinema",
    "title": "Maika Monroe protagonista di Victorian Psycho, thriller diretto da Zachary Wigon",
@@ -8192,185 +8341,9 @@
    "source": "fotogramas.es",
    "url": "https://www.fotogramas.es/noticias-cine/a74349994/a24-desafio-gigante-hollywood-identidad-analisis-cine/",
    "published": "2026-11-11T09:06:05+00:00"
-  },
-  {
-   "id": "66009e2d6cac",
-   "section": "tv",
-   "title": "Gli Anelli del Potere 3: il secondo episodio si concentra su Númenor",
-   "summary": "Il secondo episodio della terza stagione de Gli Anelli del Potere sposta l'attenzione su Númenor, con un dramma politico fatto di inseguimenti e intrighi. Secondo la recensione di Winter is Coming, è tra gli episodi migliori dell'intera serie.",
-   "body": "Il secondo episodio della terza stagione di The Lord of the Rings: The Rings of Power porta il racconto sull'isola di Númenor, dove la vicenda prende la forma di un dramma politico basato su un continuo gioco del gatto e del topo tra i personaggi.\n\nSecondo Winter is Coming, la puntata punta con decisione su questa tensione e risulta una delle più riuscite dell'intera serie. La recensione sottolinea come la forza del racconto nasca dalla crescita del conflitto politico sull'isola, più che dalle scene d'azione. Per chi segue la serie di Prime Video, è un episodio che conferma la direzione scelta per questa stagione.",
-   "slug": "gli-anelli-del-potere-3-il-secondo-episodio-si-concentra-su-66009e",
-   "tags": [
-    "Gli Anelli del Potere",
-    "Númenor",
-    "Prime Video"
-   ],
-   "scene": "tv",
-   "source": "winteriscoming.net",
-   "url": "https://winteriscoming.net/lord-of-the-rings-the-rings-of-power-season-3-episode-2-recap-review-numenor-proves-strength?utm_source=RSS",
-   "published": "2026-11-11T09:05:00+00:00"
-  },
-  {
-   "id": "aaeae759da83",
-   "section": "tv",
-   "title": "Leah McSweeney chiude la causa contro Bravo e Andy Cohen",
-   "summary": "La causa intentata da Leah McSweeney, ex protagonista di The Real Housewives of New York City, contro Bravo e Andy Cohen si è chiusa con l'archiviazione definitiva. Secondo la fonte, le parti hanno concordato il ritiro della causa dopo quasi tre anni di accuse.",
-   "body": "La vicenda legale tra Leah McSweeney, ex protagonista di The Real Housewives of New York City, e l'emittente Bravo insieme al produttore e conduttore Andy Cohen è giunta al termine. Secondo quanto riportato da OK!, che dice di aver consultato gli atti del tribunale federale, le parti hanno concordato di ritirare volontariamente la causa, che è stata archiviata in via definitiva.\n\nLa battaglia legale durava da quasi tre anni ed era stata segnata da accuse molto accese. Il materiale disponibile non specifica i termini dell'accordo né le motivazioni dettagliate della richiesta, quindi non è possibile andare oltre quanto emerso dai documenti.",
-   "slug": "leah-mcsweeney-chiude-la-causa-contro-bravo-e-andy-cohen-aaeae7",
-   "tags": [
-    "Leah McSweeney",
-    "The Real Housewives of New York City",
-    "Andy Cohen"
-   ],
-   "scene": null,
-   "source": "okmagazine.com",
-   "url": "https://okmagazine.com/p/rhony-leah-mcsweeney-lawsuit-bravo-andy-cohen-dismissed-prejudice/",
-   "published": "2026-11-11T09:01:25+00:00"
-  },
-  {
-   "id": "86a388c45a6b",
-   "section": "tv",
-   "title": "Dawson's Creek, Kerr Smith racconta le tensioni sul set nel suo nuovo libro",
-   "summary": "Nel suo nuovo libro, l'attore Kerr Smith racconta le tensioni tra i protagonisti di Dawson's Creek. Secondo quanto riportato, anche Mary-Margaret Humes, interprete della madre di Dawson, contribuì a riavvicinarli.",
-   "body": "Nel suo nuovo libro, Kerr Smith, che in Dawson's Creek interpretava Jack McPhee, ripercorre i rapporti difficili tra i protagonisti della serie. Il volume descrive le tensioni che attraversarono il gruppo, legate in particolare al rapporto tra Joshua Jackson, James Van Der Beek e Katie Holmes, che la serie ha reso celebre al pubblico italiano.\n\nSecondo quanto riporta Movieplayer, l'autore racconta anche il ruolo di Mary-Margaret Humes, interprete della madre di Dawson, che avrebbe contribuito a ricucire i rapporti tra i colleghi. Il libro offre così uno sguardo dietro le quinte di una delle serie teen più amate degli anni Novanta e dei primi Duemila.",
-   "slug": "dawson-s-creek-kerr-smith-racconta-le-tensioni-sul-set-nel-s-86a388",
-   "tags": [
-    "Dawson's Creek",
-    "Kerr Smith",
-    "Mary-Margaret Humes"
-   ],
-   "scene": "ciak",
-   "source": "Movieplayer",
-   "url": "https://movieplayer.it/news/dawsons-creek-libro-triangolo-amoroso-jackson-van-der-beek-holmes_171914/",
-   "published": "2026-11-11T09:00:43+00:00"
-  },
-  {
-   "id": "7361514b9464",
-   "section": "cinema",
-   "title": "Godzilla Minus Zero, Takashi Yamazaki racconta l'ispirazione dei suoi gatti",
-   "summary": "Il regista Takashi Yamazaki ha rivelato che una delle battaglie più importanti di Godzilla Minus Zero è nata osservando i suoi gatti. Il film è il seguito diretto di Godzilla Minus One, premiato con l'Oscar per gli effetti visivi.",
-   "body": "Il regista Takashi Yamazaki ha raccontato un aneddoto legato alla lavorazione di Godzilla Minus Zero: una delle sequenze di combattimento più intense del film prende spunto dal comportamento dei suoi gatti. Secondo quanto riportato da BadTaste, l'osservazione dei felini, con i loro movimenti rapidi e imprevedibili, ha offerto al regista un modello per coreografare lo scontro con il mostro.\n\nIl film riprende la storia di Godzilla Minus One, che ha vinto l'Oscar per i migliori effetti visivi. Yamazaki torna quindi a dirigere il capitolo successivo della saga, confermando il suo approccio personale alle scene d'azione. La rivelazione offre uno sguardo insolito sul processo creativo dietro una delle battaglie più brutali dell'opera.",
-   "slug": "godzilla-minus-zero-takashi-yamazaki-racconta-l-ispirazione-736151",
-   "tags": [
-    "Godzilla Minus Zero",
-    "Takashi Yamazaki",
-    "Godzilla Minus One"
-   ],
-   "scene": "pellicola",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/godzilla-minus-zero-il-regista-si-e-ispirato-ai-suoi-gatti-per-una-battaglia-brutale-ecco-perche",
-   "published": "2026-11-11T09:00:16+00:00"
-  },
-  {
-   "id": "00ddc8509314",
-   "section": "cinema",
-   "title": "Marta Zoboli: \"Far ridere è una rivoluzione\"",
-   "summary": "L'attrice e comica Marta Zoboli parla del suo percorso, dal cult Super Market, la cui seconda stagione è in arrivo, fino alla nuova commedia di Leonardo Pieraccioni. Secondo Movieplayer, che ha realizzato l'intervista, Zoboli si conferma anche come attrice oltre che comica.",
-   "body": "Marta Zoboli è protagonista di una lunga intervista con Movieplayer, in cui racconta il suo lavoro di comica e attrice. Il punto di partenza è Super Market, serie diventata un cult e in procinto di tornare con una seconda stagione. Il discorso si allarga poi alla nuova commedia di Leonardo Pieraccioni, al cui progetto Zoboli prenderà parte.\n\nNel colloquio, come riferisce la testata, emerge l'idea che far ridere sia un mestiere serio e, nelle sue parole, quasi una forma di rivoluzione. Secondo Movieplayer, l'intervista restituisce il ritratto di un'artista che non si limita alla comicità e che, pur essendo nota per le battute, lavora con la recitazione in modo molto preciso.",
-   "slug": "marta-zoboli-far-ridere-e-una-rivoluzione-00ddc8",
-   "tags": [
-    "Marta Zoboli",
-    "Super Market",
-    "Leonardo Pieraccioni"
-   ],
-   "scene": "microfono",
-   "source": "Movieplayer",
-   "url": "https://movieplayer.it/articoli/marta-zoboli-intervista-attrice-super-market-un-weekend-artificiale_38192/",
-   "published": "2026-11-11T09:00:00+00:00"
-  },
-  {
-   "id": "eca17d278e27",
-   "section": "cinema",
-   "title": "Marco Perego Saldaña ospite della Cattolica di Milano tra cinema e Hollywood",
-   "summary": "Il regista e produttore Marco Perego Saldaña ha incontrato gli studenti dell'Università Cattolica del Sacro Cuore di Milano in una Open Lecture dedicata a regia e produzione a Hollywood e in Europa. Nel suo intervento ha parlato del percorso dall'arte al cinema internazionale, passando per il Festival di Cannes.",
-   "body": "Marco Perego Saldaña è stato ospite dell'Università Cattolica del Sacro Cuore di Milano, dove ha incontrato gli studenti nell'ambito di una Open Lecture dedicata a regia e produzione a Hollywood e in Europa. L'appuntamento era organizzato all'interno del Master in International Screenwriting and Production e di un corso dell'ateneo, secondo quanto riferito da SuperGuidaTV.\n\nNel suo intervento, Perego Saldaña ha ripercorso il proprio cammino, che parte dall'arte e arriva al cinema internazionale, con tappe a Hollywood e al Festival di Cannes. Il messaggio centrale della serata riguarda il valore della cultura come ponte tra le persone e l'invito a non smettere mai di inseguire i propri sogni.",
-   "slug": "marco-perego-saldana-ospite-della-cattolica-di-milano-tra-ci-eca17d",
-   "tags": [
-    "Marco Perego Saldaña",
-    "Università Cattolica del Sacro Cuore",
-    "Festival di Cannes"
-   ],
-   "scene": "premiere",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/marco-perego-saldana-tra-cinema-hollywood-e-arte/",
-   "published": "2026-11-11T08:30:14+00:00"
-  },
-  {
-   "id": "11e130d17628",
-   "section": "tv",
-   "title": "The Age of Innocence, la miniserie Netflix tratta dal romanzo di Edith Wharton",
-   "summary": "Netflix porta sullo schermo The Age of Innocence, miniserie in 8 episodi tratta dal romanzo di Edith Wharton, con Ben Radcliffe, Kristine Froseth e Camila Morrone. La serie uscirà il 18 febbraio 2026 e racconta un uomo diviso tra il futuro scelto per lui dalla società e un altro amore.",
-   "body": "Netflix ha annunciato una miniserie in otto episodi dedicata a The Age of Innocence, adattamento del celebre romanzo di Edith Wharton. Nel cast figurano Ben Radcliffe, Kristine Froseth e Camila Morrone, mentre la data di uscita sulla piattaforma è fissata al 18 febbraio 2026.\n\nAl centro della storia c'è un uomo costretto a scegliere tra il percorso che l'alta società ha già tracciato per lui e un sentimento che rischia di sconvolgere gli equilibri di un ambiente rigido e fondato sulle apparenze. Secondo Dituttounpop.it, la serie riprende così il tema dell'innocenza perduta che attraversa l'opera di Wharton, offrendo al pubblico un nuovo modo di avvicinarsi a una delle storie più amate della letteratura americana.",
-   "slug": "the-age-of-innocence-la-miniserie-netflix-tratta-dal-romanzo-11e130",
-   "tags": [
-    "The Age of Innocence",
-    "Edith Wharton",
-    "Netflix"
-   ],
-   "scene": "streaming",
-   "source": "dituttounpop.it",
-   "url": "https://www.dituttounpop.it/the-age-of-innocence-eta-innocenza-netflix/",
-   "published": "2026-11-11T08:19:57+00:00"
-  },
-  {
-   "id": "13d386ef827a",
-   "section": "musica",
-   "title": "Ci sono anch'io, la storia del brano degli 883 legato a Disney",
-   "summary": "Secondo BadTaste, il brano \"Ci sono anch'io\" degli 883 fu scritto per il film Disney Il pianeta del tesoro. Il pezzo è legato a Max Pezzali e a un dettaglio che anticipò la sua carriera solista.",
-   "body": "Il brano \"Ci sono anch'io\" degli 883 ha un legame con il cinema d'animazione Disney: il gruppo lo eseguì per la colonna sonora de Il pianeta del tesoro. Secondo BadTaste, la canzone è al centro di una storia che parte da quella collaborazione e arriva fino all'addio del progetto 883, con Max Pezzali protagonista del percorso.\n\nIl racconto ripercorre anche un dettaglio che, a posteriori, anticipò la carriera solista di Pezzali. Un elemento legato a quel brano viene indicato come il segnale di una direzione che il cantautore avrebbe poi seguito da solo. L'articolo di BadTaste approfondisce i passaggi di questa vicenda, utile per chi vuole ricostruire la storia di uno dei brani più noti del pop italiano degli anni Novanta.",
-   "slug": "ci-sono-anch-io-la-storia-del-brano-degli-883-legato-a-disne-13d386",
-   "tags": [
-    "Max Pezzali",
-    "883",
-    "Il pianeta del tesoro"
-   ],
-   "scene": "vinile",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/nord-sud-ovest-est-la-storia-speciale-di-ci-sono-anchio-dalla-disney-alladdio-agli-883",
-   "published": "2026-11-11T08:15:40+00:00"
-  },
-  {
-   "id": "2382565434c6",
-   "section": "musica",
-   "title": "Teto torna con il singolo \"Raccordo\", un pop energico ispirato a Roma",
-   "summary": "Il cantautore romano Teto pubblicherà il 30 ottobre \"Raccordo\", nuovo singolo pop dedicato alla tangenziale di Roma. In un'intervista ha spiegato la sua vicinanza artistica a Ultimo e il no a un talent show.",
-   "body": "Il cantautore tiburtino Teto torna il 30 ottobre con \"Raccordo\", un brano pop energico e liberatorio. La canzone nasce dalla tangenziale di Roma, trasformata nel luogo ideale dove guidare di sera, alzare il volume dello stereo e sfogarsi senza filtri.\n\nSecondo quanto riportato da SuperGuidaTV, nell'intervista Teto ha dichiarato di riconoscersi molto in Ultimo e nei suoi brani. Ha inoltre detto di non voler partecipare a un talent show. Il cantautore è cresciuto scrivendo poesie tra i banchi di scuola, passione che ha poi portato nella sua musica.",
-   "slug": "teto-torna-con-il-singolo-raccordo-un-pop-energico-ispirato-238256",
-   "tags": [
-    "Teto",
-    "Ultimo"
-   ],
-   "scene": "microfono",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/intervista-a-teto-mi-identifico-molto-in-ultimo-e-nei-suoi-brani/",
-   "published": "2026-11-11T08:15:03+00:00"
   }
  ],
  "seen": [
-  "a4f5076e633e",
-  "aa0cdacd9be9",
-  "3d7808b54a2b",
-  "a9c3f9e13ad0",
-  "53cc12af8b45",
-  "1d40dddb752d",
-  "c2f23d667dfe",
-  "31412416d147",
-  "e3201b3f8ffa",
-  "e99fc06b8b94",
-  "3c86ac3b3b37",
-  "a836e4d8b1e4",
-  "780ae4d94eae",
-  "dfe619bf5cdb",
-  "82b1fd391355",
-  "1c3097e3297e",
-  "b44a99699ce8",
-  "170dfbe4c089",
-  "4aee30a07539",
-  "07e0825f9b10",
-  "d12daff6e0c1",
-  "313c98b1df97",
-  "63764f2047b9",
-  "2ceec7b8e044",
   "43477deb6fbe",
   "01ed978a8bf4",
   "e6ed7c67c1ab",
@@ -12346,7 +12319,31 @@
   "5cf1c9ae9922",
   "d1040a3f1874",
   "eb607d7ab47b",
-  "6fcaae488298"
+  "6fcaae488298",
+  "2433f6b8c8f9",
+  "87ddf1e71a2a",
+  "855ff153ad2e",
+  "a591d4445854",
+  "fd5d74709d80",
+  "186d50d7d883",
+  "3fdba573ca00",
+  "0a7dd9b3849c",
+  "b9464d9b5b6f",
+  "b5620d490821",
+  "aed08adc5e97",
+  "d9ebc97608d0",
+  "9fa12ac8cf4a",
+  "a0ff258f5788",
+  "2ae9c6e66159",
+  "bb0bc8c563cf",
+  "64efa8043583",
+  "a06200a7803f",
+  "b16051139244",
+  "1eeb36da6912",
+  "ec84b679a1bf",
+  "bb8d4df877ba",
+  "1a14a423408b",
+  "92bce1400872"
  ],
  "version": 4,
  "digests": [
