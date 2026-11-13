@@ -1,6 +1,137 @@
 {
  "articles": [
   {
+   "id": "2d0916710c5c",
+   "section": "cinema",
+   "title": "Venerdì 13: annunciato un nuovo film con Jason Voorhees",
+   "summary": "Jason Voorhees torna sul grande schermo con un nuovo capitolo della saga di Venerdì 13, dopo quasi vent'anni di assenza. Alla regia c'è un nome amato dai fan della serie.",
+   "body": "Dopo quasi vent'anni di assenza dal grande schermo, Jason Voorhees torna protagonista di un nuovo film della saga di Venerdì 13. Secondo Fangoria, il progetto sarà il tredicesimo capitolo della serie horror nata negli anni Ottanta.\n\nLa novità più rilevante riguarda la regia, affidata a un autore molto apprezzato dai appassionati del franchise. La notizia è stata diffusa dalla rivista specializzata, che segue da anni il genere horror e le sue produzioni più celebri.",
+   "slug": "venerdi-13-annunciato-un-nuovo-film-con-jason-voorhees-2d0916",
+   "tags": [
+    "Venerdì 13",
+    "Jason Voorhees"
+   ],
+   "scene": "pellicola",
+   "source": "fangoria.com",
+   "url": "https://www.fangoria.com/friday-the-13th-sequel-news-steve-miner/",
+   "published": "2026-11-13T16:11:22+00:00"
+  },
+  {
+   "id": "322e7e67e3e5",
+   "section": "cinema",
+   "title": "Takashi Miike dirigerà il thriller psicologico Bullfrog con Jon Haam e Andrew Koji",
+   "summary": "Il regista giapponese Takashi Miike ha scelto Jon Haam e Andrew Koji come protagonisti di Bullfrog, thriller psicologico ambientato a Tokyo. Il film arriva dopo Bad Lieutenant: Tokyo, presentato in anteprima mondiale al TIFF 2026.",
+   "body": "Il prolifico regista giapponese Takashi Miike ha già in cantiere il suo prossimo film, che avrà come protagonisti Jon Haam e Andrew Koji. Secondo Variety, i due attori interpreteranno Bullfrog, un thriller psicologico ambientato a Tokyo.\n\nIl progetto segue di poco Bad Lieutenant: Tokyo, l'ultimo lavoro di Miike, presentato in anteprima mondiale al Toronto International Film Festival del 2026. Al momento non sono stati comunicati altri dettagli su trama, produzione o data di uscita.",
+   "slug": "takashi-miike-dirigera-il-thriller-psicologico-bullfrog-con-322e7e",
+   "tags": [
+    "Takashi Miike",
+    "Jon Haam",
+    "Andrew Koji"
+   ],
+   "scene": "ciak",
+   "source": "theplaylist.net",
+   "url": "https://theplaylist.net/bullfrog-jon-haam-andrew-koji-takashi-miike-20261113/",
+   "published": "2026-11-13T16:09:32+00:00"
+  },
+  {
+   "id": "dea9fc966302",
+   "section": "cinema",
+   "title": "Kevin Feige su Doomsday: il mondo senza una squadra organizzata di Avengers",
+   "summary": "Secondo Kevin Feige, Avengers: Doomsday esplorerà le conseguenze di anni senza una squadra di Avengers organizzata. Il film segna il ritorno del franchise dopo sette anni dall'ultimo capitolo della saga.",
+   "body": "Il presidente dei Marvel Studios Kevin Feige ha spiegato che Avengers: Doomsday approfondirà che cosa succede al mondo dopo anni senza una squadra di Avengers strutturata. Secondo quanto riportato da Empire, il film affronterà questo vuoto come punto di partenza della storia, mostrando come gli eroi e la società reagiscano a una situazione del genere.\n\nSono passati sette anni dall'ultimo film degli Avengers, e il ritorno della saga sul grande schermo è uno degli appuntamenti più attesi del Marvel Cinematic Universe. Le dichiarazioni di Feige arrivano dunque in un momento di grande interesse per il pubblico, che attende di capire come verrà ripresa la continuità con i capitoli precedenti.",
+   "slug": "kevin-feige-su-doomsday-il-mondo-senza-una-squadra-organizza-dea9fc",
+   "tags": [
+    "Avengers: Doomsday",
+    "Kevin Feige",
+    "Marvel Studios"
+   ],
+   "scene": "pellicola",
+   "source": "empireonline.com",
+   "url": "https://www.empireonline.com/movies/news/avengers-doomsday-consequence-of-no-organised-team-exclusive/",
+   "published": "2026-11-13T16:01:25+00:00"
+  },
+  {
+   "id": "c09f5d0b30a6",
+   "section": "cinema",
+   "title": "Su Netflix un film natalizio svedese su due sorelle che si scambiano la vita",
+   "summary": "Una commedia svedese disponibile su Netflix racconta due sorelle che scambiano le rispettive esistenze durante le feste. Il film affronta temi come il burnout, la crisi esistenziale e alcune scelte controverse.",
+   "body": "Su Netflix arriva una commedia svedese a tema natalizio che ruota attorno a due sorelle decise a scambiarsi la vita. Secondo BadTaste, il film non si limita al tono leggero delle feste: al centro ci sono il burnout, una crisi esistenziale e alcune scelte discutibili dei personaggi, che rendono la storia meno rassicurante di quanto il genere lascerebbe pensare.\n\nIl racconto segue due donne che, stanche della propria quotidianità, provano a vivere per un periodo nei panni dell'altra. Lo scambio diventa l'occasione per mettere a confronto due modi diversi di affrontare pressioni, aspettative e fragilità, mentre il periodo natalizio fa da sfondo a una riflessione sul senso delle proprie scelte.",
+   "slug": "su-netflix-un-film-natalizio-svedese-su-due-sorelle-che-si-s-c09f5d",
+   "tags": [
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/burnout-scelte-sbagliate-e-crisi-esistenziali-su-netflix-il-nuovo-film-natalizio-che-non-ti-aspetti",
+   "published": "2026-11-13T16:00:33+00:00"
+  },
+  {
+   "id": "8e7bd1dd2fbc",
+   "section": "tv",
+   "title": "Boston Blue, nuovo sguardo al prossimo episodio con un veterano di CSI",
+   "summary": "La CBS ha diffuso un'anteprima del prossimo episodio di Boston Blue, in onda nel fine settimana. Nel nuovo episodio compare un volto noto di CSI, la serie procedurale della CBS.",
+   "body": "La CBS ha diffuso in anteprima alcune immagini del prossimo episodio di Boston Blue, la serie poliziesca ambientata a Boston, che andrà in onda questo fine settimana. Secondo Collider, che ha collaborato con la rete per il materiale in esclusiva, la puntata vedrà la partecipazione di un attore che in passato ha fatto parte del cast di CSI.\n\nIl titolo fa parte del filone di procedurali della CBS, con un'impostazione da squadra investigativa al centro della narrazione. Le informazioni disponibili sulla trama dell'episodio sono limitate, quindi per dettagli su personaggi e storyline è consigliabile consultare la fonte originale o i canali ufficiali della rete.",
+   "slug": "boston-blue-nuovo-sguardo-al-prossimo-episodio-con-un-vetera-8e7bd1",
+   "tags": [
+    "Boston Blue",
+    "CSI",
+    "CBS"
+   ],
+   "scene": "tv",
+   "source": "collider.com",
+   "url": "https://collider.com/boston-blue-season-2-episode-6-sneak-peek-clip/",
+   "published": "2026-11-13T16:00:12+00:00"
+  },
+  {
+   "id": "04750ce28db7",
+   "section": "tv",
+   "title": "NCIS 24: Torres in un'operazione sotto copertura pericolosa",
+   "summary": "Nel sesto episodio della ventiquattresima stagione di NCIS, Torres viene coinvolto in un incarico sotto copertura rischioso, complicato dalla presenza di James Frain. Un'anteprima esclusiva anticipa la svolta della puntata.",
+   "body": "Nel sesto episodio della ventiquattresima stagione di NCIS, l'agente Torres viene coinvolto in una missione sotto copertura che si rivela più pericolosa del previsto. Secondo quanto riportato da Collider, che ha diffuso un'anteprima esclusiva, la situazione si complica con l'arrivo di James Frain, attore noto al pubblico per diverse produzioni televisive e cinematografiche.\n\nDalle prime immagini emerge una storia che porta il personaggio di Torres più in profondità in un territorio ostile, con rischi crescenti per lui e per la squadra. La puntata promette quindi una svolta importante nel percorso dell'agente, in una stagione che continua a puntare sulle indagini sul campo e sulle tensioni interne al gruppo.",
+   "slug": "ncis-24-torres-in-un-operazione-sotto-copertura-pericolosa-04750c",
+   "tags": [
+    "NCIS",
+    "James Frain"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/ncis-season-24-episode-6-sneak-peek-james-frain/",
+   "published": "2026-11-13T16:00:12+00:00"
+  },
+  {
+   "id": "e3195383adc7",
+   "section": "musica",
+   "title": "Al Bano: se il Papa va a Gaza, sono pronto ad andare con lui",
+   "summary": "Al Bano ha dichiarato che accompagnerebbe Papa Leone XIV in una eventuale visita a Gaza. La disponibilità del cantante è legata a un appello rivolto al Pontefice dall'associazione 'L'Isola che non c'è'.",
+   "body": "Il cantante Al Bano ha dichiarato di essere disposto ad affiancare il Papa in un'eventuale visita a Gaza. Secondo ANSA, la dichiarazione arriva con la firma di Al Bano a un appello rivolto al Pontefice dall'associazione 'L'Isola che non c'è'.\n\nL'iniziativa chiede al Papa un gesto concreto per la popolazione della Striscia, e il cantante ha scelto di sostenerla in prima persona. Il materiale disponibile non riporta dettagli su tempi, modalità o eventuali risposte del Vaticano.",
+   "slug": "al-bano-se-il-papa-va-a-gaza-sono-pronto-ad-andare-con-lui-e31953",
+   "tags": [
+    "Al Bano",
+    "L'Isola che non c'è"
+   ],
+   "scene": "microfono",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/al-bano-se-il-papa-va-a-gaza-ci-vado-anchio-al-suo-fianco_f3a3e3d5-20ea-4dd1-b710-0fc560a439d6.html",
+   "published": "2026-11-13T15:41:47+00:00"
+  },
+  {
+   "id": "6d362e7a8936",
+   "section": "cinema",
+   "title": "Il corto \"Per tutte le volte\" celebra gli 80 anni del voto alle donne",
+   "summary": "Il cortometraggio \"Per tutte le volte\" ricorda gli ottant'anni dal primo voto delle donne in Italia. Il corto sarà presentato nelle date del 16 e del 25 novembre, in occasione dei festival Visioni Italiane e L'eredità delle donne.",
+   "body": "Il cortometraggio \"Per tutte le volte\" è dedicato agli ottant'anni dal primo voto delle donne, un anniversario che ricorre nel 2026 e che segna una tappa importante della storia democratica del Paese. Secondo ANSA, il corto sarà proiettato il 16 e il 25 novembre nell'ambito di due rassegne: Visioni Italiane e L'eredità delle donne.\n\nLa scelta di legare il film a una ricorrenza civile porta il racconto del diritto di voto femminile in sala e nei festival dedicati al cinema italiano. Le informazioni disponibili non dicono altro sul contenuto dell'opera, sui suoi autori o sugli interpreti, ma la doppia programmazione indica un interesse per il tema da parte degli organizzatori delle rassegne.",
+   "slug": "il-corto-per-tutte-le-volte-celebra-gli-80-anni-del-voto-all-6d362e",
+   "tags": [
+    "Visioni Italiane",
+    "L'eredità delle donne",
+    "Per tutte le volte"
+   ],
+   "scene": "premiere",
+   "source": "ANSA Cinema",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/13/il-corto-per-tutte-le-volte-celebra-gli-80-anni-dal-primo-voto_ff245984-1c5a-4da1-9a78-1b469ef27f93.html",
+   "published": "2026-11-13T15:34:11+00:00"
+  },
+  {
    "id": "9fa12ac8cf4a",
    "section": "tv",
    "title": "Savannah Guthrie rinnova con NBC News e resta a Today",
@@ -148,6 +279,23 @@
    "source": "ANSA Cultura e Spettacoli",
    "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/il-nu-metal-dei-limp-bikzit-a-luglio-a-from-milano-live_50139695-c6d8-4bac-9cd6-ff860db4f3c2.html",
    "published": "2026-11-13T14:36:21+00:00"
+  },
+  {
+   "id": "fe34ade2845b",
+   "section": "tv",
+   "title": "GF Vip, Selvaggia Lucarelli a Varsi: \"Megan è la quarta, non sei infatuato\"",
+   "summary": "Durante una puntata del GF Vip, Selvaggia Lucarelli ha commentato le simpatie di Alessandro Varsi, ricordando le concorrenti che lo hanno colpito fino a Megan. La giornalista ha poi sostenuto che il concorrente non sarebbe davvero infatuato di quest'ultima.",
+   "body": "Nel corso del GF Vip, Selvaggia Lucarelli ha rivolto una battuta ad Alessandro Varsi, ripercorrendo le concorrenti che il gieffino ha apprezzato in casa. Secondo quanto riportato da BadTaste, la giornalista ha elencato le simpatie precedenti del concorrente e ha collocato Megan al quarto posto della lista.\n\nAlla base dello scambio c'è la affermazione di Lucarelli secondo cui Varsi non sarebbe davvero infatuato di Megan. Il materiale disponibile non riporta la risposta del concorrente né ulteriori sviluppi nella casa, quindi il quadro resta limitato al commento della giornalista.",
+   "slug": "gf-vip-selvaggia-lucarelli-a-varsi-megan-e-la-quarta-non-sei-fe34ad",
+   "tags": [
+    "GF Vip",
+    "Selvaggia Lucarelli",
+    "Alessandro Varsi"
+   ],
+   "scene": "tv",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/gf-vip-selvaggia-lucarelli-e-la-stoccata-ad-alessandro-varsi-non-sei-infatuato-di-megan",
+   "published": "2026-11-13T14:32:12+00:00"
   },
   {
    "id": "2fec794e5351",
@@ -332,6 +480,23 @@
    "source": "tvblog.it",
    "url": "https://www.tvblog.it/post/italia-francia-fa-il-pieno-di-ascolti-su-raiuno-tutto-per-la-mia-famiglia-poco-sopra-l11-di-share-i-dati-auditel-del-12-novembre-2026",
    "published": "2026-11-13T14:00:37+00:00"
+  },
+  {
+   "id": "fc7d31f9d37a",
+   "section": "gossip",
+   "title": "Mara Venier ricorda l'uscita da Domenica In nel 2014",
+   "summary": "Mara Venier ha raccontato di essere stata allontanata da Domenica In nel 2014, con la motivazione di essere troppo anziana per la conduzione. Ha poi parlato del suo ritorno in Rai e del sostegno ricevuto da Maria De Filippi.",
+   "body": "Mara Venier ha raccontato in un'intervista che nel 2014 fu allontanata dalla conduzione di Domenica In, e che le venne detto di essere troppo anziana per quel ruolo. La conduttrice ha ricordato quella fase come un momento difficile della sua carriera, ripercorrendo le ragioni che portarono alla sua uscita dal programma della domenica pomeriggio di Rai 1.\n\nSecondo BadTaste, la presentatrice ha poi parlato del suo ritorno in Rai, accolto con grande entusiasmo dal pubblico, e del sostegno che le ha dato Maria De Filippi in quei mesi. Venier ha indicato nel rapporto con il pubblico uno degli elementi che l'hanno aiutata a ripartire, senza entrare in polemiche con i vertici dell'azienda.",
+   "slug": "mara-venier-ricorda-l-uscita-da-domenica-in-nel-2014-fc7d31",
+   "tags": [
+    "Mara Venier",
+    "Domenica In",
+    "Maria De Filippi"
+   ],
+   "scene": "tv",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/mara-venier-svela-perche-ha-dovuto-lasciare-domenica-in-ero-troppo-vecchia",
+   "published": "2026-11-13T13:50:03+00:00"
   },
   {
    "id": "202e3bddcb4f",
@@ -8175,199 +8340,9 @@
    "source": "collider.com",
    "url": "https://collider.com/michael-fassbender-the-agency-season-3-not-returning-2026/",
    "published": "2026-11-11T10:00:12+00:00"
-  },
-  {
-   "id": "1d040a3e6904",
-   "section": "musica",
-   "title": "Hugo Russo canta i CCCP in francese nel disco Belles Infidèles",
-   "summary": "Il cantante francese Hugo Russo pubblica Belles Infidèles, album dedicato ai brani dei CCCP - Fedeli alla Linea reinterpretati in lingua francese. Il disco esce il 6 novembre per BMG e Universal.",
-   "body": "Il progetto discografico Belles Infidèles porta per la prima volta il repertorio dei CCCP - Fedeli alla Linea nella lingua francese. L'album, firmato dall'artista francese Hugo Russo, esce il 6 novembre per le etichette BMG e Universal e raccoglie brani storici della band come Amandoti, Annarella, Emilia paranoica e Guerra e Pace.\n\nSecondo quanto riportato da SuperGuidaTV, Russo ha scelto questo omaggio per sottolineare la capacità delle canzoni del gruppo di restare attuali a distanza di decenni. Nell'intervista l'artista ha presentato il lavoro come una rilettura che mantiene il senso originale dei testi, adattandoli a un nuovo pubblico e a una nuova lingua.",
-   "slug": "hugo-russo-canta-i-cccp-in-francese-nel-disco-belles-infidel-1d040a",
-   "tags": [
-    "Hugo Russo",
-    "CCCP - Fedeli alla Linea"
-   ],
-   "scene": "vinile",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/hugo-russo-canta-i-cccp-in-francese-nellalbum-belles-infideles/",
-   "published": "2026-11-11T09:57:48+00:00"
-  },
-  {
-   "id": "666cfbf96c5e",
-   "section": "cinema",
-   "title": "Nightmare, il remake passa a Paramount: Warner esce dal progetto",
-   "summary": "Il progetto di un nuovo Nightmare – Dal profondo della notte, sviluppato da Warner Bros. con il regista Lee Cronin, non andrà avanti. Il rilancio della saga horror sarà affidato solo a Paramount, che ha già avviato la lavorazione.",
-   "body": "Il ritorno di Freddy Krueger sul grande schermo prende una direzione più chiara. Secondo quanto riportato da Cinefilos, il progetto di un nuovo Nightmare – Dal profondo della notte, sviluppato da Warner Bros. con il coinvolgimento del regista Lee Cronin, non andrà avanti. A occuparsi del rilancio della celebre saga horror sarà quindi soltanto Paramount, che ha già avviato il lavoro sul film.\n\nLa notizia arriva a sedici anni dall'ultimo capitolo della serie, un intervallo lungo che rende l'annuncio particolarmente atteso dai fan dell'horror. Il materiale disponibile non specifica i motivi del cambio di produttore né indica una data di uscita. Resta dunque da vedere come Paramount proseguirà il progetto e quale sarà il ruolo del regista nel nuovo film.",
-   "slug": "nightmare-il-remake-passa-a-paramount-warner-esce-dal-proget-666cfb",
-   "tags": [
-    "Nightmare – Dal profondo della notte",
-    "Lee Cronin",
-    "Paramount"
-   ],
-   "scene": "ciak",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/nightmare-freddy-krueger-cancellato-film-lee-cronin-paramount-730348",
-   "published": "2026-11-11T09:55:22+00:00"
-  },
-  {
-   "id": "b3ad859e5fff",
-   "section": "cinema",
-   "title": "Sorogoyen presenta L'essere amato, nei cinema italiani dal 12 novembre",
-   "summary": "Il regista spagnolo Rodrigo Sorogoyen ha presentato a Roma, alla Festa del Cinema, il suo nuovo film L'essere amato, in uscita nelle sale italiane dal 12 novembre. Nell'intervista ha parlato del film, dell'incipit e del lavoro con gli attori.",
-   "body": "Il nuovo film di Rodrigo Sorogoyen, L'essere amato, arriverà nelle sale italiane dal 12 novembre. Il regista spagnolo è stato a Roma per l'anteprima alla Festa del Cinema, occasione in cui ha incontrato la stampa e raccontato il suo lavoro. Secondo ComingSoon, nell'intervista Sorogoyen ha illustrato le scelte che stanno alla base della pellicola, a partire dall'apertura, che lui stesso considera centrale per il tono del racconto.\n\nNel colloquio il regista ha parlato anche del rapporto con gli interpreti, tra cui Javier Bardem, e del modo in cui ha costruito i personaggi sul set. Sorogoyen è uno dei nomi più seguiti del cinema spagnolo contemporaneo, e questa uscita italiana permette al pubblico di confrontarsi con un autore che ha già lasciato il segno in patria e nei festival internazionali.",
-   "slug": "sorogoyen-presenta-l-essere-amato-nei-cinema-italiani-dal-12-b3ad85",
-   "tags": [
-    "Rodrigo Sorogoyen",
-    "L'essere amato",
-    "Javier Bardem"
-   ],
-   "scene": "premiere",
-   "source": "ComingSoon",
-   "url": "https://www.comingsoon.it/cinema/news/sorogoyen-quell-incipit-folgorante-di-l-essere-amato-il-lavoro-con-bardem-e/n234606/",
-   "published": "2026-11-11T09:51:00+00:00"
-  },
-  {
-   "id": "f25a7cd6f3a3",
-   "section": "cinema",
-   "title": "Brandon Sklenar si prepara per F.A.S.T., il film d'azione di Taylor Sheridan",
-   "summary": "Brandon Sklenar ha raccontato la trasformazione fisica affrontata per F.A.S.T., il nuovo film d'azione scritto da Taylor Sheridan, in cui interpreta un operatore della Delta Force. L'attore ha spiegato quanto il ruolo abbia inciso sulla sua preparazione.",
-   "body": "Brandon Sklenar, noto al pubblico della serie Yellowstone, sarà protagonista di F.A.S.T., nuovo film d'azione scritto da Taylor Sheridan. Nel progetto l'attore interpreta un operatore della Delta Force, un personaggio che richiede una preparazione fisica impegnativa.\n\nSecondo Cinefilos, Sklenar ha raccontato alcuni dettagli del lavoro svolto prima delle riprese, spiegando come il ruolo abbia influito sul suo percorso di allenamento e su una successiva trasformazione del corpo. Le informazioni disponibili sono limitate, ma l'attore ha descritto l'impegno richiesto dalla parte come uno degli aspetti più significativi dell'esperienza sul set.",
-   "slug": "brandon-sklenar-si-prepara-per-f-a-s-t-il-film-d-azione-di-t-f25a7c",
-   "tags": [
-    "Brandon Sklenar",
-    "Taylor Sheridan",
-    "F.A.S.T."
-   ],
-   "scene": "ciak",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/star-yellowstone-racconta-intensa-trasformazione-nuovo-film-azione-taylor-sheridan-730345",
-   "published": "2026-11-11T09:45:31+00:00"
-  },
-  {
-   "id": "43c4cac6bfbf",
-   "section": "cinema",
-   "title": "Rocky Sono Io punta agli Oscar, ma la sceneggiatura divide",
-   "summary": "Il film Rocky Sono Io, con Anthony Ippolito, racconta la realizzazione del primo Rocky e si prepara alla corsa ai prossimi premi Oscar. Il nodo riguarda la categoria della sceneggiatura, sulla cui originalità si interroga la campagna del film, in sala dal 31 dicembre.",
-   "body": "Il film Rocky Sono Io, dedicato alla genesi del primo Rocky e interpretato da Anthony Ippolito, comincia a muoversi in vista dei prossimi premi Oscar. Secondo ComingSoon, la campagna promozionale è già avviata, ma la candidatura potrebbe incontrare un ostacolo legato alla categoria della sceneggiatura.\n\nIl problema riguarda il carattere originale o non originale del copione, questione che può incidere sull'ammissibilità nella categoria dedicata. Il materiale disponibile non chiarisce ulteriori dettagli sulla strategia della produzione. Il film arriverà nelle sale italiane dal 31 dicembre.",
-   "slug": "rocky-sono-io-punta-agli-oscar-ma-la-sceneggiatura-divide-43c4ca",
-   "tags": [
-    "Rocky Sono Io",
-    "Anthony Ippolito",
-    "Oscar"
-   ],
-   "scene": "premiere",
-   "source": "ComingSoon",
-   "url": "https://www.comingsoon.it/cinema/news/rocky-sono-io-e-il-dilemma-degli-oscar-la-sceneggiatura-e-originale-o-non/n235631/",
-   "published": "2026-11-11T09:41:00+00:00"
-  },
-  {
-   "id": "c5eba67763c0",
-   "section": "musica",
-   "title": "Senza Cri presenta \"NO CAP\", il nuovo EP in sette brani",
-   "summary": "Senza Cri pubblica \"NO CAP\", nuovo EP composto da sette brani disponibile dal 6 novembre 2026 su tutte le piattaforme digitali. Il progetto racconta, secondo l'artista, il desiderio di essere sé stessi senza filtri e senza paura del giudizio altrui.",
-   "body": "Il nuovo EP di Senza Cri si intitola \"NO CAP\" ed è disponibile dal 6 novembre 2026 su tutte le piattaforme digitali. Il progetto raccoglie sette brani e, come riferisce SuperGuidaTV, segna un passaggio importante nel percorso personale e musicale dell'artista.\n\nIl messaggio che attraversa il disco riguarda l'essere sé stessi, senza filtri e senza preoccupazioni per il giudizio degli altri. Senza Cri ha raccontato di essersi sempre sentito un po' fuori posto, una sensazione che il lavoro prova a trasformare in un punto di partenza per parlare di autenticità.",
-   "slug": "senza-cri-presenta-no-cap-il-nuovo-ep-in-sette-brani-c5eba6",
-   "tags": [
-    "Senza Cri",
-    "NO CAP"
-   ],
-   "scene": "microfono",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/senza-cri-presenta-il-suo-nuovo-ep-da-titolo-no-cap/",
-   "published": "2026-11-11T09:30:17+00:00"
-  },
-  {
-   "id": "167fa81fc389",
-   "section": "tv",
-   "title": "L'Isola dei Famosi debutta venerdì 4 dicembre",
-   "summary": "Il reality L'Isola dei Famosi, condotto da Selvaggia Lucarelli, avrà una data di partenza: venerdì 4 dicembre. Secondo quanto riportato da Dagospia, la nuova edizione sarà composta da 11 puntate.",
-   "body": "La nuova edizione de L'Isola dei Famosi, affidata a Selvaggia Lucarelli, ha finalmente una data di inizio. Il reality debutterà venerdì 4 dicembre e, secondo quanto riportato da Dagospia, sarà composto da 11 puntate.\n\nLa messa in onda cadrà a ridosso delle festività natalizie, con una collocazione oraria che la fonte descrive come insolita rispetto alle abitudini del programma. Il dettaglio sul canale e sugli orari non è stato ancora reso noto nel materiale disponibile. Secondo Biccy, che riprende la notizia, si tratta di un'informazione ancora non ufficiale da parte della rete.",
-   "slug": "l-isola-dei-famosi-debutta-venerdi-4-dicembre-167fa8",
-   "tags": [
-    "L'Isola dei Famosi",
-    "Selvaggia Lucarelli"
-   ],
-   "scene": "tv",
-   "source": "biccy.it",
-   "url": "https://www.biccy.it/lisola-dei-famosi-da-venerdi-4-dicembre-per-11-puntate/",
-   "published": "2026-11-11T09:13:45+00:00"
-  },
-  {
-   "id": "317eaf811fe3",
-   "section": "tv",
-   "title": "Paw Patrol, in arrivo lo spin-off Skye's Pup Squad su Nickelodeon",
-   "summary": "Nickelodeon ha ordinato la serie spin-off di Paw Patrol Skye's Pup Squad, incentrata sulla cockapoo Skye, con debutto previsto per marzo 2027. La produzione è affidata a Spin Master Entertainment.",
-   "body": "Nickelodeon ha commissionato la nuova serie Skye's Pup Squad, derivata dal franchise Paw Patrol. Al centro della storia c'è Skye, cockapoo coraggiosa e protagonista già amatissima dal pubblico dei più piccoli. La data di debutto indicata è marzo 2027.\n\nLa produzione è affidata a Spin Master Entertainment, la società che sviluppa il marchio Paw Patrol. Secondo c21media, il canale per ragazzi è ora controllato da Skydance. Il progetto segna un ulteriore passo nell'espansione dell'universo dei cani soccorritori, che da anni porta avanti spin-off e nuovi formati televisivi.",
-   "slug": "paw-patrol-in-arrivo-lo-spin-off-skye-s-pup-squad-su-nickelo-317eaf",
-   "tags": [
-    "Paw Patrol",
-    "Skye's Pup Squad",
-    "Nickelodeon"
-   ],
-   "scene": "tv",
-   "source": "c21media.net",
-   "url": "https://www.c21media.net/news/paw-patrol-spin-off-skyes-pup-squad-ordered-by-nickelodeon-for-march-2027/",
-   "published": "2026-11-11T09:12:33+00:00"
-  },
-  {
-   "id": "82ff589564f4",
-   "section": "cinema",
-   "title": "Clayface, dubbi sul ritorno economico del film DC",
-   "summary": "Il film horror DC Studios Clayface ha incassato 109 milioni di dollari nel mondo con un budget stimato di 44 milioni. Secondo le analisi riportate, la sola distribuzione potrebbe non bastare a raggiungere il punto di pareggio.",
-   "body": "Clayface, produzione horror targata DC Studios, ha superato i 109 milioni di dollari di incasso nel mondo. Il dato va confrontato con un budget produttivo stimato intorno ai 44 milioni di dollari, cifra che a prima vista lascia intravedere un risultato positivo.\n\nSecondo quanto riportato da Cinefilos, però, il successo commerciale potrebbe essere meno solido di quanto sembri. La sola distribuzione in sala, da sola, non garantirebbe necessariamente il pareggio, che dipende anche da altri costi e introiti legati al film. Al momento non sono disponibili cifre ufficiali che chiariscano il bilancio finale.",
-   "slug": "clayface-dubbi-sul-ritorno-economico-del-film-dc-82ff58",
-   "tags": [
-    "Clayface",
-    "DC Studios"
-   ],
-   "scene": "sala",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/clayface-incassi-botteghino-pareggio-budget-dc-studios-730339",
-   "published": "2026-11-11T09:09:35+00:00"
-  },
-  {
-   "id": "956fe48a7ed4",
-   "section": "cinema",
-   "title": "A24 tra successo commerciale e il rischio di perdere la propria identità",
-   "summary": "La casa di produzione indipendente A24, nota per Moonlight, Hereditary e Everything Everywhere All at Once, sta vivendo il suo anno più redditizio. Cresce la domanda su quanto possa espandersi senza snaturare la propria identità.",
-   "body": "La A24, società americana di produzione e distribuzione indipendente, è reduce da quello che viene descritto come il suo anno più redditizio. Il percorso dello studio, partito da titoli di nicchia e arrivato a conquistare Hollywood con film come Moonlight, Hereditary e Everything Everywhere All at Once, viene ora letto come una svolta che porta con sé nuove responsabilità.\n\nSecondo quanto riportato da Fotogramas, la crescita ambiziosa della casa comporta un prezzo da valutare. La domanda al centro del pezzo è fino a dove A24 possa espandersi senza smarrire la sua identità di realtà indipendente, capace di puntare su autori e storie fuori dal coro. Una questione che riguarda non solo i bilanci, ma anche il modo in cui il pubblico riconosce il marchio sul grande e sul piccolo schermo.",
-   "slug": "a24-tra-successo-commerciale-e-il-rischio-di-perdere-la-prop-956fe4",
-   "tags": [
-    "A24",
-    "Moonlight",
-    "Everything Everywhere All at Once"
-   ],
-   "scene": "pellicola",
-   "source": "fotogramas.es",
-   "url": "https://www.fotogramas.es/noticias-cine/a74349994/a24-desafio-gigante-hollywood-identidad-analisis-cine/",
-   "published": "2026-11-11T09:06:05+00:00"
   }
  ],
  "seen": [
-  "43477deb6fbe",
-  "01ed978a8bf4",
-  "e6ed7c67c1ab",
-  "8fd1f70c69c7",
-  "be84ca6de0e2",
-  "21c7b08d6ab0",
-  "97c9d4e8f852",
-  "3b758e875d94",
-  "91d61198e02a",
-  "529c9ce45038",
-  "529d98a0ed74",
-  "4657d4b8190b",
-  "99448a430770",
-  "164f3aa01f7a",
-  "69cb212877b7",
-  "f9648719fd62",
-  "73e2f5446c67",
-  "421df6a3d3d0",
-  "714a73d5ba31",
-  "891f4dd20694",
-  "4977e9ad42c9",
-  "f58d870b682a",
-  "1c45268d16e7",
-  "c683de6fe162",
   "384c5b27e567",
   "1e9d3928baaa",
   "f960b079d43e",
@@ -12343,7 +12318,31 @@
   "ec84b679a1bf",
   "bb8d4df877ba",
   "1a14a423408b",
-  "92bce1400872"
+  "92bce1400872",
+  "2d0916710c5c",
+  "b9a74d9e310a",
+  "322e7e67e3e5",
+  "cf2047072ce1",
+  "2eafb2474c2e",
+  "ea07146bf629",
+  "18c981bca423",
+  "cd352206e704",
+  "5acf76077778",
+  "c09f5d0b30a6",
+  "6c3c7519fc74",
+  "e3195383adc7",
+  "dea9fc966302",
+  "16dd7cab8c25",
+  "8e7bd1dd2fbc",
+  "04750ce28db7",
+  "6e9663b4192f",
+  "ca2933d01603",
+  "a395d649115a",
+  "521b83d5f015",
+  "6d362e7a8936",
+  "fe34ade2845b",
+  "0d9a378a6b1f",
+  "fc7d31f9d37a"
  ],
  "version": 4,
  "digests": [
