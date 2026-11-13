@@ -1,6 +1,89 @@
 {
  "articles": [
   {
+   "id": "8ea546524033",
+   "section": "cinema",
+   "title": "Cortometraggi candidati agli Oscar: i registi sul potere della generazione YouTube",
+   "summary": "Cinque registi di cortometraggi qualificanti per gli Oscar, tra cui Marcellus Cox, hanno parlato durante la TheWrap Screening Series del loro lavoro. Secondo loro il momento attuale è il migliore per il cinema fatto in autonomia.",
+   "body": "Nel corso della TheWrap Screening Series, cinque registi di cortometraggi che possono concorrere agli Oscar hanno presentato i propri lavori e raccontato il rapporto con la produzione indipendente. Tra loro c'è Marcellus Cox, che insieme agli altri autori ha discusso di come oggi sia molto più semplice realizzare un film senza grandi strutture alle spalle.\n\nSecondo quanto riportato da TheWrap, i cineasti descrivono questa fase come \"the greatest time\" per il cinema fai-da-te. La generazione cresciuta con YouTube, hanno sottolineato, ha la possibilità di controllare direttamente il proprio spazio creativo, dalla scrittura alla distribuzione. Da qui il titolo scelto dai redattori della testata americana, che riassume il senso del dibattito.",
+   "slug": "cortometraggi-candidati-agli-oscar-i-registi-sul-potere-dell-8ea546",
+   "tags": [
+    "Marcellus Cox",
+    "TheWrap",
+    "Oscar"
+   ],
+   "scene": "premiere",
+   "source": "thewrap.com",
+   "url": "https://www.thewrap.com/creative-content/movies/thewrap-screening-series-oscar-qualifying-shorts-directors-2026/",
+   "published": "2026-11-13T01:20:00+00:00"
+  },
+  {
+   "id": "fdce269481bc",
+   "section": "cinema",
+   "title": "Arnold Vosloo confermato in The Mummy 4 con Brendan Fraser",
+   "summary": "Arnold Vosloo ha confermato ufficialmente il suo ritorno nel ruolo di Imhotep, il villain della saga, nel quarto capitolo con Brendan Fraser. La notizia riguarda il nuovo film della serie sull'antico mummia.",
+   "body": "L'attore sudafricano Arnold Vosloo tornerà a interpretare Imhotep, il cattivo che ha accompagnato la saga fin dal primo capitolo. La conferma arriva direttamente dall'interprete, che ha dato il via libera al suo ritorno nel quarto film della serie, in cui recita anche Brendan Fraser.\n\nSecondo Collider, il ritorno di Vosloo chiude il cerchio attorno a uno dei personaggi più riconoscibili del franchise, nato nel 1999 con The Mummy di Stephen Sommers. Il nuovo capitolo riporta insieme i due protagonisti principali, un ritorno molto atteso dai fan della serie d'avventura.",
+   "slug": "arnold-vosloo-confermato-in-the-mummy-4-con-brendan-fraser-fdce26",
+   "tags": [
+    "The Mummy",
+    "Arnold Vosloo",
+    "Brendan Fraser"
+   ],
+   "scene": "pellicola",
+   "source": "collider.com",
+   "url": "https://collider.com/the-mummy-4-book-of-the-dead-imhotep-return-arnold-vosloo-cast/",
+   "published": "2026-11-13T01:15:12+00:00"
+  },
+  {
+   "id": "9e1e70b9de21",
+   "section": "tv",
+   "title": "Grey's Anatomy, dopo 470 episodi nuovo successo in streaming su Apple TV",
+   "summary": "La serie medica ABC Grey's Anatomy sta conquistando nuovi spettatori su piattaforme di streaming come Apple TV, con pubblico di diverse generazioni. Il successo arriva dopo oltre 470 episodi.",
+   "body": "Grey's Anatomy, la serie medica creata da Shonda Rhimes per ABC, continua a farsi strada tra il pubblico anche dopo oltre 470 episodi. Secondo Collider, la produzione sta attirando spettatori di generazioni diverse, che la scoprono o la riguardano soprattutto sulle piattaforme di streaming, tra cui Apple TV.\n\nUn risultato che molti non si aspettavano da un titolo così longevo, nato sul canale televisivo tradizionale. La fidelizzazione passa ora anche dal catalogo on demand, dove la serie si ritrova accanto a nuovi arrivi e può essere recuperata episodio dopo episodio.",
+   "slug": "grey-s-anatomy-dopo-470-episodi-nuovo-successo-in-streaming-9e1e70",
+   "tags": [
+    "Grey's Anatomy",
+    "Shonda Rhimes",
+    "Apple TV"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/greys-anatomy-streaming-hit-apple-tv-november-2026/",
+   "published": "2026-11-13T01:14:12+00:00"
+  },
+  {
+   "id": "a4ae81ee79e5",
+   "section": "tv",
+   "title": "Chris Colfer: le conversazioni sul ritorno di Kurt in Glee sono in corso",
+   "summary": "Chris Colfer ha dichiarato che sono in corso conversazioni sul possibile ritorno del personaggio Kurt nel reboot di Glee. Ad ottobre aveva detto di non aver sentito nulla sul revival.",
+   "body": "L'attore Chris Colfer ha dichiarato che le conversazioni sul possibile ritorno del suo personaggio, Kurt Hummel, nel reboot di Glee sono ancora in corso. Secondo quanto riportato da TheWrap, Colfer ha confermato che i contatti non si sono fermati, senza però annunciare un accordo o una data.\n\nAd ottobre, lo stesso attore aveva spiegato di non aver ricevuto alcuna notizia sul revival. La sua nuova presa di posizione segna quindi un cambiamento rispetto a quel momento, anche se al momento non ci sono conferme ufficiali sulla partecipazione di Colfer al progetto.",
+   "slug": "chris-colfer-le-conversazioni-sul-ritorno-di-kurt-in-glee-so-a4ae81",
+   "tags": [
+    "Chris Colfer",
+    "Glee"
+   ],
+   "scene": "streaming",
+   "source": "thewrap.com",
+   "url": "https://www.thewrap.com/creative-content/tv-shows/chris-colfer-glee-reboot-conversations-kurts-return/",
+   "published": "2026-11-13T01:06:47+00:00"
+  },
+  {
+   "id": "2c4c46cde8f5",
+   "section": "cinema",
+   "title": "Lin-Manuel Miranda trasforma la cantina dove scrisse In the Heights in un teatro",
+   "summary": "Lin-Manuel Miranda ha trasformato uno scantinato su West 39th Street a New York, dove scrisse brani di In the Heights, in un teatro black box. Lo spazio sarà messo a disposizione di giovani artisti.",
+   "body": "Lo scantinato di West 39th Street, a New York, era fino a poco tempo fa trascurato. Oggi è stato trasformato in un teatro black box, uno spazio essenziale e flessibile dedicato alle rappresentazioni. È qui che Lin-Manuel Miranda ha composto alcuni dei brani più noti di In the Heights, il musical che lo ha reso celebre.\n\nSecondo quanto riportato da Page Six, il pianoforte su cui Miranda scrisse quelle canzoni sarà ora messo a disposizione di giovani artisti emergenti. Il progetto restituisce a un luogo legato alla storia del musical una funzione concreta, quella di palcoscenico per chi sta iniziando la carriera.",
+   "slug": "lin-manuel-miranda-trasforma-la-cantina-dove-scrisse-in-the-2c4c46",
+   "tags": [
+    "Lin-Manuel Miranda",
+    "In the Heights"
+   ],
+   "scene": "palco",
+   "source": "pagesix.com",
+   "url": "https://pagesix.com/2026/11/12/society/lin-manuel-miranda-turns-piano-where-he-wrote-in-the-heights-hits-over-to-aspiring-artists/",
+   "published": "2026-11-13T01:03:52+00:00"
+  },
+  {
    "id": "5565271cb72f",
    "section": "cinema",
    "title": "Godzilla Minus Zero avrà un documentario sulla lavorazione",
@@ -8260,110 +8343,9 @@
    "source": "collider.com",
    "url": "https://collider.com/video/clayface-tom-used-real-scissors-to-cut-his-fake-face-collider-bts/",
    "published": "2026-11-10T19:15:12+00:00"
-  },
-  {
-   "id": "21d07f210f07",
-   "section": "tv",
-   "title": "Only Murders in the Building 6: nel cast Olivia Colman e David Tennant",
-   "summary": "La sesta stagione di Only Murders in the Building si arricchisce di nuovi interpreti, con una scelta di attori britannici di primo piano. Tra i nomi annunciati figurano Olivia Colman e David Tennant.",
-   "body": "La serie Hulu Only Murders in the Building prosegue la tradizione di affiancare al cast fisso ospiti di rilievo, e per la sesta stagione la scelta ricade su interpreti britannici. Secondo quanto riportato da TV Insider, tra i nuovi nomi ci sono Olivia Colman e David Tennant, a segnalare un cambio di rotta rispetto alle guest star americane che il pubblico ha visto nelle stagioni precedenti.\n\nIl giallo ideato da Steve Martin, Martin Short e John Hoffman resta dunque al centro del racconto, con il trio di protagonisti che continua a indagare su nuovi delitti in un condominio di New York. Il materiale disponibile non fornisce, al momento, dettagli su personaggi e trama della nuova stagione.",
-   "slug": "only-murders-in-the-building-6-nel-cast-olivia-colman-e-davi-21d07f",
-   "tags": [
-    "Only Murders in the Building",
-    "Olivia Colman",
-    "David Tennant"
-   ],
-   "scene": "streaming",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/gallery/only-murders-in-the-building-season-6-cast-british-stars/",
-   "published": "2026-11-10T19:15:11+00:00"
-  },
-  {
-   "id": "4f3b56ef4182",
-   "section": "cinema",
-   "title": "Marty Supreme, Timothée Chalamet nel nuovo film di Josh Safdie",
-   "summary": "Josh Safdie dirige Marty Supreme dopo la separazione artistica dal fratello Ben, che ha firmato da solo Smashing Machine. Il film segna il nuovo percorso del regista di Good Time e Uncut Gems.",
-   "body": "I fratelli Safdie, noti al pubblico internazionale per Good Time e Uncut Gems, hanno preso strade diverse. Ben Safdie ha diretto da solo il suo primo lungometraggio in solitaria, Smashing Machine, mentre Josh Safdie ha seguito lo stesso percorso con Marty Supreme, interpretato da Timothée Chalamet.\n\nSecondo Ecran Large, i due film condividono diversi punti in comune sulla carta, ma la separazione dei registi segna una fase nuova per entrambi. Il materiale disponibile non dettaglia ulteriormente la trama né l'accoglienza critica, ma il ritorno di Josh Safdie con un attore così seguito rende l'uscita del film un appuntamento atteso per gli appassionati del cinema indipendente americano.",
-   "slug": "marty-supreme-timothee-chalamet-nel-nuovo-film-di-josh-safdi-4f3b56",
-   "tags": [
-    "Marty Supreme",
-    "Josh Safdie",
-    "Timothée Chalamet"
-   ],
-   "scene": "pellicola",
-   "source": "ecranlarge.com",
-   "url": "https://www.ecranlarge.com/films/critique/marty-supreme-critique-timothee-chalamet",
-   "published": "2026-11-10T19:15:00+00:00"
-  },
-  {
-   "id": "3707370f6275",
-   "section": "gossip",
-   "title": "Nick Cannon: nessun problema a firmare il prenuptial con Mariah Carey",
-   "summary": "Nick Cannon ha dichiarato di non aver avuto alcun problema a firmare un accordo prematrimoniale prima di sposare Mariah Carey, aggiungendo che secondo lui li ha protetti entrambi. Le parole sono arrivate durante una puntata del podcast di Maury Povich.",
-   "body": "Nick Cannon ha raccontato di non aver avuto alcuna difficoltà a firmare un accordo prematrimoniale prima del matrimonio con Mariah Carey. Secondo il comico, l'intesa ha tutelato entrambi. Le sue parole sono state riportate da OK Magazine, che ha ripreso l'intervento durante la puntata di lunedì 9 novembre di \"On Par with Maury Povich\", il podcast condotto da Maury Povich.\n\nNel corso della conversazione Cannon, 46 anni, ha parlato del rapporto con la cantante, 57 anni, e della fine del loro matrimonio. Il podcast è stato l'occasione per chiarire il suo punto di vista sulla separazione e sugli accordi economici presi all'inizio dell'unione. Il materiale disponibile non riporta ulteriori dettagli sulle condizioni dell'intesa.",
-   "slug": "nick-cannon-nessun-problema-a-firmare-il-prenuptial-con-mari-370737",
-   "tags": [
-    "Nick Cannon",
-    "Mariah Carey",
-    "On Par with Maury Povich"
-   ],
-   "scene": "microfono",
-   "source": "okmagazine.com",
-   "url": "https://okmagazine.com/p/nick-cannon-no-problem-signing-prenup-marrying-ex-mariah-carey/",
-   "published": "2026-11-10T19:13:43+00:00"
-  },
-  {
-   "id": "95c2443447e4",
-   "section": "cinema",
-   "title": "Pensieri pericolosi, il finale spiegato: perché LouAnne Johnson sceglie di restare",
-   "summary": "Il film Pensieri pericolosi, uscito nel 1995 e diretto da John N. Smith, segue l'ex militare LouAnne Johnson, interpretata da Michelle Pfeiffer, nel suo incarico da insegnante in una scuola superiore difficile. Una fonte specializzata ne analizza il finale e le ragioni della scelta del personaggio di restare.",
-   "body": "Pensieri pericolosi è un film del 1995 diretto da John N. Smith. Al centro della storia c'è LouAnne Johnson, ex militare interpretata da Michelle Pfeiffer, che accetta un posto da insegnante in un liceo frequentato da studenti provenienti da contesti sociali complicati. Davanti a lei si presenta una classe diffidente, abituata a vedere nella scuola un luogo da subire più che un'occasione.\n\nSecondo Cinefilos, l'analisi del finale si concentra sulla decisione di LouAnne di non abbandonare il suo incarico nonostante le difficoltà. La segnalazione mette in luce il percorso del personaggio, che passa dalla distanza iniziale al coinvolgimento con i suoi allievi. Il film resta un titolo riconosciuto per il modo in cui racconta il rapporto tra insegnante e ragazzi difficili.",
-   "slug": "pensieri-pericolosi-il-finale-spiegato-perche-louanne-johnso-95c244",
-   "tags": [
-    "Pensieri pericolosi",
-    "Michelle Pfeiffer",
-    "John N. Smith"
-   ],
-   "scene": "pellicola",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/tutto-film/approfondimenti/pensieri-pericolosi-spiegazione-finale-film-730192",
-   "published": "2026-11-10T18:55:28+00:00"
-  },
-  {
-   "id": "8353b8258147",
-   "section": "cinema",
-   "title": "Acid, il finale del film di Just Philippot spiegato",
-   "summary": "Acid, film francese del 2023 diretto da Just Philippot con Guillaume Canet, racconta una catastrofe climatica che trasforma la Francia in un territorio ostile. Una perturbazione letale costringe la popolazione a difendersi da piogge capaci di corrodere ogni cosa.",
-   "body": "Acid è un film francese del 2023 diretto da Just Philippot, con Guillaume Canet tra i protagonisti. La storia si svolge durante un'ondata di caldo estremo, quando una misteriosa perturbazione porta con sé nubi tossiche e precipitazioni capaci di corrodere qualsiasi cosa. La popolazione si ritrova costretta a difendersi da un ambiente diventato ostile.\n\nSecondo Cinefilos, la pellicola affronta il tema della catastrofe climatica con un tono di tensione costante, mostrando una Francia trasformata in un territorio pericoloso. Il sito dedica un approfondimento al destino del personaggio di Karin e al significato dell'ultima scena, un tema che molti spettatori cercano di chiarire dopo la visione.",
-   "slug": "acid-il-finale-del-film-di-just-philippot-spiegato-8353b8",
-   "tags": [
-    "Acid",
-    "Just Philippot",
-    "Guillaume Canet"
-   ],
-   "scene": "pellicola",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/tutto-film/approfondimenti/acid-spiegazione-finale-film-730210",
-   "published": "2026-11-10T18:50:17+00:00"
   }
  ],
  "seen": [
-  "0cc3fcd077fe",
-  "4e1b5299fe5f",
-  "bad90387b632",
-  "fa94ad2344b5",
-  "c97814a877e2",
-  "62e8ec719abf",
-  "cb8dc289716b",
-  "0574eb4012ea",
-  "e147e20b86f8",
-  "7f875eb95d91",
-  "45c5ddb5a523",
-  "5b07d07becee",
-  "bf8ee98cf608",
-  "36a165ab7d70",
-  "0cd1a026f948",
-  "42b5ab976e7b",
   "2e335083a730",
   "b3b7bc9d7261",
   "429b694d9f98",
@@ -12347,7 +12329,23 @@
   "593edd2d4030",
   "042feb82fd27",
   "23f2de7eb8ba",
-  "818121902b6a"
+  "818121902b6a",
+  "8ea546524033",
+  "fdce269481bc",
+  "9e1e70b9de21",
+  "d58eca68df25",
+  "9a8d91feeb76",
+  "ea445131bfd6",
+  "77fbfc26c51e",
+  "0c37fef06af7",
+  "5e2fc861beda",
+  "a4ae81ee79e5",
+  "b6765c11c5a3",
+  "3605941f5da7",
+  "29878d557e86",
+  "2c4c46cde8f5",
+  "239ad9c387bc",
+  "382fcaab14fd"
  ],
  "version": 4,
  "digests": [
