@@ -1,6 +1,88 @@
 {
  "articles": [
   {
+   "id": "3989b326eec4",
+   "section": "cinema",
+   "title": "Clayface perde circa mille sale negli Stati Uniti",
+   "summary": "Il film Clayface, spin-off vietato ai minori legato all'universo di Batman prodotto da DC Studios, ha perso un'ampia quota di sale programmate negli Stati Uniti. La notizia arriva nel pieno di una riorganizzazione ai vertici dello studio.",
+   "body": "Secondo Collider, il film Clayface, spin-off vietato ai minori legato all'universo di Batman e prodotto da DC Studios, è stato cancellato da circa mille sale cinematografiche. Il taglio riguarda le programmazioni previste per l'uscita e segue altre riduzioni già annunciate in precedenza.\n\nLa decisione giunge in un momento di riassetto ai vertici dello studio, un cambiamento che coinvolge la strategia della casa di produzione. Il materiale disponibile non chiarisce però in quale misura il calo di sale sia legato alla riorganizzazione. Restano da verificare le nuove date e il piano di distribuzione del film.",
+   "slug": "clayface-perde-circa-mille-sale-negli-stati-uniti-3989b3",
+   "tags": [
+    "Clayface",
+    "DC Studios"
+   ],
+   "scene": "sala",
+   "source": "collider.com",
+   "url": "https://collider.com/clayface-removed-from-1000-theaters/",
+   "published": "2026-11-14T03:00:22+00:00"
+  },
+  {
+   "id": "36b5649deeaf",
+   "section": "tv",
+   "title": "The Terminal List, la serie Prime Video vola in cima alle classifiche",
+   "summary": "The Terminal List è al primo posto tra le produzioni originali di Prime Video, con 1,3 miliardi di minuti guardati. Secondo Collider, la serie d'azione ha registrato un balzo del 307% nelle visualizzazioni.",
+   "body": "The Terminal List, la serie d'azione e thriller di Prime Video, è in questo momento l'originale della piattaforma più visto in assoluto. Secondo quanto riportato da Collider, il titolo ha raggiunto 1,3 miliardi di minuti guardati, con una crescita del 307% che l'ha portato in cima alla classifica.\n\nIl successo riguarda una produzione che conta due stagioni e che si rivolge in particolare agli appassionati del genere action. Il dato indica un forte ritorno di pubblico sulla piattaforma, senza che la fonte indichi cause specifiche del balzo.",
+   "slug": "the-terminal-list-la-serie-prime-video-vola-in-cima-alle-cla-36b564",
+   "tags": [
+    "The Terminal List",
+    "Prime Video"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/terminal-list-prime-video-action-thriller-streaming/",
+   "published": "2026-11-14T02:55:12+00:00"
+  },
+  {
+   "id": "1a451c18abbd",
+   "section": "gossip",
+   "title": "Jodie Foster al red carpet di Hexed con una ciocca argentata",
+   "summary": "Jodie Foster è apparsa alla premiere di Hexed, nuovo titolo Disney, a Los Angeles, con una ciocca argentata tra i capelli biondi. Secondo la fonte, si tratta di una apparizione sul red carpet piuttosto rara per l'attrice.",
+   "body": "Jodie Foster ha partecipato alla premiere di Hexed, il film Disney presentato a Los Angeles, attirando l'attenzione per il suo look. L'attrice americana si è mostrata con una striscia argentata che spicca tra i capelli biondi, un dettaglio che ha catturato i fotografi presenti all'evento.\n\nSecondo Hello! Magazine, la presenza di Foster sul red carpet è rara, e per questo la sua apparizione ha suscitato interesse. Le immagini dell'evento sono disponibili sul sito della testata che ha dato la notizia.",
+   "slug": "jodie-foster-al-red-carpet-di-hexed-con-una-ciocca-argentata-1a451c",
+   "tags": [
+    "Jodie Foster",
+    "Hexed"
+   ],
+   "scene": "tappeto",
+   "source": "hellomagazine.com",
+   "url": "https://www.hellomagazine.com/us/934996/jodie-foster-63-looks-striking-with-natural-silver-hair-in-rare-new-red-carpet-appearance/",
+   "published": "2026-11-14T02:51:54+00:00"
+  },
+  {
+   "id": "5de80c13d64a",
+   "section": "cinema",
+   "title": "DC Studios, Jeremy Latcham prende il posto di Gunn e Safran",
+   "summary": "Dopo l'uscita di James Gunn e Peter Safran da DC, il nuovo responsabile Jeremy Latcham, ex dirigente Marvel e produttore di Dungeons & Dragons: Onore tra ladri, dovrà gestire i progetti avviati dalla coppia. La notizia è stata riportata da Deadline.",
+   "body": "James Gunn e Peter Safran lasciano DC Studios, e la guida dello studio passa a Jeremy Latcham. Secondo Deadline, il nuovo responsabile è un ex dirigente Marvel e ha prodotto Dungeons & Dragons: Onore tra ladri. Il suo compito sarà riordinare il lavoro impostato dalla coppia nella fase precedente, con una serie di progetti da valutare e portare avanti.\n\nL'annuncio dell'uscita di Gunn e Safran è arrivato all'inizio della settimana e ha suscitato grande attenzione nell'ambiente hollywoodiano. Il passaggio di consegne riguarda l'intero universo cinematografico DC, che i due avevano costruito a partire dalla riorganizzazione dello studio. Per il pubblico italiano, la scelta di Latcham sarà un segnale importante sulla direzione che prenderanno i prossimi film e serie del franchise.",
+   "slug": "dc-studios-jeremy-latcham-prende-il-posto-di-gunn-e-safran-5de80c",
+   "tags": [
+    "James Gunn",
+    "Peter Safran",
+    "Jeremy Latcham"
+   ],
+   "scene": "ciak",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/dc-studios-movie-tv-list-jeremy-latcham-1237217689/",
+   "published": "2026-11-14T02:45:41+00:00"
+  },
+  {
+   "id": "cef994d78b52",
+   "section": "cinema",
+   "title": "Kevin Feige esclude che il Doctor Doom di Robert Downey Jr. sia una variante di Iron Man",
+   "summary": "Il presidente dei Marvel Studios Kevin Feige ha smentito una teoria che collegava il Doctor Doom interpretato da Robert Downey Jr. a una variante di Iron Man. La questione riguarda Avengers: Doomsday, in uscita al cinema.",
+   "body": "Kevin Feige, capo dei Marvel Studios, ha affrontato una delle teorie più diffuse sul ritorno di Robert Downey Jr. nei panni del Dottor Destino in vista di Avengers: Doomsday. Secondo quanto riportato da Collider, il dirigente ha confermato ufficialmente che il personaggio non è una variante di Iron Man, come ipotizzato da molti fan.\n\nLa teoria nasceva dal legame tra l'attore, storico volto di Tony Stark, e il nuovo villain del Marvel Cinematic Universe. Feige ha chiarito la posizione dello studio alla vigilia dell'uscita del film, indicando che il Dottor Destino di Downey Jr. va considerato un personaggio a sé stante. Il film è atteso nelle sale e rappresenta uno dei titoli più attesi della fase successiva del franchise.",
+   "slug": "kevin-feige-esclude-che-il-doctor-doom-di-robert-downey-jr-s-cef994",
+   "tags": [
+    "Kevin Feige",
+    "Robert Downey Jr.",
+    "Avengers: Doomsday"
+   ],
+   "scene": "premiere",
+   "source": "collider.com",
+   "url": "https://collider.com/avengers-doomsday-doctor-doom-not-a-tony-stark-variant-kevin-feige/",
+   "published": "2026-11-14T02:30:12+00:00"
+  },
+  {
    "id": "4a46f4593507",
    "section": "tv",
    "title": "Zosia Mamet: il revival di Girls era in discussione da molto tempo",
@@ -8270,106 +8352,9 @@
    "source": "Cinefilos",
    "url": "https://cinefilos.it/serie-tv/news/the-penguin-nuovo-aggiornamento-seconda-stagione-730431",
    "published": "2026-11-11T20:24:17+00:00"
-  },
-  {
-   "id": "6c41284e2b66",
-   "section": "tv",
-   "title": "Nobody Wants This rinnovata per una nuova stagione",
-   "summary": "La serie Nobody Wants This è stata rinnovata, secondo quanto riportato in un aggiornamento di rinnovi e cancellazioni. Lo stesso elenco segnala anche la terza stagione di Adults su Disney+ e il rinnovo di Youth su HBO.",
-   "body": "La commedia romantica Nobody Wants This è stata rinnovata, come riporta l'aggiornamento di rinnovi e cancellazioni pubblicato da Dituttounpop.it. La notizia compare nella lista di novembre, accanto ad altri annunci del settore delle serie tv.\n\nNello stesso aggiornamento figurano la terza stagione di Adults per Disney+ e il rinnovo di Youth da parte di HBO. Il materiale ricevuto non indica però il numero della nuova stagione di Nobody Wants This né la data di uscita, dettagli che al momento non risultano dalla segnalazione.",
-   "slug": "nobody-wants-this-rinnovata-per-una-nuova-stagione-6c4128",
-   "tags": [
-    "Nobody Wants This",
-    "Adults",
-    "Youth"
-   ],
-   "scene": "streaming",
-   "source": "dituttounpop.it",
-   "url": "https://www.dituttounpop.it/serie-tv-rinnovate-serie-tv-cancellate/",
-   "published": "2026-11-11T20:06:55+00:00"
-  },
-  {
-   "id": "26a97a10099e",
-   "section": "tv",
-   "title": "È Sempre Cartabianca con Bruno Vespa tra gli ospiti",
-   "summary": "Bianca Berlinguer torna alla guida di È Sempre Cartabianca con puntate dedicate all'emergenza abitativa e alla situazione economica. Tra gli ospiti annunciati figurano Bruno Vespa, Canino e Del Debbio.",
-   "body": "Bianca Berlinguer torna con È Sempre Cartabianca, il talk show di Rete 4, con una nuova puntata che affronterà il tema dell'emergenza abitativa e la situazione economica del Paese. Il programma si conferma uno spazio di approfondimento politico e di attualità, con un confronto tra ospiti e giornalisti in studio.\n\nTra i nomi annunciati ci sono Bruno Vespa, Canino e Del Debbio, come riportato da Davide Maggio. Il materiale disponibile non indica una data precisa né ulteriori dettagli sulla formula della serata, che andranno verificati nei comunicati ufficiali del programma.",
-   "slug": "e-sempre-cartabianca-con-bruno-vespa-tra-gli-ospiti-26a97a",
-   "tags": [
-    "È Sempre Cartabianca",
-    "Bianca Berlinguer",
-    "Bruno Vespa"
-   ],
-   "scene": "tv",
-   "source": "davidemaggio.it",
-   "url": "https://www.davidemaggio.it/e-sempre-cartabianca/e-sempre-cartabianca-arriva-bruno-vespa",
-   "published": "2026-11-11T19:20:38+00:00"
-  },
-  {
-   "id": "7c15598c905e",
-   "section": "tv",
-   "title": "FX rinnova Adults, la serie erede di Friends",
-   "summary": "FX ha ufficializzato il futuro di Adults, la serie considerata erede di Friends. Secondo la fonte, l'audience della seconda stagione è cresciuta di oltre il 60%.",
-   "body": "FX ha comunicato ufficialmente la decisione sul destino di Adults, la serie che molti critici descrivono come erede di Friends. Il annuncio arriva dopo una crescita degli ascolti della seconda stagione, aumentati di oltre il 60% rispetto a quelli registrati in precedenza.\n\nLa notizia è riportata da Collider, che segnala un aggiornamento importante sul futuro del titolo. Al momento il materiale disponibile non specifica ulteriori dettagli su una eventuale terza stagione, sul cast o sui tempi di messa in onda.",
-   "slug": "fx-rinnova-adults-la-serie-erede-di-friends-7c1559",
-   "tags": [
-    "Adults",
-    "FX",
-    "Friends"
-   ],
-   "scene": "tv",
-   "source": "collider.com",
-   "url": "https://collider.com/adults-season-3-renewed-16-episodes-fx-hulu/",
-   "published": "2026-11-11T19:20:18+00:00"
-  },
-  {
-   "id": "eff14f4f0014",
-   "section": "musica",
-   "title": "La University of Southern California lancia un corso dedicato a Beyoncé",
-   "summary": "La business school della University of Southern California attiverà un corso incentrato sulla cantante Beyoncé. Secondo la fonte, il programma porterà la figura dell'artista nel percorso didattico dell'ateneo.",
-   "body": "La Marshall School of Business della University of Southern California inaugurerà un nuovo corso centrato sulla cantante Beyoncé, una delle artiste più premiate e ascoltate al mondo. Secondo quanto riportato da theblast.com, l'iniziativa rientra nell'offerta didattica della scuola di economia dell'ateneo californiano.\n\nIl materiale disponibile non specifica nel dettaglio il contenuto delle lezioni, né il numero di studenti coinvolti o la data di avvio. L'annuncio si inserisce in un filone sempre più diffuso nelle università americane, che studiano fenomeni pop e industria musicale da un punto di vista economico e manageriale.",
-   "slug": "la-university-of-southern-california-lancia-un-corso-dedicat-eff14f",
-   "tags": [
-    "Beyoncé",
-    "University of Southern California"
-   ],
-   "scene": "microfono",
-   "source": "theblast.com",
-   "url": "https://theblast.com/883560/world-famous-university-beyonce-new-curriculum/",
-   "published": "2026-11-11T19:20:00+00:00"
-  },
-  {
-   "id": "f1b768185642",
-   "section": "tv",
-   "title": "The Rings of Power 3: showrunner ammettono di aver avuto troppe trame",
-   "summary": "La terza stagione di The Rings of Power mette al centro la forgiatura dell'Unico Anello e il team creativo ha annunciato cambiamenti importanti nel modo di costruire la Terra di Mezzo. I showrunner ammettono che le stagioni precedenti avevano troppe trame parallele.",
-   "body": "La terza stagione di The Rings of Power, la serie Prime Video tratta dalle opere di Tolkien, avrà come punto centrale la forgiatura dell'Unico Anello. Secondo Collider, i showrunner hanno riconosciuto che le stagioni precedenti contenevano troppe linee narrative, e per questo il nuovo ciclo punta a una struttura più concentrata.\n\nLa squadra creativa ha anche annunciato alcuni cambiamenti nel modo in cui la Terra di Mezzo viene portata sullo schermo. Il materiale diffuso finora è limitato, quindi non sono ancora noti dettagli precisi su personaggi, tempi di messa in onda o scelte di produzione. Resta da vedere come questi cambiamenti si tradurranno nei singoli episodi.",
-   "slug": "the-rings-of-power-3-showrunner-ammettono-di-aver-avuto-trop-f1b768",
-   "tags": [
-    "The Rings of Power",
-    "Prime Video"
-   ],
-   "scene": "streaming",
-   "source": "collider.com",
-   "url": "https://collider.com/video/rings-of-power-s3-showrunners-admit-they-had-too-many-plots-collider-bts/",
-   "published": "2026-11-11T19:15:12+00:00"
   }
  ],
  "seen": [
-  "277e8e457b2f",
-  "ff548ee39d8a",
-  "ad6d2552c688",
-  "74006d05859e",
-  "a49cd9013c34",
-  "5f8a8ac3e32e",
-  "38c4dabb90dc",
-  "a10bd6cb7587",
-  "8a6fe3c052df",
-  "37927bebe0b9",
-  "a4ae340204c0",
-  "c17bc415caa0",
-  "be0ddf7d7605",
-  "a03b469b4d26",
   "6785fff365fa",
   "4784900f6e23",
   "2fe4c90ffa45",
@@ -12355,7 +12340,21 @@
   "f2d525cc33bb",
   "d0ab2f470dbc",
   "b38d0fb0e2d3",
-  "2ae48c24211f"
+  "2ae48c24211f",
+  "3989b326eec4",
+  "cf371a14a4fa",
+  "3aee2bfcba7d",
+  "36b5649deeaf",
+  "1a451c18abbd",
+  "8bf207cd972c",
+  "5de80c13d64a",
+  "45d8f0a6dc95",
+  "792f0be69075",
+  "7e5dc6ace9c6",
+  "90c5873bdb35",
+  "9944ce9ba1f6",
+  "cef994d78b52",
+  "24640bd2be0f"
  ],
  "version": 4,
  "digests": [
