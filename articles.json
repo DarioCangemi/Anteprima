@@ -1,6 +1,107 @@
 {
  "articles": [
   {
+   "id": "1dac3b508934",
+   "section": "cinema",
+   "title": "Quantum of Solace lascia Paramount+ il 19 novembre",
+   "summary": "Quantum of Solace, secondo film di Daniel Craig nei panni di James Bond diretto da Marc Forster, sarà rimosso da Paramount+ il 19 novembre. Secondo Collider, il film meriterebbe una rivalutazione rispetto alla sua accoglienza iniziale.",
+   "body": "Quantum of Solace, secondo capitolo con Daniel Craig nel ruolo di James Bond, diretto da Marc Forster, lascerà il catalogo di Paramount+ il 19 novembre. La notizia arriva da Collider, che invita a rivedere il film prima della sua uscita dalla piattaforma, sostenendo che sia migliore di quanto ricordato da molti spettatori.\n\nIl film, di durata intorno ai 106 minuti, è un thriller d'azione che prosegue la storia avviata con Casino Royale. Per chi vuole recuperarlo prima della scadenza, la finestra di visione su Paramount+ è quindi limitata alle prossime settimane. La fonte non specifica se il titolo sarà disponibile altrove dopo quella data.",
+   "slug": "quantum-of-solace-lascia-paramount-il-19-novembre-1dac3b",
+   "tags": [
+    "Quantum of Solace",
+    "Daniel Craig",
+    "Marc Forster"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/james-bond-quantum-of-solace-cut-from-paramount-plus-november-2026/",
+   "published": "2026-11-14T05:09:12+00:00"
+  },
+  {
+   "id": "4db71b491ec1",
+   "section": "cinema",
+   "title": "Il Manchester Animation Festival esclude i film realizzati con l'IA generativa",
+   "summary": "Il Manchester Animation Festival vieta i film realizzati con GenAI a partire dalla call for entries 2027. Tra i premi assegnati, In Waves è stato scelto come miglior film lungometraggio e When the Sea Was Calm di Mamuka Tkeshelashvili ha vinto il premio valido per la qualificazione agli Oscar.",
+   "body": "Il Manchester Animation Festival ha deciso di non ammettere più film realizzati con l'intelligenza artificiale generativa. Il divieto entrerà in vigore con la call for entries del 2027, quindi con le iscrizioni alle edizioni future della rassegna britannica dedicata al cinema d'animazione.\n\nNell'ultima edizione il premio come miglior lungometraggio è andato a In Waves, mentre il cortometraggio When the Sea Was Calm di Mamuka Tkeshelashvili ha ottenuto il riconoscimento che consente di accedere alla selezione per l'Oscar. La notizia è stata riportata da Cartoon Brew.",
+   "slug": "il-manchester-animation-festival-esclude-i-film-realizzati-c-4db71b",
+   "tags": [
+    "Manchester Animation Festival",
+    "In Waves",
+    "When the Sea Was Calm"
+   ],
+   "scene": "premiere",
+   "source": "cartoonbrew.com",
+   "url": "https://www.cartoonbrew.com/awards/manchester-animation-festival-genai-ban-in-waves-269431.html",
+   "published": "2026-11-14T05:07:40+00:00"
+  },
+  {
+   "id": "a656835f4867",
+   "section": "tv",
+   "title": "Peacock presenta The Rainmaker, nuovo legal drama dopo Suits",
+   "summary": "Peacock ha annunciato The Rainmaker, una nuova serie legale che raccoglie l'eredità di Suits nel genere del dramma giudiziario. La piattaforma punta così su un titolo che ricalca il filone che il telefilm con Gabriel Macht e Patrick J. Adams aveva reso popolare.",
+   "body": "Peacock ha scelto The Rainmaker come nuovo dramma legale, con l'obiettivo di occupare lo spazio lasciato libero da Suits. Secondo Collider, la serie è pensata per riprendere il filone giudiziario che il telefilm aveva reso uno dei titoli di punta del genere sulla piattaforma.\n\nIl titolo richiama il romanzo di John Grisham da cui deriva l'idea di un avvocato dal grande talento nel trovare clienti e cause. Le informazioni disponibili sono ancora limitate, ma la scelta della piattaforma è chiara: investire su un genere che ha già un pubblico fedele e che Suits aveva consolidato negli anni. Per il pubblico italiano, l'annuncio arriva in un momento in cui molti spettatori cercano nuove serie legali da seguire in streaming.",
+   "slug": "peacock-presenta-the-rainmaker-nuovo-legal-drama-dopo-suits-a65683",
+   "tags": [
+    "The Rainmaker",
+    "Suits",
+    "Peacock"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/the-rainmaker-suits-replacement-legal-drama/",
+   "published": "2026-11-14T04:42:12+00:00"
+  },
+  {
+   "id": "ae80c814be39",
+   "section": "gossip",
+   "title": "Alex Belli saluta il GF Vip: \"Il gioco è finito\"",
+   "summary": "Alex Belli ha lasciato il GF Vip dopo una puntata in cui è stato uno dei protagonisti del programma. Al termine della puntata ha commentato l'esperienza con la frase \"Il gioco è finito\".",
+   "body": "Alex Belli è stato tra i protagonisti del GF Vip, come già accaduto nell'edizione 2021, costruendo alleanze e dinamiche di gioco che hanno tenuto alta l'attenzione del pubblico. Dopo la sua eliminazione, secondo Biccy l'attore è stato richiamato dagli autori per tornare nella Casa e gestire un passaggio del gioco.\n\nAl termine della puntata, Belli ha affidato a un breve sfogo il proprio commento sull'esperienza, dichiarando che \"il gioco è finito\". Il materiale disponibile non riporta ulteriori dettagli sul contenuto del suo intervento né sulle reazioni dei coinquilini.",
+   "slug": "alex-belli-saluta-il-gf-vip-il-gioco-e-finito-ae80c8",
+   "tags": [
+    "Alex Belli",
+    "GF Vip"
+   ],
+   "scene": "tv",
+   "source": "biccy.it",
+   "url": "https://www.biccy.it/alex-belli-dice-addio-al-gf-vip/",
+   "published": "2026-11-14T04:40:09+00:00"
+  },
+  {
+   "id": "b314735c3805",
+   "section": "tv",
+   "title": "In Altre Parole con Massimo Gramellini torna su La7 sabato 14 novembre",
+   "summary": "Sabato 14 novembre alle 20:30 su La7 va in onda la quarta puntata della quarta stagione di In Altre Parole, condotta da Massimo Gramellini. Il programma ripercorre la settimana appena trascorsa tra attualità, società e storie del Paese.",
+   "body": "Torna su La7 sabato 14 novembre, alle 20:30, la quarta puntata della quarta stagione di In Altre Parole, il programma condotto da Massimo Gramellini. L'appuntamento riprende il racconto dei sette giorni appena trascorsi, leggendo l'attualità, la società e le storie che raccontano il Paese attraverso rubriche e ospiti.\n\nImmancabili anche in questa puntata i racconti di Gramellini, che apriranno e chiuderanno la trasmissione. Secondo quanto riportato da Dituttounpop.it, la puntata sarà arricchita dalla presenza di alcuni ospiti, di cui la fonte anticipa il calendario completo nell'articolo di approfondimento.",
+   "slug": "in-altre-parole-con-massimo-gramellini-torna-su-la7-sabato-1-b31473",
+   "tags": [
+    "In Altre Parole",
+    "Massimo Gramellini",
+    "La7"
+   ],
+   "scene": "tv",
+   "source": "dituttounpop.it",
+   "url": "https://www.dituttounpop.it/in-altre-parole-gli-ospiti-del-14-novembre/",
+   "published": "2026-11-14T04:25:02+00:00"
+  },
+  {
+   "id": "4148512e3e17",
+   "section": "tv",
+   "title": "Netflix svela in un diario di sviluppo la serie animata Planeswalker",
+   "summary": "Netflix ha pubblicato un video di sviluppo che offre un primo sguardo alla protagonista Chandra e ai mondi di Planeswalker, adattamento animato di Magic: The Gathering. La serie è prevista in streaming nel 2027.",
+   "body": "Netflix ha diffuso un video dietro le quinte dedicato a Planeswalker, la serie animata tratta dal gioco di carte Magic: The Gathering. Il filmato mostra per la prima volta la protagonista Chandra e alcuni dei mondi in cui si svolgerà la storia, offrendo un assaggio dell'universo visivo del progetto.\n\nSecondo Cartoon Brew, la produzione è destinata allo streaming e l'uscita è fissata per il 2027. Il materiale diffuso finora è limitato alle immagini di sviluppo, quindi restano da chiarire trama, cast e numero di episodi.",
+   "slug": "netflix-svela-in-un-diario-di-sviluppo-la-serie-animata-plan-414851",
+   "tags": [
+    "Planeswalker",
+    "Netflix",
+    "Magic: The Gathering"
+   ],
+   "scene": "streaming",
+   "source": "cartoonbrew.com",
+   "url": "https://www.cartoonbrew.com/series/netflix-magic-the-gathering-planeswalker-first-look-269425.html",
+   "published": "2026-11-14T04:19:15+00:00"
+  },
+  {
    "id": "9b07e1b08fd0",
    "section": "gossip",
    "title": "Janet Jackson sul red carpet dei Latin Grammy a Las Vegas",
@@ -32,6 +133,23 @@
    "source": "deadline.com",
    "url": "https://deadline.com/2026/11/real-time-bill-maher-attributes-faa-issues-selma-blair-1237223674/",
    "published": "2026-11-14T03:33:52+00:00"
+  },
+  {
+   "id": "ef0f9057629a",
+   "section": "cinema",
+   "title": "Mckenna Grace e Joseph Zada a Città del Messico per The Hunger Games: Sunrise on the Reaping",
+   "summary": "Mckenna Grace e Joseph Zada proseguono il tour promozionale internazionale di The Hunger Games: Sunrise on the Reaping. Tappa a Città del Messico, dove l'attrice si è presentata con un abito argentato.",
+   "body": "Mckenna Grace e Joseph Zada hanno partecipato a un evento a Città del Messico dedicato a The Hunger Games: Sunrise on the Reaping, nell'ambito del tour promozionale che li sta portando in diverse città del mondo. Secondo Just Jared, l'attrice ha attirato l'attenzione con un abito argentato, mentre il collega era al suo fianco sul red carpet.\n\nIl film, prequel della saga di Hunger Games, segue la storia di Haymitch Abernathy durante i suoi Hunger Games. La tappa messicana fa parte della campagna di presentazione che accompagna l'uscita del film nelle sale.",
+   "slug": "mckenna-grace-e-joseph-zada-a-citta-del-messico-per-the-hung-ef0f90",
+   "tags": [
+    "Mckenna Grace",
+    "Joseph Zada",
+    "The Hunger Games: Sunrise on the Reaping"
+   ],
+   "scene": "tappeto",
+   "source": "justjared.com",
+   "url": "https://www.justjared.com/2026/11/13/mckenna-grace-wows-in-silver-dress-with-joseph-zada-at-hunger-games-sunrise-on-the-reaping-mexico-city-event/",
+   "published": "2026-11-14T03:29:53+00:00"
   },
   {
    "id": "3989b326eec4",
@@ -8233,144 +8351,9 @@
    "source": "tvinsider.com",
    "url": "https://www.tvinsider.com/gallery/dig-series-character-guide/",
    "published": "2026-11-11T22:40:45+00:00"
-  },
-  {
-   "id": "5dd2c6304437",
-   "section": "cinema",
-   "title": "Constantine 2, il regista Francis Lawrence si dice più fiducioso",
-   "summary": "Il regista Francis Lawrence ha dichiarato di sentirsi più fiducioso sul sequel di Constantine dopo l'uscita di James Gunn e Peter Safran da DC Studios. Lawrence sostiene di avere una sceneggiatura pronta e di voler parlare con la nuova dirigenza del progetto.",
-   "body": "Il regista Francis Lawrence torna a parlare del possibile seguito di Constantine, il film del 2005 con Keanu Reeves. Dopo l'addio di James Gunn e Peter Safran a DC Studios, Lawrence ha detto in una nuova intervista di sentirsi più speranzoso che il progetto, atteso da vent'anni, possa finalmente concretizzarsi.\n\nSecondo quanto riportato da Deadline, Lawrence ha spiegato di avere già una sceneggiatura pronta e di voler discutere del film con i nuovi vertici dello studio. Il seguito non ha ancora una data di inizio riprese né un annuncio ufficiale, e la sua realizzazione dipenderà dalle decisioni della nuova dirigenza DC.",
-   "slug": "constantine-2-il-regista-francis-lawrence-si-dice-piu-fiduci-5dd2c6",
-   "tags": [
-    "Constantine",
-    "Francis Lawrence",
-    "DC Studios"
-   ],
-   "scene": "pellicola",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/constantine-francis-lawrence-james-gunn-peter-safran-dc-studios-1237220954/",
-   "published": "2026-11-11T22:15:33+00:00"
-  },
-  {
-   "id": "b8d35cb4c8e4",
-   "section": "cinema",
-   "title": "Jessica Chastain torna a Broadway con Lost Lear",
-   "summary": "Jessica Chastain tornerà a Broadway in primavera per una stagione limitata nel nuovo spettacolo Lost Lear di Dan Colley, con Corey Stoll e Michael Urie. Lo spettacolo debutterà al Booth Theatre il 29 marzo 2027 per una programmazione di 16 settimane.",
-   "body": "Jessica Chastain, premio Oscar e candidata al Tony, tornerà sui palcoscenici di Broadway la prossima primavera con una stagione limitata. L'attrice sarà protagonista di Lost Lear, nuovo lavoro teatrale firmato da Dan Colley, accanto a Corey Stoll e Michael Urie.\n\nLo spettacolo andrà in scena al Booth Theatre per 16 settimane, con l'inizio delle repliche fissato per lunedì 29 marzo 2027. Secondo Deadline, la prima ufficiale sarà programmata poco dopo. Il progetto segna un nuovo ritorno della Chastain a Broadway, dove in passato ha già ricevuto una candidatura al Tony Award.",
-   "slug": "jessica-chastain-torna-a-broadway-con-lost-lear-b8d35c",
-   "tags": [
-    "Jessica Chastain",
-    "Lost Lear",
-    "Corey Stoll"
-   ],
-   "scene": "palco",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/jessica-chastain-broadway-corey-stoll-michael-urie-lost-lear-1237220878/",
-   "published": "2026-11-11T22:15:00+00:00"
-  },
-  {
-   "id": "1e987f63e509",
-   "section": "gossip",
-   "title": "Kelly Ripa ammette di dimenticare subito i nomi delle persone",
-   "summary": "Kelly Ripa ha confessato durante una puntata di Live With Kelly and Mark di avere difficoltà a ricordare i nomi delle persone, che dimentica subito dopo averli sentiti. Il tema è emerso mentre la conduttrice parlava con il marito e co-conduttore Mark Consuelos di una nuova tecnica per memorizzarli.",
-   "body": "Kelly Ripa ha ammesso di non avere una memoria particolarmente efficace per i nomi. Nel corso della puntata di mercoledì 11 novembre del programma Live With Kelly and Mark, la conduttrice, 56 anni, ha raccontato di dimenticare spesso i nomi delle persone appena li ascolta, un problema che ha definito piuttosto imbarazzante.\n\nDurante la trasmissione, Ripa e il marito Mark Consuelos, co-conduttore dello show, hanno parlato di un nuovo metodo pensato per aiutare a ricordare meglio i nomi. Secondo quanto riportato da OK! Magazine, la conversazione è nata proprio dalla confessione della conduttrice, che ha ammesso con ironia le proprie difficoltà davanti al pubblico televisivo.",
-   "slug": "kelly-ripa-ammette-di-dimenticare-subito-i-nomi-delle-person-1e987f",
-   "tags": [
-    "Kelly Ripa",
-    "Mark Consuelos",
-    "Live With Kelly and Mark"
-   ],
-   "scene": "tv",
-   "source": "okmagazine.com",
-   "url": "https://okmagazine.com/p/kelly-ripa-embarrassingly-bad-remembering-names-immediately-forget/",
-   "published": "2026-11-11T22:14:38+00:00"
-  },
-  {
-   "id": "7d8c0515e66f",
-   "section": "tv",
-   "title": "ABC ordina il pilota di Rabbit, remake americano di Ludwig",
-   "summary": "Gli autori di Percy Jackson, Jonathan E. Steinberg e Dan Shotz, produrranno esecutivamente un pilota per ABC. Il progetto è un adattamento americano di Ludwig, la serie della BBC disponibile negli Stati Uniti su BritBox.",
-   "body": "La rete ABC ha ordinato un pilota per un adattamento americano di Ludwig, la serie prodotta dalla BBC che negli Stati Uniti va in onda su BritBox. Il nuovo progetto, intitolato Rabbit, sarà prodotto esecutivamente da Jonathan E. Steinberg e Dan Shotz, gli autori di Percy Jackson and the Olympians, già legati al progetto.\n\nSecondo TV Insider, la notizia arriva mentre si discute di come questa operazione possa influire sul futuro di Percy Jackson. Al momento non sono disponibili altri dettagli su cast, trama o data di messa in onda del pilota.",
-   "slug": "abc-ordina-il-pilota-di-rabbit-remake-americano-di-ludwig-7d8c05",
-   "tags": [
-    "Percy Jackson and the Olympians",
-    "Ludwig",
-    "Jonathan E. Steinberg"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1303049/percy-jackson-disney-abc-ludwig-remake-rabbit/",
-   "published": "2026-11-11T21:16:22+00:00"
-  },
-  {
-   "id": "adcdd9e8fd48",
-   "section": "cinema",
-   "title": "Paper Trail, il cortometraggio di Don Hertzfeldt su una vita raccontata attraverso la carta",
-   "summary": "Il nuovo corto di animazione di Don Hertzfeldt, Paper Trail, è ora disponibile online dopo un anno di festival. Il film ha vinto premi al Sundance, al SXSW e all'Annecy.",
-   "body": "Paper Trail è l'ultimo cortometraggio del regista e animatore Don Hertzfeldt, che è ora visibile online dopo una lunga tournée nei festival internazionali. Il film ha debuttato al Sundance Film Festival 2026, dove ha ricevuto lo Special Jury Award for Creative Vision, ed è poi passato al SXSW, dove ha vinto il premio della giuria e il premio del pubblico per il miglior cortometraggio d'animazione, e all'Annecy, dove è stato premiato come miglior corto.\n\nLa storia segue la vita di Stevie, dall'infanzia al l'età adulta, attraverso la sola carta. Si parte da scarabocchi e disegni, si passa alla scrittura corsiva e ai diari, fino alla vita adulta fatta di documenti firmati di continuo. Secondo quanto riporta FirstShowing.net, la scelta consigliata è di guardarlo senza sapere nulla in anticipo, perché il senso dell'opera emerge man mano che la storia procede.",
-   "slug": "paper-trail-il-cortometraggio-di-don-hertzfeldt-su-una-vita-adcdd9",
-   "tags": [
-    "Don Hertzfeldt",
-    "Paper Trail",
-    "Sundance Film Festival"
-   ],
-   "scene": null,
-   "source": "firstshowing.net",
-   "url": "https://www.firstshowing.net/2026/watch-don-hertzfeldts-mesmerizing-paper-trail-short-about-a-life/",
-   "published": "2026-11-11T21:15:20+00:00"
-  },
-  {
-   "id": "9800014d110f",
-   "section": "tv",
-   "title": "Paul Wesley entra nel cast di Icebreaker, la serie Netflix",
-   "summary": "Paul Wesley, noto per The Vampire Diaries, è l'ultimo nnome annunciato nel cast dell'adattamento televisivo di Icebreaker per Netflix. La notizia è riportata da TVLine nella rubrica dedicata ai casting.",
-   "body": "L'attore Paul Wesley, già conosciuto dal pubblico per il ruolo di Stefan Salvatore in The Vampire Diaries, si unisce al cast dell'adattamento televisivo di Icebreaker, la serie che Netflix sta sviluppando. Secondo TVLine, che ha dato la notizia nella sua rubrica sui casting, Wesley interpreterà un personaggio la cui identità non è ancora stata approfondita nel materiale disponibile.\n\nLa rubrica segnala anche altri movimenti di casting, tra cui un progetto commedia romantica con Julianna Margulies. Al momento non sono disponibili ulteriori dettagli sul ruolo di Wesley o sui tempi di lavorazione della serie, e la piattaforma non ha ancora diffuso una data di uscita.",
-   "slug": "paul-wesley-entra-nel-cast-di-icebreaker-la-serie-netflix-980001",
-   "tags": [
-    "Paul Wesley",
-    "Icebreaker",
-    "Netflix"
-   ],
-   "scene": "streaming",
-   "source": "tvline.com",
-   "url": "https://www.tvline.com/2314272/paul-wesley-icebreaker-cast-netflix-julianna-margulies-rom-com/",
-   "published": "2026-11-11T21:15:00+00:00"
-  },
-  {
-   "id": "ae719ab357e4",
-   "section": "tv",
-   "title": "ChiaroScuro su Netflix: un esperto d'arte e un detective indagano su un omicidio",
-   "summary": "La serie ChiaroScuro arriva su Netflix e segue un esperto d'arte e un detective che uniscono le forze per trovare un assassino. Secondo Decider, la coppia di protagonisti funziona e rispetta un classico della televisione poliziesca.",
-   "body": "Su Netflix debutta ChiaroScuro, una serie poliziesca che mette al centro un detective e un esperto d'arte, figura civile che non segue le regole del commissariato. Il loro incontro serve a risolvere un omicidio e a seguire le tracce di un assassino che si muove tra opere e ambienti del mondo artistico.\n\nSecondo Decider, la coppia investigativa è il punto di forza del progetto. Lo schema del poliziotto affiancato da un consulente anticonvenzionale è uno dei più collaudati della televisione, ma il rapporto tra i due personaggi viene giudicato convincente. La testata americana consiglia quindi la visione, collocando la serie tra le proposte da non perdere nel catalogo della piattaforma.",
-   "slug": "chiaroscuro-su-netflix-un-esperto-d-arte-e-un-detective-inda-ae719a",
-   "tags": [
-    "ChiaroScuro",
-    "Netflix"
-   ],
-   "scene": "streaming",
-   "source": "decider.com",
-   "url": "https://decider.com/2026/11/11/chiaroscuro-netflix-review/",
-   "published": "2026-11-11T21:15:00+00:00"
   }
  ],
  "seen": [
-  "61943e9907b7",
-  "5152d62de386",
-  "ff88e9656ddf",
-  "e99a4b221ffc",
-  "2053a71d1bb9",
-  "1dd74643addc",
-  "18e59dd268ec",
-  "c917d7d98bdd",
-  "4695e6c2e3cb",
-  "862eec95f804",
-  "13c5e6451491",
-  "16c008921158",
-  "f0be5b55fc11",
-  "a0b978724962",
-  "61485d853fa3",
-  "455935bfb39c",
-  "1ba6c1ddcdb5",
   "51e3ea16bfb9",
   "f03c647e74a6",
   "00835292299b",
@@ -12353,7 +12336,24 @@
   "9b07e1b08fd0",
   "bbda0a39d308",
   "0a365d67eb34",
-  "9ba143b9e486"
+  "9ba143b9e486",
+  "1dac3b508934",
+  "4db71b491ec1",
+  "f1c51f8330b1",
+  "ac1d89ce09f1",
+  "b0344308eaae",
+  "195c0329a1c1",
+  "c2618497ce8f",
+  "ae80c814be39",
+  "41fc98dd7069",
+  "b314735c3805",
+  "a656835f4867",
+  "4148512e3e17",
+  "ef0f9057629a",
+  "d62a6827a25e",
+  "7a7c8c303c45",
+  "f9051e742d7c",
+  "48847a5e0396"
  ],
  "version": 4,
  "digests": [
