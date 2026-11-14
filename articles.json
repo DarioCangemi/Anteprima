@@ -1,6 +1,71 @@
 {
  "articles": [
   {
+   "id": "87476c773d87",
+   "section": "cinema",
+   "title": "Street Fighter esce da oltre 2.000 sale americane",
+   "summary": "Il film Street Fighter sta chiudendo la sua corsa al box office dopo essere stato tolto da più di 2.000 sale. Secondo Collider, la pellicola, che doveva avviare una nuova saga, non ha avuto il riscontro sperato al botteghino.",
+   "body": "Il film Street Fighter, che doveva essere il punto di partenza di una nuova saga cinematografica, si avvia alla fine della sua programmazione nelle sale. Secondo quanto riportato da Collider, la pellicola è stata rimossa da più di 2.000 cinema, segnale chiaro di incassi in calo nel weekend di uscita e nelle settimane successive.\n\nIl titolo, tratto dal celebre videogioco di combattimento di Capcom, era atteso dagli appassionati del franchise. La sua uscita limitata nel circuito statunitense conferma però le difficoltà del film nel conquistare il pubblico, con una permanenza in sala sempre più breve. Non sono al momento disponibili dettagli sulle prospettive future del progetto.",
+   "slug": "street-fighter-esce-da-oltre-2-000-sale-americane-87476c",
+   "tags": [
+    "Street Fighter",
+    "Capcom"
+   ],
+   "scene": "sala",
+   "source": "collider.com",
+   "url": "https://collider.com/street-fighter-removed-from-2000-theaters-box-office-100-million/",
+   "published": "2026-11-14T00:16:12+00:00"
+  },
+  {
+   "id": "17751193a5a7",
+   "section": "cinema",
+   "title": "Sony punta agli Oscar con Spider-Man: Brand New Day",
+   "summary": "Il presidente e amministratore delegato di Sony Pictures, Tom Rothman, ha annunciato una campagna per gli Oscar del film Spider-Man: Brand New Day, con una possibile candidatura al miglior film. Il titolo viene indicato come il film con il maggior incasso di sempre e ha buoni voti da critica e pubblico.",
+   "body": "Sony Pictures prepara una grande campagna per la stagione dei premi a favore di Spider-Man: Brand New Day. Secondo quanto riportato da Dark Horizons, il presidente e amministratore delegato Tom Rothman ha dichiarato di voler puntare anche alla categoria del miglior film agli Oscar. Il film è indicato come il più incassato di tutti i tempi.\n\nLe recensioni sono positive: su Metacritic il film ha un punteggio di 66 su 100, mentre su Rotten Tomatoes raggiunge il 90% di giudizi favorevoli, con una media di 7,6 su 10. Rothman ha definito questi numeri buoni, sottolineando la solidità dell'accoglienza ricevuta dal film.",
+   "slug": "sony-punta-agli-oscar-con-spider-man-brand-new-day-177511",
+   "tags": [
+    "Spider-Man: Brand New Day",
+    "Tom Rothman",
+    "Sony Pictures"
+   ],
+   "scene": "premiere",
+   "source": "darkhorizons.com",
+   "url": "https://www.darkhorizons.com/sony-to-campaign-for-spider-man-oscars/",
+   "published": "2026-11-14T00:09:14+00:00"
+  },
+  {
+   "id": "27a0c78360e6",
+   "section": "cinema",
+   "title": "Resident Evil di Zach Cregger esce dalle sale e debutta in digitale",
+   "summary": "Il nuovo Resident Evil diretto da Zach Cregger è stato rimosso da circa 3.000 sale americane dopo il passaggio al digitale. Il film, accolto bene da pubblico e critica, ha quasi concluso la sua corsa al botteghino.",
+   "body": "Il nuovo Resident Evil diretto da Zach Cregger lascia le sale cinematografiche. Secondo Collider, il film è stato ufficialmente tolto da circa 3.000 schermi negli Stati Uniti, poco dopo il suo debutto nel formato digitale, che ne segna di fatto la conclusione della corsa al botteghino.\n\nIl titolo era stato definito un successo sia di critica sia di incassi, risultato che lo ha reso uno dei film di genere più visti della stagione. Ora il pubblico potrà vederlo soprattutto sulle piattaforme di acquisto e noleggio digitale, mentre la distribuzione in sala si chiude.",
+   "slug": "resident-evil-di-zach-cregger-esce-dalle-sale-e-debutta-in-d-27a0c7",
+   "tags": [
+    "Resident Evil",
+    "Zach Cregger"
+   ],
+   "scene": "sala",
+   "source": "collider.com",
+   "url": "https://collider.com/resident-evil-removed-from-3000-theaters/",
+   "published": "2026-11-14T00:00:12+00:00"
+  },
+  {
+   "id": "7ae4c0946502",
+   "section": "tv",
+   "title": "The Voice Senior 2026, Antonella Clerici annuncia il vincitore della settima edizione",
+   "summary": "Si è conclusa con la finale la settima edizione di The Voice Senior, condotta da Antonella Clerici. Il vincitore è stato proclamato al termine del televoto, dopo una serata ricca di emozioni.",
+   "body": "Si è chiusa con la finale la settima edizione di The Voice Senior, il talent dedicato ai cantanti over 60 condotto da Antonella Clerici. Nel corso della serata la conduttrice ha annunciato il risultato del televoto, rivelando il nome del vincitore della stagione.\n\nSecondo BadTaste, la puntata finale è stata particolarmente emozionante per i concorrenti e per il pubblico da casa, che ha seguito gli ultimi momenti della competizione fino alla proclamazione. Il programma conferma così il formato che negli anni ha portato sul palco della versione senior del talent musicale voci e storie molto diverse tra loro.",
+   "slug": "the-voice-senior-2026-antonella-clerici-annuncia-il-vincitor-7ae4c0",
+   "tags": [
+    "The Voice Senior",
+    "Antonella Clerici"
+   ],
+   "scene": "palco",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/the-voice-senior-2026-chi-ha-vinto-la-finale-antonella-clerici-incorona-il-vincitore-della-settima-edizione",
+   "published": "2026-11-13T23:58:32+00:00"
+  },
+  {
    "id": "01fff5a7d3ba",
    "section": "tv",
    "title": "9-1-1: Nashville, recensione dell'episodio 5 della stagione 2",
@@ -8284,90 +8349,9 @@
    "source": "thewrap.com",
    "url": "https://www.thewrap.com/industry-news/casting/greys-anatomy-texas-spinoff-casts-karla-souza-lead/",
    "published": "2026-11-11T18:16:28+00:00"
-  },
-  {
-   "id": "47ae7577b55c",
-   "section": "tv",
-   "title": "Survivor 51: Eric Macksoud parla spesso della fidanzata Gina DeVito",
-   "summary": "Eric Macksoud, concorrente di Survivor 51, continua a nominare la fidanzata Gina DeVito durante la competizione. Nell'ultimo episodio un montaggio ha raccolto diversi momenti in cui ne parla con gli altri naufraghi.",
-   "body": "Eric Macksoud è ancora in gara per la vittoria di Survivor 51, il reality di sopravvivenza della CBS, e sull'isola non smette di parlare della sua fidanzata, Gina DeVito. Secondo TV Insider, nell'ultima puntata è stato mostrato un intero montaggio in cui Eric trova sempre il modo di citare la futura moglie nelle conversazioni con gli altri concorrenti.\n\nIl racconto del programma mostra un tratto ricorrente del suo modo di stare in gioco: la vita fuori dall'isola resta un punto fermo anche nei momenti di tensione. La testata ha dedicato un approfondimento a Gina DeVito, presentandola ai telespettatori che seguono la stagione e che ancora non la conoscono.",
-   "slug": "survivor-51-eric-macksoud-parla-spesso-della-fidanzata-gina-47ae75",
-   "tags": [
-    "Survivor",
-    "Eric Macksoud",
-    "Gina DeVito"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/swooon/1312092/survivor-eric-macksoud-wife-gina-devito-relationship/",
-   "published": "2026-11-11T18:13:28+00:00"
-  },
-  {
-   "id": "65a1862ec4bc",
-   "section": "tv",
-   "title": "La Promessa, Teresa confessa i suoi sentimenti a Cristóbal",
-   "summary": "Nell'anticipazione dell'episodio del 12 novembre de La Promessa, Teresa trova il coraggio di dire a Cristóbal ciò che prova davvero. Intanto Maria teme di affrontare da sola la gravidanza e Petra interviene per salvare il rifugio di Padre Samuel.",
-   "body": "Nella puntata del 12 novembre de La Promessa, Teresa decide finalmente di aprirsi con Cristóbal e di rivelargli i sentimenti che prova davvero. Un passo che arriva dopo un lungo periodo di silenzi e di esitazioni, e che potrebbe cambiare il rapporto tra i due personaggi.\n\nSul fronte delle altre vicende, Maria è preoccupata all'idea di dover affrontare da sola la gravidanza, mentre Petra si muove per salvare il rifugio di Padre Samuel. Le anticipazioni sono riportate da Movieplayer, che descrive una puntata ricca di svolte emotive per l'intera storia.",
-   "slug": "la-promessa-teresa-confessa-i-suoi-sentimenti-a-cristobal-65a186",
-   "tags": [
-    "La Promessa",
-    "Teresa",
-    "Cristóbal"
-   ],
-   "scene": "tv",
-   "source": "Movieplayer",
-   "url": "https://movieplayer.it/news/la-promessa-anticipazioni-12-novembre-teresa-cristobal_171925/",
-   "published": "2026-11-11T17:58:08+00:00"
-  },
-  {
-   "id": "a64a351735fa",
-   "section": "tv",
-   "title": "X Factor 2026, al quarto Live una tripla eliminazione con la Giostra",
-   "summary": "Giovedì 12 novembre va in onda il quarto Live di X Factor 2026, su Sky Uno e in streaming su NOW. Nella serata tre concorrenti rischiano l'eliminazione, con una formula che potrebbe cambiare gli equilibri tra le squadre.",
-   "body": "Giovedì 12 novembre X Factor 2026 arriva a uno dei passaggi più delicati della competizione con il quarto appuntamento dal vivo, trasmesso su Sky Uno e disponibile in streaming su NOW. La serata metterà a rischio tre concorrenti, che potrebbero lasciare il programma nello stesso momento, in una formula che può modificare la composizione delle squadre.\n\nSecondo quanto riportato da Dituttounpop.it, la puntata prevede una fase chiamata Giostra e una selezione di cover, oltre alla presenza di un ospite. I dettagli completi del meccanismo di voto e dell'ospite non sono stati precisati nel materiale disponibile, quindi per il quadro completo della serata è utile seguire la messa in onda.",
-   "slug": "x-factor-2026-al-quarto-live-una-tripla-eliminazione-con-la-a64a35",
-   "tags": [
-    "X Factor"
-   ],
-   "scene": "palco",
-   "source": "dituttounpop.it",
-   "url": "https://www.dituttounpop.it/x-factor-2026-quarta-puntata-live-12-novembre/",
-   "published": "2026-11-11T17:42:45+00:00"
-  },
-  {
-   "id": "79daffedc3bb",
-   "section": "cinema",
-   "title": "Premio Claudio Caligari 2026: i sei film finalisti",
-   "summary": "Sono stati annunciati i sei film finalisti del Premio Claudio Caligari 2026, dedicato al cinema italiano di genere. Aperte anche le iscrizioni per la giuria popolare.",
-   "body": "Il Premio Claudio Caligari torna con una nuova edizione dedicata al meglio del cinema italiano di genere. Ideato nel 2016 da Giorgio Gosetti e Gianni Canova, il riconoscimento è organizzato dal Noir in Festival in collaborazione con l'Università IULM. Alla guida del premio ci sono Alberto Pezzotta, critico cinematografico e docente IULM, e Giulio Sangiorgio, direttore di Film Tv.\n\nSecondo Cinefilos, sono stati resi noti i sei film finalisti dell'edizione 2026. Contemporaneamente il premio ha aperto le iscrizioni per la giuria popolare, che affiancherà la selezione tecnica nel decretare il vincitore.",
-   "slug": "premio-claudio-caligari-2026-i-sei-film-finalisti-79daff",
-   "tags": [
-    "Premio Claudio Caligari",
-    "Noir in Festival",
-    "Alberto Pezzotta"
-   ],
-   "scene": "premiere",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/premio-claudio-caligari-2026-svelati-i-sei-film-finalisti-aperte-le-iscrizioni-alla-giuria-popolare-730374",
-   "published": "2026-11-11T17:37:31+00:00"
   }
  ],
  "seen": [
-  "2aa4d7c7379f",
-  "71041fe6e107",
-  "5a42a1b8beac",
-  "16a7099a1b1d",
-  "e53bec7d2abe",
-  "3afbb303690c",
-  "a33ebaa14207",
-  "c27d80422a5d",
-  "32f9f5b0176e",
-  "78db6e7af51e",
-  "b64532e9e752",
-  "8efbf77e45f6",
-  "487d8bdd2087",
-  "23b65ec93929",
-  "3afb7ae60651",
   "c1b7b17c2132",
   "38e43500c4bb",
   "a4adcae379eb",
@@ -12352,7 +12336,22 @@
   "6afdf413f2b2",
   "c489fbbe9f77",
   "e1bcb17fe9b7",
-  "7ad4b6d907fc"
+  "7ad4b6d907fc",
+  "8f7df7160110",
+  "87476c773d87",
+  "65e42ec368e8",
+  "9268a8534d91",
+  "d533ffede38f",
+  "17751193a5a7",
+  "19e8c604770c",
+  "7ae4c0946502",
+  "2b732a2c9bdd",
+  "fa4b7c6d1a52",
+  "27a0c78360e6",
+  "d8d8c8f806cc",
+  "1edc0c4dcd75",
+  "a67598079fae",
+  "e4184b5242a7"
  ],
  "version": 4,
  "digests": [
