@@ -1,6 +1,157 @@
 {
  "articles": [
   {
+   "id": "4e587b81fd30",
+   "section": "tv",
+   "title": "The Beauty, la serie di Ryan Murphy potrebbe non avere una seconda stagione",
+   "summary": "Dopo la ricezione non positiva della prima stagione di The Beauty, FX (Disney) non ha ancora deciso di rinnovare la serie horror ideata da Ryan Murphy. Il regista ha alle spalle una lunga carriera televisiva con oltre venti creazioni per il piccolo schermo.",
+   "body": "FX, la rete del gruppo Disney, potrebbe non rinnovare per una seconda stagione The Beauty, la serie horror firmata da Ryan Murphy e disponibile su Disney+. Secondo quanto riportato dalla testata francese Ecran Large, la prima stagione non ha ottenuto un'accoglienza particolarmente favorevole, e questo pesa sulla decisione.\n\nIl nome di Murphy resta però uno dei più solidi della televisione americana. Il suo curriculum conta più di venti serie ideate per il piccolo schermo e quasi trenta titoli prodotti, scritti o diretti. La decisione definitiva sul futuro di The Beauty non è stata ancora comunicata ufficialmente.",
+   "slug": "the-beauty-la-serie-di-ryan-murphy-potrebbe-non-avere-una-se-4e587b",
+   "tags": [
+    "The Beauty",
+    "Ryan Murphy",
+    "FX"
+   ],
+   "scene": "streaming",
+   "source": "ecranlarge.com",
+   "url": "https://www.ecranlarge.com/series/news/the-beauty-disney-annulee-saison-2",
+   "published": "2026-11-14T12:15:00+00:00"
+  },
+  {
+   "id": "0a7e3098e5c0",
+   "section": "musica",
+   "title": "Zucchero headliner del Capodanno 2027 a Sassari",
+   "summary": "Zucchero sarà il protagonista del concerto di Capodanno 2027 a Sassari, nel piazzale Segni, la sera del 31 dicembre. La notizia è stata riportata da ANSA.",
+   "body": "Il cantautore Zucchero si esibirà a Sassari per il concerto di fine anno che accompagnerà l'arrivo del 2027. L'appuntamento è fissato nel piazzale Segni, in programma il 31 dicembre, e segna la presenza dell'artista emiliano nel capoluogo sardo per la serata di Capodanno.\n\nSecondo ANSA, la scelta di Zucchero come star della festa cittadina punta a richiamare un pubblico ampio per l'ultima notte dell'anno. Il materiale disponibile non riporta ulteriori dettagli su orari, biglietti o programma della serata.",
+   "slug": "zucchero-headliner-del-capodanno-2027-a-sassari-0a7e30",
+   "tags": [
+    "Zucchero",
+    "Sassari"
+   ],
+   "scene": "palco",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/14/sara-zucchero-la-star-del-capodanno-2027-a-sassari_f3e06cc6-38de-4c61-9970-25f263530e6d.html",
+   "published": "2026-11-14T12:06:40+00:00"
+  },
+  {
+   "id": "4442628441b3",
+   "section": "tv",
+   "title": "ATP Finals 2026 in diretta su Mediaset e Sky",
+   "summary": "Le ATP Finals 2026 di tennis saranno trasmesse in diretta dal 15 al 22 novembre sulle reti Mediaset e su Sky. La programmazione televisiva dedicata al torneo di fine stagione è già stata annunciata.",
+   "body": "Le ATP Finals 2026, il torneo che riunisce i migliori otto tennisti della stagione, saranno trasmesse in diretta dal 15 al 22 novembre sulle reti Mediaset e su Sky. Gli appassionati italiani potranno quindi seguire il grande tennis internazionale su due piattaforme diverse, con una copertura dedicata all'intero evento.\n\nSecondo Davide Maggio, che ha dato la notizia, la programmazione include tutti gli appuntamenti televisivi legati alla manifestazione, dalle partite del girone fino alla fase conclusiva. Il materiale disponibile non specifica orari, canali precisi o modalità di accesso alle singole dirette, informazioni che andranno verificate direttamente sui palinsesti delle due emittenti.",
+   "slug": "atp-finals-2026-in-diretta-su-mediaset-e-sky-444262",
+   "tags": [
+    "ATP Finals",
+    "Mediaset",
+    "Sky"
+   ],
+   "scene": "tv",
+   "source": "davidemaggio.it",
+   "url": "https://www.davidemaggio.it/notizie-tv/atp-finals-2026-il-grande-tennis-accende-mediaset-e-sky",
+   "published": "2026-11-14T12:02:08+00:00"
+  },
+  {
+   "id": "9394328e492e",
+   "section": "tv",
+   "title": "Thomasin McKenzie anticipa una nuova sfida d'attrice in Fallout 3",
+   "summary": "Thomasin McKenzie parla del suo lavoro su Fallout, la serie di Prime Video giunta alla terza stagione, in un nuovo episodio di Collider Ladies Night. L'attrice racconta alcuni retroscena della produzione e della sua esperienza sul set.",
+   "body": "Thomasin McKenzie è tra le protagoniste della terza stagione di Fallout, la serie targata Prime Video tratta dal celebre videogioco post-apocalittico. Secondo Collider, che ha ospitato l'attrice nel nuovo episodio di Collider Ladies Night, McKenzie ha descritto una sfida recitativa particolarmente impegnativa affrontata durante le riprese.\n\nNel corso dell'intervista l'attrice neozelandese ha raccontato il dietro le quinte della produzione, offrendo uno sguardo sul lavoro necessario per dare vita al suo personaggio. Il video è disponibile sul canale della testata e sui suoi canali social.",
+   "slug": "thomasin-mckenzie-anticipa-una-nuova-sfida-d-attrice-in-fall-939432",
+   "tags": [
+    "Fallout",
+    "Thomasin McKenzie",
+    "Prime Video"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/fallout-season-3-thomasin-mckenzie-interview/",
+   "published": "2026-11-14T12:00:12+00:00"
+  },
+  {
+   "id": "76c49e100d8f",
+   "section": "tv",
+   "title": "Due cuori in affitto: concluse le riprese della serie Prime Video",
+   "summary": "Prime Video ha annunciato la fine delle riprese di Due cuori in affitto, nuova serie Prime Original tratta dal romanzo di Felicia Kingsley. Nel cast Giacomo Gianniotti e Jacqueline Luna, affiancati da un cast corale.",
+   "body": "Prime Video ha comunicato la conclusione delle riprese di Due cuori in affitto, nuova serie originale della piattaforma tratta dall'omonimo romanzo di Felicia Kingsley. Il libro è il titolo più venduto dell'autrice italiana, e l'adattamento si colloca nel genere della commedia romantica.\n\nProtagonisti della serie sono Giacomo Gianniotti, noto per Grey's Anatomy e Wild Cards, e Jacqueline Luna. Il cast è completato da Lorenzo Adorni, Denise e altri interpreti. Secondo quanto riportato da Cinefilos, la produzione è ora completata, ma il materiale ricevuto non indica una data di uscita.",
+   "slug": "due-cuori-in-affitto-concluse-le-riprese-della-serie-prime-v-76c49e",
+   "tags": [
+    "Due cuori in affitto",
+    "Giacomo Gianniotti",
+    "Felicia Kingsley"
+   ],
+   "scene": "streaming",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/serie-tv/news/due-cuori-in-affitto-concluse-le-riprese-730936",
+   "published": "2026-11-14T11:59:24+00:00"
+  },
+  {
+   "id": "1b1d9aa25ec2",
+   "section": "cinema",
+   "title": "European Film Awards 2027: Fatherland guida le nomination con 11 candidature",
+   "summary": "La European Film Academy ha annunciato le nomination della 39ª edizione degli European Film Awards, in programma in Grecia nel gennaio 2027. Il film Fatherland è in testa con 11 candidature nelle 16 categorie principali.",
+   "body": "La European Film Academy ha reso noti i candidati della 39ª edizione degli European Film Awards, i premi più importanti del cinema europeo. La cerimonia si terrà in Grecia nel gennaio 2027. Le nomination riguardano 16 categorie principali, per le quali concorrono film e professionisti scelti dai membri dell'Accademia.\n\nIn testa alla corsa c'è Fatherland, con 11 candidature. Secondo Cinefilos, il titolo è il film più candidato di questa edizione, davanti a tutti gli altri concorrenti. I vincitori saranno annunciati durante la serata di premiazione greca.",
+   "slug": "european-film-awards-2027-fatherland-guida-le-nomination-con-1b1d9a",
+   "tags": [
+    "European Film Awards",
+    "Fatherland",
+    "European Film Academy"
+   ],
+   "scene": "premiere",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/cinema-news/2026/european-film-awards-2027-tutte-le-nomination-fatherland-guida-la-corsa-con-11-candidature-730933",
+   "published": "2026-11-14T11:55:33+00:00"
+  },
+  {
+   "id": "855f4d03e52a",
+   "section": "tv",
+   "title": "Auditel 13 novembre: The Voice Senior sopra il 23% di share",
+   "summary": "Secondo i dati Auditel del 13 novembre, The Voice Senior ha superato il 23% di share in prime time, distanziando di quasi 10 punti il GFVip. Nell'access prime time Affari Tuoi ha battuto La Ruota della Fortuna con un vantaggio superiore a 4 punti.",
+   "body": "Il programma condotto su Rai 1 ha chiuso la serata di venerdì 13 novembre con uno share superiore al 23%, un risultato che lo pone nettamente davanti al GFVip in prime time. Il reality di Canale 5 si è fermato a circa dieci punti di distacco, secondo i dati Auditel riportati da TVBlog.\n\nNella fascia dell'access prime time, la sfida tra i quiz ha visto Affari Tuoi prevalere su La Ruota della Fortuna con un vantaggio di oltre quattro punti di share. Le cifre confermano la preferenza del pubblico per il talent dedicato agli artisti over 60 e per il game show di Rai 1 nella prima serata del weekend.",
+   "slug": "auditel-13-novembre-the-voice-senior-sopra-il-23-di-share-855f4d",
+   "tags": [
+    "The Voice Senior",
+    "GFVip",
+    "Affari Tuoi"
+   ],
+   "scene": "tv",
+   "source": "tvblog.it",
+   "url": "https://www.tvblog.it/post/the-voice-senior-supera-il-23-di-share-gfvip-resta-indietro-di-quasi-10-punti-i-dati-auditel-del-13-novembre-2026",
+   "published": "2026-11-14T11:51:48+00:00"
+  },
+  {
+   "id": "b9662f782979",
+   "section": "musica",
+   "title": "Händel, Theodora all'Auditorium Parco della Musica con il Monteverdi Choir",
+   "summary": "Il 16 novembre l'Accademia di Santa Cecilia propone all'Auditorium Parco della Musica di Roma l'oratorio drammatico Theodora di Georg Friedrich Händel. Sul palco il Monteverdi Choir e gli English Baroque Soloists.",
+   "body": "Il 16 novembre l'Auditorium Parco della Musica di Roma ospita un appuntamento con la musica barocca firmato Accademia Nazionale di Santa Cecilia. In programma c'è Theodora, oratorio drammatico di Georg Friedrich Händel, eseguito dal Monteverdi Choir insieme agli English Baroque Soloists.\n\nSecondo ANSA, la serata affida il racconto alle voci del coro e dei solisti, con l'orchestra d'epoca a far da cornice a una delle opere più intense del compositore tedesco naturalizzato inglese. Un'occasione per riascoltare dal vivo un titolo meno frequentato rispetto al Messia, nel contesto della stagione concertistica romana.",
+   "slug": "handel-theodora-all-auditorium-parco-della-musica-con-il-mon-b9662f",
+   "tags": [
+    "Georg Friedrich Händel",
+    "Monteverdi Choir",
+    "Theodora"
+   ],
+   "scene": "palco",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/14/monteverdi-choir-e-english-baroque-soloists-santa-cecilia-con-haendel_8ee4c6d6-716f-4176-ae9e-e4d0a9a46873.html",
+   "published": "2026-11-14T11:43:57+00:00"
+  },
+  {
+   "id": "29aca9858746",
+   "section": "gossip",
+   "title": "Kris Jenner mostra le luci di Natale della sua villa da 20 milioni di dollari",
+   "summary": "Kris Jenner ha presentato la decorazione natalizia con luci scintillanti della sua villa da 20 milioni di dollari, confinante con quella della figlia Khloé Kardashian. La manager ha descritto il risultato come magico.",
+   "body": "Kris Jenner ha mostrato la decorazione natalizia con luci scintillanti allestita nella sua villa da 20 milioni di dollari, la cui proprietà confina con quella della figlia Khloé Kardashian. Secondo quanto riportato da Hello! Magazine, la trasformazione degli esterni ha colpito per l'effetto complessivo, tanto che la stessa Jenner l'ha definita magica.\n\nL'immobile è uno dei punti di riferimento della famiglia Kardashian-Jenner, che negli anni ha costruito una piccola comunità di residenze vicine tra loro. La presentazione delle luci conferma la passione di Jenner per le festività, da sempre uno dei temi ricorrenti dei suoi contenuti pubblici. Non sono stati forniti dettagli su costi o tempi dell'allestimento.",
+   "slug": "kris-jenner-mostra-le-luci-di-natale-della-sua-villa-da-20-m-29aca9",
+   "tags": [
+    "Kris Jenner",
+    "Khloé Kardashian"
+   ],
+   "scene": "luci",
+   "source": "hellomagazine.com",
+   "url": "https://www.hellomagazine.com/us/935007/kris-jenner-shows-off-jaw-dropping-light-transformation-at-mansion/",
+   "published": "2026-11-14T11:40:28+00:00"
+  },
+  {
    "id": "f23fe6d8ce71",
    "section": "tv",
    "title": "The Magic is Back, il musical delle Winx debutta a Sanremo",
@@ -8192,184 +8343,9 @@
    "source": "justjared.com",
    "url": "https://www.justjared.com/2026/11/12/melanie-lynskey-joins-sophie-nelisse-christina-ricci-more-stars-at-yellowjackets-final-season-premiere-in-l-a/",
    "published": "2026-11-12T06:44:22+00:00"
-  },
-  {
-   "id": "d23a4e8e7d83",
-   "section": "cinema",
-   "title": "Skyler Gisondo fa chiarezza sul futuro dello spin-off di Superman",
-   "summary": "Il futuro di The People v. Gorilla Grodd, la serie HBO Max dedicata al nemico di Flash, resta incerto dopo l'annuncio dell'uscita di James Gunn e Peter Safran dai vertici di DC Studios. A parlarne è stato Skyler Gisondo, interprete di Jimmy Olsen nel nuovo DC Universe.",
-   "body": "Il progetto The People v. Gorilla Grodd, serie HBO Max ispirata a uno dei nemici più celebri di Flash, non ha ancora un percorso definito. La situazione è incerta dopo che James Gunn e Peter Safran hanno annunciato di lasciare i vertici di DC Studios.\n\nA fare chiarezza sullo stato della produzione è stato Skyler Gisondo, che nel nuovo DC Universe interpreta Jimmy Olsen. Secondo quanto riporta Cinefilos, l'attore è intervenuto sulla questione, che riguarda il futuro dello spin-off legato a Superman.",
-   "slug": "skyler-gisondo-fa-chiarezza-sul-futuro-dello-spin-off-di-sup-d23a4e",
-   "tags": [
-    "Skyler Gisondo",
-    "James Gunn",
-    "The People v. Gorilla Grodd"
-   ],
-   "scene": "streaming",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/serie-tv/news/the-people-v-gorilla-grodd-stato-produzione-730485",
-   "published": "2026-11-12T06:19:42+00:00"
-  },
-  {
-   "id": "66c73b770130",
-   "section": "tv",
-   "title": "Jason Isaacs difende Sonequa Martin-Green dagli attacchi razzisti",
-   "summary": "Jason Isaacs è intervenuto sulle polemiche razziste che accompagnarono nel 2017 l'arrivo di Sonequa Martin-Green nel ruolo di Michael Burnham in Star Trek: Discovery. L'attore, che interpretava il capitano Gabriel Lorca, ha raccontato di aver risposto personalmente agli utenti che criticavano la collega.",
-   "body": "Jason Isaacs è tornato a parlare di Star Trek: Discovery, prendendo posizione contro gli attacchi razzisti ricevuti da Sonequa Martin-Green quando la serie debuttò nel 2017. Secondo quanto riferito da Cinefilos, l'attore che interpretava il capitano Gabriel Lorca ricorda le polemiche legate alla scelta dell'attrice per il ruolo di Michael Burnham.\n\nIsaacs ha raccontato di essere intervenuto in prima persona, rispondendo agli utenti che criticavano la presenza di Martin-Green nel cast. Una presa di posizione che riporta l'attenzione su un episodio legato al debutto della serie, sottolineando il sostegno della produzione e del cast alla protagonista.",
-   "slug": "jason-isaacs-difende-sonequa-martin-green-dagli-attacchi-raz-66c73b",
-   "tags": [
-    "Star Trek: Discovery",
-    "Jason Isaacs",
-    "Sonequa Martin-Green"
-   ],
-   "scene": "premiere",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/serie-tv/news/star-trek-discovery-jason-isaacs-difende-sonequa-martin-green-dagli-attacchi-razzisti-730481",
-   "published": "2026-11-12T06:14:32+00:00"
-  },
-  {
-   "id": "f85889622f3c",
-   "section": "tv",
-   "title": "Creature Commandos 2, Mido Hamada doppierà Khalis",
-   "summary": "Mido Hamada sarà la voce di Khalis nella seconda stagione di Creature Commandos, la serie animata DC. Il casting è stato confermato ufficialmente dallo showrunner Dean Lorey.",
-   "body": "La seconda stagione di Creature Commandos, la serie animata dell'universo DC, si arricchisce di un nuovo doppiatore. Mido Hamada presterà la voce a Khalis, personaggio che entrerà nella nuova formazione di Task Force M.\n\nA confermare ufficialmente il casting è stato lo showrunner Dean Lorey, che è intervenuto sui social per smentire un'indiscrezione circolata in precedenza. Secondo quanto riportato da Cinefilos, la notizia è dunque ora certa e proviene direttamente dalla produzione.",
-   "slug": "creature-commandos-2-mido-hamada-doppiera-khalis-f85889",
-   "tags": [
-    "Creature Commandos",
-    "Mido Hamada",
-    "Dean Lorey"
-   ],
-   "scene": "microfono",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/serie-tv/news/creature-commandos-2-svelato-il-doppiatore-dellantieroe-khalis-730476",
-   "published": "2026-11-12T06:11:35+00:00"
-  },
-  {
-   "id": "2a1c29bbb9cd",
-   "section": "tv",
-   "title": "Black Doves, la seconda stagione convince più della prima",
-   "summary": "La spy story Netflix Black Doves torna con una seconda stagione che mantiene i pregi e i difetti della prima, mescolando spionaggio, commedia e dramma. Secondo la recensione di Serial Minds, il secondo ciclo appare più riuscito.",
-   "body": "Black Doves, la serie Netflix che unisce spy story, commedia e dramma, è tornata con una seconda stagione. Secondo Serial Minds, il nuovo ciclo conserva le caratteristiche della prima, con i suoi pregi e i suoi difetti, ma li amplifica, al punto da risultare più convincente del debutto.\n\nLa recensione sottolinea come la serie continui a muoversi tra registri diversi, senza rinunciare a un tono personale e riconoscibile. Il giudizio complessivo è dunque positivo: per chi ha apprezzato la prima stagione, il ritorno promette una visione più piena e soddisfacente.",
-   "slug": "black-doves-la-seconda-stagione-convince-piu-della-prima-2a1c29",
-   "tags": [
-    "Black Doves",
-    "Netflix"
-   ],
-   "scene": "streaming",
-   "source": "serialminds.com",
-   "url": "https://www.serialminds.com/2026/11/12/black-doves-seconda-stagione-recensione-netflix-serie-tv/",
-   "published": "2026-11-12T06:00:00+00:00"
-  },
-  {
-   "id": "f9287e9e4442",
-   "section": "tv",
-   "title": "My Sweet Lie, la puntata 74 in replica streaming su Mediaset",
-   "summary": "La soap turca My Sweet Lie torna con la replica dell'episodio 74, disponibile in streaming. Nella puntata Suna e Saniye scoprono che Pervin è la loro madre e che Sevket le ha ingannate per anni.",
-   "body": "La soap turca My Sweet Lie propone la replica dell'episodio 74, disponibile in streaming sul sito Mediaset. Secondo quanto riportato da SuperGuidaTV, l'appuntamento è fissato per giovedì 12 novembre.\n\nAl centro della puntata c'è la scoperta di Suna e Saniye: Pervin è la loro madre, e Sevket ha taciuto la verità per molti anni. Le due sorelle reagiscono con sconcerto e rabbia, e la notizia cambia profondamente il rapporto con chi le ha cresciute. Chi non ha seguito le puntate precedenti può recuperare il video direttamente dal player online.",
-   "slug": "my-sweet-lie-la-puntata-74-in-replica-streaming-su-mediaset-f9287e",
-   "tags": [
-    "My Sweet Lie",
-    "Mediaset"
-   ],
-   "scene": "streaming",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/my-sweet-lie-replica-puntata-12-novembre-in-streaming-video-mediaset/",
-   "published": "2026-11-12T05:57:36+00:00"
-  },
-  {
-   "id": "4b17ce029a49",
-   "section": "tv",
-   "title": "Splendida Cornice torna su Rai 3 con Geppi Cucciari e nuovi ospiti",
-   "summary": "Questa sera, giovedì 12 novembre, prosegue la nuova stagione di Splendida Cornice, il programma condotto da Geppi Cucciari su Rai 3 e RaiPlay. Tra gli ospiti previsti, un mix di cultura, ironia e incursioni nell'attualità.",
-   "body": "Splendida Cornice, il programma di e con Geppi Cucciari in onda il giovedì sera su Rai 3 e disponibile su RaiPlay, prosegue questa sera con una nuova puntata. Secondo quanto riportato da Dituttounpop.it, sono previsti numerosi ospiti, e la formula resta quella che ha accompagnato il programma fin dall'inizio: cultura, ironia e intrattenimento intelligente.\n\nNel corso della serata si alterneranno ospiti, performance e riferimenti all'attualità, con l'obiettivo di tenere insieme leggerezza e approfondimento. La trasmissione conferma così la sua collocazione nel access del giovedì sulla rete di Rai 3, dove negli anni ha costruito un pubblico affezionato.",
-   "slug": "splendida-cornice-torna-su-rai-3-con-geppi-cucciari-e-nuovi-4b17ce",
-   "tags": [
-    "Splendida Cornice",
-    "Geppi Cucciari",
-    "Rai 3"
-   ],
-   "scene": "tv",
-   "source": "dituttounpop.it",
-   "url": "https://www.dituttounpop.it/splendida-cornice-gli-ospiti-del-12-novembre/",
-   "published": "2026-11-12T05:49:16+00:00"
-  },
-  {
-   "id": "53a6d8126c60",
-   "section": "tv",
-   "title": "VisionQuest, il finale e il ricongiungimento di Tommy e Billy Maximoff",
-   "summary": "Il finale di VisionQuest riunisce Tommy e Billy Maximoff, separati dopo gli eventi di WandaVision e Agatha All Along. Il ricongiungimento dei due gemelli, interpretati da Ruaridh Mollica e Joe Locke, è uno dei momenti più attesi dai fan del Marvel Cinematic Universe.",
-   "body": "La serie VisionQuest si chiude con il ricongiungimento dei gemelli Maximoff, Tommy e Billy, che nel corso della storia hanno vissuto in corpi diversi dopo essere stati separati. Per i fan del Marvel Cinematic Universe si tratta di una delle riunioni familiari più attese, arrivata dopo le vicende di WandaVision e Agatha All Along.\n\nAd interpretare i due fratelli sono Ruaridh Mollica e Joe Locke. Secondo Cinefilos, che ha pubblicato la notizia, il finale chiarisce il destino dei personaggi e risponde alla domanda che molti spettatori si sono posti nelle ultime puntate. Per i dettagli completi della spiegazione, si rimanda all'articolo originale.",
-   "slug": "visionquest-il-finale-e-il-ricongiungimento-di-tommy-e-billy-53a6d8",
-   "tags": [
-    "VisionQuest",
-    "Tommy e Billy Maximoff",
-    "Joe Locke"
-   ],
-   "scene": "tv",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/serie-tv/approfondimento/visionquest-spiegazione-del-finale-alla-fine-tommy-e-billy-si-ritrovano-730472",
-   "published": "2026-11-12T05:47:41+00:00"
-  },
-  {
-   "id": "4acf418a7f0f",
-   "section": "tv",
-   "title": "Gli Anelli del Potere 3: i cambiamenti rispetto a Tolkien nei primi quattro episodi",
-   "summary": "La terza stagione de Gli Anelli del Potere è arrivata su Prime Video con quattro episodi, metà degli otto che compongono il nuovo ciclo. La serie torna alla Seconda Era della Terra di Mezzo e al progetto di Sauron di forgiare l'Unico Anello.",
-   "body": "La terza stagione di Gli Anelli del Potere è approdata su Prime Video con i primi quattro episodi, che rappresentano la metà degli otto previsti per il nuovo ciclo. La serie riprende la narrazione della Seconda Era della Terra di Mezzo e rimette al centro Sauron, impegnato nel suo progetto di forgiare l'Unico Anello.\n\nSecondo Cinefilos, la stagione introduce diversi scostamenti dalla storia scritta da J.R.R. Tolkien. Il sito ha raccolto i dieci cambiamenti più rilevanti apportati dagli showrunner alla trama originale, in una lista dedicata ai primi quattro episodi. Il materiale disponibile non entra nel dettaglio dei singoli interventi.",
-   "slug": "gli-anelli-del-potere-3-i-cambiamenti-rispetto-a-tolkien-nei-4acf41",
-   "tags": [
-    "Gli Anelli del Potere",
-    "Prime Video",
-    "J.R.R. Tolkien"
-   ],
-   "scene": "streaming",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/photogallery/10-cambiamenti-gli-anelli-del-potere-3-730462",
-   "published": "2026-11-12T05:35:27+00:00"
-  },
-  {
-   "id": "76e079d51b9b",
-   "section": "cinema",
-   "title": "Dante's Peak, il disaster movie anni Novanta con Pierce Brosnan e Linda Hamilton",
-   "summary": "Dante's Peak, film catastrofico degli anni Novanta con Pierce Brosnan e Linda Hamilton, viene riletto a distanza di anni per i suoi momenti più memorabili. Un'occasione per riflettere sul ridotto numero di film dedicati ai vulcani.",
-   "body": "Dante's Peak, uscito nel 1997, è considerato da molti uno degli esempi più riusciti del cinema catastrofico degli anni Novanta. Il film vede protagonisti Pierce Brosnan e Linda Hamilton, nei panni di una coppia alle prese con il risveglio di un vulcano in una cittadina dello stato di Washington.\n\nSecondo Ecran Large, il genere dei film sui vulcani è sorprendentemente poco frequentato, nonostante il potenziale spettacolare di un'eruzione. Proprio per questo il titolo di Roger Donaldson resta un riferimento, ricordato ancora oggi per le sue sequenze più spettacolari e per la tensione che riesce a mantenere durante tutta la vicenda.",
-   "slug": "dante-s-peak-il-disaster-movie-anni-novanta-con-pierce-brosn-76e079",
-   "tags": [
-    "Dante's Peak",
-    "Pierce Brosnan",
-    "Linda Hamilton"
-   ],
-   "scene": "premiere",
-   "source": "ecranlarge.com",
-   "url": "https://www.ecranlarge.com/films/news/pic-de-dante-pourquoi-ce-film-vous-a-traumatises",
-   "published": "2026-11-12T05:30:00+00:00"
   }
  ],
  "seen": [
-  "e7c8492970c1",
-  "0f9c8299ead1",
-  "99d58ebed3d2",
-  "c1c90d468368",
-  "69a6cd64dd86",
-  "944a61a8bfe2",
-  "4e187285d2a6",
-  "c148515e85eb",
-  "26b398306382",
-  "4c9c7b3154b0",
-  "ee5dc1dec8d0",
-  "4ee4db65b4f0",
-  "ff5768d80204",
-  "96eb7e45a2e2",
-  "98c2642d516c",
-  "4e3cbb10fd06",
-  "d84176655ae1",
-  "88d4c87824a1",
-  "285cc91695a3",
-  "8ea7633b2297",
-  "d718be325cd6",
-  "3fbdd2769980",
-  "365f7d3aa522",
-  "c1cf151a9e99",
   "122c16002123",
   "942e18ffa7dd",
   "c3d449be325c",
@@ -12345,7 +12321,31 @@
   "98eeee0a81a2",
   "96e5e205bd32",
   "e70619869f0b",
-  "e0868b61c92a"
+  "e0868b61c92a",
+  "094259d2af7d",
+  "3233050958bb",
+  "4e587b81fd30",
+  "c17e39cdd103",
+  "0a7e3098e5c0",
+  "4442628441b3",
+  "d32c20b32d5c",
+  "6b4cce66609c",
+  "9394328e492e",
+  "c18deeaa953e",
+  "3b04ea412d60",
+  "76c49e100d8f",
+  "0c87b3c413e4",
+  "288fd5cc1f0c",
+  "a630f8405620",
+  "1b1d9aa25ec2",
+  "855f4d03e52a",
+  "2fe1a0ebb4cd",
+  "35362c3718d3",
+  "480507cee1fb",
+  "334c45418d8e",
+  "b9662f782979",
+  "3b4ceba5e968",
+  "29aca9858746"
  ],
  "version": 4,
  "digests": [
