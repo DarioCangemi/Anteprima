@@ -1,6 +1,73 @@
 {
  "articles": [
   {
+   "id": "2e1b038a6631",
+   "section": "cinema",
+   "title": "Narnia, The Voyage of the Dawn Treader lascia Peacock in vista del reboot di Greta Gerwig",
+   "summary": "Il film The Chronicles of Narnia: The Voyage of the Dawn Treader sta per essere rimosso da Peacock. La decisione arriva in vista del nuovo adattamento della saga firmato da Greta Gerwig.",
+   "body": "Il film The Chronicles of Narnia: The Voyage of the Dawn Treader, ultimo capitolo della saga cinematografica tratta dai romanzi di C. S. Lewis, sarà presto rimosso dal catalogo di Peacock. Secondo Collider, il titolo resterà disponibile sulla piattaforma per un periodo limitato, e chi vuole rivederlo dovrà affrettarsi.\n\nL'uscita di scena dal servizio coincide con l'avvicinamento al reboot della saga diretto da Greta Gerwig. Il nuovo progetto riporta sullo schermo il mondo di Narnia con un approccio nuovo, e il ritiro del film precedente arriva quindi a ridosso di questo ritorno. Per i fan della serie, è l'occasione per recuperare l'ultimo capitolo prima che non sia più accessibile in streaming.",
+   "slug": "narnia-the-voyage-of-the-dawn-treader-lascia-peacock-in-vist-2e1b03",
+   "tags": [
+    "The Chronicles of Narnia",
+    "Greta Gerwig",
+    "Peacock"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/chronicles-of-narnia-voyage-of-the-dawn-treader-leaving-peacock-december-2026/",
+   "published": "2026-11-14T23:15:12+00:00"
+  },
+  {
+   "id": "a37c0c3ddc28",
+   "section": "tv",
+   "title": "Clueless, un altro protagonista confermato nel sequel per Paramount+",
+   "summary": "Un altro interprete del film Clueless ha confermato ufficialmente il suo ritorno nella serie sequel per Paramount+, accanto ad Alicia Silverstone. Vestirà anche il ruolo di sceneggiatore.",
+   "body": "Un altro volto del cast originale di Clueless tornerà nel sequel televisivo prodotto per Paramount+, accanto ad Alicia Silverstone. L'attore ha confermato ufficialmente la sua presenza nel progetto, secondo quanto riportato da Collider.\n\nOltre a recitare, il ritorno avverrà anche dietro le quinte: il nome sarà infatti tra quelli degli sceneggiatori della nuova serie. Il progetto riprende il mondo del film cult del 1995, diretto da Amy Heckerling, e lo porta sulla piattaforma di streaming del gruppo Paramount.",
+   "slug": "clueless-un-altro-protagonista-confermato-nel-sequel-per-par-a37c0c",
+   "tags": [
+    "Clueless",
+    "Alicia Silverstone",
+    "Paramount+"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/clueless-paramount-plus-sequel-breckin-meyer-travis-return/",
+   "published": "2026-11-14T23:00:12+00:00"
+  },
+  {
+   "id": "514648491294",
+   "section": "cinema",
+   "title": "Ridley Scott riceve l'Oscar alla carriera",
+   "summary": "L'Academy ha premiato Ridley Scott per il suo impatto sul cinema globale, riconoscimento che arriva dopo decenni di film che hanno segnato l'immaginario contemporaneo. Il regista è autore di Alien, Blade Runner e Il Gladiatore.",
+   "body": "L'Academy of Motion Picture Arts and Sciences ha reso omaggio a Ridley Scott, descrivendo il suo lavoro come un contributo dall'impatto incommensurabile sul cinema globale. Secondo quanto riportato da Cinematografo, il riconoscimento premia una carriera che ha attraversato generi diversi, dalla fantascienza alla storia antica.\n\nScott è noto per titoli che hanno segnato l'immaginario dell'ultimo mezzo secolo, come Alien, Blade Runner e Il Gladiatore. La sua filmografia, costruita su una forte identità visiva, viene indicata come una delle più influenti della sua generazione, e l'Oscar arriva a confermare un percorso lungo e coerente.",
+   "slug": "ridley-scott-riceve-l-oscar-alla-carriera-514648",
+   "tags": [
+    "Ridley Scott",
+    "Alien",
+    "Blade Runner"
+   ],
+   "scene": "premiere",
+   "source": "Cinematografo",
+   "url": "https://www.cinematografo.it/riflettori/ridley-scott-finalmente-loscar-le-avventure-di-un-eterno-visionario-kgv8fg3r",
+   "published": "2026-11-14T23:00:00+00:00"
+  },
+  {
+   "id": "a82cf3dffdc3",
+   "section": "tv",
+   "title": "Over the Garden Wall torna in streaming a dodici anni dall'uscita",
+   "summary": "La miniserie fantasy Over the Garden Wall torna a essere disponibile in streaming a dodici anni dalla sua uscita. Il titolo resta un classico amato dal pubblico per la sua atmosfera cupa e fiabesca.",
+   "body": "Over the Garden Wall, miniserie fantasy animata creata da Patrick McHale e andata in onda originariamente nel 2014, torna disponibile su una piattaforma di streaming a dodici anni di distanza. Secondo Collider, la riproposta sta riportando l'attenzione su un titolo che, pur senza grandi clamori al momento dell'uscita, è diventato nel tempo un riferimento per gli appassionati di animazione.\n\nLa storia segue due fratelli, Wirt e Greg, smarriti in un bosco misterioso e costretti a cercare la strada di casa. Il tono è dichiaratamente oscuro e malinconico, con una forte impronta da racconto popolare. Il materiale disponibile non specifica dettagli sulla durata della disponibilità né su eventuali novità legate al ritorno sulla piattaforma.",
+   "slug": "over-the-garden-wall-torna-in-streaming-a-dodici-anni-dall-u-a82cf3",
+   "tags": [
+    "Over the Garden Wall",
+    "Patrick McHale"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/over-the-garden-wall-classic-fantasy-miniseries-streaming-resurgence/",
+   "published": "2026-11-14T22:47:12+00:00"
+  },
+  {
    "id": "bc3b29559abf",
    "section": "gossip",
    "title": "Tyriq Withers e Daniel Kaluuya, intervista virale sul blocco dei voli",
@@ -617,6 +684,23 @@
    "source": "tvline.com",
    "url": "https://www.tvline.com/2316654/high-potential-season-3-release-date-cast-details-abc/",
    "published": "2026-11-14T18:00:00+00:00"
+  },
+  {
+   "id": "e54ce36c7841",
+   "section": "tv",
+   "title": "Ballando con le Stelle 2026, Monica Guerritore si toglie la parrucca nella settima puntata",
+   "summary": "Nella settima puntata di Ballando con le Stelle 2026, in onda su Rai 1, l'attrice Monica Guerritore si è presentata senza parrucca. La diretta è stata seguita dalla cronaca in tempo reale della trasmissione.",
+   "body": "Nella settima puntata di Ballando con le Stelle 2026, in onda su Rai 1, l'attrice Monica Guerritore ha scelto di togliersi la parrucca durante la serata. Il momento è uno dei passaggi più seguiti della diretta, che il programma condotto su Rai 1 ha accompagnato con la cronaca e i video in tempo reale.\n\nSecondo Davide Maggio, che ha seguito la trasmissione, la puntata ha offerto diversi momenti da raccontare, ma il gesto dell'attrice è quello che ha attirato più attenzione. Per i dettagli su esibizioni e punteggi della serata, il riferimento resta la diretta sul sito della fonte.",
+   "slug": "ballando-con-le-stelle-2026-monica-guerritore-si-toglie-la-p-e54ce3",
+   "tags": [
+    "Ballando con le Stelle",
+    "Monica Guerritore",
+    "Rai 1"
+   ],
+   "scene": "tv",
+   "source": "davidemaggio.it",
+   "url": "https://www.davidemaggio.it/ballando-con-le-stelle/ballando-con-le-stelle-2026-diretta-settima-puntata-monica-guerritore",
+   "published": "2026-11-14T17:56:31+00:00"
   },
   {
    "id": "2ed0930ded0c",
@@ -8257,109 +8341,9 @@
    "source": "Box Office Biz",
    "url": "https://boxofficebiz.it/news/lestranea-verro-distribuito-anche-negli-stati-uniti/",
    "published": "2026-11-12T13:41:17+00:00"
-  },
-  {
-   "id": "11fe18174ead",
-   "section": "tv",
-   "title": "GF Vip, Pamela Petrarolo commenta l'uscita di Alex Belli",
-   "summary": "Pamela Petrarolo ha commentato l'eliminazione di Alex Belli dal Grande Fratello Vip, dicendo che senza di lui il programma non sarà più lo stesso. Ha anche indicato chi vorrebbe in finale e raccontato un rifiuto ricevuto per Sanremo.",
-   "body": "Pamela Petrarolo è intervenuta pubblicamente sull'uscita di Alex Belli dal Grande Fratello Vip, affermando che senza di lui il programma non sarà più lo stesso. Secondo quanto riporta BadTaste, la concorrente ha anche espresso la propria preferenza su chi vorrebbe vedere in finale.\n\nNel suo intervento, Petrarolo ha inoltre raccontato di aver ricevuto un due di picche da parte di Sanremo, circostanza che ha condiviso con il pubblico. Le sue dichiarazioni sono state riportate dalla testata e restano al momento il riferimento principale della notizia.",
-   "slug": "gf-vip-pamela-petrarolo-commenta-l-uscita-di-alex-belli-11fe18",
-   "tags": [
-    "Grande Fratello Vip",
-    "Pamela Petrarolo",
-    "Alex Belli"
-   ],
-   "scene": "tv",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/gf-vip-pamela-petrarolo-sta-con-alex-belli-senza-di-lui-il-programma-non-sara-piu-lo-stesso",
-   "published": "2026-11-12T13:37:08+00:00"
-  },
-  {
-   "id": "cf52770e7836",
-   "section": "tv",
-   "title": "Gli Anelli del Potere 3, il gradimento del pubblico sale all'81% su Rotten Tomatoes",
-   "summary": "La terza stagione de Gli Anelli del Potere è passata dal 38% al 81% di gradimento su Rotten Tomatoes, secondo i dati riportati da BadTaste. Il punteggio del pubblico è cresciuto sensibilmente rispetto ai primi giudizi.",
-   "body": "Secondo BadTaste, la terza stagione de Gli Anelli del Potere ha registrato un forte aumento del punteggio del pubblico sulla piattaforma Rotten Tomatoes. Il gradimento è salito dal 38% iniziale fino all'81%, un cambio di valutazione che la testata definisce un successo della serie Prime Video tratta dalle opere di Tolkien.\n\nIl dato riguarda le reazioni degli spettatori e non le valutazioni della critica, che seguono un percorso separato sullo stesso sito. Il ribaltamento delle prime impressioni rende la stagione uno dei casi più discussi del momento tra i fan della saga. Il materiale disponibile non specifica ulteriori dettagli sui numeri di recensioni raccolte.",
-   "slug": "gli-anelli-del-potere-3-il-gradimento-del-pubblico-sale-all-cf5277",
-   "tags": [
-    "Gli Anelli del Potere",
-    "Rotten Tomatoes"
-   ],
-   "scene": "streaming",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/il-pubblico-cambia-idea-su-gli-anelli-del-potere-la-terza-stagione-e-un-successo-dal-38-all81",
-   "published": "2026-11-12T13:19:51+00:00"
-  },
-  {
-   "id": "1e701542edd2",
-   "section": "gossip",
-   "title": "Khloé Kardashian critica il documentario su Lamar Odom",
-   "summary": "Khloé Kardashian ha commentato con freddezza il documentario dedicato all'ex marito Lamar Odom, durante una confessione nel reality The Kardashians. La reality star ha dichiarato di non essere entusiasta del progetto.",
-   "body": "Nel reality The Kardashians, Khloé Kardashian ha detto in una confessione di aver guardato il documentario dedicato a Lamar Odom, precisando però di non essere affatto entusiasta del risultato. Le sue parole arrivano dopo le osservazioni dell'ex cestista sul loro matrimonio, che lei ha giudicato in modo critico.\n\nSecondo quanto riportato da Page Six, la Kardashian ha espresso il suo dissenso davanti alle telecamere, senza entrare nei dettagli di una possibile replica pubblica. La puntata in cui è avvenuto lo scambio è andata in onda di giovedì. Il rapporto tra i due, sposati per alcuni anni e poi separati, resta uno dei capitoli più seguiti dal pubblico del reality di famiglia.",
-   "slug": "khloe-kardashian-critica-il-documentario-su-lamar-odom-1e7015",
-   "tags": [
-    "Khloé Kardashian",
-    "Lamar Odom",
-    "The Kardashians"
-   ],
-   "scene": "tv",
-   "source": "pagesix.com",
-   "url": "https://pagesix.com/2026/11/12/celebrity-news/khloe-kardashian-slams-ex-lamar-odom-after-his-comments-on-their-marriage/",
-   "published": "2026-11-12T13:15:32+00:00"
-  },
-  {
-   "id": "dbccbe49ef61",
-   "section": "tv",
-   "title": "George R. R. Martin al lavoro su un quarto romanzo di Dunk ed Egg",
-   "summary": "Secondo il showrunner di A Knight of the Seven Kingdoms, Ira Parker, George R. R. Martin starebbe scrivendo una quarta novella con Dunk ed Egg. La notizia riguarda la serie prequel di Game of Thrones e i futuri progetti dello scrittore.",
-   "body": "George R. R. Martin sta lavorando a una quarta novella dedicata a Dunk ed Egg, i personaggi al centro delle storie ambientate prima degli eventi di Game of Thrones. A riferirlo è Ira Parker, showrunner di A Knight of the Seven Kingdoms, la serie HBO tratta da questi racconti, secondo quanto riportato da Collider.\n\nLa notizia arriva mentre si attende ancora The Winds of Winter, il sesto romanzo della saga Le cronache del ghiaccio e del fuoco, che i lettori aspettano da anni. Le novelle su Dunk ed Egg hanno già ottenuto un buon riscontro di pubblico, e la conferma di un nuovo capitolo fa pensare che Martin stia continuando a dedicarsi a questo universo narrativo.",
-   "slug": "george-r-r-martin-al-lavoro-su-un-quarto-romanzo-di-dunk-ed-dbccbe",
-   "tags": [
-    "George R. R. Martin",
-    "A Knight of the Seven Kingdoms",
-    "Ira Parker"
-   ],
-   "scene": null,
-   "source": "collider.com",
-   "url": "https://collider.com/george-rr-martin-dunk-and-egg-book-4-winds-of-winter/",
-   "published": "2026-11-12T13:04:15+00:00"
-  },
-  {
-   "id": "5bb1a1a5c260",
-   "section": "cinema",
-   "title": "Chris Pratt racconta di aver parlato con James Gunn di un possibile ruolo nel DCU",
-   "summary": "Chris Pratt ha dichiarato di aver discusso con James Gunn di una sua possibile presenza nel DCU prima di essere escluso. L'attore di Guardiani della Galassia avrebbe quindi sfiorato un ritorno con il regista nell'universo DC.",
-   "body": "Chris Pratt ha raccontato di aver parlato con James Gunn di come avrebbe potuto inserirsi nel DCU, il nuovo universo condiviso dei film DC che Gunn guida insieme a Peter Safran. Secondo quanto riportato da GamesRadar, l'attore ha spiegato di aver avuto questo confronto prima di essere lasciato fuori dal progetto.\n\nPratt e Gunn hanno lavorato insieme nella saga dei Guardiani della Galassia, che il regista ha poi concluso con il terzo capitolo. La collaborazione sembrava quindi destinata a proseguire anche nel nuovo universo DC, ma i piani sono cambiati. Le parole dell'attore confermano che il dialogo tra i due c'era stato, senza però che si arrivasse a un accordo concreto.",
-   "slug": "chris-pratt-racconta-di-aver-parlato-con-james-gunn-di-un-po-5bb1a1",
-   "tags": [
-    "Chris Pratt",
-    "James Gunn",
-    "Guardiani della Galassia"
-   ],
-   "scene": "tappeto",
-   "source": "gamesradar.com",
-   "url": "https://www.gamesradar.com/entertainment/dc-movies/chris-pratt-said-he-spoke-to-james-gunn-about-how-he-could-potentially-fit-into-the-dcu-before-he-was-ousted/",
-   "published": "2026-11-12T13:03:50+00:00"
   }
  ],
  "seen": [
-  "cdf3f041d788",
-  "c12572395e72",
-  "a4445fe41e13",
-  "0223dc1702c1",
-  "97f8fae37bc8",
-  "2da02252ab82",
-  "ec1d772f4f7b",
-  "7d5e43f51d86",
-  "987d669e1828",
-  "2c9410a8b4f9",
-  "d512204933ae",
-  "88bade5e826a",
-  "b93bdfafb46c",
-  "d66e59c82b17",
-  "c8f2ba59618c",
-  "f425a9f94203",
   "1b5d5867acf0",
   "486720b90f49",
   "f4251fb2aa78",
@@ -12343,7 +12327,23 @@
   "912d61818cd6",
   "6182895470ca",
   "b792c9faad2a",
-  "f591fdea6371"
+  "f591fdea6371",
+  "2e1b038a6631",
+  "ac0e4a152046",
+  "2cae11684dad",
+  "7db8cb483eab",
+  "4759c621db99",
+  "bc37a877b441",
+  "514648491294",
+  "0c1782af488b",
+  "e54ce36c7841",
+  "a37c0c3ddc28",
+  "96f4f3961a8b",
+  "d2d6a2d8521d",
+  "98e289dd37da",
+  "5b8f511a267e",
+  "a82cf3dffdc3",
+  "c5891017555c"
  ],
  "version": 4,
  "digests": [
