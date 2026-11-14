@@ -1,6 +1,39 @@
 {
  "articles": [
   {
+   "id": "9b07e1b08fd0",
+   "section": "gossip",
+   "title": "Janet Jackson sul red carpet dei Latin Grammy a Las Vegas",
+   "summary": "Janet Jackson è apparsa in un'occasione rara sul red carpet della 27ª edizione dei Latin Grammy Awards a Las Vegas, indossando un completo viola. L'apparizione ha attirato l'attenzione dei media internazionali sul suo look.",
+   "body": "Janet Jackson è tornata a farsi vedere sul red carpet in un'occasione rara, la scorsa settimana, durante la 27ª edizione dei Latin Grammy Awards, andata in scena a Las Vegas. L'artista statunitense si è presentata con un completo viola, scelta che ha attirato l'attenzione dei fotografi presenti all'evento.\n\nSecondo Daily Mail, il suo aspetto e la silhouette più snella hanno catturato l'interesse del pubblico e dei commentatori. La notizia riguarda dunque soprattutto la sua presenza pubblica all'evento dedicato alla musica latina, più che un annuncio su progetti musicali o televisivi.",
+   "slug": "janet-jackson-sul-red-carpet-dei-latin-grammy-a-las-vegas-9b07e1",
+   "tags": [
+    "Janet Jackson",
+    "Latin Grammy Awards"
+   ],
+   "scene": "tappeto",
+   "source": "dailymail.co.uk",
+   "url": "https://www.dailymail.com/tvshowbiz/article-16291235/Janet-Jackson-youthful-flaunts-weight-loss-Latin-Grammys.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "published": "2026-11-14T03:48:00+00:00"
+  },
+  {
+   "id": "9ba143b9e486",
+   "section": "tv",
+   "title": "Bill Maher scherza su Selma Blair per i problemi della FAA",
+   "summary": "Nel programma Real Time, Bill Maher ha scherzato sulle cause dei problemi di comunicazione che hanno costretto la FAA a fermare migliaia di voli. Il conduttore ha ipotizzato che la colpa potesse essere di Selma Blair.",
+   "body": "Nell'episodio di venerdì di Real Time, il comico Bill Maher ha commentato con ironia il blocco nazionale di migliaia di voli disposto dalla Federal Aviation Administration. Dopo che alcuni problemi di comunicazione avevano impedito ai controllori di traffico aereo di lavorare in sicurezza, Maher ha scherzato dicendo che la causa \"potrebbe essere Selma Blair\", senza alcun fondamento reale.\n\nSecondo Deadline, la FAA ha poi revocato il provvedimento, e Maher ha proposto diverse teorie sull'origine del guasto. La battuta sull'attrice è stata il momento più commentato della puntata, in cui il conduttore ha mescolato critica politica e umorismo sull'episodio.",
+   "slug": "bill-maher-scherza-su-selma-blair-per-i-problemi-della-faa-9ba143",
+   "tags": [
+    "Real Time",
+    "Bill Maher",
+    "Selma Blair"
+   ],
+   "scene": null,
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/real-time-bill-maher-attributes-faa-issues-selma-blair-1237223674/",
+   "published": "2026-11-14T03:33:52+00:00"
+  },
+  {
    "id": "3989b326eec4",
    "section": "cinema",
    "title": "Clayface perde circa mille sale negli Stati Uniti",
@@ -8318,57 +8351,9 @@
    "source": "decider.com",
    "url": "https://decider.com/2026/11/11/chiaroscuro-netflix-review/",
    "published": "2026-11-11T21:15:00+00:00"
-  },
-  {
-   "id": "98d69f998e1f",
-   "section": "cinema",
-   "title": "Henry Cavill non esclude un ritorno nei panni di Superman",
-   "summary": "Henry Cavill si dice aperto a tornare a interpretare Superman. Un recente cambio al vertice di DC Studios potrebbe rendere questa ipotesi meno lontana.",
-   "body": "Henry Cavill ha dichiarato di non escludere un ritorno nel ruolo di Superman, il personaggio che lo ha reso noto al grande pubblico. Secondo quanto riportato da JoBlo, l'attore resta disponibile a riprendere il costume, anche se la decisione dipende dagli sviluppi del franchise.\n\nIl futuro di DC Studios, intanto, si fa più incerto dopo l'ultimo rimpasto ai vertici della divisione. Un cambio di gestione potrebbe aprire nuove strade per il personaggio, senza però che al momento siano stati annunciati progetti ufficiali con Cavill protagonista.",
-   "slug": "henry-cavill-non-esclude-un-ritorno-nei-panni-di-superman-98d69f",
-   "tags": [
-    "Henry Cavill",
-    "Superman",
-    "DC Studios"
-   ],
-   "scene": "premiere",
-   "source": "joblo.com",
-   "url": "https://www.joblo.com/henry-cavill-superman-return-never-say-never/",
-   "published": "2026-11-11T21:14:24+00:00"
-  },
-  {
-   "id": "c7304f77922c",
-   "section": "tv",
-   "title": "Lanterns 2, lo showrunner Chris Cantwell: «Nulla è stato cancellato»",
-   "summary": "Il futuro della seconda stagione di Lanterns, la serie HBO dedicata alle Lanterne Verdi del DC Universe, resta incerto. Lo showrunner Chris Cantwell ha smentito le voci di una cancellazione circolate dopo i cambiamenti ai vertici di DC Studios.",
-   "body": "Il futuro di Lanterns, la serie HBO dedicata alle Lanterne Verdi del nuovo DC Universe, non è ancora chiaro. Secondo quanto riportato da Cinefilos, lo showrunner Chris Cantwell è intervenuto per rispondere alle indiscrezioni diffuse online dopo i cambiamenti ai vertici di DC Studios, precisando che al momento non ci sono conferme di una cancellazione della seconda stagione.\n\nLe parole di Cantwell arrivano in un momento di incertezza sulle scelte future della casa di produzione. Al momento, quindi, la seconda stagione non risulta annullata, ma la sua realizzazione non è stata ancora confermata ufficialmente. Ulteriori aggiornamenti dovranno arrivare direttamente da HBO o da DC Studios.",
-   "slug": "lanterns-2-lo-showrunner-chris-cantwell-nulla-e-stato-cancel-c7304f",
-   "tags": [
-    "Lanterns",
-    "Chris Cantwell",
-    "HBO"
-   ],
-   "scene": "streaming",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/serie-tv/news/lanterns-dubbi-sequel-730441",
-   "published": "2026-11-11T20:43:30+00:00"
   }
  ],
  "seen": [
-  "9c7872ad63e4",
-  "68880935e1c6",
-  "3074df53fddc",
-  "5d5b6caec663",
-  "06264877d77b",
-  "c3025bb7806a",
-  "4d2a5985d380",
-  "c372a866871d",
-  "718b99c0d387",
-  "3976f28a6919",
-  "522975510e54",
-  "3b99e60570e0",
-  "3c2365317afc",
-  "aaba66d24347",
   "61943e9907b7",
   "5152d62de386",
   "ff88e9656ddf",
@@ -12354,7 +12339,21 @@
   "19cb45bf0bdb",
   "bdeaedc3f4ce",
   "88dea61d4276",
-  "15798712b302"
+  "15798712b302",
+  "031dd8cc7df9",
+  "ce7a5d28d0f4",
+  "4edb4b0194f7",
+  "6f063fc02d33",
+  "e0c73cee653f",
+  "0419fea3b970",
+  "64455fc36b4d",
+  "522e53c2a490",
+  "d74d2c6c7f7b",
+  "06ca7a73283c",
+  "9b07e1b08fd0",
+  "bbda0a39d308",
+  "0a365d67eb34",
+  "9ba143b9e486"
  ],
  "version": 4,
  "digests": [
