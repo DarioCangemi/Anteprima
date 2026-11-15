@@ -1,6 +1,23 @@
 {
  "articles": [
   {
+   "id": "97bfe9a4ee8b",
+   "section": "gossip",
+   "title": "Ballando con le Stelle, scontro tra Mariotto e Barbara d'Urso durante l'ultima puntata",
+   "summary": "Nell'ultima puntata di Ballando con le Stelle, Guillermo Mariotto è intervenuto in un confronto tra Barbara d'Urso e Ornella Muti. La giurata ha risposto con ironia alla battuta del collega.",
+   "body": "Nell'ultima puntata di Ballando con le Stelle è andato in scena un breve scontro in studio. Guillermo Mariotto, giurato del programma, si è inserito nel confronto tra Barbara d'Urso e Ornella Muti rivolgendosi alla collega con una battuta: \"Ora che parla ti dà fastidio? Rispondi a quello che ti dice lei\".\n\nSecondo quanto riportato da Biccy, Barbara d'Urso ha replicato con ironia, chiedendo se in studio ci fosse un po' di spazio per discutere. Il materiale disponibile non riporta ulteriori dichiarazioni né eventuali interventi della conduttrice Milly Carlucci nel corso della serata.",
+   "slug": "ballando-con-le-stelle-scontro-tra-mariotto-e-barbara-d-urso-97bfe9",
+   "tags": [
+    "Ballando con le Stelle",
+    "Guillermo Mariotto",
+    "Barbara d'Urso"
+   ],
+   "scene": "tv",
+   "source": "biccy.it",
+   "url": "https://www.biccy.it/mariotto-umilia-barbara-durso-intervento-di-milly-carlucci/",
+   "published": "2026-11-15T03:28:19+00:00"
+  },
+  {
    "id": "8e4872648028",
    "section": "tv",
    "title": "Harry Potter, HBO pubblica una nuova clip con la reazione di McGonagall",
@@ -8328,41 +8345,9 @@
    "source": "BadTaste",
    "url": "https://www.badtaste.it/articoli/dal-giappone-allitalia-da-oggi-al-cinema-un-leggendario-mostro-e-pronto-a-scalare-le-classifiche",
    "published": "2026-11-12T16:30:49+00:00"
-  },
-  {
-   "id": "f18ebedb1203",
-   "section": "tv",
-   "title": "Wheel of Fortune, concorrente perde 56mila dollari in una puntata a tema Costco",
-   "summary": "Una concorrente di Wheel of Fortune ha perso 56mila dollari nel corso di una puntata. Nel gioco si è sfidata con un'altra partecipante che lavora per Costco, mentre una terza ha dichiarato di essere una grande fan del noto catena di magazzini.",
-   "body": "Nella puntata di Wheel of Fortune, il celebre game show americano condotto da Pat Sajak e Vanna White, una concorrente ha perso 56mila dollari dopo aver ammesso di essere molto competitiva. Secondo TVInsider, l'episodio ha avuto un tono particolare, quasi da sfida tra catene di negozi, perché uno dei partecipanti ha raccontato di lavorare per Costco e un'altra concorrente ha confessato di essere una grande appassionata del marchio.\n\nLa vicenda ha attirato l'attenzione del pubblico per il clima di gara e per la somma in gioco, legata alla fase finale del round. Il nome del gioco resta uno dei programmi a quiz più longevi della televisione statunitense, con una lunga tradizione di puntate che spesso catturano il pubblico con colpi di scena nell'ultimo giro.",
-   "slug": "wheel-of-fortune-concorrente-perde-56mila-dollari-in-una-pun-f18ebe",
-   "tags": [
-    "Wheel of Fortune",
-    "Costco"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1303226/wheel-of-fortune-fiercely-competitive-contestant-loses-56000-in-costco-clash/",
-   "published": "2026-11-12T16:20:04+00:00"
   }
  ],
  "seen": [
-  "3155fef75f02",
-  "1dafeefc5e87",
-  "0fa0b430b646",
-  "e7c3e7cccb3c",
-  "ddd6f484734d",
-  "47c60bc1f097",
-  "66ebaa42f846",
-  "d1e1de74e81c",
-  "d9b82a06751c",
-  "26cd1f8cd1c9",
-  "f5b41903b379",
-  "68093faf76d8",
-  "50effa4ddb96",
-  "5a94ddf7286e",
-  "bf28dbec48cf",
-  "968102954d4f",
   "ac3325da05a2",
   "880484d09468",
   "17b71346e56a",
@@ -12346,7 +12331,23 @@
   "b34e1e7c9be5",
   "dab59a65bd61",
   "00d2e4ffc5df",
-  "36fb18e833ab"
+  "36fb18e833ab",
+  "c84a2f6c717c",
+  "4472b7139fcf",
+  "a066f784dbd3",
+  "bc7a45644c67",
+  "a380f40a26a2",
+  "0b6fed610ded",
+  "0049e6ba4b47",
+  "97bfe9a4ee8b",
+  "6030c6d2de79",
+  "88e5866ec789",
+  "18c419de27bb",
+  "a3356e1f0f3c",
+  "e8849744e6ab",
+  "8de56e5a22c6",
+  "bbd81aa12bf3",
+  "0ab755c53fc8"
  ],
  "version": 4,
  "digests": [
