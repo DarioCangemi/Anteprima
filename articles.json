@@ -1,6 +1,39 @@
 {
  "articles": [
   {
+   "id": "5f1e860bb841",
+   "section": "tv",
+   "title": "Kids' Choice Awards: vincono BTS, Stranger Things e Percy Jackson",
+   "summary": "Ai Kids' Choice Awards, trasmessi su CBS e Nickelodeon, i BTS hanno vinto come gruppo musicale preferito e Stranger Things come serie per famiglie. Premiati anche Percy Jackson and the Olympians e alcuni attori.",
+   "body": "Nella serata dei Nickelodeon Kids' Choice Awards, trasmessa su CBS e Nickelodeon, i BTS hanno conquistato il premio per il gruppo o duo musicale preferito. Il riconoscimento per il programma televisivo per famiglie preferito è andato a Stranger Things, mentre tra i protagonisti più votati si sono distinti anche Percy Jackson and the Olympians.\n\nIl premio come attore è stato assegnato a Jack Griffo, premiato per il ruolo di Max Thunderman in The Thundermans: Undercover. Secondo Deadline, la cerimonia ha confermato il successo di titoli molto seguiti dal pubblico giovane, con una serata dedicata ai voti dei fan. Per gli altri vincitori e per i dettagli delle singole categorie, il materiale disponibile è limitato.",
+   "slug": "kids-choice-awards-vincono-bts-stranger-things-e-percy-jacks-5f1e86",
+   "tags": [
+    "Kids' Choice Awards",
+    "BTS",
+    "Stranger Things"
+   ],
+   "scene": "premiere",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/nickelodeon-kids-choice-awards-winners-1237223740/",
+   "published": "2026-11-15T02:30:00+00:00"
+  },
+  {
+   "id": "2f9d61e97f23",
+   "section": "gossip",
+   "title": "Clara McGregor racconta il consiglio del padre Ewan sulla recitazione",
+   "summary": "Clara McGregor, figlia di Ewan McGregor, ha raccontato che il padre le ha consigliato senza mezzi termini quanto sia difficile il mestiere dell'attore. Il racconto è riportato da Just Jared.",
+   "body": "Clara McGregor, figlia dell'attore Ewan McGregor, ha raccontato in un'intervista che il padre non si è trattenuto quando le ha dato consigli sulla recitazione. Secondo quanto riportato da Just Jared, Ewan McGregor l'avrebbe messa in guardia sul fatto che fare l'attore è un mestiere durissimo, un avvertimento che la giovane attrice ricorda con precisione.\n\nLe dichiarazioni, rilasciate in un'occasione pubblica, mostrano il rapporto diretto tra padre e figlia nel mondo dello spettacolo, dove entrambi lavorano. Ewan McGregor, noto al pubblico italiano per film come Trainspotting e per la serie Fargo, non ha commentato ulteriormente la vicenda. Il racconto della figlia offre uno sguardo personale sulle difficoltà di una carriera nel cinema e in televisione.",
+   "slug": "clara-mcgregor-racconta-il-consiglio-del-padre-ewan-sulla-re-2f9d61",
+   "tags": [
+    "Ewan McGregor",
+    "Clara McGregor"
+   ],
+   "scene": "microfono",
+   "source": "justjared.com",
+   "url": "https://www.justjared.com/2026/11/14/ewan-mcgregors-daughter-clara-says-he-warned-her-acting-is-f-ing-tough/",
+   "published": "2026-11-15T02:28:41+00:00"
+  },
+  {
    "id": "016930886664",
    "section": "cinema",
    "title": "Jennifer Aniston sul set di una nuova commedia natalizia a Londra",
@@ -186,6 +219,39 @@
    "published": "2026-11-15T00:34:16+00:00"
   },
   {
+   "id": "34ef5d22386f",
+   "section": "gossip",
+   "title": "Tallulah Willis sul red carpet con un abito dorato di paillettes",
+   "summary": "Tallulah Willis è apparsa sul red carpet con un abito dorato di paillettes aderente, in una serata insieme alle sorelle Rumer e Scout. Il look è stato descritto come una rara uscita pubblica con le sorelle.",
+   "body": "Tallulah Willis ha fatto il suo ingresso sul red carpet indossando un abito dorato di paillettes dal taglio aderente, che ne ha messo in evidenza la silhouette. Secondo Hello! Magazine, la figlia di Demi Moore e Bruce Willis si è presentata in una serata che l'ha vista insieme alle sorelle Rumer e Scout, un'occasione rara di vedersi tutte e tre in pubblico.\n\nLa fonte non riporta il nome dell'evento né ulteriori dettagli sulla serata. L'apparizione conferma la presenza pubblica della figlia dell'attore, con un look da red carpet scelto per una riunione tra sorelle.",
+   "slug": "tallulah-willis-sul-red-carpet-con-un-abito-dorato-di-paille-34ef5d",
+   "tags": [
+    "Tallulah Willis",
+    "Demi Moore",
+    "Bruce Willis"
+   ],
+   "scene": "tappeto",
+   "source": "hellomagazine.com",
+   "url": "https://www.hellomagazine.com/us/935058/tallulah-willis-highights-curves-figure-hugging-gown-reunites-sisters/",
+   "published": "2026-11-15T00:32:49+00:00"
+  },
+  {
+   "id": "f7b37acf29ac",
+   "section": "tv",
+   "title": "John Mulaney conduce stasera il Saturday Night Live",
+   "summary": "John Mulaney torna a condurre il Saturday Night Live per la settima volta, entrando in un club ristretto di ospiti fissi del programma. La puntata va in onda stasera e si può seguire gratis secondo le indicazioni della fonte.",
+   "body": "Il comico John Mulaney sarà il conduttore della nuova puntata del Saturday Night Live, il celebre sketch show della NBC. Dopo essere salito sul palco come conduttore per la quinta volta nel 2022, Mulaney raggiunge ora quota sette presenze, un traguardo che lo colloca tra gli ospiti più frequenti nella storia del programma.\n\nSecondo Page Six, la puntata andrà in onda stasera e sarà possibile seguirla gratuitamente, con le modalità indicate dalla testata. Il programma, in onda da decenni, resta uno degli appuntamenti più seguiti della televisione americana, con sketch satirici e ospiti musicali che ogni settimana attirano l'attenzione del pubblico.",
+   "slug": "john-mulaney-conduce-stasera-il-saturday-night-live-f7b37a",
+   "tags": [
+    "John Mulaney",
+    "Saturday Night Live"
+   ],
+   "scene": "tv",
+   "source": "pagesix.com",
+   "url": "https://pagesix.com/2026/11/14/entertainment/john-mulaney-hosts-snl-tonightheres-where-to-watch-for-free/",
+   "published": "2026-11-15T00:30:52+00:00"
+  },
+  {
    "id": "552850fb1e53",
    "section": "cinema",
    "title": "Hoppers, il regista Daniel Chong spiega le scelte del cast",
@@ -319,6 +385,23 @@
    "source": "collider.com",
    "url": "https://collider.com/nobody-wants-this-netflix-season-4-renewed/",
    "published": "2026-11-15T00:00:12+00:00"
+  },
+  {
+   "id": "bff11b0512a6",
+   "section": "cinema",
+   "title": "Peter Farrelly ripercorre la sua carriera al Contenders Film di Los Angeles",
+   "summary": "Il regista Peter Farrelly è stato premiato al Contenders Film di Los Angeles, evento di Deadline, dove ha parlato di I Play Rocky e dei suoi film più noti. Nel corso dell'incontro ha ripercorso il lavoro dietro alcune delle sue commedie più celebri.",
+   "body": "Il regista, sceneggiatore e produttore Peter Farrelly è stato protagonista di un incontro al Contenders Film di Los Angeles, l'evento organizzato da Deadline, dove ha ricevuto il riconoscimento della Contenders Hall of Fame. Dialogando con il giornalista Mike Fleming Jr., Farrelly ha parlato del suo film più recente, I Play Rocky, e del percorso che ha portato la storia sul grande schermo.\n\nSecondo Deadline, nel corso della serata il cineasta ha anche ripercorso alcune delle sue opere più famose, tra cui le commedie che lo hanno reso noto al grande pubblico. Il racconto del regista si è concentrato sul lavoro creativo dietro questi film, offrendo uno sguardo sulla lavorazione e sulle scelte che ne hanno segnato il successo.",
+   "slug": "peter-farrelly-ripercorre-la-sua-carriera-al-contenders-film-bff11b",
+   "tags": [
+    "Peter Farrelly",
+    "I Play Rocky",
+    "Contenders Film"
+   ],
+   "scene": "premiere",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/peter-farrelly-interview-i-play-rocky-1237224102/",
+   "published": "2026-11-14T23:58:58+00:00"
   },
   {
    "id": "2e1b038a6631",
@@ -8261,106 +8344,9 @@
    "source": "deadline.com",
    "url": "https://deadline.com/2026/11/answr-dark-sky-films-afm-stephen-kay-1237221677/",
    "published": "2026-11-12T16:14:22+00:00"
-  },
-  {
-   "id": "ecdb6fde607f",
-   "section": "tv",
-   "title": "Amici 26, nella sesta puntata due eliminazioni e due vincitori",
-   "summary": "La registrazione della sesta puntata di Amici 26 prevede due eliminazioni e due vincitori, uno per la gara di canto e uno per quella di ballo. In giuria figureranno Ermal Meta e Oriella Dorella.",
-   "body": "La sesta puntata di Amici 26, secondo quanto riportato da Movieplayer, sarà segnata da una doppia eliminazione affidata a Rudy Zerbi. Nello stesso appuntamento sono previsti due vincitori, uno nella gara di canto e uno in quella di ballo, a conferma di un percorso di sfide che entra nel vivo.\n\nTra i giudici della puntata ci saranno Ermal Meta e Oriella Dorella. La fonte promette anticipazioni complete sulla registrazione, ma nel materiale disponibile non sono indicati i nomi degli allievi eliminati né i dettagli delle prove vinte.",
-   "slug": "amici-26-nella-sesta-puntata-due-eliminazioni-e-due-vincitor-ecdb6f",
-   "tags": [
-    "Amici",
-    "Rudy Zerbi",
-    "Ermal Meta"
-   ],
-   "scene": "tv",
-   "source": "Movieplayer",
-   "url": "https://movieplayer.it/news/amici-26-anticipazioni-14-novembre-doppia-eliminazione_171942/",
-   "published": "2026-11-12T16:11:08+00:00"
-  },
-  {
-   "id": "e5d6e13b2be1",
-   "section": "tv",
-   "title": "The Gotti Files: A&E prepara una serie documentario sulla famiglia Gotti",
-   "summary": "A&E annuncia The Gotti Files, documentario in otto parti sulla famiglia guidata dal boss mafioso John Gotti. La serie debutta il 7 gennaio con due episodi consecutivi, prodotta da Propagate Content.",
-   "body": "A&E ha presentato i primi dettagli di The Gotti Files, nuova serie documentario in otto episodi dedicata alla famiglia guidata da John Gotti, uno dei boss mafiosi più noti degli Stati Uniti. Il racconto attraverso le sue vicende sarà sviluppato lungo otto puntate, con interviste a familiari e anche a John Travolta tra i testimoni coinvolti nel progetto.\n\nLa serie, prodotta da Propagate Content, debutterà il 7 gennaio con due episodi in sequenza. Secondo quanto riportato da TV Insider, il materiale include filmati di detenzione e telefonate mai visti prima, filmati di famiglia rari, registrazioni e file audio e video delle intercettazioni, oltre a documenti giudiziari.",
-   "slug": "the-gotti-files-a-e-prepara-una-serie-documentario-sulla-fam-e5d6e1",
-   "tags": [
-    "The Gotti Files",
-    "John Gotti",
-    "A&E"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1303185/the-gotti-files-aes-explosive-new-series-shines-light-on-mob-boss-his-family/",
-   "published": "2026-11-12T16:06:57+00:00"
-  },
-  {
-   "id": "66169d8bbc47",
-   "section": "cinema",
-   "title": "Jessica Chastain e la previsione sul successo di Interstellar",
-   "summary": "Jessica Chastain ha ricordato di aver capito già durante le riprese che Interstellar di Christopher Nolan sarebbe diventato un film duraturo. L'attrice interpreta la versione adulta di Murphy Cooper nel film del 2014.",
-   "body": "Jessica Chastain ha raccontato di aver intuito, già durante le riprese, che Interstellar sarebbe diventato un film destinato a restare nel tempo. L'attrice, che nel lungometraggio del 2014 interpreta Murphy Cooper da adulta, ha ripensato alla sua esperienza sul set diretto da Christopher Nolan, dove aveva riconosciuto nel progetto qualcosa di speciale.\n\nSecondo quanto riportato da Cinefilos, Chastain ricorda anche le perplessità che avevano accompagnato l'uscita del film. Col passare degli anni, però, il giudizio del pubblico e della critica sul racconto spaziale di Nolan è cambiato, confermando la sensazione che l'attrice aveva avuto mentre girava.",
-   "slug": "jessica-chastain-e-la-previsione-sul-successo-di-interstella-66169d",
-   "tags": [
-    "Interstellar",
-    "Jessica Chastain",
-    "Christopher Nolan"
-   ],
-   "scene": "pellicola",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/interstellar-jessica-chastain-film-christopher-nolan-anticipo-tempi-730607",
-   "published": "2026-11-12T16:00:01+00:00"
-  },
-  {
-   "id": "b9319ed62734",
-   "section": "tv",
-   "title": "Amici 26, anticipazioni della sesta puntata del pomeridiano",
-   "summary": "La sesta puntata del pomeridiano di Amici 26 è stata registrata e le anticipazioni riguardano la puntata di sabato 14 novembre. Il programma va in onda di sabato in via eccezionale, per la programmazione sportiva di Canale 5 della domenica.",
-   "body": "La sesta puntata del pomeridiano di Amici 26 è stata registrata nel pomeriggio e, secondo SuperGuidaTv, le anticipazioni riguardano la messa in onda di sabato 14 novembre. Il programma andrà in onda di sabato in via eccezionale, perché la domenica pomeriggio Canale 5 ha in calendario alcuni eventi sportivi legati al tennis.\n\nTra gli argomenti anticipati figurano un'eliminazione e una sfida che coinvolge Gabriele. Il materiale disponibile non riporta altri dettagli su come si svolgeranno questi momenti, né sui concorrenti coinvolti oltre al giovane citato.",
-   "slug": "amici-26-anticipazioni-della-sesta-puntata-del-pomeridiano-b9319e",
-   "tags": [
-    "Amici"
-   ],
-   "scene": "tv",
-   "source": "biccy.it",
-   "url": "https://www.biccy.it/amici-26-anticipazioni-sabato-14-novembre/",
-   "published": "2026-11-12T15:46:14+00:00"
-  },
-  {
-   "id": "38c07493b2b2",
-   "section": "musica",
-   "title": "Ornella Vanoni, torna il disco con Toquinho e Vinícius de Moraes con dieci inediti",
-   "summary": "Ornella Vanoni, Toquinho e Vinícius de Moraes tornano con \"La voglia la pazzia l'incoscienza l'allegria\", album del 1976 riproposto a cinquant'anni dalla prima pubblicazione. La nuova edizione include dieci registrazioni inedite, in uscita venerdì 13 novembre.",
-   "body": "Il disco che Ornella Vanoni incise nel 1976 insieme a Toquinho e Vinícius de Moraes ritorna sul mercato a cinquant'anni dalla sua uscita originale. Secondo SuperGuidaTV, la nuova edizione sarà disponibile venerdì 13 novembre e includerà dieci registrazioni finora inedite, che si affiancano al repertorio storico.\n\nIl lavoro è considerato uno dei capolavori della collaborazione tra la cantante italiana e i due autori brasiliani, capace di attraversare le generazioni senza perdere freschezza. La pubblicazione di materiale mai ascoltato prima offre al pubblico italiano l'occasione di riscoprire quel periodo musicale e di approfondire il legame artistico tra la Vanoni e la scena bossa nova e della musica brasiliana d'autore.",
-   "slug": "ornella-vanoni-torna-il-disco-con-toquinho-e-vinicius-de-mor-38c074",
-   "tags": [
-    "Ornella Vanoni",
-    "Toquinho",
-    "Vinícius de Moraes"
-   ],
-   "scene": "vinile",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/ornella-vanoni-torna-un-suo-album-con-10-registrazioni-inedite/",
-   "published": "2026-11-12T15:40:52+00:00"
   }
  ],
  "seen": [
-  "c019159adc93",
-  "e30e1d632098",
-  "693d8d057a41",
-  "93419c36ea6f",
-  "a131473774f5",
-  "cf7efb5dd981",
-  "f394d811964d",
-  "6d50752cac59",
-  "526638c1a8aa",
-  "fec49abd0e74",
-  "69db099534ba",
-  "92a0316f102a",
-  "fa2dd1f1ccfd",
-  "3c9f6c9f4af7",
   "e77a41f951ab",
   "eaa9d2aae6dd",
   "d3f60c9a9475",
@@ -12346,7 +12332,21 @@
   "21b7902613ed",
   "85a647b61841",
   "08318273fd03",
-  "3f8d8d7f3240"
+  "3f8d8d7f3240",
+  "99677e0a1470",
+  "d65c5fad5c78",
+  "15b399f0f6f1",
+  "69b285ffdc93",
+  "afe7fb694f9a",
+  "5f1e860bb841",
+  "2f9d61e97f23",
+  "47be6165164f",
+  "f270fe03378d",
+  "34ef5d22386f",
+  "f7b37acf29ac",
+  "89cfa98ac9b6",
+  "43da0d923283",
+  "bff11b0512a6"
  ],
  "version": 4,
  "digests": [
