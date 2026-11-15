@@ -1,6 +1,91 @@
 {
  "articles": [
   {
+   "id": "3631a03e0b0e",
+   "section": "gossip",
+   "title": "Jessica Chastain si ispira a Jessica Rabbit nel nuovo servizio per Flaunt",
+   "summary": "L'attrice Jessica Chastain compare in un nuovo servizio fotografico per la copertina di Flaunt Magazine, ispirato al personaggio di Jessica Rabbit. Il look riprende l'estetica glamour del celebre personaggio animato.",
+   "body": "Jessica Chastain è protagonista della copertina di Flaunt Magazine con un servizio fotografico che richiama apertamente lo stile di Jessica Rabbit, la celebre protagonista del film Who Framed Roger Rabbit. Secondo Hello! Magazine, l'attrice si è presentata con un look dal taglio marcatamente glamour, fedele all'immagine sensuale e volutamente appariscente del personaggio animato.\n\nLe fotografie della sessione sono state pubblicate online e mostrano Chastain in una versione molto scenografica, che gioca sul contrasto tra eleganza e teatralità. Il servizio conferma la tendenza dell'attrice a sperimentare con l'immagine pubblica in occasione delle sue apparizioni editoriali.",
+   "slug": "jessica-chastain-si-ispira-a-jessica-rabbit-nel-nuovo-serviz-3631a0",
+   "tags": [
+    "Jessica Chastain",
+    "Flaunt Magazine",
+    "Who Framed Roger Rabbit"
+   ],
+   "scene": "tappeto",
+   "source": "hellomagazine.com",
+   "url": "https://www.hellomagazine.com/us/935130/jessica-chastain-transformation-jessica-rabbit/",
+   "published": "2026-11-15T20:11:53+00:00"
+  },
+  {
+   "id": "609770c76f6b",
+   "section": "tv",
+   "title": "Luca Argentero in Doc nelle tue mani, serie ispirata alla storia di Pierdante Piccioni",
+   "summary": "Doc nelle tue mani, con Luca Argentero, è una serie italiana ispirata alla vicenda reale del medico Pierdante Piccioni, che ha perso dodici anni di memoria dopo essere stato colpito da un proiettile. Secondo BadTaste, la fiction è tra le più viste nella Top 10 di RaiPlay.",
+   "body": "Doc nelle tue mani è la serie con Luca Argentero che racconta la storia vera di Pierdante Piccioni, medico che, dopo essere stato colpito da un proiettile, ha perso dodici anni di ricordi. Il personaggio interpretato da Argentero viene spesso paragonato al Dr. House della fiction americana, pur con un tono più vicino al dramma medico italiano.\n\nSecondo BadTaste, il titolo compare nella Top 10 di RaiPlay, la piattaforma streaming della Rai dove la serie è disponibile. La vicenda ruota attorno al difficile percorso di un professionista che deve ricostruire la propria vita e la propria carriera, tra il ritorno al lavoro e il recupero di una memoria perduta.",
+   "slug": "luca-argentero-in-doc-nelle-tue-mani-serie-ispirata-alla-sto-609770",
+   "tags": [
+    "Luca Argentero",
+    "Doc nelle tue mani",
+    "Pierdante Piccioni"
+   ],
+   "scene": "streaming",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/luca-argentero-e-il-dr-house-italiano-in-questa-serie-in-top-10-su-raiplay-ispirata-a-una-storia-vera",
+   "published": "2026-11-15T20:00:35+00:00"
+  },
+  {
+   "id": "8788822b4fe6",
+   "section": "tv",
+   "title": "Gemma Arterton protagonista di Secret Service su MGM+ dalla prossima settimana",
+   "summary": "La serie Secret Service, con Gemma Arterton nel ruolo di un'agente dell'MI6 impegnata in un'indagine di spionaggio politico, arriverà la prossima settimana su MGM+. Il titolo viene presentato come il successore di Slow Horses nella programmazione della piattaforma.",
+   "body": "Secret Service approda la prossima settimana su MGM+, la piattaforma statunitense di contenuti premium. La serie vede Gemma Arterton nei panni di un'agente dell'MI6 incaricata di indagare su un caso di spionaggio politico, con un'impostazione che richiama il thriller di intelligence britannico.\n\nSecondo Collider, il progetto arriva a raccogliere il testimone lasciato da Slow Horses, la fortunata serie di spionaggio con Gary Oldman, della quale Arterton aveva fatto parte. Il materiale disponibile non specifica il numero di episodi né la data esatta della prima messa in onda.",
+   "slug": "gemma-arterton-protagonista-di-secret-service-su-mgm-dalla-p-878882",
+   "tags": [
+    "Gemma Arterton",
+    "Secret Service",
+    "Slow Horses"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/secret-service-gemma-arterton-mgm-plus-november-2026/",
+   "published": "2026-11-15T20:00:12+00:00"
+  },
+  {
+   "id": "a02ad1767d2c",
+   "section": "cinema",
+   "title": "Robert Downey Jr. paragona il suo Doctor Doom a un thriller con Michael Douglas",
+   "summary": "Robert Downey Jr. ha raccontato la sua visione di Doctor Doom in vista di Avengers: Doomsday, citando un thriller cult con Michael Douglas come fonte d'ispirazione. Il film riunirà quasi tutti gli eroi Marvel e farà da ponte verso i prossimi capitoli del franchise.",
+   "body": "Robert Downey Jr. si è confidato sull'interpretazione di Doctor Doom in vista dell'uscita di Avengers: Doomsday. L'attore ha citato un thriller cult con Michael Douglas come riferimento per costruire il personaggio, un accostamento insolito per un villain del mondo Marvel.\n\nIl film, secondo quanto riportato da Ecran Large, sarà una grande riunione che coinvolgerà quasi tutti gli eroi della scuderia Marvel. La pellicola avrà anche il compito di aprire la strada alle prossime storie del franchise. Il testo originale non specifica il titolo del thriller citato né ulteriori dettagli sulla scena o sul ruolo dell'attore.",
+   "slug": "robert-downey-jr-paragona-il-suo-doctor-doom-a-un-thriller-c-a02ad1",
+   "tags": [
+    "Robert Downey Jr.",
+    "Avengers: Doomsday",
+    "Michael Douglas"
+   ],
+   "scene": "premiere",
+   "source": "ecranlarge.com",
+   "url": "https://www.ecranlarge.com/films/news/avengers-doomsday-robert-downey-jr-chute-libre",
+   "published": "2026-11-15T20:00:00+00:00"
+  },
+  {
+   "id": "92beb286dc84",
+   "section": "tv",
+   "title": "Il giudice e i suoi assassini: su RaiPlay la miniserie su Rosario Livatino",
+   "summary": "La miniserie Rai \"Il giudice e i suoi assassini\", diretta da Michele Placido, racconta la figura del magistrato Rosario Livatino ed è disponibile su RaiPlay. Il cast comprende interpreti come Nina e Tano, personaggi della storia.",
+   "body": "RaiPlay ospita la miniserie \"Il giudice e i suoi assassini\", diretta da Michele Placido, dedicata al magistrato Rosario Livatino, ucciso dalla mafia. La fiction ricostruisce il contesto di mafia, tangenti e corruzione in cui il giudice lavorava, seguendo la sua vicenda professionale e personale.\n\nAccanto al protagonista, la serie presenta altri personaggi della storia, tra cui Nina e Tano, e i loro assassini. Secondo BadTaste, la piattaforma propone la produzione Rai con la scheda del cast e l'elenco degli interpreti. La miniserie è un'occasione per conoscere una figura poco nota al grande pubblico, ricordata per il suo impegno contro la criminalità organizzata.",
+   "slug": "il-giudice-e-i-suoi-assassini-su-raiplay-la-miniserie-su-ros-92beb2",
+   "tags": [
+    "Michele Placido",
+    "Rosario Livatino",
+    "RaiPlay"
+   ],
+   "scene": "streaming",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/mafia-tangenti-e-corruzione-su-raiplay-la-storia-vera-del-magistrato-italiano-che-nessuno-conosce",
+   "published": "2026-11-15T19:30:23+00:00"
+  },
+  {
    "id": "2d5ae80e2767",
    "section": "cinema",
    "title": "I Play Rocky: il cast racconta la preparazione della lotta finale",
@@ -8270,110 +8355,9 @@
    "source": "BadTaste",
    "url": "https://www.badtaste.it/articoli/fantasanremo-2027-arrivano-nuovi-bonus-e-torna-una-funzione-amatissima-tutte-le-novita-del-gioco",
    "published": "2026-11-13T07:15:05+00:00"
-  },
-  {
-   "id": "57a777f0c6aa",
-   "section": "gossip",
-   "title": "Selvaggia Lucarelli e Ilary Blasi, battibecco al Grande Fratello",
-   "summary": "Nella 17ª puntata del Grande Fratello Selvaggia Lucarelli e Ilary Blasi hanno avuto un botta e risposta, la prima discussione tra le due dopo due edizioni fianco a fianco. Lo scontro è nato dalle parole di Lucarelli su Guendalina Tavassi.",
-   "body": "Nel corso della diciassettesima puntata del Grande Fratello, Selvaggia Lucarelli e Ilary Blasi si sono scambiate battute accese. Secondo Biccy, è stato il primo vero confronto tra le due conduttrici, che nelle ultime due edizioni hanno lavorato fianco a fianco. L'opinionista ha definito \"bulla\" Guendalina Tavassi per alcuni atteggiamenti mostrati all'interno della Casa.\n\nLa gieffina ha reagito male alle parole di Lucarelli. Successivamente, la stessa Lucarelli ha commentato l'episodio con ironia, ricordando che le due sono state \"litigate\". Il materiale disponibile non riporta ulteriori dettagli sul seguito dello scontro.",
-   "slug": "selvaggia-lucarelli-e-ilary-blasi-battibecco-al-grande-frate-57a777",
-   "tags": [
-    "Grande Fratello",
-    "Selvaggia Lucarelli",
-    "Ilary Blasi"
-   ],
-   "scene": "streaming",
-   "source": "biccy.it",
-   "url": "https://www.biccy.it/selvaggia-lucarelli-sul-battibecco-con-ilary-blasi/",
-   "published": "2026-11-13T07:09:18+00:00"
-  },
-  {
-   "id": "d159f56afc3f",
-   "section": "tv",
-   "title": "Tutto per la mia famiglia: Omer e Ogulcan davanti al consiglio disciplinare",
-   "summary": "Nelle prossime puntate di Tutto per la mia famiglia, su Canale 5, Omer e Ogulcan compariranno davanti al consiglio disciplinare dell'Istituto Ataman. Il provvedimento nasce da una lite scoppiata durante una gara di ballo.",
-   "body": "Nelle prossime puntate della serie Tutto per la mia famiglia, in onda su Canale 5, il personaggio di Omer rischia l'espulsione dall'Istituto Ataman. Secondo Cineblog, lui e Ogulcan dovranno presentarsi davanti al consiglio disciplinare della scuola dopo una lite avvenuta durante una gara di ballo.\n\nLa anticipazione indica che la situazione, questa volta, è più seria dei precedenti episodi di tensione tra i due ragazzi. Non sono ancora noti l'esito del consiglio né le decisioni che la scuola prenderà nei confronti dei protagonisti, che andranno seguiti nelle prossime uscite della fiction.",
-   "slug": "tutto-per-la-mia-famiglia-omer-e-ogulcan-davanti-al-consigli-d159f5",
-   "tags": [
-    "Tutto per la mia famiglia",
-    "Canale 5"
-   ],
-   "scene": "tv",
-   "source": "Cineblog",
-   "url": "https://www.cineblog.it/post/tutto-per-la-mia-famiglia-omer-rischia-lespulsione-questa-volta-ha-esagerato",
-   "published": "2026-11-13T07:00:05+00:00"
-  },
-  {
-   "id": "abd8dc907d6a",
-   "section": "tv",
-   "title": "Gli Anelli del Potere 3: il finale dell'episodio 4 apre nuovi interrogativi",
-   "summary": "Il quarto episodio della terza stagione de Gli Anelli del Potere si chiude con colpi di scena che lasciano aperti molti interrogativi sul futuro della Terra di Mezzo. Secondo BadTaste, il finale introduce una rivelazione destinata a cambiare la prospettiva sulla storia.",
-   "body": "Il quarto episodio della terza stagione de Gli Anelli del Potere si chiude con un finale che rimescola le carte nella Terra di Mezzo. Secondo BadTaste, la puntata termina con alcuni colpi di scena inattesi, che lasciano il pubblico con più domande che risposte sul percorso dei personaggi e sugli sviluppi della trama.\n\nLa fonte indica che la rivelazione conclusiva è destinata a pesare sugli episodi successivi, senza però anticiparne i dettagli nel materiale disponibile. Per una lettura completa del significato del finale e delle sue implicazioni, bisogna rifarsi all'analisi originale della testata.",
-   "slug": "gli-anelli-del-potere-3-il-finale-dell-episodio-4-apre-nuovi-abd8dc",
-   "tags": [
-    "Gli Anelli del Potere"
-   ],
-   "scene": "streaming",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/gli-anelli-del-potere-3-cosa-significa-il-finale-dellepisodio-4-una-rivelazione-sconvolge-la-terra-di-mezzo",
-   "published": "2026-11-13T07:00:02+00:00"
-  },
-  {
-   "id": "c5b8cf78ef9c",
-   "section": "tv",
-   "title": "12 12 12, la heist series con Anthony Mackie e Jamie Dornan su Apple TV",
-   "summary": "La serie Apple TV scritta da Jim Keeble e Dudi Appleton è una heist series con Anthony Mackie e Jamie Dornan, ambientata in vari paesi europei. La narrazione si sviluppa su tre linee temporali diverse, con una tensione discreta e un finale giudicato positivo dalla recensione.",
-   "body": "Secondo Movieplayer, 12 12 12 è una heist series che porta lo spettatore in giro per l'Europa, con Anthony Mackie e Jamie Dornan nel cast. La serie è scritta da Jim Keeble e Dudi Appleton e viene distribuita da Apple TV. Il racconto procede su tre linee temporali distinte, che alternano momenti di azione a lunghe parti dialogate.\n\nLa recensione parla di una tensione discreta lungo gli episodi e di un risultato finale considerato buono. Il ritmo frammentato è il tratto che più caratterizza la produzione, con un equilibrio tra sequenze d'azione e dialoghi che non tutti gli spettatori potrebbero apprezzare allo stesso modo.",
-   "slug": "12-12-12-la-heist-series-con-anthony-mackie-e-jamie-dornan-s-c5b8cf",
-   "tags": [
-    "12 12 12",
-    "Anthony Mackie",
-    "Jamie Dornan"
-   ],
-   "scene": "streaming",
-   "source": "Movieplayer",
-   "url": "https://movieplayer.it/articoli/12-12-12-recensione-serie_38195/",
-   "published": "2026-11-13T07:00:00+00:00"
-  },
-  {
-   "id": "adf356b591dd",
-   "section": "cinema",
-   "title": "Le Royaume d'Orisha, nuovo trailer per l'adattamento di Children of Blood and Bone",
-   "summary": "È online una nuova bande-annonce dell'adattamento del bestseller di Tomi Adeyemi Children of Blood and Bone, dal titolo francese ufficiale Le Royaume d'Orisha. Il film è diretto da Gina Prince-Bythewood, regista di The Woman King.",
-   "body": "È stata diffusa una nuova bande-annonce del fantasy tratto dal romanzo Children of Blood and Bone di Tomi Adeyemi, bestseller young adult. Secondo ECRAN LARGE, il trailer mostra immagini spettacolari e il film ha già un titolo francese ufficiale, Le Royaume d'Orisha. La regia è affidata a Gina Prince-Bythewood, autrice di The Woman King.\n\nDalle prime immagini, l'adattamento sembra voler andare oltre i confini tipici del racconto young adult, puntando su una dimensione epica e visiva più ampia. Il progetto è atteso come uno dei grandi blockbuster fantasy della stagione. Non sono ancora state fornite informazioni complete su data di uscita italiana o cast, che sono da verificare nelle prossime comunicazioni ufficiali.",
-   "slug": "le-royaume-d-orisha-nuovo-trailer-per-l-adattamento-di-child-adf356",
-   "tags": [
-    "Children of Blood and Bone",
-    "Gina Prince-Bythewood",
-    "Tomi Adeyemi"
-   ],
-   "scene": "premiere",
-   "source": "ecranlarge.com",
-   "url": "https://www.ecranlarge.com/films/news/le-royaume-dorisha-bande-annonce-magique-blockbuster-fantasy",
-   "published": "2026-11-13T07:00:00+00:00"
   }
  ],
  "seen": [
-  "460dc2a4b912",
-  "fdcc798d6213",
-  "a958462054ca",
-  "ab7f089a0cb6",
-  "f4c885a9c43c",
-  "15ecfbf01411",
-  "8d64361ad50c",
-  "c1c3c92293f9",
-  "a41b6a16af76",
-  "dffcc210a928",
-  "c84197b52ac4",
-  "5e20cd1c6c2c",
-  "2541a28e5738",
-  "61402a5b3b11",
-  "331b2cbaf1e7",
-  "477bb6eadf9a",
-  "9a07959c9fee",
-  "92e707228dc6",
-  "8895757d1d73",
   "1c18a17b9cdc",
   "fe0364ef95c2",
   "35d53127a02d",
@@ -12354,7 +12338,26 @@
   "53098efe2f74",
   "33741b5d630c",
   "1bc859f70698",
-  "5a771295378e"
+  "5a771295378e",
+  "3631a03e0b0e",
+  "e6d41e38e2eb",
+  "2783fc053a86",
+  "236d72a700a0",
+  "9416585cb801",
+  "867ca3818447",
+  "45426517af6b",
+  "609770c76f6b",
+  "8788822b4fe6",
+  "ec9f2ba1e746",
+  "f5c32a74a919",
+  "01dcebf1803a",
+  "95fa1678eb7b",
+  "b68edf33b098",
+  "7c7a3c45dca7",
+  "a02ad1767d2c",
+  "4870028499b9",
+  "3d04e7654d9a",
+  "92beb286dc84"
  ],
  "version": 4,
  "digests": [
