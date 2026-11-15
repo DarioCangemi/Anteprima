@@ -1,6 +1,22 @@
 {
  "articles": [
   {
+   "id": "dbe2f9c11bcb",
+   "section": "tv",
+   "title": "I'm A Celebrity, Wayne Rooney alla prima prova con il cocktail di gamberi",
+   "summary": "Nella prima prova della nuova edizione di I'm A Celebrity, Wayne Rooney e gli altri concorrenti hanno dovuto bere un cocktail a base di gamberi. Il reality, come di consueto, mette i vip davanti a cibi insoliti e prove disgustose.",
+   "body": "Wayne Rooney, ex calciatore inglese, si è trovato ad affrontare una delle prove più sgradite della nuova edizione di I'm A Celebrity, il reality show della jungla. Secondo Daily Mail, la prima sfida ha previsto che lui e gli altri concorrenti bevessero un Prawn-star Martini, un cocktail a base di gamberi.\n\nRooney, che negli ultimi sei mesi aveva smesso di bere alcol e aveva adottato un'alimentazione più sana, non può sfuggire alle specialità dello show, note per essere difficili da mandare giù. Il programma resta fedele alla sua formula: vip alle prese con cibi insoliti e prove che mettono a dura prova lo stomaco.",
+   "slug": "i-m-a-celebrity-wayne-rooney-alla-prima-prova-con-il-cocktai-dbe2f9",
+   "tags": [
+    "I'm A Celebrity",
+    "Wayne Rooney"
+   ],
+   "scene": "tv",
+   "source": "dailymail.co.uk",
+   "url": "https://www.dailymail.com/tvshowbiz/article-16294755/Im-Celebrity-Wayne-Rooney-drinking-challenge.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "published": "2026-11-15T23:11:01+00:00"
+  },
+  {
    "id": "fe9d58e1faad",
    "section": "tv",
    "title": "Shrinking, la quarta stagione si arricchisce di tre nuovi attori",
@@ -8336,42 +8352,9 @@
    "source": "Cinefilos",
    "url": "https://cinefilos.it/cinema-news/2026/star-wars-50-anni-una-nuova-speranza-starfighter-730678",
    "published": "2026-11-13T08:37:53+00:00"
-  },
-  {
-   "id": "64c41e9a2d7a",
-   "section": "cinema",
-   "title": "Princess Diana, a Los Angeles la più grande mostra mai allestita",
-   "summary": "La Reagan Library di Los Angeles ospita una grande esposizione dedicata a Lady Diana, con 740 oggetti mai visti prima. Tra i pezzi annunciati anche un brano inedito dei Journey e l'abito firmato per il ballo con John Travolta.",
-   "body": "La Ronald Reagan Presidential Library di Simi Valley, vicino a Los Angeles, presenta quella che viene descritta come la più grande mostra mai dedicata a Diana, Principessa del Galles. Secondo HELLO!, che ha ottenuto un'anteprima esclusiva, l'allestimento comprende 740 reperti finora inediti, tra cui lettere di famiglia non ancora pubblicate.\n\nIl percorso include anche un brano dedicato a Diana composto dai Journey, rimasto fino ad oggi sconosciuto al pubblico, e il ritorno in esposizione di uno dei suoi abiti più celebri, quello indossato nel celebre ballo con John Travolta. Nella mostra trova spazio pure l'ultimo vestito che la principessa non ha mai avuto occasione di indossare.",
-   "slug": "princess-diana-a-los-angeles-la-piu-grande-mostra-mai-allest-64c41e",
-   "tags": [
-    "Lady Diana",
-    "John Travolta",
-    "Journey"
-   ],
-   "scene": "premiere",
-   "source": "hellomagazine.com",
-   "url": "https://www.hellomagazine.com/royalty/934589/inside-the-largest-princess-diana-exhibition-ever-staged-from-unseen-family-letters-to-the-heartbreaking-final-dress-she-never-got-to-wear/",
-   "published": "2026-11-13T08:30:48+00:00"
   }
  ],
  "seen": [
-  "d3e63c2b06a2",
-  "aa970542412e",
-  "de2943b955cf",
-  "c24c9342af2c",
-  "169037255471",
-  "3a26bb6acdfd",
-  "bea5a395170f",
-  "3e70d784afa8",
-  "f61a963f10e4",
-  "3007ee891dbf",
-  "21e0a4f87f7e",
-  "7fb5e1f5b108",
-  "47db6f693708",
-  "5eb8af8afe5a",
-  "07fdbf55eeb2",
-  "6e5ca950667e",
   "db348cb8f95c",
   "e47ffd5aaef2",
   "5879602f8880",
@@ -12355,7 +12338,23 @@
   "b0be151c0e07",
   "c6a44f9cf56d",
   "f18136a46a55",
-  "bbfeb3b4939f"
+  "bbfeb3b4939f",
+  "ed89b88ad690",
+  "f60fc641b345",
+  "dbe2f9c11bcb",
+  "d25bfb33b75a",
+  "9ab703b2fcf3",
+  "dd046283c08a",
+  "dadd8f3d0f58",
+  "888718d8a09e",
+  "6f316e14b01c",
+  "0fe29db5124b",
+  "948bc4835c9d",
+  "a991798875a0",
+  "d64545eebe82",
+  "1015a43a17f9",
+  "03d65893003f",
+  "e4faf2d60e95"
  ],
  "version": 4,
  "digests": [
