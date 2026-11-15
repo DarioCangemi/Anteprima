@@ -1,6 +1,90 @@
 {
  "articles": [
   {
+   "id": "df87e0dfefed",
+   "section": "tv",
+   "title": "La Ruota della Fortuna, Lucia Garbellotto vince 39.200 euro e perde il titolo",
+   "summary": "Lucia Garbellotto, insegnante di Belluno, ha vinto 39.200 euro nel game show La Ruota della Fortuna condotto da Gerry Scotti. Nella seconda puntata ha però perso il titolo di campionessa.",
+   "body": "Lucia Garbellotto, insegnante di Belluno, ha partecipato a La Ruota della Fortuna, il game show condotto da Gerry Scotti su Rai 1, dove ha conquistato un montepremi di 39.200 euro. Il successo le ha consentito di diventare campionessa per una puntata, prima di lasciare il posto a un nuovo concorrente nella seconda serata di gara.\n\nSecondo BadTaste, la concorrente ha vissuto l'esperienza in studio come un momento importante, arrivato dopo una sfida in cui la sua competenza ha fatto la differenza. La notizia riguarda il percorso di una partecipante comune, che ha portato in televisione la propria storia personale e il proprio lavoro in classe.",
+   "slug": "la-ruota-della-fortuna-lucia-garbellotto-vince-39-200-euro-e-df87e0",
+   "tags": [
+    "La Ruota della Fortuna",
+    "Gerry Scotti",
+    "Lucia Garbellotto"
+   ],
+   "scene": "tv",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/la-ruota-della-fortuna-vince-39200-euro-campionessa-per-una-sera-poi-la-svolta-inaspettata",
+   "published": "2026-11-15T13:03:58+00:00"
+  },
+  {
+   "id": "66f19ca59eda",
+   "section": "tv",
+   "title": "Kristen Bell e Idina Menzel di nuovo insieme nella serie The Real Frozen",
+   "summary": "Le attrici di Frozen Kristen Bell e Idina Menzel tornano a lavorare insieme nel nuovo progetto The Real Frozen, serie di National Geographic in arrivo su Disney+ e Hulu. La notizia riguarda il ritorno delle due protagoniste del film Disney in una nuova produzione.",
+   "body": "Kristen Bell e Idina Menzel, che hanno prestato le voci ad Anna ed Elsa nel film d'animazione Disney Frozen, si ritrovano insieme per The Real Frozen. Secondo Collider, la serie è una produzione di National Geographic e arriverà su Disney+ e Hulu.\n\nIl progetto riunisce le due attrici a distanza di anni dal grande successo del franchise. Al momento il materiale disponibile non chiarisce ulteriori dettagli sul formato del programma né sul calendario di uscita, quindi per ora la notizia si limita alla conferma del nuovo lavoro comune.",
+   "slug": "kristen-bell-e-idina-menzel-di-nuovo-insieme-nella-serie-the-66f19c",
+   "tags": [
+    "Kristen Bell",
+    "Idina Menzel",
+    "The Real Frozen"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/frozen-kristen-bell-idina-menzel-new-disney-series-national-geographic/",
+   "published": "2026-11-15T13:00:12+00:00"
+  },
+  {
+   "id": "7a770b13e848",
+   "section": "musica",
+   "title": "The Hateful Eight, la colonna sonora di Ennio Morricone tra le più celebrate",
+   "summary": "Un articolo di Ecran Large riflette sulla colonna sonora di The Hateful Eight, firmata da Ennio Morricone per il film di Quentin Tarantino. Il lavoro del maestro viene collocato accanto ai suoi grandi western e thriller.",
+   "body": "Secondo Ecran Large, la colonna sonora di The Hateful Eight, firmata da Ennio Morricone per il film di Quentin Tarantino, potrebbe essere una delle migliori mai composte per il cinema. Il film, ambientato in un rifugio isolato durante una tempesta di neve, viene descritto come uno dei titoli più importanti degli anni Dieci, e la musica ne è parte integrante.\n\nL'articolo ricorda i grandi lavori del maestro romano, da Per un pugno di dollari e C'era una volta il West a Il Professionista, Mission e Gli intoccabili. Il confronto con questi capolavori serve a sostenere l'idea che le musiche del film di Tarantino meritino di essere ricordate con la stessa forza di quelle storiche.",
+   "slug": "the-hateful-eight-la-colonna-sonora-di-ennio-morricone-tra-l-7a770b",
+   "tags": [
+    "The Hateful Eight",
+    "Ennio Morricone",
+    "Quentin Tarantino"
+   ],
+   "scene": "cuffie",
+   "source": "ecranlarge.com",
+   "url": "https://www.ecranlarge.com/films/dossier/les-8-salopards-western-horrifique-tarantino-meilleure-bo",
+   "published": "2026-11-15T13:00:00+00:00"
+  },
+  {
+   "id": "89ef4bf9d6f6",
+   "section": "tv",
+   "title": "Owain Arthur racconta il conflitto di Durin nella terza stagione di Gli Anelli del Potere",
+   "summary": "Nella terza stagione di Gli Anelli del Potere, Durin lotta per la successione a Khazad-dûm e mette in guardia dagli anelli dei nani. L'attore Owain Arthur ne ha parlato in un'intervista a Moviepilot.",
+   "body": "Nella terza stagione della serie Amazon Gli Anelli del Potere, il personaggio di Durin si trova al centro di una disputa per la successione al trono di Khazad-dûm. Il giovane re deve anche avvertire il suo popolo dei pericoli legati agli anelli dei nani, un tema che attraversa l'intera trama della serie.\n\nSecondo quanto riportato da Moviepilot, che ha intervistato l'attore Owain Arthur, il conflitto di Durin è uno dei fili narrativi più forti della nuova stagione. Nell'intervista l'interprete spiega il percorso del personaggio e il peso delle sue scelte per il regno dei nani.",
+   "slug": "owain-arthur-racconta-il-conflitto-di-durin-nella-terza-stag-89ef4b",
+   "tags": [
+    "Gli Anelli del Potere",
+    "Owain Arthur",
+    "Durin"
+   ],
+   "scene": "streaming",
+   "source": "moviepilot.de",
+   "url": "https://www.moviepilot.de/news/ringe-der-macht-interview-owain-arthur-1165442",
+   "published": "2026-11-15T13:00:00+00:00"
+  },
+  {
+   "id": "a7586e1f22b8",
+   "section": "cinema",
+   "title": "Star Wars compie cinquant'anni: nel 2027 torna il film originale restaurato",
+   "summary": "Nel 2027 la saga di Star Wars celebra i cinquant'anni, con il ritorno in sala del film originale restaurato. Il programma prevede anche un nuovo episodio con Ryan Gosling, secondo quanto riportato da ANSA.",
+   "body": "Nel 2027 Star Wars festeggia cinquant'anni dalla sua nascita, e la ricorrenza sarà segnata da un ritorno sul grande schermo del film originale, nella versione restaurata. Secondo ANSA, la celebrazione unirà quindi il passato della saga a un nuovo capitolo, che vedrà protagonista Ryan Gosling.\n\nIl materiale disponibile non specifica date precise, titoli dei nuovi progetti né dettagli sul calendario delle proiezioni. La notizia indica soprattutto il legame tra la riproposta dell'opera storica e la produzione futura, presentate come parte di una stessa festa per i fan della saga. Per ulteriori informazioni sarà utile seguire gli annunci ufficiali di distribuzione e produzione.",
+   "slug": "star-wars-compie-cinquant-anni-nel-2027-torna-il-film-origin-a7586e",
+   "tags": [
+    "Star Wars",
+    "Ryan Gosling"
+   ],
+   "scene": "premiere",
+   "source": "ANSA Cinema",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/15/star-wars-nel-2027-fa-50-anni-ed-e-festa-tra-vecchio-e-nuovo_b8f1fb8b-5737-4318-b805-5158907bd289.html",
+   "published": "2026-11-15T12:55:26+00:00"
+  },
+  {
    "id": "458e55aa7a8d",
    "section": "cinema",
    "title": "Un attore della saga di Indiana Jones critica Il quadrante del destino",
@@ -8264,115 +8348,9 @@
    "source": "collider.com",
    "url": "https://collider.com/james-bond-actors-ranked-officially/",
    "published": "2026-11-12T22:19:31+00:00"
-  },
-  {
-   "id": "e56819919cf9",
-   "section": "tv",
-   "title": "School Spirits, confermato il cast della quarta stagione",
-   "summary": "Dodici attori torneranno nella quarta stagione di School Spirits, la serie horror per giovani di Paramount+. Un altro membro del cast sarà promosso a un ruolo principale.",
-   "body": "La produzione della quarta stagione di School Spirits è iniziata la scorsa estate, dopo il rinnovo della serie. Secondo Just Jared, sono stati confermati dodici interpreti che torneranno nei nuovi episodi, mentre un altro attore del cast avanza di livello e sarà promosso a un ruolo più importante.\n\nIl materiale disponibile è limitato e non specifica i nomi dei personaggi né la data di uscita. Per i dettagli completi sul rinnovo e sul cast è utile consultare la fonte originale.",
-   "slug": "school-spirits-confermato-il-cast-della-quarta-stagione-e56819",
-   "tags": [
-    "School Spirits"
-   ],
-   "scene": "tv",
-   "source": "justjared.com",
-   "url": "https://www.justjared.com/2026/11/12/school-spirits-season-4-cast-12-stars-confirmed-to-return-1-star-gets-promoted/",
-   "published": "2026-11-12T22:15:57+00:00"
-  },
-  {
-   "id": "e2fc390ebef8",
-   "section": "tv",
-   "title": "Avatar: Seven Havens, la seconda parte su Paramount+ dal 21 maggio",
-   "summary": "Paramount+ ha fissato la data di uscita della seconda parte di Avatar: Seven Havens, 13 episodi in arrivo a livello globale dal 21 maggio. La programmazione sara' settimanale fino all'11 giugno.",
-   "body": "La seconda parte della serie animata Avatar: Seven Havens debutta su Paramount+ venerdi 21 maggio, con disponibilita' globale sulla piattaforma. La stagione conta complessivamente 13 episodi, distribuiti in quattro blocchi settimanali.\n\nIl calendario prevede i primi tre episodi il 21 maggio, i successivi tre il 28 maggio, altri tre il 4 giugno e gli ultimi quattro l'11 giugno. Secondo Deadline, l'annuncio e' stato dato giovedi' nel corso di un evento dedicato alla serie.",
-   "slug": "avatar-seven-havens-la-seconda-parte-su-paramount-dal-21-mag-e2fc39",
-   "tags": [
-    "Avatar: Seven Havens",
-    "Paramount+"
-   ],
-   "scene": "streaming",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/avatar-seven-havens-book-2-release-date-paramount-plus-1237221752/",
-   "published": "2026-11-12T22:15:00+00:00"
-  },
-  {
-   "id": "1d814d468fdd",
-   "section": "tv",
-   "title": "VisionQuest, il creatore avrebbe voluto Robert Downey Jr. nei panni di Tony Stark",
-   "summary": "Terry Matalas, creatore della serie VisionQuest, ha raccontato di aver pensato a un cameo di Robert Downey Jr. nei panni di una versione giovane di Tony Stark, prima di Iron Man. Alla fine non ha trovato il coraggio di chiederglielo.",
-   "body": "Il creatore di VisionQuest, Terry Matalas, ha ammesso di aver immaginato una comparsa di Tony Stark nella serie, nella versione precedente agli eventi di Iron Man. Il personaggio sarebbe stato interpretato da Robert Downey Jr., l'attore che ha reso celebre Stark nel Marvel Cinematic Universe.\n\nSecondo JoBlo, però, Matalas non se l'è sentita di fare la richiesta direttamente all'attore. Il materiale disponibile non chiarisce se un contatto sia mai avvenuto né quali fossero i dettagli del progetto. La notizia riguarda quindi un'idea rimasta tale, senza conferme su un eventuale sviluppo.",
-   "slug": "visionquest-il-creatore-avrebbe-voluto-robert-downey-jr-nei-1d814d",
-   "tags": [
-    "VisionQuest",
-    "Terry Matalas",
-    "Robert Downey Jr."
-   ],
-   "scene": "streaming",
-   "source": "joblo.com",
-   "url": "https://www.joblo.com/visionquest-tony-stark/",
-   "published": "2026-11-12T22:11:50+00:00"
-  },
-  {
-   "id": "6c807ae0aab7",
-   "section": "cinema",
-   "title": "Avengers: Doomsday, Feige chiarisce il ruolo di Dottor Destino",
-   "summary": "Kevin Feige, presidente dei Marvel Studios, ha chiarito che il Dottor Destino interpretato da Robert Downey Jr. in Avengers: Doomsday non sarà una variante del personaggio. Il ritorno dell'attore nel Marvel Cinematic Universe è uno degli eventi più attesi della prossima fase.",
-   "body": "Robert Downey Jr. tornerà nel Marvel Cinematic Universe con un ruolo che da mesi alimenta discussioni tra i fan. Secondo quanto riportato da Cinefilos, Kevin Feige, presidente dei Marvel Studios, ha ora fornito una risposta precisa sulla natura del personaggio che l'attore interpreterà in Avengers: Doomsday.\n\nFeige ha escluso che il Dottor Destino di Downey sia una semplice variante del personaggio. La precisazione chiude uno dei dubbi principali sul film, che fa parte della nuova fase della saga Marvel. Il materiale disponibile non specifica ulteriori dettagli sulla trama o sulla storia del personaggio.",
-   "slug": "avengers-doomsday-feige-chiarisce-il-ruolo-di-dottor-destino-6c807a",
-   "tags": [
-    "Avengers: Doomsday",
-    "Robert Downey Jr.",
-    "Kevin Feige"
-   ],
-   "scene": "premiere",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/avengers-doomsday-kevin-feige-chiarisce-mistero-dottor-destino-730643",
-   "published": "2026-11-12T21:46:58+00:00"
-  },
-  {
-   "id": "5b3a3a1dd049",
-   "section": "gossip",
-   "title": "Beppe Fiorello e Achille Lauro alle Atp Finals di Torino",
-   "summary": "Beppe Fiorello e Achille Lauro sono protagonisti della serata di spettacolo legata alle Atp Finals di tennis. La conduzione è affidata a Max Giusti, mentre tra il pubblico a bordo campo c'è Flavio Cobolli.",
-   "body": "Beppe Fiorello e Achille Lauro saranno tra i protagonisti della serata di spettacolo collegata alle Atp Finals, il torneo di tennis che riunisce i migliori giocatori del circuito. Secondo ANSA, a presentare l'evento sarà Max Giusti, che guiderà il programma dal palco con ospiti della musica e della recitazione.\n\nNel pubblico, a bordo campo, è prevista la presenza del tennista Flavio Cobolli, uno dei giocatori italiani più seguiti del momento. La serata unisce così sport e spettacolo in un appuntamento pensato per il pubblico che segue il torneo, con la presenza di volti noti del cinema, della televisione e della musica.",
-   "slug": "beppe-fiorello-e-achille-lauro-alle-atp-finals-di-torino-5b3a3a",
-   "tags": [
-    "Beppe Fiorello",
-    "Achille Lauro",
-    "Max Giusti"
-   ],
-   "scene": "palco",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/12/beppe-fiorello-e-achille-lauro-accendono-la-notte-delle-atp-finals_06096c9c-4c84-4e4b-b357-697a38004f58.html",
-   "published": "2026-11-12T21:29:44+00:00"
   }
  ],
  "seen": [
-  "6dd3af70e74f",
-  "09e8bcacc149",
-  "dc09f5881439",
-  "e92c5b752806",
-  "9e5e8dbeabdb",
-  "ffd32de3520e",
-  "88205c50df84",
-  "a9c152a1895f",
-  "c734574801e6",
-  "ce8bd3820470",
-  "e830966f148d",
-  "84942443f2bc",
-  "9e71e6426cd1",
-  "bd59e409e8ab",
-  "b29fcc2a9176",
-  "e20b1f12b38f",
-  "fc025e0b05c7",
-  "a596d39eddee",
-  "bab746d5299c",
-  "a1dc59d1aafd",
-  "bcb995ee831d",
-  "d84c87c6f1b8",
-  "38d0458af174",
-  "3d8b2ce00bfa",
   "47d44da61035",
   "e24ae8981b3e",
   "d87409f9dd08",
@@ -12348,7 +12326,31 @@
   "18e0edf39d80",
   "cd173c273569",
   "fce18a2606f0",
-  "94617bdae48d"
+  "94617bdae48d",
+  "72303f600541",
+  "20bec534043c",
+  "012915bc52d3",
+  "ed4c2ea2c2da",
+  "f6436e83e85d",
+  "04aae4482bab",
+  "09ddd0dd1729",
+  "9dc6d3e3254e",
+  "37df2523a7ee",
+  "df87e0dfefed",
+  "c60a8460e975",
+  "3880d4d8b472",
+  "8b805c3c05a5",
+  "6ea0e85bddfb",
+  "3b54d5c75955",
+  "66f19ca59eda",
+  "7760ef7724c4",
+  "6e635fb36f41",
+  "7a770b13e848",
+  "89ef4bf9d6f6",
+  "7d6e1d4e4d9f",
+  "a7586e1f22b8",
+  "89cc5d05767a",
+  "ee5206df9791"
  ],
  "version": 4,
  "digests": [
