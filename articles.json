@@ -1,6 +1,72 @@
 {
  "articles": [
   {
+   "id": "36e9ec5bc95b",
+   "section": "cinema",
+   "title": "James Mangold, il thriller in stile Agatha Christie lascia lo streaming gratuito",
+   "summary": "Il thriller firmato da James Mangold, regista di Logan, ispirato allo stile di Agatha Christie, sarà rimosso dalla piattaforma di streaming gratuita dove era disponibile. La notizia è riportata da Collider.",
+   "body": "Il regista James Mangold, noto al grande pubblico per Logan, vede uscire dal catalogo gratuito di una piattaforma di streaming uno dei suoi lavori meno ricordati: un thriller che richiama l'universo narrativo di Agatha Christie. Secondo Collider, la rimozione è ormai ufficiale e il film non sarà più disponibile nella sua versione gratuita.\n\nIl titolo, dimenticato da molti spettatori, torna così all'attenzione proprio mentre scompare dalla piattaforma che lo ospitava. La fonte non specifica la data esatta del passaggio né eventuali nuove collocazioni del film, quindi per vederlo sarà necessario verificare le altre opzioni disponibili al momento.",
+   "slug": "james-mangold-il-thriller-in-stile-agatha-christie-lascia-lo-36e9ec",
+   "tags": [
+    "James Mangold",
+    "Logan",
+    "Agatha Christie"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/identity-agatha-christie-adaptation-leaving-tubi-december-2026/",
+   "published": "2026-11-16T01:15:12+00:00"
+  },
+  {
+   "id": "c6dfb043ba69",
+   "section": "tv",
+   "title": "Beast Games 3, data di uscita su Prime Video",
+   "summary": "Prime Video ha fissato al 16 dicembre la premiere di Beast Games: World Champions, terza stagione del reality. La stagione debutterà con tre episodi e si concluderà con il finale il 13 gennaio.",
+   "body": "Prime Video ha annunciato la data di uscita della terza stagione di Beast Games, il reality show con sfide su larga scala. La nuova stagione, intitolata Beast Games: World Champions, arriverà sulla piattaforma mercoledì 16 dicembre con tre episodi in un colpo solo.\n\nDopo il debutto, secondo quanto riportato da Deadline, seguiranno due episodi a cadenza settimanale, fino al finale in programma mercoledì 13 gennaio. La piattaforma ha anche diffuso un primo sguardo al nuovo ciclo di puntate.",
+   "slug": "beast-games-3-data-di-uscita-su-prime-video-c6dfb0",
+   "tags": [
+    "Beast Games",
+    "Prime Video"
+   ],
+   "scene": "streaming",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/beast-games-season-3-release-date-prime-video-mrbeast-1237223404/",
+   "published": "2026-11-16T01:15:00+00:00"
+  },
+  {
+   "id": "cdd0ee3976a5",
+   "section": "cinema",
+   "title": "Emily Watson protagonista di John Daniel, film storico ispirato a una storia vera",
+   "summary": "Emily Watson è la protagonista di John Daniel, nuovo film storico ispirato alla vicenda reale di una donna che, dopo la Prima guerra mondiale, stringe amicizia con un cucciolo di gorilla. La notizia è stata riportata da Collider.",
+   "body": "Emily Watson sarà la protagonista di John Daniel, un nuovo film storico ispirato a una vicenda realmente accaduta. Il racconto segue una donna che, nel periodo successivo alla Prima guerra mondiale, instaura un legame di amicizia con un cucciolo di gorilla.\n\nSecondo Collider, il progetto si presenta come un film d'epoca dal tono insolito, costruito attorno a una storia di affetto tra un essere umano e un animale. Al momento non sono disponibili altri dettagli su produzione, distribuzione o data di uscita.",
+   "slug": "emily-watson-protagonista-di-john-daniel-film-storico-ispira-cdd0ee",
+   "tags": [
+    "Emily Watson",
+    "John Daniel"
+   ],
+   "scene": "pellicola",
+   "source": "collider.com",
+   "url": "https://collider.com/john-daniel-emily-watson-true-story-gorilla-movie/",
+   "published": "2026-11-16T01:00:12+00:00"
+  },
+  {
+   "id": "4ecfa8716792",
+   "section": "tv",
+   "title": "Slow Horses, rinnovata la serie Apple TV fino alla stagione 8",
+   "summary": "La sesta stagione di Slow Horses si è conclusa su Apple TV e la serie è già stata rinnovata per altre due stagioni. L'attrice Olivia Cooke ha parlato del futuro dello show, che dovrebbe arrivare fino all'ottava stagione.",
+   "body": "La serie spy story con Gary Oldman è appena giunta alla conclusione della sesta stagione su Apple TV, ma il servizio di streaming ha già confermato il rinnovo per due ulteriori stagioni. Secondo quanto riportato da Just Jared, l'attrice Olivia Cooke ha illustrato le prospettive dello show, che quindi dovrebbe proseguire fino all'ottava stagione.\n\nIl titolo, tratto dai romanzi di Mick Herron, segue un gruppo di agenti dell'MI5 relegati a incarichi di scarso prestigio. Il successo di pubblico e critica ha permesso al progetto di andare avanti per diversi cicli. Al momento non risultano annunci su un eventuale finale della serie oltre l'ottava stagione.",
+   "slug": "slow-horses-rinnovata-la-serie-apple-tv-fino-alla-stagione-8-4ecfa8",
+   "tags": [
+    "Slow Horses",
+    "Olivia Cooke",
+    "Apple TV"
+   ],
+   "scene": "streaming",
+   "source": "justjared.com",
+   "url": "https://www.justjared.com/2026/11/15/is-slow-horses-ending-after-season-8-star-olivia-cooke-reveals-apple-tv-shows-future/",
+   "published": "2026-11-16T00:46:22+00:00"
+  },
+  {
    "id": "a789ae48a573",
    "section": "gossip",
    "title": "Demi Moore al Baby2Baby Gala con le figlie Rumer, Scout e Tallulah Willis",
@@ -8283,90 +8349,9 @@
    "source": "Cinematografo",
    "url": "https://www.cinematografo.it/riflettori/lestranea-avra-un-remake-americano-icirrhw7",
    "published": "2026-11-13T09:14:28+00:00"
-  },
-  {
-   "id": "f7df096ddee1",
-   "section": "tv",
-   "title": "Channel 4, la CEO Priya Dogra respinge le accuse di sfruttamento nei reality",
-   "summary": "La CEO di Channel 4 Priya Dogra ha negato che l'emittente pubblica britannica produca reality show \"sfruttatori\". Le dichiarazioni arrivano dopo la decisione di cancellare il controverso dating show Married at First Sight UK.",
-   "body": "La amministratrice delegata di Channel 4, Priya Dogra, ha respinto le accuse secondo cui l'emittente pubblica britannica realizzerebbe reality show \"sfruttatori\". Secondo quanto riportato da C21 Media, la presa di posizione arriva mentre il tema è al centro dell'attenzione dei parlamentari britannici, che hanno in programma domande sul settore.\n\nIl chiarimento segue la decisione di Channel 4 di cancellare il dating show Married at First Sight, format finito al centro delle polemiche. Il materiale disponibile non specifica i dettagli delle contestazioni né il contenuto delle domande che saranno rivolte ai vertici dell'emittente.",
-   "slug": "channel-4-la-ceo-priya-dogra-respinge-le-accuse-di-sfruttame-f7df09",
-   "tags": [
-    "Channel 4",
-    "Priya Dogra",
-    "Married at First Sight"
-   ],
-   "scene": "tv",
-   "source": "c21media.net",
-   "url": "https://www.c21media.net/news/c4-reality-shows-not-exploitative-insists-dogra-as-commons-questions-loom/",
-   "published": "2026-11-13T09:13:08+00:00"
-  },
-  {
-   "id": "91a936886438",
-   "section": "tv",
-   "title": "Netflix produrrà The Twilight Between Us, drama coreano in costume",
-   "summary": "Netflix ha dato il via alla produzione di The Twilight Between Us, serie K-drama romantica e d'azione ambientata in epoca storica, in precedenza nota con i titoli Soul o Hon. La regia è affidata a Kim Won-suk, autore di When Life Gives You Tangerines.",
-   "body": "Netflix ha confermato il via libera alla produzione di The Twilight Between Us, un K-drama che unisce romance e azione in un'ambientazione di epoca storica. Il progetto aveva circolato in precedenza con i titoli provvisori Soul e Hon, mentre quello attuale è stato scelto per la distribuzione internazionale della serie.\n\nDietro la macchina da presa c'è Kim Won-suk, regista noto al pubblico internazionale per When Life Gives You Tangerines, la serie che ha raccontato la storia di una famiglia sull'isola di Jeju attraverso decenni di cambiamenti. Secondo quanto riportato da C21 Media, la produzione entra ora nella fase operativa, anche se non sono stati comunicati dettagli su cast e data di uscita.",
-   "slug": "netflix-produrra-the-twilight-between-us-drama-coreano-in-co-91a936",
-   "tags": [
-    "Netflix",
-    "The Twilight Between Us",
-    "Kim Won-suk"
-   ],
-   "scene": "streaming",
-   "source": "c21media.net",
-   "url": "https://www.c21media.net/news/netflix-greenlights-k-drama-series-the-twilight-between-us/",
-   "published": "2026-11-13T09:12:53+00:00"
-  },
-  {
-   "id": "5dead8d5fd3e",
-   "section": "tv",
-   "title": "Il Signore degli Anelli: Gli Anelli del Potere 3, perché gli Uomini si schierano con Sauron",
-   "summary": "La terza stagione di Gli Anelli del Potere, in arrivo su Prime Video, mostra gli Uomini nelle fila dell'esercito di Sauron. La trama riprende dopo un salto temporale di cinque anni, nel pieno della guerra tra Elfi e Sauron.",
-   "body": "La terza stagione di Il Signore degli Anelli: Gli Anelli del Potere, la serie fantasy di Prime Video, porta sullo schermo un elemento della mitologia tolkieniana finora poco esplorato: la presenza di uomini schierati con Sauron. Secondo quanto riferito da Cinefilos, il nuovo capitolo riprenderà la narrazione dopo un salto temporale di cinque anni, collocando gli eventi nel pieno della guerra tra Elfi e Sauron.\n\nLa scelta narrativa permette di approfondire le motivazioni che spingono gli uomini a unirsi al nemico, un tema che nel legendarium di Tolkien ha radici antiche. La stagione promette quindi uno sguardo più complesso sulle fazioni in campo, con personaggi meno riconducibili al semplice schema tra bene e male.",
-   "slug": "il-signore-degli-anelli-gli-anelli-del-potere-3-perche-gli-u-5dead8",
-   "tags": [
-    "Prime Video",
-    "Sauron"
-   ],
-   "scene": "palco",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/serie-tv/approfondimento/il-signore-degli-anelli-gli-anelli-del-potere-stagione-3-perche-uomini-continuano-schierarsi-sauron-730688",
-   "published": "2026-11-13T09:11:54+00:00"
-  },
-  {
-   "id": "96bdecb3f001",
-   "section": "gossip",
-   "title": "Kate Middleton sorprende Owain Wyn Evans con un messaggio in gallese",
-   "summary": "La Principessa del Galles ha registrato un messaggio di incoraggiamento in lingua gallese per il conduttore di Radio 2 Owain Wyn Evans, nell'ultimo giorno della sua 4 Nations Cycle Challenge. Il video è stato diffuso dai media britannici.",
-   "body": "Kate Middleton, Principessa del Galles, ha fatto una sorpresa al conduttore di BBC Radio 2 Owain Wyn Evans, inviandogli un messaggio personale di incoraggiamento registrato interamente in lingua gallese. L'appello è arrivato nell'ultima giornata della 4 Nations Cycle Challenge, la sfida ciclistica che il presentatore gallese ha portato avanti tra le quattro nazioni del Regno Unito.\n\nSecondo quanto riportato da Hello!, il messaggio è stato giudicato dalla stampa britannica di ottima qualità linguistica, tanto da essere definito perfetto. Una scelta che sottolinea il legame della principessa con il Galles, di cui è diventata principessa con il matrimonio con il principe William.",
-   "slug": "kate-middleton-sorprende-owain-wyn-evans-con-un-messaggio-in-96bdec",
-   "tags": [
-    "Kate Middleton",
-    "Owain Wyn Evans",
-    "4 Nations Cycle Challenge"
-   ],
-   "scene": "microfono",
-   "source": "hellomagazine.com",
-   "url": "https://www.hellomagazine.com/royalty/934704/kate-middleton-delivers-perfect-address-fluent-welsh/",
-   "published": "2026-11-13T09:03:57+00:00"
   }
  ],
  "seen": [
-  "fd90f4c5433e",
-  "a3c81fe83e74",
-  "a6171384be84",
-  "9729cddfbf86",
-  "2e7b675b7d8b",
-  "e5e6e9e19979",
-  "ef517e1750df",
-  "eb76adb6e05e",
-  "e938e21e0628",
-  "90ff17d6d99f",
-  "b8256642e67d",
-  "65cc2c87f257",
-  "9274da184cb2",
-  "39995bc1c3e4",
   "ac567f7edc9d",
   "72b89e36bdf4",
   "1fba5ea4e098",
@@ -12352,7 +12337,21 @@
   "550ca6003ee3",
   "3090f7621658",
   "333141785d74",
-  "e2f26c25d7f3"
+  "e2f26c25d7f3",
+  "c769abc665f9",
+  "29e3ee072640",
+  "36e9ec5bc95b",
+  "c6dfb043ba69",
+  "2b696f7a8c56",
+  "cb99608bc012",
+  "efa86823836b",
+  "cdd0ee3976a5",
+  "9b4ad24ea4b9",
+  "8e0a2b7a78db",
+  "4ecfa8716792",
+  "c1d2423e9669",
+  "7cd16379a435",
+  "b7e100d2411e"
  ],
  "version": 4,
  "digests": [
