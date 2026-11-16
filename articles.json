@@ -1,6 +1,72 @@
 {
  "articles": [
   {
+   "id": "a789ae48a573",
+   "section": "gossip",
+   "title": "Demi Moore al Baby2Baby Gala con le figlie Rumer, Scout e Tallulah Willis",
+   "summary": "Demi Moore, 64 anni, è apparsa sul red carpet del Baby2Baby Gala con un abito nero con volants firmato Carolina Herrera. Con lei c'erano le figlie Rumer, Scout e Tallulah Willis.",
+   "body": "Demi Moore, 64 anni, si è presentata al Baby2Baby Gala indossando un lungo abito nero con volants firmato Carolina Herrera. L'attrice è apparsa al photocall particolarmente luminosa, con un look che ha attirato l'attenzione dei fotografi presenti.\n\nAccanto a lei c'erano le figlie Rumer, Scout e Tallulah Willis, comparse insieme alla madre sul tappeto rosso dell'evento benefico dedicato ai bambini. Secondo Hello!, la serata ha confermato l'immagine di un'attrice che continua a farsi notare per eleganza e presenza scenica sulle passerelle del red carpet internazionale.",
+   "slug": "demi-moore-al-baby2baby-gala-con-le-figlie-rumer-scout-e-tal-a789ae",
+   "tags": [
+    "Demi Moore",
+    "Rumer Willis",
+    "Baby2Baby Gala"
+   ],
+   "scene": "tappeto",
+   "source": "hellomagazine.com",
+   "url": "https://www.hellomagazine.com/us/935141/demi-moore-64-looks-younger-than-ever-alongside-her-daughters-in-head-turning-red-carpet-appearance/",
+   "published": "2026-11-16T00:19:21+00:00"
+  },
+  {
+   "id": "262ae68fd07c",
+   "section": "cinema",
+   "title": "La Bola Negra, epopea spagnola sulla Guerra Civile tra le sorprese di Cannes",
+   "summary": "La Bola Negra è un ampio racconto spagnolo ambientato durante la Guerra Civile, che intreccia romanticismo, tragedia e storia. Secondo la recensione di JoBlo, il film è stato una delle rivelazioni del Festival di Cannes ed è sostenuto da Netflix in ottica Oscar.",
+   "body": "La Bola Negra è un'ampia epopea spagnola ambientata durante la Guerra Civile, che mescola storia, passione e tragedia. Secondo JoBlo, la pellicola è stata una delle rivelazioni del Festival di Cannes, grazie anche a immagini girate in 35 millimetri di grande impatto visivo.\n\nNetflix starebbe puntando sul titolo per le candidature agli Oscar, segnale dell'attenzione che la piattaforma riserva al progetto. La recensione sottolinea la forza del film come opera di respiro ampio, capace di tenere insieme la dimensione privata dei personaggi e il contesto storico del conflitto.",
+   "slug": "la-bola-negra-epopea-spagnola-sulla-guerra-civile-tra-le-sor-262ae6",
+   "tags": [
+    "La Bola Negra",
+    "Netflix",
+    "Festival di Cannes"
+   ],
+   "scene": "premiere",
+   "source": "joblo.com",
+   "url": "https://www.joblo.com/la-bola-negra-the-black-ball-cannes-review/",
+   "published": "2026-11-16T00:16:48+00:00"
+  },
+  {
+   "id": "0f79d710beba",
+   "section": "cinema",
+   "title": "Ryan Reynolds e Hugh Jackman accreditati per Avengers: Doomsday",
+   "summary": "Ryan Reynolds e Hugh Jackman risultano tra gli accreditati per il materiale letterario di Avengers: Doomsday, secondo la Writers Guild of America. La Marvel ha confermato il loro coinvolgimento nel film.",
+   "body": "Ryan Reynolds e Hugh Jackman compaiono tra gli autori accreditati per il materiale letterario aggiuntivo di Avengers: Doomsday, il prossimo film degli Avengers della Marvel. L'informazione arriva dalla Writers Guild of America, l'associazione sindacale degli sceneggiatori statunitensi, che registra i crediti di scrittura per le produzioni hollywoodiane.\n\nSecondo quanto riportato da Collider, la Marvel ha confermato ufficialmente il nome dei due attori in questo ruolo. Il credito riguarda il lavoro di scrittura aggiuntivo e non specifica quali parti del film siano state influenzate dal loro contributo. Entrambi sono noti al pubblico per il ruolo di supereroi, Reynolds come Deadpool e Jackman come Wolverine, personaggi che nei film recenti hanno condiviso il grande schermo.",
+   "slug": "ryan-reynolds-e-hugh-jackman-accreditati-per-avengers-doomsd-0f79d7",
+   "tags": [
+    "Avengers: Doomsday",
+    "Ryan Reynolds",
+    "Hugh Jackman"
+   ],
+   "scene": "ciak",
+   "source": "collider.com",
+   "url": "https://collider.com/avengers-doomsday-ryan-reynolds-hugh-jackman-writing-credits/",
+   "published": "2026-11-16T00:16:12+00:00"
+  },
+  {
+   "id": "2a6aea201cfa",
+   "section": "tv",
+   "title": "Netflix testa i trailer prima degli episodi dei suoi titoli originali",
+   "summary": "Secondo un nuovo report, Netflix starebbe sperimentando teaser personalizzati da mostrare prima delle proprie produzioni originali. La pratica è già adottata da cinque dei sette principali concorrenti della piattaforma.",
+   "body": "Netflix sta testando la proposta di trailer personalizzati da far partire prima dei suoi titoli originali, prima dell'inizio degli episodi. Lo riferisce whats-on-netflix.com, secondo cui la piattaforma sta valutando una formula già in uso presso cinque dei suoi sette principali concorrenti.\n\nLa notizia riguarda quindi una sperimentazione e non una decisione annunciata ufficialmente. Il materiale disponibile non specifica quali titoli siano coinvolti né quando la novità potrebbe arrivare a tutti gli abbonati. Resta da vedere se e come il test verrà esteso agli utenti italiani.",
+   "slug": "netflix-testa-i-trailer-prima-degli-episodi-dei-suoi-titoli-2a6aea",
+   "tags": [
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "whats-on-netflix.com",
+   "url": "https://www.whats-on-netflix.com/news/netflix-testing-running-trailers-for-its-own-shows-before-episodes-again/",
+   "published": "2026-11-16T00:07:26+00:00"
+  },
+  {
    "id": "dbe2f9c11bcb",
    "section": "tv",
    "title": "I'm A Celebrity, Wayne Rooney alla prima prova con il cocktail di gamberi",
@@ -8284,94 +8350,9 @@
    "source": "hellomagazine.com",
    "url": "https://www.hellomagazine.com/royalty/934704/kate-middleton-delivers-perfect-address-fluent-welsh/",
    "published": "2026-11-13T09:03:57+00:00"
-  },
-  {
-   "id": "8b1d76680150",
-   "section": "gossip",
-   "title": "Selvaggia Lucarelli torna a punzecchiare Ilary Blasi tra ironia e frecciatine",
-   "summary": "Selvaggia Lucarelli è tornata a scherzare sul battibecco con Ilary Blasi, durante una cena con Cesara Buonamici. Il siparietto richiama lo scontro avvenuto in passato nel programma Grande Fratello Vip.",
-   "body": "Selvaggia Lucarelli è tornata a parlare del confronto con Ilary Blasi avvenuto nel corso del Grande Fratello Vip. Secondo quanto riportato da BadTaste, la giornalista ha scherzato sull'episodio durante una cena in compagnia di Cesara Buonamici, con una battuta che ha definito la conduttrice \"la strega\". Il siparietto è stato accolto con ironia, tra punzecchiature leggere e tono scherzoso.\n\nLa vicenda riprende una vecchia schermaglia tra le due, già emersa nel programma e rilanciata più volte dal pubblico. Il racconto diffuso dalla fonte si concentra soprattutto sul clima leggero della serata, senza ulteriori dettagli su eventuali nuove dichiarazioni ufficiali di Blasi.",
-   "slug": "selvaggia-lucarelli-torna-a-punzecchiare-ilary-blasi-tra-iro-8b1d76",
-   "tags": [
-    "Selvaggia Lucarelli",
-    "Ilary Blasi",
-    "Grande Fratello Vip"
-   ],
-   "scene": "microfono",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/selvaggia-lucarelli-torna-a-punzecchiare-ilary-blasi-lei-e-la-strega-siparietto-al-grande-fratello-vip",
-   "published": "2026-11-13T08:57:46+00:00"
-  },
-  {
-   "id": "22f04b7c9a99",
-   "section": "gossip",
-   "title": "Alex Belli torna al GF Vip e litiga con Alessandro Roncaccia",
-   "summary": "Alex Belli è tornato al Grande Fratello Vip, nel ruolo di chef, ed è entrato in un acceso scontro con Alessandro Roncaccia. La discussione, con toni molto alti, è avvenuta davanti alle telecamere del programma.",
-   "body": "Alex Belli è tornato nella casa del Grande Fratello Vip, dove ha preso parte alle attività come chef. Il ritorno è stato però oscurato da una lite con Alessandro Roncaccia, che si è sviluppata tra urla e provocazioni reciproche.\n\nSecondo quanto riportato da BadTaste, lo scontro è avvenuto in diretta davanti agli altri concorrenti e ha visto volare frasi pesanti da entrambe le parti. Il materiale disponibile non riporta ulteriori dettagli sul contenuto preciso delle dichiarazioni né sull'esito della discussione.",
-   "slug": "alex-belli-torna-al-gf-vip-e-litiga-con-alessandro-roncaccia-22f04b",
-   "tags": [
-    "Alex Belli",
-    "Alessandro Roncaccia",
-    "Grande Fratello Vip"
-   ],
-   "scene": "tv",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/tu-devi-stare-zitto-alex-belli-torna-al-gf-vip-e-si-scontra-duramente-con-alessandro-roncaccia",
-   "published": "2026-11-13T08:55:44+00:00"
-  },
-  {
-   "id": "7a21e2a9fe77",
-   "section": "cinema",
-   "title": "Being Heumann, il documentario Apple TV su Mark Ruffalo e i diritti delle persone con disabilità",
-   "summary": "Mark Ruffalo, Ruth Madeley e Sian Heder presentano Being Heumann, film Apple TV dedicato ai diritti delle persone con disabilità. Il racconto unisce tono potente e gioioso, secondo quanto riportato da Collider.",
-   "body": "Apple TV propone Being Heumann, film dedicato alla figura di Judy Heumann e alla lotta per i diritti delle persone con disabilità. Ne hanno parlato l'attore Mark Ruffalo, l'attrice Ruth Madeley e la regista Sian Heder, che hanno presentato il progetto come un racconto capace di mettere in luce il tema in modo potente e allo stesso tempo gioioso.\n\nSecondo Collider, la pellicola si distingue per il modo in cui affronta una battaglia sociale e civile senza ricorrere a toni cupi o didascalici. Il materiale disponibile non specifica ulteriori dettagli su trama, data di uscita o cast completo, ma il titolo si inserisce in un filone di racconti sulla disabilità che stanno trovando spazio sulle piattaforme di streaming.",
-   "slug": "being-heumann-il-documentario-apple-tv-su-mark-ruffalo-e-i-d-7a21e2",
-   "tags": [
-    "Being Heumann",
-    "Mark Ruffalo",
-    "Ruth Madeley"
-   ],
-   "scene": "streaming",
-   "source": "collider.com",
-   "url": "https://collider.com/being-heumann-mark-ruffalo-ruth-madeley-sian-heder-apple-tv/",
-   "published": "2026-11-13T08:46:12+00:00"
-  },
-  {
-   "id": "c96e6845d49c",
-   "section": "cinema",
-   "title": "Star Wars festeggia i 50 anni: Una nuova speranza torna al cinema in IMAX",
-   "summary": "Nel 2027 la saga di Star Wars compie cinquant'anni e Lucasfilm e Disney celebrano la ricorrenza con il ritorno in sala del film del 1977, per la prima volta in formato IMAX. Previsto anche l'arrivo di un nuovo capitolo pensato per il grande schermo.",
-   "body": "Il 2027 segnerà il cinquantesimo anniversario di Star Wars, e Lucasfilm e Disney hanno scelto il grande schermo per celebrarlo. Secondo Cinefilos, il film originale del 1977, Una nuova speranza, tornerà nelle sale e sarà proiettato per la prima volta in formato IMAX.\n\nAccanto alla riproposta del classico, è stato annunciato un nuovo capitolo della saga pensato specificamente per il circuito cinematografico. I due appuntamenti accompagneranno le celebrazioni dell'anniversario. Il materiale disponibile non indica al momento date precise né dettagli sui contenuti del nuovo film.",
-   "slug": "star-wars-festeggia-i-50-anni-una-nuova-speranza-torna-al-ci-c96e68",
-   "tags": [
-    "Star Wars",
-    "Una nuova speranza",
-    "Lucasfilm"
-   ],
-   "scene": "premiere",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/star-wars-50-anni-una-nuova-speranza-starfighter-730678",
-   "published": "2026-11-13T08:37:53+00:00"
   }
  ],
  "seen": [
-  "db348cb8f95c",
-  "e47ffd5aaef2",
-  "5879602f8880",
-  "391e20a04ec4",
-  "1541a3a954b8",
-  "17f71096bac3",
-  "b29f8053a114",
-  "3190e46df676",
-  "f4b2a42ec0ff",
-  "6206db0a5a97",
-  "27def4948d01",
-  "4e51ee52de6d",
-  "18fbb463fbba",
-  "ccbd85793395",
-  "30c94c28fd4d",
-  "025d13342422",
-  "febb1b9eb68a",
   "fd90f4c5433e",
   "a3c81fe83e74",
   "a6171384be84",
@@ -12354,7 +12335,24 @@
   "d64545eebe82",
   "1015a43a17f9",
   "03d65893003f",
-  "e4faf2d60e95"
+  "e4faf2d60e95",
+  "a789ae48a573",
+  "262ae68fd07c",
+  "0f79d710beba",
+  "65c1dc8314cb",
+  "08aa02fb8b42",
+  "2a6aea201cfa",
+  "c3566c3a63b9",
+  "68500d49e15e",
+  "ec08483540a2",
+  "11d2f736ab60",
+  "23cf6928543e",
+  "f4e74d600777",
+  "47d81eed4566",
+  "550ca6003ee3",
+  "3090f7621658",
+  "333141785d74",
+  "e2f26c25d7f3"
  ],
  "version": 4,
  "digests": [
