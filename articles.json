@@ -1,6 +1,73 @@
 {
  "articles": [
   {
+   "id": "c6ad6da638c3",
+   "section": "cinema",
+   "title": "Il Signore degli Anelli, 25 anni fa la scena di Moria come un film horror",
+   "summary": "A venticinque anni dall'uscita di La compagnia dell'anello, un approfondimento ricorda come Peter Jackson abbia costruito la sequenza delle Miniere di Moria con i toni di un film horror. Il tamburo sulla tomba di Balin e l'arrivo del Balrog sono i momenti chiave.",
+   "body": "Secondo Collider, nel primo capitolo della trilogia diretta da Peter Jackson, La compagnia dell'anello, le Miniere di Moria assumono i tratti di un film dell'orrore. La sequenza si apre con il rumore cupo dei tamburi nei pressi della tomba di Balin, che crea un clima di tensione sempre crescente per i protagonisti.\n\nIl culmine arriva con l'apparizione del Balrog, la creatura di fuoco che irrompe nella scena trasformando il viaggio della Compagnia in una vera fuga. L'articolo sottolinea come la regia di Jackson, a venticinque anni dall'uscita del film, resti un esempio riuscito di come il fantasy possa usare le strutture tipiche dell'horror.",
+   "slug": "il-signore-degli-anelli-25-anni-fa-la-scena-di-moria-come-un-c6ad6d",
+   "tags": [
+    "Il Signore degli Anelli",
+    "Peter Jackson"
+   ],
+   "scene": "pellicola",
+   "source": "collider.com",
+   "url": "https://collider.com/lord-of-the-rings-fellowship-of-the-ring-moria-balrog-horror-scene/",
+   "published": "2026-11-16T05:14:12+00:00"
+  },
+  {
+   "id": "8e1e946c93c2",
+   "section": "tv",
+   "title": "Netflix adatta Icebreaker di Hannah Grace, romance sportivo",
+   "summary": "Netflix ha annunciato l'adattamento seriale di Icebreaker, best seller di Hannah Grace, presentato al Banff World Media Festival. Il progetto si inserisce nella linea di romance sportivi della piattaforma.",
+   "body": "Netflix porta sul proprio catalogo un nuovo romance sportivo: l'adattamento di Icebreaker, il romanzo di maggior successo di Hannah Grace. L'annuncio è arrivato il 15 giugno da Jinny Howe, responsabile delle serie scritte per Stati Uniti e Canada, durante il Banff World Media Festival.\n\nHowe ha ricordato la lunga tradizione della piattaforma nel trasformare romanzi d'amore popolari in grandi successi internazionali. Secondo OK Magazine, la serie andrà ad aggiungersi a questa linea editoriale. Al momento non sono stati comunicati dettagli su cast e data di uscita.",
+   "slug": "netflix-adatta-icebreaker-di-hannah-grace-romance-sportivo-8e1e94",
+   "tags": [
+    "Icebreaker",
+    "Hannah Grace",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "okmagazine.com",
+   "url": "https://okmagazine.com/p/netflix-icebreaker-adaptation-plot-cast-release-date/",
+   "published": "2026-11-16T05:05:00+00:00"
+  },
+  {
+   "id": "fc9bdd67a993",
+   "section": "tv",
+   "title": "GialappaShow, lunedì 16 novembre su TV8 con Pierpaolo Spollon",
+   "summary": "Lunedì 16 novembre dalle 21.30 va in onda il quinto appuntamento con il GialappaShow su TV8, Sky UNO e NOW. Alla conduzione c'è di nuovo il Mago Forest, affiancato da Pierpaolo Spollon.",
+   "body": "Il GialappaShow torna lunedì 16 novembre con il quinto appuntamento della stagione, in onda alle 21.30 su TV8, Sky UNO e NOW. Al timone resta il Mago Forest, che da otto stagioni è il protagonista assoluto del palco del programma.\n\nAccanto a lui, come da tradizione, cambia ogni puntata un ospite diverso, con coppie di conduzione spesso insolite. Per questo appuntamento la scelta è caduta su Pierpaolo Spollon, secondo quanto riportato da Dituttounpop.it, che anticipa anche le imitazioni previste nella serata.",
+   "slug": "gialappashow-lunedi-16-novembre-su-tv8-con-pierpaolo-spollon-fc9bdd",
+   "tags": [
+    "GialappaShow",
+    "Mago Forest",
+    "Pierpaolo Spollon"
+   ],
+   "scene": "tv",
+   "source": "dituttounpop.it",
+   "url": "https://www.dituttounpop.it/gialappashow-con-pierpaolo-spollon-il-16-novembre-le-imitazioni/",
+   "published": "2026-11-16T05:02:43+00:00"
+  },
+  {
+   "id": "0d3d8e31dcde",
+   "section": "cinema",
+   "title": "Governors Awards 2026: Zendaya, Florence Pugh e gli altri ospiti",
+   "summary": "La cerimonia dei Governors Awards 2026 ha premiato Glenn Close e Ridley Scott, con la partecipazione di Zendaya e Florence Pugh tra gli ospiti sul red carpet. Il evento ha riunito molti nomi del cinema hollywoodiano.",
+   "body": "Si è svolta la cerimonia dei Governors Awards 2026, l'evento con cui l'Academy celebra i premi onorari e il lavoro di personalità del cinema. Secondo Page Six, la serata ha onorato Glenn Close e Ridley Scott, mentre tra i partecipanti più fotografati figurano Zendaya e Florence Pugh.\n\nIl red carpet ha visto sfilare numerosi nomi di Hollywood, in un clima festoso e molto mondano. La fonte non riporta dettagli su discorsi, premi specifici o dichiarazioni degli ospiti, quindi la notizia si limita alla lista dei premiati e dei presenti più noti.",
+   "slug": "governors-awards-2026-zendaya-florence-pugh-e-gli-altri-ospi-0d3d8e",
+   "tags": [
+    "Governors Awards",
+    "Zendaya",
+    "Glenn Close"
+   ],
+   "scene": "tappeto",
+   "source": "pagesix.com",
+   "url": "https://pagesix.com/2026/11/15/photos/2026-governors-awards-zendaya-florence-pugh-more/",
+   "published": "2026-11-16T04:48:31+00:00"
+  },
+  {
    "id": "014ffc3521a3",
    "section": "musica",
    "title": "Jason Sudeikis e Hanna Waddingham cantano \"Islands in the Stream\"",
@@ -347,6 +414,23 @@
    "source": "collider.com",
    "url": "https://collider.com/shrinking-season-4-cast-harrison-ford-jillian-bell-dyllon-burnside/",
    "published": "2026-11-15T23:00:12+00:00"
+  },
+  {
+   "id": "b9cf0e80ab9c",
+   "section": "tv",
+   "title": "Jackson Olson: la fidanzata Maggie Sajak lo ha sostenuto durante Dancing with the Stars",
+   "summary": "Il giocatore dei Savannah Bananas Jackson Olson ha dichiarato che la fidanzata Maggie Sajak è stata decisiva per affrontare l'esperienza di Dancing with the Stars. Olson, 29 anni, ha partecipato alla 35ª stagione del programma.",
+   "body": "Jackson Olson, seconda base dei Savannah Bananas, ha raccontato che la fidanzata Maggie Sajak è stata la persona che gli ha permesso di affrontare la gara a Dancing with the Stars. Secondo quanto riportato da US Magazine, Olson ha dichiarato di non sapere come avrebbe fatto a vivere quell'esperienza da solo.\n\nOlson, 29 anni, ha partecipato alla 35ª stagione del celebre reality show di ballo della televisione americana. Il racconto del giocatore mette in evidenza il ruolo del sostegno personale in un percorso televisivo impegnativo, lontano dal campo da baseball in cui è più noto.",
+   "slug": "jackson-olson-la-fidanzata-maggie-sajak-lo-ha-sostenuto-dura-b9cf0e",
+   "tags": [
+    "Jackson Olson",
+    "Maggie Sajak",
+    "Dancing with the Stars"
+   ],
+   "scene": "tv",
+   "source": "usmagazine.com",
+   "url": "https://www.usmagazine.com/celebrity-news/news/dwts-jackson-olson-says-maggie-sajak-helped-him-survive-show/",
+   "published": "2026-11-15T22:56:07+00:00"
   },
   {
    "id": "d3cea95c13f3",
@@ -8272,108 +8356,9 @@
    "source": "gamesradar.com",
    "url": "https://www.gamesradar.com/entertainment/animation-shows/avatar-seven-havens-producer-says-the-animated-sequel-series-isnt-a-kids-show/",
    "published": "2026-11-13T12:08:12+00:00"
-  },
-  {
-   "id": "b6b7a3db4e87",
-   "section": "gossip",
-   "title": "GF Vip, Cesara Buonamici al centro delle polemiche sul web",
-   "summary": "Cesara Buonamici è finita al centro di una protesta sui social per una frase sul bullismo pronunciata durante il Grande Fratello Vip. Il web chiede provvedimenti nei suoi confronti.",
-   "body": "La concorrente del Grande Fratello Vip Cesara Buonamici è al centro di una forte ondata di critiche sui social network dopo una frase sul bullismo che molti utenti hanno giudicato inopportuna. Secondo BadTaste, il commento ha acceso la protesta del pubblico del web, con richieste di provvedimenti da parte del programma.\n\nIl materiale disponibile non riporta dettagli precisi sul contenuto esatto della frase né sulla risposta della produzione o della concorrente. Resta quindi da vedere se il caso avrà sviluppi all'interno della trasmissione, come una presa di posizione ufficiale o un intervento della conduzione.",
-   "slug": "gf-vip-cesara-buonamici-al-centro-delle-polemiche-sul-web-b6b7a3",
-   "tags": [
-    "Grande Fratello Vip",
-    "Cesara Buonamici"
-   ],
-   "scene": "palco",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/gf-vip-cesara-buonamici-travolta-dalle-polemiche-social-quella-frase-infelice-sul-bullismo-fa-discutere",
-   "published": "2026-11-13T12:05:35+00:00"
-  },
-  {
-   "id": "6c7cc877a024",
-   "section": "cinema",
-   "title": "Mariano Barroso torna al cinema con El niño, dal romanzo di Fernando Aramburu",
-   "summary": "Il regista spagnolo Mariano Barroso torna al lungometraggio dopo tredici anni dal suo ultimo film, Todas las mujeres. Il nuovo progetto, El niño, è tratto dall'omonimo romanzo di Fernando Aramburu.",
-   "body": "Il regista spagnolo Mariano Barroso torna dietro la macchina da presa per un lungometraggio a tredici anni di distanza da Todas las mujeres. Il nuovo film, intitolato El niño, è l'adattamento del romanzo omonimo dello scrittore Fernando Aramburu.\n\nSecondo Fotogramas, Barroso ha spiegato di aver scelto con cura il tono della storia, cercando di mostrare la materia del racconto nel modo più luminoso possibile. Il materiale disponibile non specifica ulteriori dettagli su cast, trama o data di uscita.",
-   "slug": "mariano-barroso-torna-al-cinema-con-el-nino-dal-romanzo-di-f-6c7cc8",
-   "tags": [
-    "Mariano Barroso",
-    "El niño",
-    "Fernando Aramburu"
-   ],
-   "scene": "pellicola",
-   "source": "fotogramas.es",
-   "url": "https://www.fotogramas.es/noticias-cine/a74421528/mariano-barroso-el-nino-fernando-aramburu-entrevista/",
-   "published": "2026-11-13T12:03:00+00:00"
-  },
-  {
-   "id": "49bfdb8b340d",
-   "section": "musica",
-   "title": "I Pinguini Tattici Nucleari suoneranno ad Arzachena per il Capodanno 2027",
-   "summary": "I Pinguini Tattici Nucleari saranno sul palco di Arzachena per la serata di Capodanno 2027. L'appuntamento si inserisce nella strategia di destagionalizzazione turistica con artisti di richiamo nazionale.",
-   "body": "Il gruppo bergamasco I Pinguini Tattici Nucleari si esibirà ad Arzachena, in Sardegna, in occasione del Capodanno 2027. Secondo ANSA, il concerto fa parte di una linea di programmazione che punta a prolungare la stagione turistica portando in località costiere artisti molto seguiti dal pubblico italiano.\n\nLa scelta di un nome di richiamo nazionale per la notte di fine anno conferma la volontà di far vivere la località anche fuori dal periodo estivo. Il materiale disponibile non riporta dettagli su orari, biglietti o programma della serata, che potranno essere verificati nei comunicati ufficiali dell'organizzazione.",
-   "slug": "i-pinguini-tattici-nucleari-suoneranno-ad-arzachena-per-il-c-49bfdb",
-   "tags": [
-    "I Pinguini Tattici Nucleari",
-    "Arzachena"
-   ],
-   "scene": "palco",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/i-pinguini-tattici-nucleari-sul-palco-di-arzachena-per-il-capodanno-2027_ecec0b72-e518-49f6-99e1-bcede0b4ff89.html",
-   "published": "2026-11-13T11:52:15+00:00"
-  },
-  {
-   "id": "e1d39b4dce20",
-   "section": "musica",
-   "title": "Ornella Vanoni, dai live alle Terme di Caracalla e agli Arcimboldi un nuovo album",
-   "summary": "Ornella Vanoni pubblica l'album Vivere il mio concerto più bello!, raccolta di registrazioni dal vivo degli ultimi concerti. Le performance provengono dalle Terme di Caracalla di Roma e dal Teatro degli Arcimboldi di Milano.",
-   "body": "Esce Vivere il mio concerto più bello!, nuovo album di Ornella Vanoni che raccoglie le registrazioni dal vivo degli ultimi concerti dell'artista. Il disco nasce dalle serate tenute alle Terme di Caracalla di Roma e al Teatro degli Arcimboldi di Milano, due dei palcoscenici che hanno accompagnato il suo tour più recente.\n\nIl titolo riprende l'idea di un ricordo affidato alla musica dal vivo, con la voce di Vanoni protagonista delle esecuzioni. Secondo ANSA, la pubblicazione chiude idealmente una stagione di concerti che ha attraversato l'Italia e restituisce al pubblico l'atmosfera delle serate nei due teatri, tra sala piena e interpretazioni dei brani più amati della cantante.",
-   "slug": "ornella-vanoni-dai-live-alle-terme-di-caracalla-e-agli-arcim-e1d39b",
-   "tags": [
-    "Ornella Vanoni",
-    "Terme di Caracalla",
-    "Teatro degli Arcimboldi"
-   ],
-   "scene": "vinile",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/13/gli-ultimi-live-della-vanoni-nellalbum-vivere-il-mio-concerto-piu_4697d775-79b4-4428-9666-50559636e1cf.html",
-   "published": "2026-11-13T11:51:30+00:00"
-  },
-  {
-   "id": "93621bd8e1c1",
-   "section": "tv",
-   "title": "Chiaroscuro, la nuova serie Netflix nella recensione di Dituttounpop",
-   "summary": "Chiaroscuro è la nuova serie italiana di Netflix, recensita da Dituttounpop come un racconto che riprende il modello di White Collar. Secondo la recensione, il prodotto riflette i ritmi della serialità da piattaforma, con musica continua e scene brevi.",
-   "body": "Chiaroscuro è la nuova serie italiana originale di Netflix. Secondo la recensione pubblicata da Dituttounpop, la produzione si presenta come un esempio dei linguaggi tipici della serialità da piattaforma: colonna sonora costante, scene brevi e un ritmo pensato per un pubblico che guarda anche il telefono.\n\nIl giudizio del recensore è critico. Il titolo parla di un White Collar alla carbonara, cioè di una imitazione della celebre serie americana resa in chiave italiana, e suggerisce che il risultato spinga lo spettatore ad accontentarsi. Per i dettagli su trama e personaggi rimandiamo alla fonte.",
-   "slug": "chiaroscuro-la-nuova-serie-netflix-nella-recensione-di-ditut-93621b",
-   "tags": [
-    "Chiaroscuro",
-    "White Collar",
-    "Netflix"
-   ],
-   "scene": "streaming",
-   "source": "dituttounpop.it",
-   "url": "https://www.dituttounpop.it/chiaroscuro-la-recensione-della-serie-tv-netflix-un-white-collar-alla-carbonara/",
-   "published": "2026-11-13T11:37:42+00:00"
   }
  ],
  "seen": [
-  "ef5a28e48efb",
-  "39f37aef6183",
-  "b4cf9c94a5ab",
-  "28703592ccd4",
-  "e1c2177ebdc7",
-  "57634232cfb3",
-  "f6ab01a6fba5",
-  "28bcf51ceca7",
-  "92871d29015e",
-  "2ec27e1fad74",
-  "dc1ac1a04b93",
-  "f8cd41bac4a8",
-  "265c1a8dd4d5",
-  "aca86f1d3fed",
-  "497b4e131388",
-  "bc614e4761a9",
   "db6bcbd197d7",
   "51b96659fb0b",
   "90db87c74715",
@@ -12357,7 +12342,23 @@
   "a9b127b3332f",
   "219fcebbd81d",
   "36041f18e803",
-  "a5f818551c00"
+  "a5f818551c00",
+  "c6ad6da638c3",
+  "9c00d1fd50c9",
+  "8e1e946c93c2",
+  "fc9bdd67a993",
+  "1b269447f0a9",
+  "d516dfae978d",
+  "531375082f0a",
+  "ee519eed0b50",
+  "0d3d8e31dcde",
+  "2d8f9f6bdd4b",
+  "ac5f4bd809ea",
+  "8c2821058079",
+  "2a86ba62d328",
+  "b9cf0e80ab9c",
+  "bf3084e82317",
+  "e49a05a3bfba"
  ],
  "version": 4,
  "digests": [
