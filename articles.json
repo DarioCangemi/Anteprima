@@ -1,6 +1,72 @@
 {
  "articles": [
   {
+   "id": "d0254da213b1",
+   "section": "cinema",
+   "title": "Whalefall esce dalla gran parte delle sale americane dopo un debutto deludente",
+   "summary": "Il thriller di sopravvivenza Whalefall, con Austin Abram, noto per Resident Evil, è stato ritirato da quasi tremila sale negli Stati Uniti dopo un incasso al botteghino sotto le attese. La notizia è riportata da Collider.",
+   "body": "Il thriller di sopravvivenza Whalefall, interpretato da Austin Abram, è stato tolto dalla programmazione di quasi tremila sale negli Stati Uniti. Secondo Collider, la decisione arriva dopo un'uscita al botteghino giudicata deludente, che ha spinto i distributori a ridurre drasticamente gli schermi.\n\nAbram è conosciuto dal pubblico soprattutto per la sua partecipazione alla saga di Resident Evil. Con questo film prova a conquistare il pubblico nel genere della sopravvivenza, ma i risultati commerciali non hanno rispettato le aspettative. Il ritiro quasi totale dalle sale americane lascia il film con una circolazione molto limitata nel mercato statunitense.",
+   "slug": "whalefall-esce-dalla-gran-parte-delle-sale-americane-dopo-un-d0254d",
+   "tags": [
+    "Whalefall",
+    "Austin Abram",
+    "Resident Evil"
+   ],
+   "scene": "sala",
+   "source": "collider.com",
+   "url": "https://collider.com/whalefall-austin-abrams-thriller-removed-from-3000-theaters-box-office-disaster/",
+   "published": "2026-11-16T21:15:12+00:00"
+  },
+  {
+   "id": "cac928801fba",
+   "section": "cinema",
+   "title": "Remain, il trailer completo del romance soprannaturale di M. Night Shyamalan",
+   "summary": "È uscito il trailer completo di Remain, il film diretto da M. Night Shyamalan su soggetto di Nicholas Sparks, con Jake Gyllenhaal e Phoebe Dynevor. La pellicola è un romance con elementi soprannaturali.",
+   "body": "È online il trailer completo di Remain, il nuovo film di M. Night Shyamalan tratto da un soggetto di Nicholas Sparks. Nei protagonisti Jake Gyllenhaal e Phoebe Dynevor, la storia unisce una storia d'amore al tema del soprannaturale, un territorio che il regista conosce bene dai suoi thriller più noti.\n\nSecondo JoBlo, il filmato anticipa soprattutto il lato sentimentale della vicenda, lasciando intuire la componente fantastica senza svelarne i dettagli. Il materiale promozionale non chiarisce ulteriormente la trama, che resta quindi in parte da scoprire al momento dell'uscita in sala.",
+   "slug": "remain-il-trailer-completo-del-romance-soprannaturale-di-m-n-cac928",
+   "tags": [
+    "Remain",
+    "M. Night Shyamalan",
+    "Jake Gyllenhaal"
+   ],
+   "scene": "pellicola",
+   "source": "joblo.com",
+   "url": "https://www.joblo.com/remain-trailer/",
+   "published": "2026-11-16T21:07:47+00:00"
+  },
+  {
+   "id": "e382e0897432",
+   "section": "tv",
+   "title": "Reasonable Doubt rinnovata per la quinta stagione su Hulu",
+   "summary": "Hulu ha confermato il rinnovo di Reasonable Doubt per una quinta stagione, prima del finale della quarta previsto per il 24 novembre. La quarta stagione è la più vista di sempre per la serie legal drama.",
+   "body": "Il legal drama Reasonable Doubt ha ottenuto il rinnovo per una quinta stagione su Hulu, annunciato in anticipo rispetto alla messa in onda del finale della quarta, previsto per il 24 novembre. La serie, partita in sordina, è diventata uno dei casi di successo della piattaforma.\n\nSecondo Deadline, la quarta stagione è la più vista di sempre per il programma, con un incremento a due cifre percentuali secondo i dati forniti da Hulu. Il rinnovo arriva quindi prima della conclusione della stagione in corso, segnale della fiducia della piattaforma nel progetto.",
+   "slug": "reasonable-doubt-rinnovata-per-la-quinta-stagione-su-hulu-e382e0",
+   "tags": [
+    "Reasonable Doubt",
+    "Hulu"
+   ],
+   "scene": "streaming",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/reasonable-doubt-renewed-season-5-season-4-ratings-hulu-1237225565/",
+   "published": "2026-11-16T21:00:26+00:00"
+  },
+  {
+   "id": "820a1cc79829",
+   "section": "tv",
+   "title": "GF Vip 9, nella diciannovesima puntata doppia eliminazione",
+   "summary": "La diciannovesima puntata del GF Vip 9, in onda lunedì 16 novembre su Canale 5, prevede una doppia eliminazione. La cronaca è stata seguita in diretta dalla testata Davide Maggio.",
+   "body": "Il GF Vip 9 arriva alla diciannovesima puntata con una serata che prevede una doppia eliminazione. Il appuntamento è previsto per lunedì 16 novembre su Canale 5, con il programma condotto in studio e seguito in diretta dal pubblico televisivo.\n\nSecondo Davide Maggio, la testata che ha seguito l'evento, la cronaca live della puntata accompagna i telespettatori minuto per minuto, con anche i video dei momenti più importanti della serata. Il materiale disponibile non indica però i nomi dei concorrenti coinvolti nelle due eliminazioni.",
+   "slug": "gf-vip-9-nella-diciannovesima-puntata-doppia-eliminazione-820a1c",
+   "tags": [
+    "GF Vip 9",
+    "Canale 5"
+   ],
+   "scene": "tv",
+   "source": "davidemaggio.it",
+   "url": "https://www.davidemaggio.it/grande-fratello/gf-vip-9-diretta-diciannovesima-puntata",
+   "published": "2026-11-16T20:45:00+00:00"
+  },
+  {
    "id": "f73c00f487a3",
    "section": "cinema",
    "title": "Remain, M. Night Shyamalan e Nicholas Sparks firmano un thriller soprannaturale",
@@ -237,6 +303,23 @@
    "published": "2026-11-16T19:09:51+00:00"
   },
   {
+   "id": "f14af8bd7ec4",
+   "section": "cinema",
+   "title": "Hugh Jackman irriconoscibile in Robin Hood - Il Prezzo del Sangue",
+   "summary": "Hugh Jackman interpreta un Robin Hood oscuro e irriconoscibile nel film diretto da Michael Sarnoski, disponibile su Prime Video. Per il ruolo l'attore si allontana dal personaggio di Wolverine.",
+   "body": "Hugh Jackman torna sul grande e piccolo schermo in una veste molto diversa da quella che lo ha reso celebre. Nel film Robin Hood - Il Prezzo del Sangue, diretto da Michael Sarnoski, l'attore interpreta un eroe cupo e reinventato, lontano dall'immagine del mutante artigliato che ha portato per anni nella saga degli X-Men.\n\nSecondo BadTaste, la trasformazione fisica e d'aspetto è tale da rendere l'interprete difficilmente riconoscibile. Il film è disponibile su Prime Video e propone una lettura più oscura della leggenda di Robin Hood, un personaggio che il pubblico conosce da generazioni e che qui viene riportato a una dimensione più dura e realistica.",
+   "slug": "hugh-jackman-irriconoscibile-in-robin-hood-il-prezzo-del-san-f14af8",
+   "tags": [
+    "Hugh Jackman",
+    "Michael Sarnoski",
+    "Robin Hood - Il Prezzo del Sangue"
+   ],
+   "scene": "streaming",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/dimenticate-wolverine-su-prime-video-hugh-jackman-irriconoscibile-nel-film-che-reinventa-una-leggenda",
+   "published": "2026-11-16T18:30:22+00:00"
+  },
+  {
    "id": "b6f784d24387",
    "section": "tv",
    "title": "CBS, palinsesto di metà stagione 2027: tornano Ghosts e Matlock",
@@ -367,6 +450,22 @@
    "source": "davidemaggio.it",
    "url": "https://www.davidemaggio.it/ballando-con-le-stelle/paolo-belli-torna-a-ballando-con-le-stelle",
    "published": "2026-11-16T17:47:53+00:00"
+  },
+  {
+   "id": "6a866f38f808",
+   "section": "tv",
+   "title": "Percy Jackson e gli dei dell'Olimpo: La maledizione del titano arriva su Disney+ il 20 novembre",
+   "summary": "La terza stagione di Percy Jackson e gli dei dell'Olimpo, intitolata La maledizione del titano, arriverà su Disney+ dal 20 novembre. I tre giovani protagonisti hanno raccontato come hanno vissuto la crescita dei loro personaggi e quali oggetti del set vorrebbero portarsi a casa.",
+   "body": "La serie Disney+ tratta dai romanzi di Rick Riordan torna con la sua terza stagione, dal titolo La maledizione del titano, che debutterà sulla piattaforma il 20 novembre. Secondo Movieplayer, i tre giovani protagonisti hanno parlato del percorso di crescita dei loro personaggi, che negli episodi si confrontano con prove sempre più difficili e responsabilità nuove.\n\nNel corso dell'intervista il cast ha anche svelato quali cimeli dal set gli piacerebbe conservare, raccontando con leggerezza il rapporto costruito con la produzione in questi anni. Il gruppo ha inoltre invitato gli spettatori a prestare attenzione all'ottavo episodio, lasciando intendere che al suo interno si nasconda un piccolo indizio ancora da scoprire.",
+   "slug": "percy-jackson-e-gli-dei-dell-olimpo-la-maledizione-del-titan-6a866f",
+   "tags": [
+    "Percy Jackson e gli dei dell'Olimpo",
+    "Disney+"
+   ],
+   "scene": "streaming",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/articoli/percy-jackson-3-intervista-walker-scobell-leah-sava-jeffries-aryan_38214/",
+   "published": "2026-11-16T17:35:00+00:00"
   },
   {
    "id": "b0ab03f6e738",
@@ -8266,133 +8365,9 @@
    "source": "collider.com",
    "url": "https://collider.com/alexander-skarsgard-wicker-removed-from-500-theaters/",
    "published": "2026-11-14T02:00:12+00:00"
-  },
-  {
-   "id": "b38d0fb0e2d3",
-   "section": "cinema",
-   "title": "Gunn smentisce le voci su riprese aggiuntive di Man of Tomorrow",
-   "summary": "James Gunn ha smentito le indiscrezioni secondo cui Skydance vorrebbe nuove riprese importanti per Man of Tomorrow, il seguito di Superman. La smentita arriva dopo la notizia dell'uscita di Gunn e Peter Safran dai vertici di DC Studios.",
-   "body": "James Gunn ha smentito sui social le notizie circolate il giorno precedente sul seguito di Superman, Man of Tomorrow. Il regista rompe così il silenzio dopo che si è diffusa la notizia del mancato rinnovo da parte di Skydance, sua e di Peter Safran, nel ruolo di co-responsabili di DC Studios. Secondo quanto riportato da Dark Horizons, la smentita riguarda il report originato da Nexus Point News, che parlava di grandi riprese aggiuntive volute da Skydance per il film e di alcune scene già previste.\n\nGunn ha quindi negato che ci siano piani in questo senso. Il materiale disponibile non chiarisce ulteriori dettagli sulla produzione del film né sui tempi di lavorazione. La vicenda si inserisce in un momento di cambiamenti ai vertici dello studio DC, che negli ultimi mesi ha ridefinito la propria strategia sui progetti legati ai supereroi.",
-   "slug": "gunn-smentisce-le-voci-su-riprese-aggiuntive-di-man-of-tomor-b38d0f",
-   "tags": [
-    "James Gunn",
-    "Man of Tomorrow",
-    "DC Studios"
-   ],
-   "scene": "ciak",
-   "source": "darkhorizons.com",
-   "url": "https://www.darkhorizons.com/gunn-denies-man-of-tomorrow-reshoot-talk/",
-   "published": "2026-11-14T01:49:37+00:00"
-  },
-  {
-   "id": "15798712b302",
-   "section": "gossip",
-   "title": "Christopher Walken con la moglie Georgianne sul red carpet al MoMA",
-   "summary": "Christopher Walken e la moglie Georgianne Walken sono apparsi insieme sul red carpet del MoMA Film Benefit di New York, un'uscita pubblica rara per la coppia. Le foto dell'evento sono state pubblicate da Hello! Magazine.",
-   "body": "Christopher Walken, attore premio Oscar noto per film come Il cacciatore e Pulp Fiction, si è fatto vedere in pubblico insieme alla moglie Georgianne, sposata da 57 anni. La coppia ha partecipato al red carpet del Museum of Modern Art Film Benefit di New York, dove i due si sono tenuti per mano davanti ai fotografi.\n\nSecondo Hello! Magazine, le apparizioni della coppia alle manifestazioni pubbliche sono molto rare, ed è per questo che le immagini dell'evento hanno attirato l'attenzione. Walken ha 83 anni e la sua presenza al MoMA è stata documentata in una serie di scatti pubblicati dalla rivista.",
-   "slug": "christopher-walken-con-la-moglie-georgianne-sul-red-carpet-a-157987",
-   "tags": [
-    "Christopher Walken",
-    "Georgianne Walken",
-    "MoMA Film Benefit"
-   ],
-   "scene": "tappeto",
-   "source": "hellomagazine.com",
-   "url": "https://www.hellomagazine.com/us/934994/christopher-walken-83-holds-hands-with-wife-of-57-years-during-rare-public-appearance/",
-   "published": "2026-11-14T01:37:57+00:00"
-  },
-  {
-   "id": "ae4630ee73bf",
-   "section": "tv",
-   "title": "Happy's Place, Reba McEntire anticipa il futuro di Bobbie e JB",
-   "summary": "Nell'episodio 4 della terza stagione di Happy's Place, Bobbie accetta un appuntamento con JB, interpretato da James Denton. Reba McEntire anticipa gli sviluppi della storia, mentre Melissa Peterman commenta le doti di seduzione di Gabby.",
-   "body": "Nell'episodio \"Love Birds\", quarto della terza stagione di Happy's Place, il locale di Bobbie riceve un nuovo possibile interesse sentimentale: il cliente JB, interpretato da James Denton. Al suo arrivo si scatena l'attenzione di Gabby, interpretata da Melissa Peterman, che si presenta con qualche richiamo alle sue doti ginniche e con una mossa sbagliata che la lascia zoppicante. Secondo TV Insider, la serie prosegue quindi su un terreno più romantico, con Bobbie che accetta di uscire con lui.\n\nReba McEntire, secondo la stessa fonte, ha anticipato cosa attende i personaggi nelle prossime puntate. Melissa Peterman, invece, ha commentato il modo in cui Gabby cerca di conquistare il nuovo arrivato, un momento che ha portato un po' di leggerezza nell'episodio. Per i dettagli sugli sviluppi futuri della storia, il riferimento resta l'intervista completa pubblicata dalla testata.",
-   "slug": "happy-s-place-reba-mcentire-anticipa-il-futuro-di-bobbie-e-j-ae4630",
-   "tags": [
-    "Happy's Place",
-    "Reba McEntire",
-    "James Denton"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1303727/happys-place-season-3-reba-mcentire-james-denton-melissa-peterman-bobbie-jb-date/",
-   "published": "2026-11-14T01:30:59+00:00"
-  },
-  {
-   "id": "350a8e26c30f",
-   "section": "cinema",
-   "title": "Brad Pitt, Heart of the Beast arriva in digitale dopo il ritiro dalle sale",
-   "summary": "Il thriller di sopravvivenza Heart of the Beast, con Brad Pitt, è disponibile in versione digitale dopo essere stato rimosso da circa 2.500 sale. Il film aveva ottenuto un buon riscontro al botteghino nonostante la distribuzione limitata.",
-   "body": "Il thriller di sopravvivenza Heart of the Beast, interpretato da Brad Pitt, è ora disponibile in versione digitale. La decisione arriva dopo che il film è stato tolto dalla programmazione di circa 2.500 sale cinematografiche, secondo quanto riporta Collider.\n\nIl titolo era diventato un successo inatteso, soprattutto per il pubblico che lo ha seguito in sala nelle ultime settimane. Il passaggio al digitale permette ora agli spettatori di vederlo comodamente da casa, a distanza di poco tempo dall'uscita nelle sale.",
-   "slug": "brad-pitt-heart-of-the-beast-arriva-in-digitale-dopo-il-riti-350a8e",
-   "tags": [
-    "Brad Pitt",
-    "Heart of the Beast"
-   ],
-   "scene": "pellicola",
-   "source": "collider.com",
-   "url": "https://collider.com/brad-pitt-heart-of-the-beast-removed-from-2500-theaters/",
-   "published": "2026-11-14T01:16:12+00:00"
-  },
-  {
-   "id": "bd40ce5a53dd",
-   "section": "gossip",
-   "title": "Eve Plumb, star di The Brady Bunch, torna sul red carpet a New York",
-   "summary": "Eve Plumb, interprete di Jan nella serie The Brady Bunch, è apparsa di rado sul red carpet a New York l'11 novembre 2026, a 68 anni. La sitcom si è conclusa 52 anni fa.",
-   "body": "Eve Plumb è apparsa sul red carpet di New York l'11 novembre 2026, in un'occasione rara per l'attrice, oggi 68enne. Secondo Hello! Magazine, l'ex protagonista di The Brady Bunch si è presentata con un elegante completo pantalone rosso su misura, che ha attirato l'attenzione dei fotografi presenti.\n\nLa serie, nella quale Plumb interpretava Jan Brady, si è conclusa 52 anni fa ed è rimasta molto amata dal pubblico, anche grazie alle repliche e ai revival nel corso dei decenni. La notizia è stata riportata dalla testata come un ritorno sotto i riflettori per una delle figure più note della famiglia Brady.",
-   "slug": "eve-plumb-star-di-the-brady-bunch-torna-sul-red-carpet-a-new-bd40ce",
-   "tags": [
-    "Eve Plumb",
-    "The Brady Bunch"
-   ],
-   "scene": "tappeto",
-   "source": "hellomagazine.com",
-   "url": "https://www.hellomagazine.com/film/934993/the-brady-bunch-eve-plumb-rare-red-carpet-appearance/",
-   "published": "2026-11-14T01:11:31+00:00"
-  },
-  {
-   "id": "d4c26b8fb59a",
-   "section": "cinema",
-   "title": "Jason Voorhees diventa animazione in Never Hike Alone: Ghosts in the Fog",
-   "summary": "Womp Stomp Films ha diffuso il nuovo cortometraggio dedicato a Jason Voorhees, intitolato Never Hike Alone: Ghosts in the Fog, con uno stile d'animazione. Il corto è disponibile online per la visione.",
-   "body": "La casa di produzione Womp Stomp Films ha reso disponibile il suo ultimo cortometraggio dedicato a Jason Voorhees, il celebre killer della saga di Venerdì 13. Il titolo è Never Hike Alone: Ghosts in the Fog, e la novità principale è il ricorso all'animazione, che segna un cambio di tecnica rispetto ai precedenti lavori della serie.\n\nSecondo Dread Central, il corto può essere guardato subito online. La notizia arriva da una testata specializzata nel cinema horror, che ha segnalato il lancio e invitato il pubblico alla visione. Al momento non sono disponibili ulteriori dettagli su trama, durata o eventuali sviluppi futuri del progetto.",
-   "slug": "jason-voorhees-diventa-animazione-in-never-hike-alone-ghosts-d4c26b",
-   "tags": [
-    "Jason Voorhees",
-    "Womp Stomp Films",
-    "Never Hike Alone: Ghosts in the Fog"
-   ],
-   "scene": "streaming",
-   "source": "dreadcentral.com",
-   "url": "https://www.dreadcentral.com/news/597762/jason-takes-animation-in-never-hike-alone-ghosts-in-the-fog-watch-the-new-short-now/",
-   "published": "2026-11-14T01:03:46+00:00"
   }
  ],
  "seen": [
-  "2234a0ab5893",
-  "60d9460fbd32",
-  "ecadea1dfb69",
-  "52817b438edb",
-  "d814a43a2146",
-  "535a353d556b",
-  "c3a440f595b2",
-  "244145c7860e",
-  "7a7421f10618",
-  "c1f5dc0c617e",
-  "74ca7ad3566a",
-  "c1f04f5604c3",
-  "4fa881e14034",
-  "66fd4cdc7f82",
-  "e90ec5e792cb",
-  "d6315b9f9c32",
-  "eacad9a6c701",
-  "5d604993f2e6",
-  "e68a6bc6ef7d",
-  "724142e9efd8",
-  "58ab071f80dd",
-  "52a5ac94511a",
-  "e7bac5c9d0f9",
-  "9af239643e13",
   "e3b83741615f",
   "3d2e8e7d1c63",
   "1112e61a58f3",
@@ -12368,7 +12343,31 @@
   "7e250cd9beaa",
   "3210a1405f41",
   "066fc43a8e7a",
-  "273a0f0de810"
+  "273a0f0de810",
+  "992da3c8f3bb",
+  "113dcb71f7f7",
+  "98251f361414",
+  "fdabdbb34fef",
+  "d0254da213b1",
+  "1b03a9decdee",
+  "9f17dfbca0c3",
+  "f2f4524372a1",
+  "e0f05bba1cf1",
+  "5a51c0879680",
+  "820a1cc79829",
+  "f14af8bd7ec4",
+  "cac928801fba",
+  "74fdd8529172",
+  "4efc1178bc75",
+  "39ffd621cbcc",
+  "1ff2e9b031f0",
+  "2aa36c3a535f",
+  "e382e0897432",
+  "d8d605846b3e",
+  "070304057c4a",
+  "bd02f56278b8",
+  "6a866f38f808",
+  "0afb0f750149"
  ],
  "version": 4,
  "digests": [
