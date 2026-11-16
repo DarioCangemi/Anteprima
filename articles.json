@@ -1,6 +1,22 @@
 {
  "articles": [
   {
+   "id": "94a07324fa98",
+   "section": "tv",
+   "title": "Ade Adepitan: il campo di I'm A Celebrity più accessibile di Londra",
+   "summary": "Ade Adepitan, concorrente di I'm A Celebrity... Get Me Out of Here!, ha dichiarato al Daily Mail che il campo nella giungla è stato adattato alle sue esigenze e risulta più accessibile di molte case in cui ha vissuto. Ha anche parlato del desiderio di vedere il figlio in gara a Cyclone.",
+   "body": "Il campo di I'm A Celebrity... Get Me Out of Here! è stato modificato su misura per Ade Adepitan, ex campione paralimpico di basket in carrozzina, che usa la sedia a rotelle. Secondo quanto riportato dal Daily Mail, il presentatore ha affermato che la giungla è oggi più facile da attraversare di molte delle case in cui ha abitato, arrivando a dire che è più accessibile di Londra.\n\nNella stessa intervista Adepitan ha anche raccontato un suo obiettivo legato alla famiglia: vorrebbe che il figlio partecipasse a Cyclone, la sfida di corsa a ostacoli del programma britannico. Il materiale disponibile non specifica altri dettagli sulle modifiche apportate al campo o sui tempi del progetto.",
+   "slug": "ade-adepitan-il-campo-di-i-m-a-celebrity-piu-accessibile-di-94a073",
+   "tags": [
+    "I'm A Celebrity... Get Me Out of Here!",
+    "Ade Adepitan"
+   ],
+   "scene": "tv",
+   "source": "dailymail.co.uk",
+   "url": "https://www.dailymail.com/tvshowbiz/article-16294111/Ade-Adepitan-says-Im-Celebrity-jungle-accessible-London-bespoke-changes-reveals-Cyclone-ambition-son.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "published": "2026-11-16T01:42:26+00:00"
+  },
+  {
    "id": "36e9ec5bc95b",
    "section": "cinema",
    "title": "James Mangold, il thriller in stile Agatha Christie lascia lo streaming gratuito",
@@ -8332,41 +8348,9 @@
    "source": "Box Office Biz",
    "url": "https://boxofficebiz.it/news/disney-svela-i-piani-per-il-50-anniversario-di-star-wars/",
    "published": "2026-11-13T09:25:45+00:00"
-  },
-  {
-   "id": "1db533ddf711",
-   "section": "cinema",
-   "title": "L'estranea di Paolo Strippoli avrà un remake americano",
-   "summary": "New Line Cinema ha acquisito i diritti di L'estranea, il film di Paolo Strippoli in corsa per la candidatura all'Oscar. La società si occuperà anche della distribuzione in Nordamerica e in Asia.",
-   "body": "New Line Cinema ha acquisito i diritti di L'estranea, il film diretto da Paolo Strippoli che è tra i titoli in corsa per la candidatura all'Oscar. Il progetto darà quindi origine a un remake americano, con la casa di produzione statunitense che seguirà il film anche nella sua diffusione commerciale.\n\nSecondo Cinematografo, New Line Cinema curerà l'uscita nelle sale del Nordamerica e dell'Asia. L'operazione conferma l'interesse di Hollywood per il cinema di genere italiano, in un momento in cui il lavoro di Strippoli attira l'attenzione internazionale. Non sono stati resi noti, nel materiale disponibile, né la data di uscita né il cast del remake.",
-   "slug": "l-estranea-di-paolo-strippoli-avra-un-remake-americano-1db533",
-   "tags": [
-    "L'estranea",
-    "Paolo Strippoli",
-    "New Line Cinema"
-   ],
-   "scene": "pellicola",
-   "source": "Cinematografo",
-   "url": "https://www.cinematografo.it/riflettori/lestranea-avra-un-remake-americano-icirrhw7",
-   "published": "2026-11-13T09:14:28+00:00"
   }
  ],
  "seen": [
-  "ac567f7edc9d",
-  "72b89e36bdf4",
-  "1fba5ea4e098",
-  "f4d9bd2dac2e",
-  "a77b587b879f",
-  "0654c16ba192",
-  "eece446e073d",
-  "02f242a67417",
-  "77532cf6bb4e",
-  "8405e547df37",
-  "5460dc7570c3",
-  "9e6bd2bac462",
-  "fe71b6d10a3e",
-  "c7e851842f00",
-  "ce8f183163b0",
   "0dc48e44c38d",
   "9c0468917311",
   "36c47b0ebf93",
@@ -12351,7 +12335,22 @@
   "4ecfa8716792",
   "c1d2423e9669",
   "7cd16379a435",
-  "b7e100d2411e"
+  "b7e100d2411e",
+  "8f03f29775cd",
+  "e56669511c2f",
+  "94a07324fa98",
+  "423fdc35b597",
+  "19e0decd8d33",
+  "4da71f94567d",
+  "9252dffc2e96",
+  "0d38b39bbef9",
+  "6a84c2e3c81a",
+  "0275feeba862",
+  "fa41031ac144",
+  "8744ff692f32",
+  "3a645eb2b1c8",
+  "54b04a95538f",
+  "0811e0ffe7e0"
  ],
  "version": 4,
  "digests": [
