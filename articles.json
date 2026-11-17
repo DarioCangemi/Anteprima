@@ -1,6 +1,55 @@
 {
  "articles": [
   {
+   "id": "ee75238755dd",
+   "section": "cinema",
+   "title": "The Debut, Jesse Eisenberg presenta il suo nuovo film con un promo",
+   "summary": "A24 ha diffuso un nuovo featurette promozionale di The Debut, commedia musicale scritta e diretta da Jesse Eisenberg. Il film, dopo le anteprime a Telluride, TIFF e NYFF, arriverà nelle sale a dicembre.",
+   "body": "A24 ha diffuso un nuovo featurette promozionale di The Debut, il film con cui Jesse Eisenberg torna alla regia dopo A Real Pain, per il quale aveva ricevuto candidature agli Oscar. La commedia musicale racconta il mondo del teatro amatoriale di periferia e segue una casalinga timida che, scelta per una produzione locale di un musical originale, si immerge nel ruolo fino a diventare una attrice di metodo.\n\nNel cast figurano Julianne Moore come protagonista, Paul Giamatti nei panni del regista, insieme a Halle Bailey, Havana Rose Liu, Colton Ryan, Lilli Cooper e Maulik Pancholy. Secondo quanto riportato da firstshowing.net, il film è stato presentato in anteprima a Telluride, al TIFF e al New York Film Festival, e uscirà in sala a dicembre.",
+   "slug": "the-debut-jesse-eisenberg-presenta-il-suo-nuovo-film-con-un-ee7523",
+   "tags": [
+    "The Debut",
+    "Jesse Eisenberg",
+    "Julianne Moore"
+   ],
+   "scene": "premiere",
+   "source": "firstshowing.net",
+   "url": "https://www.firstshowing.net/2026/watch-jesse-eisenberg-chats-with-his-cast-about-making-the-debut/",
+   "published": "2026-11-17T22:18:51+00:00"
+  },
+  {
+   "id": "b9cf1339656f",
+   "section": "tv",
+   "title": "Boston Blue torna nel 2027 con Donnie Wahlberg",
+   "summary": "Lo spin-off di Blue Bloods, Boston Blue, ha una data ufficiale di ritorno nel 2027. Il personaggio interpretato da Donnie Wahlberg, Danny Reagan, tornerà in onda dopo la pausa invernale.",
+   "body": "Lo spin-off di Blue Bloods, intitolato Boston Blue, ha ufficialmente fissato la data del suo ritorno: la nuova stagione arriverà nel 2027. Secondo Collider, la serie riprenderà la messa in onda dopo la pausa invernale, riportando sul piccolo schermo Donnie Wahlberg nel ruolo di Danny Reagan.\n\nIl ritorno del personaggio di Wahlberg è uno dei punti centrali dell'annuncio, dato che il suo volto è il legame principale con la serie madre. Il materiale disponibile non specifica ulteriori dettagli su trama, cast o mese preciso di debutto.",
+   "slug": "boston-blue-torna-nel-2027-con-donnie-wahlberg-b9cf13",
+   "tags": [
+    "Boston Blue",
+    "Blue Bloods",
+    "Donnie Wahlberg"
+   ],
+   "scene": "tv",
+   "source": "collider.com",
+   "url": "https://collider.com/boston-blue-season-2-return-date-cbs-january-15-2027/",
+   "published": "2026-11-17T22:17:31+00:00"
+  },
+  {
+   "id": "a7c500fce631",
+   "section": "tv",
+   "title": "Gilmore Girls, un documentario non autorizzato riunisce sette attori della serie",
+   "summary": "È disponibile un nuovo documentario non autorizzato dedicato a Gilmore Girls, con sette attori della serie originale che tornano a parlare dello show. Otto interpreti, secondo la notizia, non hanno partecipato al progetto.",
+   "body": "È disponibile un nuovo documentario dedicato a Gilmore Girls, realizzato senza l'autorizzazione dei titolari dei diritti. Nel film sette attori della serie originale tornano a raccontare il programma, a distanza di anni dalla fine della messa in onda.\n\nSecondo Just Jared, otto interpreti della serie non hanno preso parte al documentario. La notizia non specifica i motivi dell'assenza né il titolo completo del progetto, quindi il quadro resta limitato alle informazioni disponibili.",
+   "slug": "gilmore-girls-un-documentario-non-autorizzato-riunisce-sette-a7c500",
+   "tags": [
+    "Gilmore Girls"
+   ],
+   "scene": "tv",
+   "source": "justjared.com",
+   "url": "https://www.justjared.com/2026/11/17/7-gilmore-girls-stars-appear-in-new-unauthorized-documentary-but-these-8-stars-did-not-return/",
+   "published": "2026-11-17T22:11:43+00:00"
+  },
+  {
    "id": "f300b95e3be2",
    "section": "cinema",
    "title": "Star Trek, torna la linea temporale Kelvin con una nuova raccolta di fumetti",
@@ -16,6 +65,22 @@
    "source": "collider.com",
    "url": "https://collider.com/star-trek-kelvin-timeline-returns-idw-comic-collection/",
    "published": "2026-11-17T22:10:36+00:00"
+  },
+  {
+   "id": "c0318f9c988d",
+   "section": "gossip",
+   "title": "Vogue Williams mostra la casa dei sogni in ristrutturazione con Spencer Matthews",
+   "summary": "Vogue Williams ha mostrato un nuovo scorcio della casa dei sogni che condivide con il marito Spencer Matthews, ancora in fase di ristrutturazione. La presentatrice irlandese ha precisato che nessuna stanza sara' lussuosa.",
+   "body": "Vogue Williams ha condiviso un nuovo sguardo all'interno della casa che lei e Spencer Matthews stanno sistemando, descritta come la loro casa dei sogni. I lavori sono ancora in corso e la coppia ha mostrato alcuni ambienti in via di completamento.\n\nSecondo il Daily Mail, la conduttrice ha però voluto chiarire che nessuna delle stanze avra' un aspetto ricercato o sfarzoso. Una precisazione che sottolinea uno stile di arredo pensato per la vita quotidiana più che per l'ostentazione.",
+   "slug": "vogue-williams-mostra-la-casa-dei-sogni-in-ristrutturazione-c0318f",
+   "tags": [
+    "Vogue Williams",
+    "Spencer Matthews"
+   ],
+   "scene": "ciak",
+   "source": "dailymail.co.uk",
+   "url": "https://www.dailymail.com/tvshowbiz/article-16300687/Vogue-Williams-gives-glimpse-inside-dream-home.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "published": "2026-11-17T22:10:06+00:00"
   },
   {
    "id": "a57684436ecc",
@@ -83,6 +148,22 @@
    "scene": "palco",
    "source": "denofgeek.com",
    "url": "https://www.denofgeek.com/games/fantasy-realms-collide-dungeons-dragons-world-of-warcraft/",
+   "published": "2026-11-17T22:00:00+00:00"
+  },
+  {
+   "id": "67f80c37409b",
+   "section": "tv",
+   "title": "Kate Berlant e lo special HBO Parmesan: \"un'esperienza profondamente scomoda\"",
+   "summary": "La comica statunitense Kate Berlant presenta il suo nuovo special stand-up per HBO, intitolato Parmesan. In un'intervista ne ha spiegato il motivo per cui il lavoro le è sembrato profondamente scomodo da realizzare.",
+   "body": "La comica statunitense Kate Berlant torna con un nuovo special stand-up per HBO, dal titolo Parmesan. Secondo quanto riportato da Decider, l'artista si mette a nudo nello spettacolo, mostrando un lato molto personale del suo lavoro sul palco.\n\nIn un'intervista, Berlant ha spiegato di aver trovato il processo di realizzazione profondamente scomodo, definizione che ha scelto per descrivere il rapporto con il materiale presentato. Il materiale ricevuto non chiarisce ulteriori dettagli sui temi affrontati nello special.",
+   "slug": "kate-berlant-e-lo-special-hbo-parmesan-un-esperienza-profond-67f80c",
+   "tags": [
+    "Kate Berlant",
+    "Parmesan"
+   ],
+   "scene": "palco",
+   "source": "decider.com",
+   "url": "https://decider.com/2026/11/17/kate-berlant-comedy-special-comedian-talks-parmesan-on-hbo-max/",
    "published": "2026-11-17T22:00:00+00:00"
   },
   {
@@ -1888,6 +1969,23 @@
    "published": "2026-11-17T11:35:03+00:00"
   },
   {
+   "id": "1ba34a02e35b",
+   "section": "gossip",
+   "title": "Ballando con le Stelle, Zazzaroni replica a Mariotto e a Selvaggia Lucarelli",
+   "summary": "Ivan Zazzaroni ha risposto alle definizioni \"Peace and Love\" e \"finto prete\" rivoltegli da Mariotto, invitando il collega a ricordare di far parte del gruppo di Rai 1. Il giornalista ha poi chiarito la propria posizione dopo lo scambio sui social con Selvaggia Lucarelli.",
+   "body": "Ivan Zazzaroni è intervenuto nella polemica nata a Ballando con le Stelle, rispondendo alle definizioni \"Peace and Love\" e \"finto prete\" che gli sono state rivolte. Il giornalista ha invitato il collega Mariotto a ricordare che entrambi fanno parte del gruppo di Rai 1, sottolineando il clima di lavoro condiviso con la trasmissione.\n\nZazzaroni ha inoltre chiarito la propria posizione dopo lo scambio avuto sui social con Selvaggia Lucarelli. Secondo quanto riportato da Movieplayer, il giornalista ha voluto mettere in chiaro le sue opinioni, senza aggiungere ulteriori dettagli sul confronto con la giornalista.",
+   "slug": "ballando-con-le-stelle-zazzaroni-replica-a-mariotto-e-a-selv-1ba34a",
+   "tags": [
+    "Ballando con le Stelle",
+    "Ivan Zazzaroni",
+    "Selvaggia Lucarelli"
+   ],
+   "scene": "tv",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/news/ballando-zazzaroni-replica-mariotto-selvaggia-lucarelli_172008/",
+   "published": "2026-11-17T11:23:33+00:00"
+  },
+  {
    "id": "84fe7318b447",
    "section": "cinema",
    "title": "Mark Hamill ricorda le minacce dei dirigenti di Star Wars sul segreto del finale",
@@ -2017,6 +2115,57 @@
    "source": "collider.com",
    "url": "https://collider.com/i-play-rocky-box-office-boost-4x-more-theaters/",
    "published": "2026-11-17T11:00:12+00:00"
+  },
+  {
+   "id": "2a18d303cd64",
+   "section": "tv",
+   "title": "Paolo Sorrentino scrive e dirige una serie su Tony Pagoda per Netflix",
+   "summary": "Paolo Sorrentino firma per Netflix una serie dedicata al personaggio di Tony Pagoda, descritto come complesso e sfaccettato. Il progetto è accolto con entusiasmo dalla critica come segnale di rinnovamento della serialità italiana.",
+   "body": "Paolo Sorrentino scrive e dirige per Netflix una nuova serie che ha come protagonista Tony Pagoda, personaggio al centro del racconto. Secondo Movieplayer, il progetto si distingue per una figura descritta come ammaccata, complessa e dai molti lati, in grado di sostenere una narrazione ampia.\n\nLa notizia è stata accolta con entusiasmo da chi segue la serialità italiana, che vede nel lavoro del regista napoletano un possibile segnale di rilancio per il settore. Al momento il materiale disponibile non riporta dettagli su cast, data di uscita o struttura degli episodi.",
+   "slug": "paolo-sorrentino-scrive-e-dirige-una-serie-su-tony-pagoda-pe-2a18d3",
+   "tags": [
+    "Paolo Sorrentino",
+    "Tony Pagoda",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/news/paolo-sorrentino-tony-pagoda-serie-netflix_172006/",
+   "published": "2026-11-17T10:52:41+00:00"
+  },
+  {
+   "id": "7758284569c4",
+   "section": "cinema",
+   "title": "Ocean's 14, Brad Pitt suggerisce tempi vicini per le riprese",
+   "summary": "Sul red carpet di Le Nuove Disavventure di Cliff Booth, Brad Pitt ha indicato un periodo possibile per il primo ciak di Ocean's 14, il seguito della saga con George Clooney e Matt Damon. La notizia è riportata da ComingSoon.",
+   "body": "Durante il red carpet di Le Nuove Disavventure di Cliff Booth, Brad Pitt ha parlato del possibile quattordicesimo capitolo della saga di Ocean, indicando un periodo in cui potrebbero iniziare le riprese. Secondo ComingSoon, l'attore ha lasciato intendere che il primo ciak non sarebbe lontano, sottolineando il legame con i colleghi storici George Clooney e Matt Damon.\n\nIl progetto, che riunirebbe il gruppo di attori dei film precedenti, non ha ancora una data ufficiale di inizio lavorazioni. Le dichiarazioni di Pitt arrivano quindi come un'indicazione generale, senza ulteriori dettagli su cast completo, trama o produzione.",
+   "slug": "ocean-s-14-brad-pitt-suggerisce-tempi-vicini-per-le-riprese-775828",
+   "tags": [
+    "Ocean's 14",
+    "Brad Pitt",
+    "George Clooney"
+   ],
+   "scene": "tappeto",
+   "source": "ComingSoon",
+   "url": "https://www.comingsoon.it/cinema/news/ocean-s-14-l-inizio-delle-riprese-non-e-cosi-lontano-parola-di-brad-pitt/n236032/",
+   "published": "2026-11-17T10:49:00+00:00"
+  },
+  {
+   "id": "48ea08b5a646",
+   "section": "cinema",
+   "title": "Irène Jacob: nel cinema di Kieślowski le domande contano più delle risposte",
+   "summary": "L'attrice franco-svizzera Irène Jacob, a Roma per presentare La doppia vita di Veronica, riceve il Cinematografo Award. Nel corso dell'incontro ha parlato del rapporto con il cinema di Krzysztof Kieślowski.",
+   "body": "L'attrice Irène Jacob è stata a Roma per presentare La doppia vita di Veronica, il film di Krzysztof Kieślowski in cui interpretava il ruolo di Weronika ed Veronika. Durante la sua permanenza ha ricevuto il Cinematografo Award, premio con cui la rivista Cinematografo la celebra come icona luminosa e magnetica del cinema europeo.\n\nSecondo Cinematografo, Jacob ha spiegato che nel cinema di Kieślowski le domande hanno più valore delle risposte, un'idea che attraversa l'intera opera del regista polacco. Il riconoscimento sottolinea la grazia, l'intensità e la profondità spirituale che l'attrice ha portato sullo schermo.",
+   "slug": "irene-jacob-nel-cinema-di-kieslowski-le-domande-contano-piu-48ea08",
+   "tags": [
+    "Irène Jacob",
+    "La doppia vita di Veronica",
+    "Krzysztof Kieślowski"
+   ],
+   "scene": "premiere",
+   "source": "Cinematografo",
+   "url": "https://www.cinematografo.it/riflettori/irene-jacob-nel-cinema-di-kieslowski-le-domande-sono-piu-importanti-delle-risposte-h14xsbvq",
+   "published": "2026-11-17T10:24:55+00:00"
   },
   {
    "id": "30461dd3ff1c",
@@ -2165,6 +2314,23 @@
    "source": "Cinefilos",
    "url": "https://cinefilos.it/tutto-film/approfondimenti/odissea-uscita-digitale-christopher-nolan-sale-731285",
    "published": "2026-11-17T09:19:59+00:00"
+  },
+  {
+   "id": "76af384821f9",
+   "section": "cinema",
+   "title": "Il Morandini 2026 presentato al Pop Up Cinema Jolly di Bologna",
+   "summary": "Il 19 novembre torna l'annuario Il Morandini 2026, presentato in anteprima al Pop Up Cinema Jolly di Bologna con l'autrice Luisa Morandini. La serata prosegue con la proiezione del film La Ballata del Re delle Api.",
+   "body": "Il Morandini, l'annuario del cinema curato da Luisa Morandini, torna con l'edizione 2026. La nuova uscita sarà presentata in anteprima mercoledì 19 novembre al Pop Up Cinema Jolly di Bologna, alla presenza dell'autrice.\n\nSecondo ANSA, la serata si chiuderà con la proiezione del film La Ballata del Re delle Api, a conferma del legame tra la presentazione del volume e la programmazione della sala. Per l'appuntamento non sono indicati altri dettagli sul programma.",
+   "slug": "il-morandini-2026-presentato-al-pop-up-cinema-jolly-di-bolog-76af38",
+   "tags": [
+    "Il Morandini",
+    "Luisa Morandini",
+    "La Ballata del Re delle Api"
+   ],
+   "scene": "sala",
+   "source": "ANSA Cinema",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/17/torna-il-morandini-2026-anteprima-dellannuario-al-pop-up-cinema-jolly-di-bologna_fb81e0e5-288c-4372-b139-7a9adc41f6a3.html",
+   "published": "2026-11-17T09:18:11+00:00"
   },
   {
    "id": "dd37709bb69b",
@@ -8183,201 +8349,9 @@
    "source": "Cinefilos",
    "url": "https://cinefilos.it/serie-tv/approfondimento/the-gilded-age-downton-abbey-730954",
    "published": "2026-11-15T12:34:47+00:00"
-  },
-  {
-   "id": "458e55aa7a8d",
-   "section": "cinema",
-   "title": "Un attore della saga di Indiana Jones critica Il quadrante del destino",
-   "summary": "Un interprete dei primi film della saga di Indiana Jones ha espresso una valutazione negativa sul quinto capitolo, Indiana Jones e il quadrante del destino, diretto da James Mangold. Secondo quanto riportato, il film ha incassato 384 milioni di dollari a fronte di un budget di 419 milioni.",
-   "body": "Un attore già presente nei primi capitoli della saga di Indiana Jones ha criticato Indiana Jones e il quadrante del destino, diretto da James Mangold. Secondo ecranlarge.com, l'interprete non ha apprezzato il film e ha spiegato le ragioni del suo giudizio, che la fonte riporta come dettagliate nell'intervista originale.\n\nSul fronte commerciale il quinto episodio ha deluso le attese della Walt Disney. Il film ha incassato 384 milioni di dollari al box office, a fronte di un budget di 419 milioni. Il dato spiega perché la pellicola sia considerata un insuccesso economico, pur restando una delle produzioni più attese dell'anno per i fan della serie.",
-   "slug": "un-attore-della-saga-di-indiana-jones-critica-il-quadrante-d-458e55",
-   "tags": [
-    "Indiana Jones",
-    "James Mangold",
-    "Walt Disney"
-   ],
-   "scene": "proiettore",
-   "source": "ecranlarge.com",
-   "url": "https://www.ecranlarge.com/films/news/indiana-jones-5-ce-comedien-naime-pas-pourquoi",
-   "published": "2026-11-15T12:15:00+00:00"
-  },
-  {
-   "id": "32d00b1a16a0",
-   "section": "tv",
-   "title": "Reacher 5, nel cast Ari Stidham nel ruolo di un boss di locali notturni",
-   "summary": "La quinta stagione di Reacher ha ufficializzato l'ingresso nel cast di Ari Stidham, noto per Scorpion. L'attore interpreterà un uomo d'affari poco raccomandabile che gestisce un locale nel deserto.",
-   "body": "La quinta stagione di Reacher ha un nuovo volto nel cast. Secondo Collider, Ari Stidham, già protagonista della serie Scorpion, è stato ufficialmente scelto per interpretare un nuovo personaggio: un boss dei locali notturni dai metodi discutabili.\n\nIl suo personaggio è descritto come un uomo d'affari ambiguo che opera da un night club situato in pieno deserto. Il ruolo si inserisce nella linea narrativa della serie, che negli ultimi anni ha affiancato al protagonista Alan Ritchson una serie di figure di contorno e antagonisti. I dettagli sulla trama della nuova stagione non sono ancora stati resi noti.",
-   "slug": "reacher-5-nel-cast-ari-stidham-nel-ruolo-di-un-boss-di-local-32d00b",
-   "tags": [
-    "Reacher",
-    "Ari Stidham",
-    "Scorpion"
-   ],
-   "scene": "tv",
-   "source": "collider.com",
-   "url": "https://collider.com/reacher-season-5-ari-stidham-strip-club-kingpin-casting/",
-   "published": "2026-11-15T12:01:12+00:00"
-  },
-  {
-   "id": "2655e42cff34",
-   "section": "cinema",
-   "title": "Jason Isaacs e il fan-casting per Magneto nel reboot degli X-Men",
-   "summary": "Jason Isaacs ha commentato le richieste dei fan che lo vorrebbero nei panni di Magneto nel nuovo reboot degli X-Men targato Marvel Studios. La sua risposta non esclude del tutto una possibile scelta.",
-   "body": "Jason Isaacs, attore britannico noto per Harry Potter e per The White Lotus, è uno dei nomi più citati dai fan come possibile Magneto nel reboot degli X-Men prodotto da Marvel Studios. Secondo quanto riportato da Cinefilos, l'attore ha finalmente risposto alle numerose richieste dei sostenitori che lo vorrebbero nel ruolo del celebre mutante.\n\nLa sua replica non chiude la porta a una eventuale partecipazione, ma non conferma nulla di concreto sul casting. Il materiale disponibile non indica tempi di produzione né dettagli sul progetto, quindi al momento si tratta soltanto di un tema di discussione tra gli appassionati.",
-   "slug": "jason-isaacs-e-il-fan-casting-per-magneto-nel-reboot-degli-x-2655e4",
-   "tags": [
-    "Jason Isaacs",
-    "X-Men",
-    "Magneto"
-   ],
-   "scene": "tappeto",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/jason-isaacs-magneto-lattore-risponde-730951",
-   "published": "2026-11-15T12:00:49+00:00"
-  },
-  {
-   "id": "4cc17c8ab440",
-   "section": "tv",
-   "title": "Max Angioni imita Lele Adani nel GialappaShow, e Adani lo promuove",
-   "summary": "Max Angioni è tornato nei panni di Lele Adani nel GialappaShow, con l'imitazione che ha ricevuto i complimenti del commentatore ed ex difensore. Adani ne ha parlato ai microfoni di Radio2 Red Carpet.",
-   "body": "La Gialappa's Band ha inserito di nuovo Max Angioni nel GialappaShow, questa volta con l'imitazione di Lele Adani, cronista ed ex difensore. Secondo quanto riportato da TVBlog, il commentatore ha accolto con favore il lavoro dell'attore, definendolo un fenomeno.\n\nLe dichiarazioni di Adani sono arrivate ai microfoni di Radio2 Red Carpet, dove ha parlato dell'imitazione ufficiale. Il personaggio fa parte della satira sportiva che il programma propone da tempo, e il riscontro del diretto interessato rappresenta un segnale di gradimento insolito per questo tipo di parodie.",
-   "slug": "max-angioni-imita-lele-adani-nel-gialappashow-e-adani-lo-pro-4cc17c",
-   "tags": [
-    "Max Angioni",
-    "Lele Adani",
-    "GialappaShow"
-   ],
-   "scene": "tv",
-   "source": "tvblog.it",
-   "url": "https://www.tvblog.it/post/la-gialappas-band-ha-colpito-ancora-con-max-angioni-nei-panni-di-adani-lex-difensore-ammette-e-un-fenomeno",
-   "published": "2026-11-15T12:00:23+00:00"
-  },
-  {
-   "id": "7325b0f4d92e",
-   "section": "cinema",
-   "title": "Jay e Silent Bob: Store Wars, Jason Mewes svela i primi dettagli",
-   "summary": "Jason Mewes ha anticipato alcuni dettagli di Jay and Silent Bob: Store Wars, il nuovo film di Kevin Smith con Jay e Silent Bob. Il progetto è in fase di sviluppo e le riprese sono previste in Canada.",
-   "body": "Jay e Silent Bob tornano al cinema con una nuova avventura, Jay and Silent Bob: Store Wars, che secondo le prime anticipazioni dovrebbe riprendere lo spirito irriverente dei film precedenti. Il progetto è ancora in fase di sviluppo e la location per le riprese è già stata individuata in Canada.\n\nA raccontare i primi dettagli è Jason Mewes, interprete di Jay accanto a Kevin Smith, che ha svelato alcune novità sul nuovo film. Secondo quanto riportato da Cinefilos, l'attesa dei fan è alta per il ritorno della celebre coppia sul grande schermo, a distanza di anni dall'ultimo capitolo della saga.",
-   "slug": "jay-e-silent-bob-store-wars-jason-mewes-svela-i-primi-dettag-7325b0",
-   "tags": [
-    "Jay e Silent Bob",
-    "Kevin Smith",
-    "Jason Mewes"
-   ],
-   "scene": "pellicola",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/jay-e-silent-bob-store-wars-jason-mewes-svela-i-primi-dettagli-del-nuovo-film-di-kevin-smith-730947",
-   "published": "2026-11-15T11:56:54+00:00"
-  },
-  {
-   "id": "185474222c7d",
-   "section": "tv",
-   "title": "Domenica In, tra gli ospiti Rocco Hunt, Clementino, Vanessa Scalera e Marco Bocci",
-   "summary": "Mara Venier torna su Rai 1 con Domenica In e tra gli ospiti della puntata ci sono Vanessa Scalera, Rocco Hunt, Clementino e Marco Bocci. Previsto anche uno spazio dedicato a Ballando con le stelle, con Monica Guerritore.",
-   "body": "Mara Venier torna su Rai 1 con Domenica In, il programma del pomeriggio domenicale. Tra gli ospiti annunciati figurano l'attrice Vanessa Scalera, il rapper Rocco Hunt, il rapper Clementino e l'attore Marco Bocci, che porteranno in studio i loro impegni professionali e i racconti della propria carriera.\n\nNella puntata è previsto anche uno spazio dedicato a Ballando con le stelle, lo show di danza di Rai 1, con la partecipazione di Monica Guerritore. La notizia è riportata da Davide Maggio, che segnala la presenza dei diversi ospiti nel salotto della trasmissione. Non sono stati resi noti, al momento, altri dettagli sui temi che verranno affrontati in diretta.",
-   "slug": "domenica-in-tra-gli-ospiti-rocco-hunt-clementino-vanessa-sca-185474",
-   "tags": [
-    "Domenica In",
-    "Mara Venier",
-    "Ballando con le stelle"
-   ],
-   "scene": "tv",
-   "source": "davidemaggio.it",
-   "url": "https://www.davidemaggio.it/domenica-in/domenica-in-rocco-hunt-clementino-vanessa-scalera-e-marco-bocci-tra-gli-ospiti",
-   "published": "2026-11-15T11:46:05+00:00"
-  },
-  {
-   "id": "18e0edf39d80",
-   "section": "tv",
-   "title": "177 Giorni – Il rapimento di Farouk, anteprima su RaiPlay",
-   "summary": "La fiction Rai 177 Giorni – Il rapimento di Farouk, ispirata a una storia vera, sarà disponibile in anteprima su RaiPlay con le prime due puntate. La messa in onda dell'anteprima è prevista per il 15 novembre.",
-   "body": "La Rai propone in anteprima su RaiPlay le prime due puntate di 177 Giorni – Il rapimento di Farouk, la nuova fiction ispirata a una vicenda realmente accaduta. L'appuntamento è fissato per il 15 novembre, con una visione riservata alla piattaforma di streaming della Rai prima della trasmissione televisiva.\n\nSecondo BadTaste, l'iniziativa rappresenta una modalità insolita per far conoscere la serie al pubblico prima del debutto ufficiale. Il materiale disponibile non specifica ulteriori dettagli su cast, cronologia della messa in onda o modalità di accesso, che potranno essere verificati sui canali ufficiali della Rai.",
-   "slug": "177-giorni-il-rapimento-di-farouk-anteprima-su-raiplay-18e0ed",
-   "tags": [
-    "177 Giorni – Il rapimento di Farouk",
-    "RaiPlay",
-    "Rai"
-   ],
-   "scene": "streaming",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/177-giorni-il-rapimento-di-farouk-sorpresa-su-raiplay-le-prime-due-puntate-in-anteprima-come-vederle",
-   "published": "2026-11-15T11:30:15+00:00"
-  },
-  {
-   "id": "fce18a2606f0",
-   "section": "cinema",
-   "title": "Keira Knightley e Love Actually: ha detto di ricordarne poco",
-   "summary": "A più di vent'anni dall'uscita di Love Actually, Keira Knightley dice di non conservarne quasi alcun ricordo, nonostante il film di Richard Curtis continui a essere riproposto ogni Natale. La fonte riporta la sua indifferenza verso una commedia romantica che il pubblico continua a citarle.",
-   "body": "Più di vent'anni dopo l'uscita di Love Actually, la commedia romantica scritta e diretta da Richard Curtis resta un appuntamento fisso delle festività. Ogni anno tornano le luci natalizie, le canzoni di Mariah Carey e il film in televisione, e per molti è ormai un rito. Keira Knightley, una delle protagoniste del cast corale, non sembra però legarsi al ricordo del film.\n\nSecondo ecranlarge.com, l'attrice ha dichiarato di non conservarne quasi alcun ricordo, pur essendo spesso interpellata sul titolo dai fan. Il racconto della testata sottolinea il contrasto tra la popolarità duratura del film e la distanza che l'attrice mantiene rispetto a quella stagione della sua carriera.",
-   "slug": "keira-knightley-e-love-actually-ha-detto-di-ricordarne-poco-fce18a",
-   "tags": [
-    "Keira Knightley",
-    "Love Actually",
-    "Richard Curtis"
-   ],
-   "scene": "tappeto",
-   "source": "ecranlarge.com",
-   "url": "https://www.ecranlarge.com/films/news/keira-knightley-fout-royalement-love-actually",
-   "published": "2026-11-15T11:30:00+00:00"
-  },
-  {
-   "id": "94617bdae48d",
-   "section": "tv",
-   "title": "Tatort, un duo di ispettori è il team più seguito degli ultimi 34 anni",
-   "summary": "Una coppia di investigatori della serie tedesca Tatort ha raggiunto in media 11,26 milioni di spettatori, il miglior risultato di un team da 34 anni a questa parte. La notizia è riportata da moviepilot.de.",
-   "body": "Il giallo tedesco Tatort, uno dei programmi di fiction più longevi della televisione di lingua tedesca, conta numerosi team di investigatori fissi in città e regioni diverse. Secondo quanto riporta moviepilot.de, uno dei duetti della serie ha raggiunto in media 11,26 milioni di spettatori, risultato che lo rende il team più seguito degli ultimi 34 anni.\n\nIl dato sottolinea il peso che questi due personaggi hanno avuto per il pubblico in un panorama molto affollato di ispettori. Il materiale disponibile non specifica le singole puntate né il periodo di rilevazione, quindi non è possibile dettagliare ulteriormente il risultato.",
-   "slug": "tatort-un-duo-di-ispettori-e-il-team-piu-seguito-degli-ultim-94617b",
-   "tags": [
-    "Tatort"
-   ],
-   "scene": "tv",
-   "source": "moviepilot.de",
-   "url": "https://www.moviepilot.de/news/dieses-tatort-duo-erreicht-im-durschnitt-11-26-millionen-zuschauer-und-ist-das-erfolgreichste-team-seit-34-jahren-1165489",
-   "published": "2026-11-15T11:30:00+00:00"
-  },
-  {
-   "id": "3facd9a4bb04",
-   "section": "cinema",
-   "title": "Space Jam compie 30 anni: Michael Jordan e Bugs Bunny nel film che ha segnato un'epoca",
-   "summary": "Trent'anni fa usciva nelle sale americane Space Jam, diretto da Joe Pytka, film che ha unito animazione e sport. Michael Jordan e Bugs Bunny restano due icone pop legate a quella pellicola.",
-   "body": "Nel 1996 arrivava per la prima volta nelle sale americane Space Jam, diretto da Joe Pytka. Secondo BadTaste la pellicola è considerata un punto di svolta per l'animazione statunitense, perché mescolava personaggi disegnati e attori in carne e ossa in una storia costruita attorno al basket.\n\nProtagonisti della storia sono Michael Jordan e Bugs Bunny, che nel film affrontano insieme una sfida sul campo. Le sospensioni a mezz'aria del campione e le finte dei personaggi animati hanno reso il film un riferimento per il pubblico di quegli anni, tanto che ancora oggi i due sono ricordati come icone pop del cinema.",
-   "slug": "space-jam-compie-30-anni-michael-jordan-e-bugs-bunny-nel-fil-3facd9",
-   "tags": [
-    "Space Jam",
-    "Michael Jordan",
-    "Bugs Bunny"
-   ],
-   "scene": "proiettore",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/focus/space-jam-compie-30-anni-michael-jordan-icona-pop-grazie-a-bugs-bunny",
-   "published": "2026-11-15T11:18:41+00:00"
   }
  ],
  "seen": [
-  "ee87f1035842",
-  "246f052c25c0",
-  "01880caceb06",
-  "c20e64c1bb2c",
-  "0836498cd1f1",
-  "8e0326bc1f2e",
-  "f64285523957",
-  "e05c1b90172d",
-  "875df80f3786",
-  "1ac7ac03a5e6",
-  "463da3ffe6d5",
-  "9bdf55f69bfe",
-  "d36f4e25dfc9",
-  "5ca864a073bc",
-  "1636bb3f4c56",
-  "80d65c674ce9",
-  "a0fc3d94a3d9",
-  "24f49fda2745",
-  "518828ebe5ee",
-  "a9e79c58eaea",
-  "d3397e42dbab",
-  "604ac092deed",
-  "1095edc6ba37",
-  "091a784b8edc",
   "1f212dfdbcc4",
   "8bd857143639",
   "42ac3a48d33e",
@@ -12353,7 +12327,31 @@
   "351cd8697cac",
   "2a8f5b849662",
   "f78811fb1e1e",
-  "e919c4c7d51c"
+  "e919c4c7d51c",
+  "ee75238755dd",
+  "9354e2cedbb9",
+  "5edce0ce1ac5",
+  "13102c984150",
+  "b9cf1339656f",
+  "e20928cc26de",
+  "a90e90b00bc9",
+  "79079d6a163c",
+  "9558223448af",
+  "7758284569c4",
+  "7736f28d960e",
+  "48ea08b5a646",
+  "a7c500fce631",
+  "4da4c643f2af",
+  "c0318f9c988d",
+  "0b92667885b6",
+  "67f80c37409b",
+  "f8f87d2d56ce",
+  "89795c956dee",
+  "1ba34a02e35b",
+  "2a18d303cd64",
+  "71acd3e5e317",
+  "18f8da5a6723",
+  "76af384821f9"
  ],
  "version": 4,
  "digests": [
