@@ -1,6 +1,107 @@
 {
  "articles": [
   {
+   "id": "f300b95e3be2",
+   "section": "cinema",
+   "title": "Star Trek, torna la linea temporale Kelvin con una nuova raccolta di fumetti",
+   "summary": "La linea temporale Kelvin di Star Trek, nata con il reboot di J.J. Abrams del 2009, torna in una nuova raccolta pubblicata da IDW. Il volume contiene tre fumetti collegati a quel film.",
+   "body": "Diciassette anni dopo il reboot firmato da J.J. Abrams, la linea temporale Kelvin di Star Trek riprende vita sulla carta. La casa editrice IDW ha annunciato una nuova raccolta che include tre fumetti ambientati in questo universo narrativo, nato con il film del 2009 e separato dalla continuity originale della saga.\n\nSecondo Collider, la pubblicazione riporta al centro dell'attenzione una linea narrativa che ha dato vita a film e storie a fumetti molto apprezzati dai fan. Il materiale fornito non specifica dettagli su trama, autori o data di uscita dei singoli albi.",
+   "slug": "star-trek-torna-la-linea-temporale-kelvin-con-una-nuova-racc-f300b9",
+   "tags": [
+    "Star Trek",
+    "J.J. Abrams",
+    "IDW"
+   ],
+   "scene": "pellicola",
+   "source": "collider.com",
+   "url": "https://collider.com/star-trek-kelvin-timeline-returns-idw-comic-collection/",
+   "published": "2026-11-17T22:10:36+00:00"
+  },
+  {
+   "id": "a57684436ecc",
+   "section": "cinema",
+   "title": "Victoria e David Beckham al premiere parigino di Forty Love con il figlio Romeo",
+   "summary": "Victoria e David Beckham hanno sostenuto il figlio Romeo alla prima mondiale di Forty Love, suo debutto cinematografico, al Grand Rex di Parigi. Il film è una storia francese di tennis e amore tra uomini.",
+   "body": "Victoria e David Beckham hanno accompagnato sul red carpet il figlio Romeo alla prima mondiale di Forty Love, al cinema Le Grand Rex di Parigi, martedì sera. Con loro c'era anche la fidanzata di Romeo, Kim Turnbull, che ha sfilato accanto alla famiglia davanti ai fotografi. Secondo Daily Mail, i due genitori si sono mostrati visibilmente orgogliosi del debutto del figlio sul grande schermo.\n\nForty Love è un film francese che racconta una storia d'amore tra uomini sullo sfondo del tennis. Per Romeo Beckham si tratta del primo ruolo da protagonista in una pellicola, presentata a Parigi davanti a un pubblico di ospiti e addetti ai lavori. La serata ha confermato l'interesse della famiglia Beckham per il mondo del cinema.",
+   "slug": "victoria-e-david-beckham-al-premiere-parigino-di-forty-love-a57684",
+   "tags": [
+    "Romeo Beckham",
+    "Forty Love",
+    "Victoria Beckham"
+   ],
+   "scene": "premiere",
+   "source": "dailymail.co.uk",
+   "url": "https://www.dailymail.com/tvshowbiz/article-16300871/Victoria-david-Beckham-pride-Romeo-girlfriend-Kim-Turnbull-world-premiere-French-gay-tennis-movie-Forty-Love.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "published": "2026-11-17T22:08:01+00:00"
+  },
+  {
+   "id": "ce75285f3632",
+   "section": "tv",
+   "title": "Ted: The Animated Series, uscito il trailer completo su Peacock",
+   "summary": "Peacock ha pubblicato il trailer integrale di Ted: The Animated Series, nuova versione animata della commedia di Seth MacFarlane. La serie si presenta come sequel dei film e riunisce MacFarlane, di nuovo voce di Ted, con Mark Wahlberg.",
+   "body": "Peacock ha diffuso il trailer completo di Ted: The Animated Series, la nuova serie animata ispirata ai film di Seth MacFarlane e alla precedente serie prequel con attori in carne e ossa. Il progetto si colloca come seguito diretto dei film e segna il ritorno di MacFarlane nel ruolo di voce dell'orsacchiotto parlante.\n\nAccanto a MacFarlane tornano anche alcuni dei volti del cast cinematografico, tra cui Mark Wahlberg, che presta la voce al migliore amico di Ted. Secondo Dark Horizons, il materiale promozionale conferma il tono comico e irriverente del franchise, ora trasposto in formato animato.",
+   "slug": "ted-the-animated-series-uscito-il-trailer-completo-su-peacoc-ce7528",
+   "tags": [
+    "Ted: The Animated Series",
+    "Seth MacFarlane",
+    "Mark Wahlberg"
+   ],
+   "scene": "streaming",
+   "source": "darkhorizons.com",
+   "url": "https://www.darkhorizons.com/full-trailer-ted-the-animated-series/",
+   "published": "2026-11-17T22:02:03+00:00"
+  },
+  {
+   "id": "6422c5130c6b",
+   "section": "tv",
+   "title": "The Circle torna su Hulu con l'ottava stagione",
+   "summary": "Il reality The Circle torna con una nuova stagione su Hulu. Tra i partecipanti figurano Layla Taylor, nota per Sono solo l'inizio? e Hannah Brown, protagonista di The Bachelorette.",
+   "body": "Il reality show The Circle riparte con la sua ottava stagione, distribuita dalla piattaforma Hulu. Secondo Page Six, la prima puntata sarà disponibile gratuitamente, con una modalità di visione accessibile senza abbonamento.\n\nTra i concorrenti del nuovo ciclo ci sono Layla Taylor, che arriva dal programma Sono solo l'inizio?, e Hannah Brown, già volto di The Bachelorette. Il formato resta quello noto: i partecipanti vivono in appartamenti separati e interagiscono solo attraverso una piattaforma di messaggistica, senza mai incontrarsi di persona.",
+   "slug": "the-circle-torna-su-hulu-con-l-ottava-stagione-6422c5",
+   "tags": [
+    "The Circle",
+    "Hulu",
+    "Hannah Brown"
+   ],
+   "scene": "streaming",
+   "source": "pagesix.com",
+   "url": "https://pagesix.com/2026/11/17/entertainment/how-to-watch-the-circle-season-8-revival-for-free-cast-time/",
+   "published": "2026-11-17T22:00:16+00:00"
+  },
+  {
+   "id": "b54783b8762d",
+   "section": "musica",
+   "title": "Dungeons & Dragons: World of Warcraft, in uscita a novembre il gioco da tavolo",
+   "summary": "Il gioco da tavolo Dungeons & Dragons: World of Warcraft arriverà a novembre, con i preordini già aperti. Il manuale, realizzato in collaborazione con Blizzard Entertainment, permette di creare campagne D&D ambientate nel mondo di Warcraft.",
+   "body": "Il gioco di ruolo da tavolo Dungeons & Dragons si incontra con l'universo di World of Warcraft. Secondo Den of Geek, la nuova edizione Dungeons & Dragons: World of Warcraft uscirà a novembre, e i preordini sono già disponibili. Il progetto nasce in collaborazione con Blizzard Entertainment, che ha seguito la realizzazione del manuale.\n\nIl volume consente ai giocatori di costruire le proprie campagne di D&D, portando personaggi e ambientazioni del celebre mondo fantasy di Blizzard al tavolo. L'uscita arriva in concomitanza con il recente lancio di World of Warcraft: Forever, a conferma dell'interesse che il franchise continua a suscitare tra gli appassionati di giochi di ruolo.",
+   "slug": "dungeons-dragons-world-of-warcraft-in-uscita-a-novembre-il-g-b54783",
+   "tags": [
+    "Dungeons & Dragons",
+    "World of Warcraft",
+    "Blizzard Entertainment"
+   ],
+   "scene": "palco",
+   "source": "denofgeek.com",
+   "url": "https://www.denofgeek.com/games/fantasy-realms-collide-dungeons-dragons-world-of-warcraft/",
+   "published": "2026-11-17T22:00:00+00:00"
+  },
+  {
+   "id": "a6ba8c873329",
+   "section": "gossip",
+   "title": "Tyra Banks: dopo il flop del romanzo fantasy ero depressa",
+   "summary": "Tyra Banks ha raccontato di essere stata depressa dopo la scarsa accoglienza del suo primo romanzo fantasy, che doveva aprire una nuova fase della sua carriera. Il libro ha poi vissuto una inattesa riscoperta, di cui ha parlato nel programma TODAY With Jenna & Sheinelle.",
+   "body": "Tyra Banks ha confessato di aver attraversato un periodo di depressione dopo che il suo debutto come autrice di romanzi fantasy non aveva convinto il pubblico. Secondo quanto riportato da OK Magazine, la modella e conduttrice americana immaginava il libro come l'inizio di un nuovo capitolo professionale, quasi un piano per il futuro dopo la carriera in passerella e in televisione.\n\nParlando con le conduttrici di TODAY With Jenna & Sheinelle, Banks ha raccontato anche la recente e inaspettata riscoperta del romanzo. Ha ammesso apertamente il proprio stato d'animo di allora, senza entrare in ulteriori dettagli sulla vicenda personale.",
+   "slug": "tyra-banks-dopo-il-flop-del-romanzo-fantasy-ero-depressa-a6ba8c",
+   "tags": [
+    "Tyra Banks",
+    "TODAY With Jenna & Sheinelle"
+   ],
+   "scene": "premiere",
+   "source": "okmagazine.com",
+   "url": "https://okmagazine.com/p/tyra-banks-depressed-after-debut-fantasy-novel-flopped-retirement-plan/",
+   "published": "2026-11-17T21:59:44+00:00"
+  },
+  {
    "id": "d80b92ba1fe3",
    "section": "cinema",
    "title": "Hellraiser: Resurrections Vol. 0 raccoglie cinque nuove storie dei Cenobiti",
@@ -737,6 +838,23 @@
    "published": "2026-11-17T16:39:52+00:00"
   },
   {
+   "id": "ac7bca2fc8ca",
+   "section": "musica",
+   "title": "Siae Music Awards, sabato a Milano la premiazione della creatività musicale",
+   "summary": "Sabato a Milano si terranno i Siae Music Awards, dedicati ai premi per la creatività musicale, con nomination in 17 categorie. La conduzione è affidata ad Amadeus, con la partecipazione di Noemi.",
+   "body": "Sabato a Milano vanno in scena i Siae Music Awards, la cerimonia dedicata ai premi per la creatività musicale. Secondo ANSA, le nomination coprono complessivamente 17 categorie, a conferma di un programma ampio che riconosce il lavoro di autori e compositori.\n\nLa serata sarà condotta da Amadeus, che guiderà la premiazione con la partecipazione di Noemi. Il materiale disponibile non specifica ulteriori dettagli su orari, scalette o ospiti, che andranno verificati presso gli organizzatori.",
+   "slug": "siae-music-awards-sabato-a-milano-la-premiazione-della-creat-ac7bca",
+   "tags": [
+    "Siae Music Awards",
+    "Amadeus",
+    "Noemi"
+   ],
+   "scene": "premiere",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/17/sabato-a-milano-i-siae-music-awards-i-premi-della-creativita-musicale_201c7ed2-b105-4185-81ad-0227388f73f5.html",
+   "published": "2026-11-17T16:34:14+00:00"
+  },
+  {
    "id": "7fd3be03fbbb",
    "section": "tv",
    "title": "Boston Blue, un personaggio di Blue Bloods torna con un nuovo attore",
@@ -854,6 +972,39 @@
    "published": "2026-11-17T15:53:34+00:00"
   },
   {
+   "id": "3d0f8309b1a5",
+   "section": "cinema",
+   "title": "Cannes prende posizione contro le sanzioni a Jafar Panahi",
+   "summary": "Il Festival di Cannes ha espresso una posizione ufficiale contro le sanzioni inflitte al regista iraniano Jafar Panahi. Nella nota il festival sostiene che nessun artista dovrebbe essere incarcerato per il proprio lavoro, le proprie idee o la libertà di espressione.",
+   "body": "Il Festival di Cannes è intervenuto con una nota ufficiale sulle sanzioni inflitte al regista iraniano Jafar Panahi, figura di primo piano del cinema internazionale e più volte premiata nella rassegna francese. Secondo quanto riportato da Cinematografo, la presa di posizione del festival non si limita al caso personale del regista, ma riguarda un principio più generale.\n\nNel comunicato si afferma che nessun artista dovrebbe essere incarcerato per il proprio lavoro, per le proprie idee o per la propria libertà di espressione, in Iran o in qualsiasi altro Paese. Il testo ricevuto non entra in dettaglio sulle misure precise adottate contro Panahi, quindi il quadro completo della vicenda resta da verificare presso le fonti ufficiali.",
+   "slug": "cannes-prende-posizione-contro-le-sanzioni-a-jafar-panahi-3d0f83",
+   "tags": [
+    "Jafar Panahi",
+    "Festival di Cannes"
+   ],
+   "scene": "premiere",
+   "source": "Cinematografo",
+   "url": "https://www.cinematografo.it/riflettori/il-festival-di-cannes-protesta-contro-le-sanzioni-inflitte-a-jafar-panahi-anjjtodk",
+   "published": "2026-11-17T15:46:44+00:00"
+  },
+  {
+   "id": "b31ba90d06ec",
+   "section": "tv",
+   "title": "diMartedì torna su La7 con Landini e Amato tra gli ospiti",
+   "summary": "Giovanni Floris riporta diMartedì in prima serata su La7 con temi di politica interna e scenari internazionali. Tra gli ospiti previsti figurano Maurizio Landini e Giuliano Amato.",
+   "body": "Il talk show diMartedì, condotto da Giovanni Floris, torna in prima serata su La7. La trasmissione affronterà i temi della politica interna e gli scenari internazionali, con un formato di confronto tra ospiti e commentatori.\n\nTra i protagonisti della puntata ci saranno Maurizio Landini, segretario generale della CGIL, e Giuliano Amato, dirigente politico ed ex presidente del Consiglio. Secondo Davide Maggio, che ha riportato la notizia, la presenza dei due ospiti è annunciata nel palinsesto del programma. Non sono disponibili ulteriori dettagli su date esatte o sui contenuti specifici degli interventi.",
+   "slug": "dimartedi-torna-su-la7-con-landini-e-amato-tra-gli-ospiti-b31ba9",
+   "tags": [
+    "diMartedì",
+    "Giovanni Floris",
+    "Maurizio Landini"
+   ],
+   "scene": "tv",
+   "source": "davidemaggio.it",
+   "url": "https://www.davidemaggio.it/dimartedi/dimartedi-maurizio-landini-e-giuliano-amato-tra-gli-ospiti",
+   "published": "2026-11-17T15:38:45+00:00"
+  },
+  {
    "id": "0fe40e0ee048",
    "section": "cinema",
    "title": "Cannes condanna la persecuzione giudiziaria di Jafar Panahi in Iran",
@@ -968,6 +1119,23 @@
    "source": "superguidatv.it",
    "url": "https://www.superguidatv.it/forbidden-fruit-4-replica-puntata-17-novembre-in-streaming-video-mediaset/",
    "published": "2026-11-17T14:55:04+00:00"
+  },
+  {
+   "id": "e919c4c7d51c",
+   "section": "cinema",
+   "title": "Mahershala Ali e Bassam Tariq presentano Your Mother Your Mother Your Mother",
+   "summary": "Il regista Bassam Tariq e l'attore Mahershala Ali parlano del nuovo film Your Mother Your Mother Your Mother, dedicato a personaggi musulmani complessi. Nel cast figura anche la giovane protagonista Adia.",
+   "body": "Il regista Bassam Tariq e l'attore Mahershala Ali hanno parlato in un'intervista del nuovo film Your Mother Your Mother Your Mother, presentato come un'opera che mette al centro personaggi musulmani complessi, lontani dagli stereotipi. Secondo FilmUpdates, i due hanno sottolineato l'importanza di raccontare figure con contraddizioni e fragilità, e di trovare umanità anche nei luoghi meno prevedibili.\n\nNel racconto del film ha un ruolo centrale Adia, indicata come la rivelazione della pellicola. Tariq e Ali hanno discusso del lavoro con l'attrice e del modo in cui la storia si sviluppa attorno ai suoi personaggi. Il materiale disponibile non specifica date di uscita o distribuzione in Italia, informazioni che andranno verificate prima di eventuali sviluppi.",
+   "slug": "mahershala-ali-e-bassam-tariq-presentano-your-mother-your-mo-e919c4",
+   "tags": [
+    "Mahershala Ali",
+    "Bassam Tariq",
+    "Your Mother Your Mother Your Mother"
+   ],
+   "scene": "ciak",
+   "source": "FilmUpdates",
+   "url": "https://filmupdates.net/2026/11/17/interview-mahershala-ali-bassam-tariq-on-your-mother-your-mother-your-mother/?utm_source=rss&utm_medium=rss&utm_campaign=interview-mahershala-ali-bassam-tariq-on-your-mother-your-mother-your-mother",
+   "published": "2026-11-17T14:46:43+00:00"
   },
   {
    "id": "7bdb18b2ce6b",
@@ -8183,201 +8351,9 @@
    "source": "BadTaste",
    "url": "https://www.badtaste.it/focus/space-jam-compie-30-anni-michael-jordan-icona-pop-grazie-a-bugs-bunny",
    "published": "2026-11-15T11:18:41+00:00"
-  },
-  {
-   "id": "7ef2555bc8db",
-   "section": "tv",
-   "title": "Auditel, sabato sera: Tu Sì Que Vales supera Ballando sugli ascolti, Ballando vince nello Share",
-   "summary": "Nei dati Auditel del 14 novembre 2026 Tu Sì Que Vales ha superato Ballando con le Stelle per numero di spettatori, mentre Ballando ha ottenuto uno Share più alto su Raiuno. Affari Tuoi, in access prime time, ha superato i 4 milioni di telespettatori.",
-   "body": "Nella serata di sabato 14 novembre 2026 la sfida del sabato sera ha visto Tu Sì Que Vales conquistare più spettatori di Ballando con le Stelle, ma il dato dello Share ha premiato Raiuno, dove va in onda il programma di danza. Secondo TVBlog, Ballando con le Stelle ha registrato un ulteriore aumento della quota di ascolto, segno di una crescita costante nel corso della serata.\n\nIl confronto prosegue anche in access prime time, la fascia che precede la prima serata. Affari Tuoi ha superato il muro dei 4 milioni di telespettatori, confermandosi uno dei titoli più seguiti del pomeriggio e della prima serata televisiva.",
-   "slug": "auditel-sabato-sera-tu-si-que-vales-supera-ballando-sugli-as-7ef255",
-   "tags": [
-    "Tu Sì Que Vales",
-    "Ballando con le Stelle",
-    "Affari Tuoi"
-   ],
-   "scene": "tv",
-   "source": "tvblog.it",
-   "url": "https://www.tvblog.it/post/tu-si-que-vales-fa-piu-spettatori-di-ballando-con-le-stelle-ma-il-verdetto-dello-share-premia-raiuno-i-dati-auditel-del-14-novembre-2026",
-   "published": "2026-11-15T11:13:54+00:00"
-  },
-  {
-   "id": "d9223c5c1f8a",
-   "section": "tv",
-   "title": "HBO pubblica a sorpresa una clip del banchetto di Hogwarts nella serie Harry Potter",
-   "summary": "HBO ha diffuso a sorpresa una clip di circa 90 secondi dalla nuova serie di Harry Potter, con il banchetto di inizio anno a Hogwarts dopo lo smistamento delle nuove matricole. Nella scena Harry, interpretato da Dominic McLaughlin, chiede a Albus Silente, interpretato da John Lithgow, informazioni sul suo conto.",
-   "body": "HBO ha pubblicato a sorpresa una clip di circa 90 secondi tratta dalla prossima serie dedicata a Harry Potter. Il filmato mostra gli studenti di Hogwarts riuniti per il banchetto di inizio anno, subito dopo lo smistamento dei nuovi arrivati nelle rispettive case. Secondo Deadline, la scena è stata resa disponibile prima del previsto come anticipazione dell'attesa produzione.\n\nNel frammento Harry, interpretato da Dominic McLaughlin, domanda a Albus Silente, interpretato da John Lithgow, se sia davvero una persona particolare. La clip offre quindi un primo sguardo al tono e all'ambientazione della serie, con la sala grande e la tavolata animata dei giovani maghi.",
-   "slug": "hbo-pubblica-a-sorpresa-una-clip-del-banchetto-di-hogwarts-n-d9223c",
-   "tags": [
-    "Harry Potter",
-    "Dominic McLaughlin",
-    "John Lithgow"
-   ],
-   "scene": "tv",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/hbo-surprise-harry-potter-clip-hogwarts-banquet-1237224436/",
-   "published": "2026-11-15T11:03:17+00:00"
-  },
-  {
-   "id": "0a557751f190",
-   "section": "cinema",
-   "title": "Ti West e il Canto di Natale horror con Johnny Depp",
-   "summary": "Il regista Ti West ha diretto Ebenezer, nuova versione del Canto di Natale di Charles Dickens con Johnny Depp. In un'intervista a Moviepilot ha parlato di effetti horror e dei film di Natale che lo hanno segnato da bambino.",
-   "body": "Il regista Ti West ha firmato Ebenezer, una rilettura del celebre racconto natalizio di Charles Dickens che vede Johnny Depp nel ruolo del protagonista. Secondo quanto riportato da Moviepilot, in un'intervista alla redattrice Esther Stroh West ha spiegato come ha lavorato sugli effetti di paura, un aspetto che in questa versione assume toni più cupi rispetto alle trasposizioni tradizionali.\n\nNel colloquio il regista ha anche ricordato i film di Natale che hanno segnato la sua infanzia, mettendo in luce quanto certe immagini possano risultare inquietanti per i più piccoli. Il dialogo offre uno sguardo sul modo in cui l'horror e la tradizione natalizia possono convivere sullo schermo, senza perdere la forza del racconto originale.",
-   "slug": "ti-west-e-il-canto-di-natale-horror-con-johnny-depp-0a5577",
-   "tags": [
-    "Ebenezer",
-    "Ti West",
-    "Johnny Depp"
-   ],
-   "scene": "pellicola",
-   "source": "moviepilot.de",
-   "url": "https://www.moviepilot.de/news/ebenezer-interview-ti-west-1165412",
-   "published": "2026-11-15T11:00:00+00:00"
-  },
-  {
-   "id": "a5155b9d6e34",
-   "section": "tv",
-   "title": "Donnie Wahlberg racconta i tagli ai compensi dietro Blue Bloods",
-   "summary": "Durante un'intervista al George Janko Show, Donnie Wahlberg ha parlato delle difficoltà economiche legate alla produzione di Blue Bloods. L'attore ha spiegato che il cast si era trovato davanti a una scelta sui compensi prima del finale della serie.",
-   "body": "Nel corso di un'intervista al George Janko Show, Donnie Wahlberg ha raccontato le difficoltà finanziarie che hanno accompagnato la produzione di Blue Bloods, la serie della CBS arrivata alla conclusione. Secondo quanto riportato da OK Magazine, l'attore ha spiegato che alcuni membri del cast si sono trovati a dover valutare una riduzione dei compensi in vista dell'ultima stagione.\n\nWahlberg ha anche detto di aver proposto un accordo economico per consentire allo show di proseguire. Le sue parole offrono uno sguardo raro sulle trattative che stanno dietro le serie televisive di lunga durata, quando i costi di produzione e i compensi degli interpreti diventano un nodo decisivo.",
-   "slug": "donnie-wahlberg-racconta-i-tagli-ai-compensi-dietro-blue-blo-a5155b",
-   "tags": [
-    "Donnie Wahlberg",
-    "Blue Bloods",
-    "The George Janko Show"
-   ],
-   "scene": "tv",
-   "source": "okmagazine.com",
-   "url": "https://okmagazine.com/p/donnie-wahlberg-deal-blue-bloods-costly-pay-cuts-finale/",
-   "published": "2026-11-15T10:55:00+00:00"
-  },
-  {
-   "id": "52710259706d",
-   "section": "cinema",
-   "title": "Capriolo Film Festival, il programma dell'ultimo giorno",
-   "summary": "Il Capriolo Film Festival si avvia alla giornata conclusiva della sua prima edizione, in programma il 15 novembre. Dopo le due giornate precedenti, l'evento propone un calendario di proiezioni e appuntamenti per il gran finale.",
-   "body": "Il Capriolo Film Festival entra nella fase conclusiva della sua prima edizione. Secondo BadTaste, la manifestazione si prepara al gran finale del 15 novembre, dopo il riscontro positivo delle due giornate precedenti.\n\nIl programma dell'ultimo giorno è descritto come ricco di appuntamenti, pensati per chiudere in modo significativo la prima edizione del festival. La fonte non entra nel dettaglio dei singoli titoli in calendario, che al momento restano quindi da verificare sul sito ufficiale dell'evento.",
-   "slug": "capriolo-film-festival-il-programma-dell-ultimo-giorno-527102",
-   "tags": [
-    "Capriolo Film Festival"
-   ],
-   "scene": "premiere",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/capriolo-film-festival-limperdibile-programma-dellultimo-giorno",
-   "published": "2026-11-15T10:54:17+00:00"
-  },
-  {
-   "id": "55f22046dee3",
-   "section": "cinema",
-   "title": "Jared Padalecki e Leighton Meester nel nuovo film romantico Netflix",
-   "summary": "Jared Padalecki recita accanto a Leighton Meester nel film romantico di Netflix, in arrivo sulla piattaforma questa settimana. La data di debutto in streaming è stata confermata.",
-   "body": "Il nuovo film romantico con Jared Padalecki e Leighton Meester sbarca su Netflix questa settimana. Secondo Collider, la pellicola sarà disponibile in streaming a partire dai prossimi giorni, con i due attori protagonisti della storia d'amore al centro del racconto.\n\nPadalecki, noto al pubblico italiano soprattutto per Supernatural, torna così a un ruolo sentimentale su una piattaforma internazionale. Accanto a lui c'è Leighton Meester, volto di Gossip Girl. Il materiale disponibile non riporta altri dettagli su trama o produzione.",
-   "slug": "jared-padalecki-e-leighton-meester-nel-nuovo-film-romantico-55f220",
-   "tags": [
-    "Jared Padalecki",
-    "Leighton Meester",
-    "Netflix"
-   ],
-   "scene": "streaming",
-   "source": "collider.com",
-   "url": "https://collider.com/jared-padalecki-guarding-stars-november-release-date/",
-   "published": "2026-11-15T10:40:12+00:00"
-  },
-  {
-   "id": "b2bc8ec09f07",
-   "section": "gossip",
-   "title": "Minoli difende Diaco e critica Selvaggia Lucarelli",
-   "summary": "Giovanni Minoli è intervenuto pubblicamente sul caso che riguarda Pierluigi Diaco, difendendo il conduttore di BellaMa'. Nelle sue parole anche una critica a Selvaggia Lucarelli.",
-   "body": "Giovanni Minoli è intervenuto pubblicamente sul caso che coinvolge Pierluigi Diaco, conduttore di BellaMa', schierandosi a favore del collega. Secondo quanto riportato da BadTaste, il giornalista ha preso posizione dopo un periodo di silenzio, sostenendo Diaco nella vicenda che lo riguarda.\n\nNel suo intervento Minoli ha rivolto una critica a Selvaggia Lucarelli, definendo il tono di alcune sue prese di posizione una \"lucarellata\". Il materiale disponibile non chiarisce ulteriori dettagli sul confronto tra i due, né le ragioni precise della polemica. La notizia è stata ripresa dalla fonte citata, che riporta le dichiarazioni di Minoli.",
-   "slug": "minoli-difende-diaco-e-critica-selvaggia-lucarelli-b2bc8e",
-   "tags": [
-    "Giovanni Minoli",
-    "Pierluigi Diaco",
-    "Selvaggia Lucarelli"
-   ],
-   "scene": "microfono",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/giovanni-minoli-rompe-il-silenzio-su-diaco-e-attacca-selvaggia-lucarelli-mi-sembra-una-lucarellata",
-   "published": "2026-11-15T10:26:45+00:00"
-  },
-  {
-   "id": "f16b7c672ad7",
-   "section": "gossip",
-   "title": "Elizabeth Hurley in rosso di pizzo al Baby2Baby Gala",
-   "summary": "Elizabeth Hurley si è presentata sul red carpet del Baby2Baby Gala con un abito rosso di pizzo, accompagnata da Billy Ray Cyrus. La serata benefica si è svolta il 14 novembre.",
-   "body": "Elizabeth Hurley ha attirato l'attenzione dei fotografi al Baby2Baby Gala, appuntamento benefico con molti ospiti del mondo dello spettacolo, indossando un abito rosso in pizzo dal taglio audace. La serata del 14 novembre l'ha vista al fianco di Billy Ray Cyrus, in un'uscita di coppia descritta come glamour.\n\nSecondo Hello! Magazine, l'attrice britannica ha scelto un look molto d'impatto per l'evento, che sostiene le iniziative a favore dell'infanzia. Le immagini della serata sono disponibili sul sito della testata che ha pubblicato la notizia.",
-   "slug": "elizabeth-hurley-in-rosso-di-pizzo-al-baby2baby-gala-f16b7c",
-   "tags": [
-    "Elizabeth Hurley",
-    "Billy Ray Cyrus",
-    "Baby2Baby Gala"
-   ],
-   "scene": "tappeto",
-   "source": "hellomagazine.com",
-   "url": "https://www.hellomagazine.com/celebrities/935072/elizabeth-hurley-sheer-red-lace-gown-for-glamorous-date-night-with-billy-ray-cyrus/",
-   "published": "2026-11-15T10:23:09+00:00"
-  },
-  {
-   "id": "b7e321ebef0a",
-   "section": "gossip",
-   "title": "Brendan Fraser confronta la vita in Giappone e negli Stati Uniti",
-   "summary": "Brendan Fraser, premio Oscar per The Whale e noto per La mummia, ha spiegato le differenze tra vivere in Giappone e negli Stati Uniti. Secondo Fotogramas, l'attore ha citato alimentazione, trasporti pubblici e tecnologia.",
-   "body": "Brendan Fraser, attore noto al grande pubblico per La mummia e premiato con l'Oscar come miglior attore protagonista per The Whale, ha parlato delle differenze tra la vita in Giappone e quella negli Stati Uniti. Secondo quanto riportato da Fotogramas, l'attore ha usato toni ironici per descrivere alcune abitudini americane, sottolineando in particolare il modo di mangiare e l'uso dei mezzi pubblici.\n\nNel suo intervento Fraser ha scherzato anche sulla tecnologia, immaginando un futuro ancora lontано dalle mochilas propulsoras, gli zaini a propulsione dei film di fantascienza. Le sue parole offrono uno sguardo personale sul confronto tra due modi di vivere molto diversi, senza entrare in dettagli sulla sua vita privata.",
-   "slug": "brendan-fraser-confronta-la-vita-in-giappone-e-negli-stati-u-b7e321",
-   "tags": [
-    "Brendan Fraser",
-    "La mummia",
-    "The Whale"
-   ],
-   "scene": "microfono",
-   "source": "fotogramas.es",
-   "url": "https://www.fotogramas.es/noticias-cine/a74422203/brendan-fraser-actor-la-momia-opinion-estadounidenses-comer-transporte-reflexion/",
-   "published": "2026-11-15T10:11:00+00:00"
-  },
-  {
-   "id": "5ee101b65bb3",
-   "section": "cinema",
-   "title": "Lettere da Iwo Jima compie vent'anni: il dittico di Clint Eastwood sulla battaglia",
-   "summary": "Vent'anni fa Clint Eastwood ha diretto due film sulla battaglia di Iwo Jima, visti dal fronte americano e da quello giapponese. Il titolo in lingua giapponese è considerato tra le opere più realistiche sul conflitto.",
-   "body": "Secondo Moviepilot, il film giapponese di Clint Eastwood \"Lettere da Iwo Jima\" compie vent'anni ed è considerato uno dei film di guerra più realistici di sempre. Il regista ha affrontato la stessa battaglia del Pacifico in due opere complementari: il titolo americano \"Flags of Our Fathers\" racconta l'episodio dal punto di vista dei soldati statunitensi, mentre \"Lettere da Iwo Jima\" mostra il conflitto dalla parte dei difensori giapponesi.\n\nIl secondo film, girato interamente in lingua giapponese, è quello che colpisce di più il pubblico e la critica. La fonte sottolinea come l'opera risulti particolarmente intensa, e il suo impatto deriva proprio dal ribaltamento di prospettiva rispetto al cinema di guerra americano tradizionale.",
-   "slug": "lettere-da-iwo-jima-compie-vent-anni-il-dittico-di-clint-eas-5ee101",
-   "tags": [
-    "Clint Eastwood",
-    "Lettere da Iwo Jima",
-    "Flags of Our Fathers"
-   ],
-   "scene": "pellicola",
-   "source": "moviepilot.de",
-   "url": "https://www.moviepilot.de/news/clint-eastwoods-meisterwerk-erschien-vor-20-jahren-1157687",
-   "published": "2026-11-15T10:05:00+00:00"
   }
  ],
  "seen": [
-  "bc9e15469f46",
-  "2e2b0f8379aa",
-  "81cd2f23be40",
-  "7d17830aefc7",
-  "f18cdeafeb0d",
-  "d6016e259d8e",
-  "1dd418cf07fd",
-  "b0429d33209b",
-  "56a3aa911b7b",
-  "79ab229c7d7f",
-  "699c1a98128b",
-  "2e56e3ec3e84",
-  "597eedc64fa7",
-  "f7e3dbc7e742",
-  "75a2bf06cc26",
-  "506e4acec742",
-  "0f822f3913b1",
-  "449658a9ec14",
-  "0d27da34965d",
-  "82dff9b06db3",
-  "1ca7449ff7ff",
-  "959a7e7b2342",
-  "f3281d0a1d9c",
-  "61f519decdd2",
   "ee87f1035842",
   "246f052c25c0",
   "01880caceb06",
@@ -12353,7 +12329,31 @@
   "78ebad932160",
   "290b070f6b23",
   "9dcb2b593dbd",
-  "0f932231a181"
+  "0f932231a181",
+  "f300b95e3be2",
+  "a57684436ecc",
+  "4b57eddd404d",
+  "346380d08ee0",
+  "a42688621b91",
+  "ce75285f3632",
+  "fd7414e16175",
+  "568eb980a863",
+  "ac7bca2fc8ca",
+  "771f29da4c21",
+  "37103eb5a534",
+  "3d0f8309b1a5",
+  "3038eee9794a",
+  "6422c5130c6b",
+  "9bcf763931de",
+  "da220e0f190c",
+  "5fb32edfef23",
+  "b54783b8762d",
+  "a6ba8c873329",
+  "b31ba90d06ec",
+  "351cd8697cac",
+  "2a8f5b849662",
+  "f78811fb1e1e",
+  "e919c4c7d51c"
  ],
  "version": 4,
  "digests": [
