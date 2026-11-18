@@ -1,6 +1,23 @@
 {
  "articles": [
   {
+   "id": "0221a9220bbf",
+   "section": "tv",
+   "title": "Black Doves, la serie Netflix che racconta il prezzo dello spionaggio",
+   "summary": "Black Doves, serie Netflix di spionaggio, si distingue dagli altri racconti di agenti segreti perché mostra il peso che la professione scava nei personaggi e nelle loro vite. Il confronto con James Bond è il filo conduttore dell'analisi.",
+   "body": "Secondo Collider, Black Doves, la serie Netflix ambientata nel mondo dello spionaggio, prende una strada diversa rispetto a molti film e serie di agenti segreti. Invece di concentrarsi solo sull'azione e sul fascino della missione, mette al centro il costo personale che il mestiere di spia comporta per chi lo esercita e per le persone che gli stanno intorno.\n\nIl punto di forza del racconto, secondo l'analisi, è proprio questo sguardo sulle conseguenze. Il confronto con James Bond, icona del genere che raramente si interroga sulle ricadute emotive delle sue missioni, aiuta a capire cosa rende la serie diversa. Il pezzo di Collider suggerisce che la scelta di esplorare il logorio dei personaggi offre una prospettiva più adulta su un genere spesso costruito sull'eroismo senza pause.",
+   "slug": "black-doves-la-serie-netflix-che-racconta-il-prezzo-dello-sp-0221a9",
+   "tags": [
+    "Black Doves",
+    "James Bond",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/black-doves-season-2-james-bond-problem/",
+   "published": "2026-11-18T00:18:12+00:00"
+  },
+  {
    "id": "ec34e003c148",
    "section": "cinema",
    "title": "Bezos: \"Nei provini era ovvio che Pattinson fosse James Bond\"",
@@ -8335,40 +8352,9 @@
    "source": "tmz.com",
    "url": "https://www.tmz.com/2026/11/15/slayer-shuts-down-show-after-mosh-pit-erupts-in-seats/",
    "published": "2026-11-15T14:06:05+00:00"
-  },
-  {
-   "id": "1736a3509db7",
-   "section": "tv",
-   "title": "General Hospital: Maura West è la performer della settimana nel ruolo di Ava",
-   "summary": "Maura West è stata premiata come interprete della settimana a Daytime per la sua prova in General Hospital nei panni di Ava Jerome. Il personaggio è stato al centro di diverse storyline, tra cui il rapporto con Trina e il matrimonio con Drew.",
-   "body": "Secondo TV Insider, Maura West è stata scelta come interprete della settimana nel daytime americano per il suo lavoro in General Hospital. Nel corso dell'ultima settimana di episodi, Ava Jerome è stata la confidente di Brook Lynn, interpretata da Amanda Setton, e la protettrice di Trina, interpretata da Tatyana Ali. Il personaggio si è mostrato anche nel ruolo di madre premurosa di Avery, interpretata da Ayla Bullington.\n\nAva è stata inoltre la sposa riluttante di Drew Cain, interpretato da Cameron Mathison. La fonte sottolinea l'energia delle scene in cui il personaggio affronta gli altri con decisione, un elemento che rende la serie particolarmente apprezzata dal pubblico del pomeriggio.",
-   "slug": "general-hospital-maura-west-e-la-performer-della-settimana-n-1736a3",
-   "tags": [
-    "General Hospital",
-    "Maura West",
-    "Tatyana Ali"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1303718/general-hospital-ava-drew-wedding-brennan-maura-west/",
-   "published": "2026-11-15T14:00:49+00:00"
   }
  ],
  "seen": [
-  "fa83313dbefe",
-  "ed4d85199730",
-  "b32fc77a481d",
-  "1f4b790af90e",
-  "b3cad17aa184",
-  "fbd23b5a809e",
-  "16f9519037be",
-  "5c205a67a4e5",
-  "5abfe426d4a3",
-  "f1415ef39849",
-  "5f716b100a9c",
-  "61d825f788c8",
-  "53cd8eb4ebc2",
-  "8f4e07a18316",
   "837f6ac3e0bc",
   "0e43de436fc4",
   "d3e11e1fa33e",
@@ -12354,7 +12340,21 @@
   "cd7ad8eec852",
   "1799cc262b1f",
   "1abe41d11467",
-  "6bea540b4cc1"
+  "6bea540b4cc1",
+  "0221a9220bbf",
+  "b726471d8bad",
+  "1512905b1927",
+  "7f2a59757900",
+  "c6feb8b0eb6a",
+  "48141e582487",
+  "6ce207c04b4c",
+  "e04bbd01cb03",
+  "22d61581f60f",
+  "b23f3504ae57",
+  "f147181dea48",
+  "b29fe2d42b77",
+  "4341eb93d493",
+  "655d224b35eb"
  ],
  "version": 4,
  "digests": [
