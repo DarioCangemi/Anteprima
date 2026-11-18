@@ -1,6 +1,74 @@
 {
  "articles": [
   {
+   "id": "7563df091ad3",
+   "section": "tv",
+   "title": "YouTube lancia nuovi programmi con creator e volti noti",
+   "summary": "YouTube ha presentato un nuovo palinsesto di programmi che coinvolge creator emergenti come Nick DiGiovanni ed Emma Chamberlain, e personalità affermate come Phil Rosenthal e Aryna Sabalenka. La mossa arriva mentre concorrenti come Netflix e Disney si avvicinano al mondo dei creator.",
+   "body": "YouTube ha annunciato un nuovo slate di programmi pensato per rispondere alla crescente concorrenza di piattaforme come Netflix e Disney, che negli ultimi tempi si stanno avvicinando al mondo dei creator. Nel progetto figurano giovani creator in crescita, come Nick DiGiovanni ed Emma Chamberlain, accanto a personalità già affermate come Phil Rosenthal e la tennista Aryna Sabalenka.\n\nSecondo Deadline, nel nuovo palinsesto è inserito anche un regista che gli addetti ai lavori hanno già definito il \"prossimo Kane\", un riferimento che lascia intendere grandi aspettative sul suo debutto. Il materiale disponibile non specifica formati, date di uscita o dettagli sulle singole produzioni.",
+   "slug": "youtube-lancia-nuovi-programmi-con-creator-e-volti-noti-7563df",
+   "tags": [
+    "YouTube",
+    "Emma Chamberlain",
+    "Phil Rosenthal"
+   ],
+   "scene": "streaming",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/youtube-new-slate-emma-chamberlain-phil-rosenthal-1237226843/",
+   "published": "2026-11-18T04:00:00+00:00"
+  },
+  {
+   "id": "7d6ec8b4efcf",
+   "section": "cinema",
+   "title": "Ron Howard frena sul sequel di Grinch con Jim Carrey",
+   "summary": "Il regista Ron Howard ha avvertito che il sequel di Il Grinch con Jim Carrey non andrà avanti se la sceneggiatura non sarà all'altezza. Il progetto resta quindi condizionato alla qualità del copione.",
+   "body": "Il regista Ron Howard ha chiarito che un eventuale sequel de Il Grinch, con Jim Carrey protagonista, non è ancora una decisione presa. Secondo quanto riportato da TheWrap, Howard ha dichiarato di voler mettere in guardia tutti: il film non andrà avanti se la sceneggiatura non risulterà davvero valida.\n\nLa condizione posta da Howard è dunque netta e legata esclusivamente alla qualità del testo. Le informazioni disponibili sono limitate e non indicano tempi di produzione né dettagli sul cast oltre al ritorno di Carrey, già indicato come protagonista. Al momento il progetto resta quindi in una fase di valutazione.",
+   "slug": "ron-howard-frena-sul-sequel-di-grinch-con-jim-carrey-7d6ec8",
+   "tags": [
+    "Ron Howard",
+    "Jim Carrey",
+    "Il Grinch"
+   ],
+   "scene": "pellicola",
+   "source": "thewrap.com",
+   "url": "https://www.thewrap.com/creative-content/movies/ron-howard-warns-grinch-jim-carrey-sequel-needs-great-script-to-move-forward/",
+   "published": "2026-11-18T03:56:37+00:00"
+  },
+  {
+   "id": "c67068467567",
+   "section": "tv",
+   "title": "Dancing with the Stars, Connor Wood resta in gara davanti a Harry Shum Jr.",
+   "summary": "Nella semifinale di Dancing with the Stars Harry Shum Jr. ha ottenuto il punteggio pieno di 60/60 dalla giuria ma è stato eliminato. Connor Wood, con 48/60, è rimasto in gara grazie ai voti del pubblico.",
+   "body": "Nella semifinale di Dancing with the Stars Harry Shum Jr. ha ricevuto dalla giuria il punteggio massimo di 60 su 60, ma al termine della serata è stato eliminato dalla competizione. Connor Wood, che dai giudici ha ottenuto 48 punti su 60, è invece riuscito a restare in gara.\n\nSecondo TV Insider, a fare la differenza sarebbero stati i voti del pubblico, che hanno permesso a Wood di superare il concorrente con il punteggio più alto della serata. Il caso mostra come, nel programma, il risultato finale dipenda sia dalle valutazioni della giuria sia dal televoto.",
+   "slug": "dancing-with-the-stars-connor-wood-resta-in-gara-davanti-a-h-c67068",
+   "tags": [
+    "Dancing with the Stars",
+    "Harry Shum Jr.",
+    "Connor Wood"
+   ],
+   "scene": "premiere",
+   "source": "tvinsider.com",
+   "url": "https://www.tvinsider.com/1304310/dancing-with-the-stars-connor-wood-semifinals-results-most-viewer-votes-explained/",
+   "published": "2026-11-18T03:44:41+00:00"
+  },
+  {
+   "id": "48f14b21183f",
+   "section": "gossip",
+   "title": "Bebe Neuwirth sfoggia i riccioli argentati alla festa per i 30 anni di Chicago",
+   "summary": "Bebe Neuwirth, star di Cheers, si è presentata con i suoi riccioli argento in un'apparizione pubblica legata al trentesimo anniversario del revival di Chicago. Secondo quanto riportato da Hello! Magazine, il look è stato molto commentato.",
+   "body": "Bebe Neuwirth, nota al grande pubblico per il ruolo della dottoressa Lilith Sternin nella serie Cheers, è apparsa in pubblico con una capigliatura riccia completamente argentata. L'occasione è stata la celebrazione del trentesimo anniversario del revival teatrale di Chicago, spettacolo musicale nel quale l'attrice ha avuto un ruolo di rilievo.\n\nSecondo quanto riportato da Hello! Magazine, il look scelto dall'attrice, che ha 67 anni, ha attirato l'attenzione dei presenti e dei fotografi. La fonte descrive l'apparizione come particolarmente suggestiva, senza però entrare nel dettaglio di dichiarazioni rilasciate dall'attrice durante l'evento.",
+   "slug": "bebe-neuwirth-sfoggia-i-riccioli-argentati-alla-festa-per-i-48f14b",
+   "tags": [
+    "Bebe Neuwirth",
+    "Cheers",
+    "Chicago"
+   ],
+   "scene": "tappeto",
+   "source": "hellomagazine.com",
+   "url": "https://www.hellomagazine.com/us/935691/cheers-star-bebe-neuwirth-67-turns-heads-with-striking-silver-curls-in-rare-new-video/",
+   "published": "2026-11-18T03:30:03+00:00"
+  },
+  {
    "id": "81dbbdfa98c6",
    "section": "gossip",
    "title": "Maya Jama sul red carpet del GQ Men of the Year a Londra",
@@ -8284,90 +8352,9 @@
    "source": "hellomagazine.com",
    "url": "https://www.hellomagazine.com/us/935116/i-dream-of-jeannie-barbara-eden-inundated-support-rare-appearance/",
    "published": "2026-11-15T16:13:18+00:00"
-  },
-  {
-   "id": "38642ee7a6eb",
-   "section": "tv",
-   "title": "Cyberpunk Edgerunners 2 debutta su Netflix, al secondo posto della classifica",
-   "summary": "Cyberpunk Edgerunners 2, anime tratto dal mondo di Cyberpunk 2077, arriva su Netflix a quattro anni dal primo capitolo e debutta al secondo posto della classifica. La nuova storia è ambientata nel 2078 e segue il personaggio di King.",
-   "body": "Il seguito dell'anime nato dal videogioco Cyberpunk 2077 è disponibile su Netflix e ha esordito al secondo posto della classifica della piattaforma. Il ritorno arriva quattro anni dopo la prima stagione, la cui fortuna aveva acceso l'interesse per l'universo creato dallo studio CD Projekt Red.\n\nLa nuova storia è ambientata nel 2078 e ruota attorno al personaggio di King. Secondo BadTaste, la serie è stata accompagnata anche dall'aggiornamento 2.5 del videogioco, che ha riportato l'attenzione sul titolo originale. Il pubblico italiano può quindi ritrovare la città di Night City in una nuova avventura cyberpunk.",
-   "slug": "cyberpunk-edgerunners-2-debutta-su-netflix-al-secondo-posto-38642e",
-   "tags": [
-    "Cyberpunk Edgerunners 2",
-    "Cyberpunk 2077",
-    "Netflix"
-   ],
-   "scene": "streaming",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/da-videogioco-ad-anime-cult-torna-su-netflix-la-miglior-serie-di-fantascienza-dai-tempi-di-blade-runner",
-   "published": "2026-11-15T16:00:38+00:00"
-  },
-  {
-   "id": "f587dd4c39fc",
-   "section": "tv",
-   "title": "The Chosen 6: sul set con cast e creatori della serie",
-   "summary": "La sesta stagione di The Chosen sarà dedicata alla crocifissione di Gesù, interpretato da Jonathan Roumie. Una visita sul set in Texas mostra come è stata girata la scena centrale della serie.",
-   "body": "La sesta stagione di The Chosen, la serie dedicata alla vita di Gesù, sarà incentrata sulla crocifissione, un momento che la produzione descrive come particolarmente doloroso. Secondo TV Guide Magazine, la rivista è stata sul set di Midlothian, in Texas, per raccontare come è stata girata questa parte fondamentale della storia, con il protagonista Jonathan Roumie.\n\nNel corso della visita, la rivista ha parlato con attori e membri della troupe del lavoro necessario per realizzare la giornata di riprese dedicata a questo momento. Il racconto ruota attorno alla fatica di una lavorazione complessa e carica di emozione, più che a dettagli sulla trama degli episodi.",
-   "slug": "the-chosen-6-sul-set-con-cast-e-creatori-della-serie-f587dd",
-   "tags": [
-    "The Chosen",
-    "Jonathan Roumie"
-   ],
-   "scene": "ciak",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1302498/the-chosen-set-visit-season-6-exclusive/",
-   "published": "2026-11-15T16:00:32+00:00"
-  },
-  {
-   "id": "68540ee98558",
-   "section": "cinema",
-   "title": "Sergio Castellitto al Monte-Carlo Film Festival de la Comédie",
-   "summary": "Sergio Castellitto è tra i protagonisti del Monte-Carlo Film Festival de la Comédie, la rassegna ideata da Ezio Greggio. In un'intervista a SuperGuidaTv ha ripercorso tappe della sua carriera, dai maestri ai personaggi più noti.",
-   "body": "Sergio Castellitto partecipa al Monte-Carlo Film Festival de la Comédie, la manifestazione ideata e organizzata da Ezio Greggio. Secondo SuperGuidaTv, che lo ha intervistato a margine dell'evento, l'attore ha ripercorso alcuni momenti significativi della sua vita professionale, segnata da incontri importanti e da personaggi che hanno lasciato un segno nel pubblico.\n\nNel colloquio Castellitto ha parlato dei suoi maestri, definendoli giganteschi, e ha detto di fare del proprio meglio nel lavoro. Ha anche dichiarato di essere sempre stato tollerante con il proprio curriculum. Tra i titoli citati nel materiale figurano Padre Pio e The Gentlemen 2.",
-   "slug": "sergio-castellitto-al-monte-carlo-film-festival-de-la-comedi-68540e",
-   "tags": [
-    "Sergio Castellitto",
-    "Monte-Carlo Film Festival de la Comédie",
-    "Ezio Greggio"
-   ],
-   "scene": "premiere",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/sergio-castellitto-da-padre-pio-a-the-gentlemen-2-intervista/",
-   "published": "2026-11-15T15:16:46+00:00"
-  },
-  {
-   "id": "0e81a4fc58a9",
-   "section": "gossip",
-   "title": "Gwen Stefani sul red carpet della Rock and Roll Hall of Fame",
-   "summary": "Gwen Stefani si è presentata alla cerimonia di induzione della Rock and Roll Hall of Fame a Los Angeles il 14 novembre con un piccolo abito nero trasparente. La cantante ha attirato l'attenzione dei fotografi sul red carpet dell'evento.",
-   "body": "Gwen Stefani è arrivata il 14 novembre a Los Angeles per la cerimonia di induzione della Rock and Roll Hall of Fame, evento che ha riunito numerosi ospiti del mondo della musica. La cantante si è presentata con un abito corto nero in tessuto trasparente, scelta che ha attirato l'attenzione sul red carpet.\n\nSecondo Hello! Magazine, il look dell'artista, che ha 57 anni, è stato uno dei più commentati della serata. La notizia è corredata da una serie di fotografie dell'arrivo della cantante all'evento.",
-   "slug": "gwen-stefani-sul-red-carpet-della-rock-and-roll-hall-of-fame-0e81a4",
-   "tags": [
-    "Gwen Stefani",
-    "Rock and Roll Hall of Fame"
-   ],
-   "scene": "tappeto",
-   "source": "hellomagazine.com",
-   "url": "https://www.hellomagazine.com/fashion/celebrity-style/935099/gwen-stefani-walks-red-carpet-in-daring-dress-covered-in-chains/",
-   "published": "2026-11-15T15:05:22+00:00"
   }
  ],
  "seen": [
-  "01ec7b029808",
-  "18e30aa57897",
-  "14507e869434",
-  "7112d8a351c7",
-  "afdbd6aca1c7",
-  "07a4f98c8882",
-  "bceba5011b3a",
-  "2b4a461a3694",
-  "4ba2accff009",
-  "c1d488168eb2",
-  "e61077cb1b3b",
-  "21c133ead02c",
-  "52c6b2d1c12a",
-  "631374f35c48",
-  "4c2e9e32e0cc",
   "d47c312198f6",
   "7d677142a931",
   "826edcb2cf51",
@@ -12352,7 +12339,22 @@
   "a66b8ac798d0",
   "152e0f32f8a4",
   "410554f3357c",
-  "4160e6f124d7"
+  "4160e6f124d7",
+  "b66a078ddb60",
+  "ee6c3c224e49",
+  "ac37dbc4b647",
+  "ad3cc9b0f822",
+  "928b9f4afe3c",
+  "7563df091ad3",
+  "7d6ec8b4efcf",
+  "c67068467567",
+  "2562c6f989ae",
+  "d457b90145a9",
+  "4e2d026b7f54",
+  "48f14b21183f",
+  "11983283c86b",
+  "42644790ff18",
+  "4b9c7081aedb"
  ],
  "version": 4,
  "digests": [
