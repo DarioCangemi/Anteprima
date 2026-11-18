@@ -1,6 +1,139 @@
 {
  "articles": [
   {
+   "id": "d7426c27e591",
+   "section": "cinema",
+   "title": "Gabin, il documentario sul passaggio dall'infanzia all'età adulta premiato a Cannes",
+   "summary": "Il documentario Gabin, applaudito a Cannes a maggio, segue il passaggio dall'infanzia all'età adulta di un figlio di agricoltori con sogni diversi da quelli della famiglia. La recensione di Paris Match ne sottolinea l'umanità e il valore come ritratto della gioventù di oggi.",
+   "body": "Il documentario Gabin è stato accolto con applausi al Festival di Cannes lo scorso maggio. Il film racconta il passaggio dall'infanzia all'età adulta di un giovane figlio di agricoltori, che coltiva aspirazioni diverse da quelle previste per lui dalla famiglia e dal contesto in cui vive.\n\nSecondo la recensione pubblicata da Paris Match, l'opera unisce umanità e attenzione per il linguaggio cinematografico, offrendo un ritratto appassionante della condizione giovanile contemporanea. Il racconto, che non cerca soluzioni semplici, è indicato dal critico come uno dei lavori più riusciti su questo tema.",
+   "slug": "gabin-il-documentario-sul-passaggio-dall-infanzia-all-eta-ad-d7426c",
+   "tags": [
+    "Gabin",
+    "Festival di Cannes"
+   ],
+   "scene": "premiere",
+   "source": "parismatch.com",
+   "url": "https://www.parismatch.com/gabin-critique-brillant-portrait-dun-enfant-terre-1JP6a8LVPccIzaRkBKwtkL",
+   "published": "2026-11-18T21:20:06+00:00"
+  },
+  {
+   "id": "b4af2d04fb6c",
+   "section": "musica",
+   "title": "CMA Awards 2026: Lainey Wilson conduce la 60a edizione",
+   "summary": "La 60a edizione dei CMA Awards torna con Lainey Wilson come conduttrice. Una guida spiega quando seguire la cerimonia e come vederla in streaming o via cavo.",
+   "body": "Torna i CMA Awards, la cerimonia annuale dedicata alla musica country americana, giunta alla sua 60a edizione. A condurre la serata sarà di nuovo Lainey Wilson, cantautrice premiata negli ultimi anni con diversi riconoscimenti.\n\nSecondo HollywoodLife, la testata ha pubblicato una guida pratica per seguire l'evento, con indicazioni su orari e modalità di visione sia con abbonamento alla TV via cavo sia senza, tramite piattaforme in streaming.",
+   "slug": "cma-awards-2026-lainey-wilson-conduce-la-60a-edizione-b4af2d",
+   "tags": [
+    "CMA Awards",
+    "Lainey Wilson"
+   ],
+   "scene": "premiere",
+   "source": "hollywoodlife.com",
+   "url": "https://hollywoodlife.com/2026/11/18/how-to-watch-cmas-2026-streaming-cable/",
+   "published": "2026-11-18T21:19:41+00:00"
+  },
+  {
+   "id": "f0220dde68d7",
+   "section": "tv",
+   "title": "Selling Sunset torna con la decima stagione: Christine Quinn di nuovo nel cast",
+   "summary": "Netflix ha annunciato il ritorno di Selling Sunset con la decima stagione, in arrivo il 4 dicembre 2026, e ha diffuso il trailer e il cast. Nel trailer torna Christine Quinn, con nuovi momenti di tensione promessi.",
+   "body": "Netflix ha reso noto che il reality sulle agenzie immobiliari di Los Angeles Selling Sunset tornerà con la decima stagione il 4 dicembre 2026. Secondo Just Jared, la piattaforma ha presentato insieme il cast e il trailer, con il ritorno di Christine Quinn tra i protagonisti.\n\nIl trailer lascia intendere che la nuova stagione sarà ricca di drammi e scontri tra le agenti della serie. Il materiale diffuso non fornisce altri dettagli su trame o episodi, quindi per ora restano da scoprire i nuovi equilibri del gruppo e le eventuali novità sul fronte delle vendite delle case di lusso.",
+   "slug": "selling-sunset-torna-con-la-decima-stagione-christine-quinn-f0220d",
+   "tags": [
+    "Selling Sunset",
+    "Christine Quinn",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "justjared.com",
+   "url": "https://www.justjared.com/2026/11/18/christine-quinn-returns-in-selling-sunset-season-10-trailer-theres-lots-of-drama-in-store/",
+   "published": "2026-11-18T21:11:06+00:00"
+  },
+  {
+   "id": "2ffd90582c11",
+   "section": "cinema",
+   "title": "Artificial, il film di Luca Guadagnino su Sam Altman e la nascita di ChatGPT",
+   "summary": "Il regista italiano Luca Guadagnino ha diffuso il trailer di Artificial, film dedicato al fondatore di OpenAI Sam Altman e alla nascita di ChatGPT. Negli Stati Uniti il film debutta in sale selezionate il giorno di Natale.",
+   "body": "Il regista italiano Luca Guadagnino ha presentato il primo trailer di Artificial, il film che racconta la figura di Sam Altman, fondatore di OpenAI, e i passaggi che hanno portato alla nascita di ChatGPT. Secondo ComingSoon, le prime immagini diffuse anticipano un progetto che mette al centro il rapporto tra tecnologia e intelligenza artificiale.\n\nNegli Stati Uniti il film uscirà in sale selezionate il giorno di Natale. Per il pubblico italiano, la pellicola segna un nuovo titolo di Guadagnino dopo le sue opere precedenti, e promette di affrontare un tema di grande attualità con lo sguardo di un autore noto anche all'estero.",
+   "slug": "artificial-il-film-di-luca-guadagnino-su-sam-altman-e-la-nas-2ffd90",
+   "tags": [
+    "Luca Guadagnino",
+    "Artificial",
+    "Sam Altman"
+   ],
+   "scene": "pellicola",
+   "source": "ComingSoon",
+   "url": "https://www.comingsoon.it/cinema/news/luca-guadagnino-racconta-l-ia-e-sam-altman-ecco-il-trailer-di-artificial/n236204/",
+   "published": "2026-11-18T21:08:00+00:00"
+  },
+  {
+   "id": "1f7a8dea5595",
+   "section": "tv",
+   "title": "Radio-Canada commissiona l'adattamento francese di Radio Gaga",
+   "summary": "La rete pubblica canadese Radio-Canada ha commissionato una versione in lingua francese del format factual Radio Gaga, ideato dalla società olandese Lineup Industries. È la prima volta che il programma approda in Canada, con una produzione affidata a una società di Montreal.",
+   "body": "Radio-Canada, l'emittente pubblica canadese, ha commissionato un adattamento in lingua francese di Radio Gaga, il format factual con finalità comunitarie prodotto dalla Lineup Industries, società con sede ad Amsterdam. Sarà la prima volta che il programma arriva in Canada.\n\nLa versione francese sarà realizzata da una casa di produzione con sede a Montreal. Secondo c21media, la notizia riguarda dunque un progetto ancora in fase di sviluppo, di cui non sono stati resi noti ulteriori dettagli su messa in onda, date o cast.",
+   "slug": "radio-canada-commissiona-l-adattamento-francese-di-radio-gag-1f7a8d",
+   "tags": [
+    "Radio Gaga",
+    "Radio-Canada",
+    "Lineup Industries"
+   ],
+   "scene": "tv",
+   "source": "c21media.net",
+   "url": "https://www.c21media.net/news/radio-canada-commissions-french-language-adaptation-of-factual-format-radio-gaga/",
+   "published": "2026-11-18T21:03:04+00:00"
+  },
+  {
+   "id": "fe126fb03c10",
+   "section": "cinema",
+   "title": "Avengers: Doomsday, Marvel mostra i design dei protagonisti",
+   "summary": "Marvel Studios ha pubblicato una nuova serie di character poster dedicati ai protagonisti di Avengers: Doomsday, il prossimo grande crossover del Marvel Cinematic Universe. Le immagini mostrano con più dettaglio costumi e design di alcuni personaggi.",
+   "body": "Marvel Studios ha diffuso una nuova serie di character poster dedicati ai protagonisti di Avengers: Doomsday, il prossimo grande crossover del Marvel Cinematic Universe. Le immagini offrono uno sguardo più ravvicinato ai costumi e al design di alcuni personaggi, in attesa dell'uscita del film.\n\nSecondo Cinefilos, il materiale introduce anche un elemento di interesse per i fan, legato alla scelta stilistica adottata per la presentazione dei personaggi. Il dettaglio completo dei poster e delle novità è disponibile nell'articolo originale della testata spagnola dedicata al cinema.",
+   "slug": "avengers-doomsday-marvel-mostra-i-design-dei-protagonisti-fe126f",
+   "tags": [
+    "Avengers: Doomsday",
+    "Marvel Studios"
+   ],
+   "scene": "premiere",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/tutto-film/approfondimenti/marvel-svela-i-design-dei-principali-eroi-di-avengers-doomsday-in-unanteprima-del-nuovo-film-del-mcu-731533",
+   "published": "2026-11-18T20:59:20+00:00"
+  },
+  {
+   "id": "962c01325dbd",
+   "section": "tv",
+   "title": "Milly Carlucci e le due lettere di Barbara d'Urso: \"Ha creato un caso mediatico\"",
+   "summary": "Milly Carlucci è intervenuta a La Vita in Diretta, collegata con Alberto Matano, parlando di Barbara d'Urso e delle due lettere ricevute. Al centro della polemica c'è il caso del profumo spruzzato in diretta da Guillermo Mariotto durante Ballando con le Stelle.",
+   "body": "Milly Carlucci è tornata a parlare di Barbara d'Urso durante un collegamento con Alberto Matano a La Vita in Diretta. Secondo quanto riportato da Biccy, la conduttrice di Ballando con le Stelle ha ricostruito la vicenda di due lettere che dice di aver ricevuto dalla collega, e ha dichiarato che d'Urso ha creato un caso mediatico.\n\nIl contesto è quello di una settimana difficile per il programma di Rai 1, finito al centro di discussioni su tv, radio, web e stampa dopo il profumo spruzzato in diretta da Guillermo Mariotto. Il racconto di Carlucci riguarda i rapporti tra le due conduttrici e il modo in cui la vicenda è stata affrontata pubblicamente. Per i dettagli completi delle parole della conduttrice rimandiamo all'articolo originale.",
+   "slug": "milly-carlucci-e-le-due-lettere-di-barbara-d-urso-ha-creato-962c01",
+   "tags": [
+    "Milly Carlucci",
+    "Barbara d'Urso",
+    "Ballando con le Stelle"
+   ],
+   "scene": "tv",
+   "source": "biccy.it",
+   "url": "https://www.biccy.it/milly-carlucci-parla-di-due-missive-ricevuta-da-barbara-durso/",
+   "published": "2026-11-18T20:35:22+00:00"
+  },
+  {
+   "id": "c9f397c76540",
+   "section": "cinema",
+   "title": "Guarding Stars arriva su Netflix: commedia natalizia con Leighton Meester e Jared Padalecki",
+   "summary": "Dal 18 novembre è disponibile su Netflix Guarding Stars, commedia natalizia tratta dal romanzo The Bodyguard, con Leighton Meester e Jared Padalecki. La recensione di Movieplayer la descrive come una storia zuccherosa e senza grandi pretese.",
+   "body": "Dal 18 novembre approda su Netflix Guarding Stars, una nuova commedia a tema natalizio ispirata al romanzo The Bodyguard. Nel cast figurano Leighton Meester e Jared Padalecki, due volti noti al pubblico televisivo, impegnati in una storia romantica costruita sui classici elementi del genere festivo.\n\nSecondo Movieplayer, che ne ha pubblicato una recensione, il film si presenta come un prodotto dolce e leggero, pensato per l'intrattenimento di fine anno più che per l'originalità. Il giudizio del sito è quello di una visione senza grandi pretese, adatta a chi cerca una commedia semplice da guardare durante le feste.",
+   "slug": "guarding-stars-arriva-su-netflix-commedia-natalizia-con-leig-c9f397",
+   "tags": [
+    "Guarding Stars",
+    "Leighton Meester",
+    "Jared Padalecki"
+   ],
+   "scene": "streaming",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/articoli/guarding-stars-recensione-commedia-romantica-film-natale-netflix_38224/",
+   "published": "2026-11-18T20:30:00+00:00"
+  },
+  {
    "id": "2848afa87671",
    "section": "cinema",
    "title": "Floyd Norman riceve l'Oscar alla carriera ai Governors Awards",
@@ -8210,168 +8343,9 @@
    "source": "Cinefilos",
    "url": "https://cinefilos.it/serie-tv/news/campioni-il-film-con-alessandro-gassmann-e-anna-ferzetti-arriva-su-netflix-il-15-dicembre-731078",
    "published": "2026-11-16T12:24:09+00:00"
-  },
-  {
-   "id": "8069555bebb5",
-   "section": "cinema",
-   "title": "Sandra Hüller: \"Recitare in più lingue è come ginnastica mentale\"",
-   "summary": "L'attrice tedesca Sandra Hüller, protagonista di Rose, ha dichiarato che le piace l'effetto che recitare in tutte le lingue le offre le propone, paragonandolo a una ginnastica mentale. Il film, scelto dall'Austria per l'Oscar al miglior film internazionale, ha già ottenuto il premio per la migliore interpretazione alla Berlinale.",
-   "body": "Secondo Fotogramas, l'attrice tedesca Sandra Hüller è una delle presenze più richieste sugli schermi spagnoli nel 2026: solo Anne Hathaway, tra le attrici, ha un numero maggiore di titoli usciti in sala quest'anno. Hüller è la protagonista di Rose, il film scelto dall'Austria per competere per l'Oscar al miglior film internazionale, e nella scorsa Berlinale il suo lavoro le è già valso il premio alla migliore interpretazione.\n\nIn un'intervista, Hüller ha spiegato di apprezzare l'effetto che recitare in lingue diverse ha sul suo cervello, come se fosse un allenamento mentale. Ha accettato le proposte in tutte le lingue, un aspetto che la rende un volto riconoscibile anche al di fuori della Germania.",
-   "slug": "sandra-huller-recitare-in-piu-lingue-e-come-ginnastica-menta-806955",
-   "tags": [
-    "Sandra Hüller",
-    "Rose",
-    "Berlinale"
-   ],
-   "scene": "premiere",
-   "source": "fotogramas.es",
-   "url": "https://www.fotogramas.es/noticias-cine/a74438428/sandra-huller-actriz-rose-pelicula-entrevista-idiomas/",
-   "published": "2026-11-16T12:17:00+00:00"
-  },
-  {
-   "id": "d90f40392809",
-   "section": "tv",
-   "title": "Le cinque miniserie televisive americane più celebri di sempre",
-   "summary": "Una classifica delle cinque miniserie trasmesse dalle grandi reti americane prima dell'avvento dello streaming. Tra i titoli citati figurano The Thorn Birds e Roots, due produzioni che hanno dimostrato il valore della televisione generalista.",
-   "body": "Prima dell'affermazione delle piattaforme streaming, alcune miniserie trasmesse dalle reti televisive americane hanno mostrato quanto la TV potesse raggiungere livelli di grande qualità. Secondo Collider, la rivista online ha stilato una classifica di cinque di questi titoli, indicandoli come i più importanti della storia del piccolo schermo statunitense.\n\nNell'elenco compaiono The Thorn Birds e Roots, due nomi che il pubblico italiano conosce bene per la forza narrativa e il successo di pubblico. La selezione punta a ricordare un periodo in cui serie di durata limitata riuscivano a riunire milioni di spettatori davanti allo stesso schermo, senza bisogno di episodi pubblicati tutti insieme.",
-   "slug": "le-cinque-miniserie-televisive-americane-piu-celebri-di-semp-d90f40",
-   "tags": [
-    "The Thorn Birds",
-    "Roots"
-   ],
-   "scene": "tv",
-   "source": "collider.com",
-   "url": "https://collider.com/best-network-tv-miniseries-ranked/",
-   "published": "2026-11-16T12:11:12+00:00"
-  },
-  {
-   "id": "d645ecb012c8",
-   "section": "cinema",
-   "title": "Toni Servillo e Lorenzo Perrotta premiati come migliori attori al Lisbona Film Festival",
-   "summary": "La giuria del Lisbona Film Festival, presieduta da David Cronenberg, ha assegnato il premio come Miglior Attore ex aequo a Toni Servillo e Lorenzo Perrotta per \"Scherzetto\" di Mario Martone. Il film, presentato in Concorso nella Selezione Ufficiale, uscirà nelle sale italiane il 28 gennaio con 01 Distribution.",
-   "body": "La giuria del LEFFEST, il Lisbona Film Festival, presieduta dal regista David Cronenberg, ha scelto di premiare a pari merito due attori italiani: Toni Servillo e Lorenzo Perrotta. Il riconoscimento per il Miglior Attore è stato assegnato alle loro interpretazioni in \"Scherzetto\", il film diretto da Mario Martone che era in Concorso nella Selezione Ufficiale della rassegna portoghese.\n\nIl film arriverà nelle sale italiane il 28 gennaio, distribuito da 01 Distribution. Secondo RB Casting, la notizia del premio riguarda entrambi gli interpreti, che condividono il riconoscimento a Lisbona. Il materiale disponibile non riporta altri dettagli sulla motivazione della giuria o sulla trama del film.",
-   "slug": "toni-servillo-e-lorenzo-perrotta-premiati-come-migliori-atto-d645ec",
-   "tags": [
-    "Toni Servillo",
-    "Lorenzo Perrotta",
-    "Scherzetto"
-   ],
-   "scene": "premiere",
-   "source": "RB Casting",
-   "url": "https://www.rbcasting.com/eventi/2026/11/16/david-cronenberg-premia-toni-servillo-e-lorenzo-perrotta-al-lisbona-film-festival/",
-   "published": "2026-11-16T12:06:17+00:00"
-  },
-  {
-   "id": "0443da7cf941",
-   "section": "gossip",
-   "title": "GF Vip, nuovo scontro tra Valeria Marini e Guendalina Tavassi per il bagno allagato",
-   "summary": "Nuova discussione nella Casa del Grande Fratello Vip tra Valeria Marini e Guendalina Tavassi, nata dopo un bagno allagato. Le due concorrenti si sono confrontate in un acceso battibecco.",
-   "body": "Nella Casa del Grande Fratello Vip torna la tensione tra Valeria Marini e Guendalina Tavassi. Secondo quanto riportato da BadTaste, il confronto è nato dopo che il bagno è stato trovato allagato, e la domanda rivolta alle coinquiline su chi avesse causato il disagio ha acceso la discussione.\n\nLo scontro si è spostato nel bagno, dove le due concorrenti hanno alzato i toni in una lite che ha coinvolto anche il clima generale della Casa. La notizia è stata ripresa dalla testata come uno dei momenti più accesi delle ultime puntate del reality di Canale 5.",
-   "slug": "gf-vip-nuovo-scontro-tra-valeria-marini-e-guendalina-tavassi-0443da",
-   "tags": [
-    "Grande Fratello Vip",
-    "Valeria Marini",
-    "Guendalina Tavassi"
-   ],
-   "scene": "palco",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/grande-fratello-vip-caos-nella-casa-per-il-bagno-allagato-nuova-lite-tra-valeria-marini-e-guendalina",
-   "published": "2026-11-16T12:04:54+00:00"
-  },
-  {
-   "id": "f612ff8c996a",
-   "section": "tv",
-   "title": "Amélie Carrouër, dalle inchieste alle grandi sfide della presidenziale su LCI",
-   "summary": "Amélie Carrouër, in poste dal 2017, è oggi alla guida dei grandi dibattiti per la presidenziale francese su LCI insieme a Gilles Bouleau. In un'intervista ha raccontato la sua ascesa inattesa e la volontà di restare vicina alla gente.",
-   "body": "Giornalista in forza a LCI dal 2017, Amélie Carrouër è oggi una delle volti di riferimento della rete all'approssimarsi della presidenziale francese. Accanto a Gilles Bouleau conduce i grandi dibattiti elettorali, un ruolo che secondo quanto riportato da Paris Match è arrivato in modo inatteso, partendo dal lavoro sul campo.\n\nNel colloquio la giornalista parla di un'ossessione per la sincerità e del desiderio di rendere orgogliosa la nonna. Il suo obiettivo, ha spiegato, è \"mettersi all'altezza delle persone\", cioè far arrivare le idee dei candidati al pubblico in modo chiaro. Secondo quanto riferito, la sua è una prospettiva costruita sull'esperienza diretta sul territorio.",
-   "slug": "amelie-carrouer-dalle-inchieste-alle-grandi-sfide-della-pres-f612ff",
-   "tags": [
-    "Amélie Carrouër",
-    "Gilles Bouleau",
-    "LCI"
-   ],
-   "scene": "microfono",
-   "source": "parismatch.com",
-   "url": "https://www.parismatch.com/nous-sommes-pour-faire-passer-idees-amelie-carrouer-terrain-presidentielle-sur-lci-2JMSwYlaN9RAB23SuVQnUj",
-   "published": "2026-11-16T12:00:19+00:00"
-  },
-  {
-   "id": "6cddcb2a88da",
-   "section": "tv",
-   "title": "Doctor Doom e Invisible Woman arrivano in Marvel Cosmic Invasion",
-   "summary": "Doctor Doom e Invisible Woman sono ora giocabili nel DLC The Siege of Castle Doom di Marvel Cosmic Invasion, disponibile su PC e console. L'espansione porta quindi due personaggi dei Fantastici Quattro nel gioco.",
-   "body": "Marvel Cosmic Invasion si arricchisce di due nuovi personaggi giocabili: Doctor Doom e Invisible Woman. Entrambi sono disponibili con il DLC The Siege of Castle Doom, pubblicato in anticipo rispetto alle attese, secondo quanto riportato da Collider.\n\nIl contenuto aggiuntivo è acquistabile e giocabile su PC e sulle principali console. Con l'arrivo dei due eroi e nemici storici dei Fantastici Quattro, il gioco amplia il proprio roster e offre ai giocatori nuove opzioni per affrontare le missioni.",
-   "slug": "doctor-doom-e-invisible-woman-arrivano-in-marvel-cosmic-inva-6cddcb",
-   "tags": [
-    "Marvel Cosmic Invasion",
-    "Doctor Doom",
-    "Invisible Woman"
-   ],
-   "scene": "streaming",
-   "source": "collider.com",
-   "url": "https://collider.com/marvel-cosmic-invasion-doctor-doom-siege-of-castle-doom-release/",
-   "published": "2026-11-16T12:00:12+00:00"
-  },
-  {
-   "id": "f88da4de4b42",
-   "section": "cinema",
-   "title": "Werner Herzog. Radical Dreamer arriva al cinema a fine novembre",
-   "summary": "Il documentario dedicato al regista tedesco Werner Herzog sarà in sala il 29, 30 novembre e 1 dicembre 2026 con la distribuzione di Kublai Film. Il ritratto è costruito con materiali d'archivio e testimonianze di collaboratori e attori, tra cui Christian Bale, Nicole Kidman e Robert Pattinson.",
-   "body": "Kublai Film porterà nelle sale, per tre giornate tra il 29 novembre e il 1 dicembre 2026, Werner Herzog. Radical Dreamer, un ritratto del regista tedesco, autore di numerosi documentari e film di finzione. Il film alterna materiali d'archivio e interventi di chi ha lavorato con lui, come Christian Bale, Nicole Kidman, Robert Pattinson, Wim Wenders, Patti Smith e Chloé Zhao, oltre a interviste allo stesso Herzog.\n\nSecondo ComingSoon, è già disponibile il trailer, che anticipa il tono del documentario e il taglio scelto per raccontare una carriera lunga decenni. Per il pubblico italiano l'appuntamento è un'occasione rara di vedere al cinema un lavoro dedicato a uno dei nomi più riconoscibili del cinema d'autore contemporaneo.",
-   "slug": "werner-herzog-radical-dreamer-arriva-al-cinema-a-fine-novemb-f88da4",
-   "tags": [
-    "Werner Herzog",
-    "Kublai Film",
-    "Christian Bale"
-   ],
-   "scene": "premiere",
-   "source": "ComingSoon",
-   "url": "https://www.comingsoon.it/cinema/news/un-documentario-sul-re-dei-documentari-arriva-in-sala-werner-herzog-radical/n235971/",
-   "published": "2026-11-16T11:59:00+00:00"
-  },
-  {
-   "id": "e0b155834a18",
-   "section": "cinema",
-   "title": "28 Anni Dopo 3: Danny Boyle conferma Cillian Murphy, ma il futuro è incerto",
-   "summary": "Il regista Danny Boyle ha confermato che la sceneggiatura di 28 Anni Dopo 3 è completa e che Cillian Murphy tornerà nel cast. Sony, però, non ha ancora deciso se procedere, dopo l'incasso deludente di Il tempio di ossa.",
-   "body": "Il regista Danny Boyle ha dichiarato che la sceneggiatura del terzo capitolo di 28 Anni Dopo è terminata e che Cillian Murphy sarà di nuovo nel cast. Secondo quanto riporta BadTaste, la conferma arriva direttamente dal regista, che considera il progetto ormai definito sul piano del testo.\n\nLo studio Sony, però, non ha ancora sciolto la riserva sul via libera alla produzione. Il motivo principale è il risultato al botteghino di Il tempio di ossa, il film successivo della saga, che si è fermato a circa 63 milioni di dollari di incasso e non ha soddisfatto le aspettative. Al momento, quindi, il futuro del franchise resta incerto.",
-   "slug": "28-anni-dopo-3-danny-boyle-conferma-cillian-murphy-ma-il-fut-e0b155",
-   "tags": [
-    "28 Anni Dopo",
-    "Danny Boyle",
-    "Cillian Murphy"
-   ],
-   "scene": "ciak",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/28-anni-dopo-3-si-fara-la-sceneggiatura-e-finita-e-cillian-murphy-ci-sara-parola-di-danny-boyle",
-   "published": "2026-11-16T11:58:21+00:00"
   }
  ],
  "seen": [
-  "6fcab68d38fd",
-  "2123398cb61e",
-  "58f445d754bd",
-  "9d3111458cdf",
-  "7702216f5c3e",
-  "30a7531a4609",
-  "34dca86b4b7a",
-  "a24ee4b42d6d",
-  "e22029565f82",
-  "dd56ed4d9421",
-  "e43ae9996b37",
-  "3434aade8781",
-  "de02f9d72b89",
-  "4d616d7a97f9",
-  "a375d91954f7",
-  "33075163cc10",
-  "839956ffb91c",
-  "7f533c964282",
-  "0e3c8f1d7a74",
-  "b62791cd2023",
-  "e3aefbbf7bee",
-  "3191c7410cd8",
-  "0b8afbc01c8c",
-  "a57919da354e",
   "0e4a4cfefea0",
   "d58bbc444811",
   "84664c4335cd",
@@ -12347,7 +12321,31 @@
   "0fceb16981a8",
   "2678f4e6ef13",
   "acd7ac8e7a74",
-  "d23e05068126"
+  "d23e05068126",
+  "b4af2d04fb6c",
+  "8e0b74d22b73",
+  "bdd8c05ee7a2",
+  "fd97ccf5cd8d",
+  "a171b28bcc1b",
+  "f786a2c504bd",
+  "cdc32240feb1",
+  "750267de5ad2",
+  "f0220dde68d7",
+  "2ffd90582c11",
+  "70beed92bc2b",
+  "962c01325dbd",
+  "d7426c27e591",
+  "8fdd9271eb2e",
+  "de73d9818a60",
+  "ead88a5c6e06",
+  "f5f9f79d33ea",
+  "ca7ebf57d43e",
+  "104b71e13630",
+  "1f7a8dea5595",
+  "fe126fb03c10",
+  "093032ff9c95",
+  "fb208a072fa7",
+  "c9f397c76540"
  ],
  "version": 4,
  "digests": [
