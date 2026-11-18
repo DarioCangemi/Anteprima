@@ -1,6 +1,73 @@
 {
  "articles": [
   {
+   "id": "e306a6284772",
+   "section": "cinema",
+   "title": "Kevin Feige: il ritorno di Robert Downey Jr. negli Avengers era previsto da tempo",
+   "summary": "Il presidente dei Marvel Studios Kevin Feige ha rivelato che il ritorno di Robert Downey Jr. nel ruolo di Tony Stark era già pianificato, anche prima del licenziamento di Jonathan Majors. Il piano riguarda i due nuovi film degli Avengers annunciati dallo studio.",
+   "body": "Il dirigente Marvel Kevin Feige ha spiegato che il ritorno di Robert Downey Jr. nell'universo cinematografico Marvel non è stato una decisione improvvisata. Secondo quanto riferito da Just Jared, il piano per riportare l'attore negli Avengers esisteva già prima che Jonathan Majors venisse allontanato dal progetto.\n\nLo studio ha annunciato due nuovi film dedicati agli Avengers, e il ritorno di Downey Jr. si inserisce in questa strategia di lungo periodo. Le dichiarazioni di Feige chiariscono che la scelta è stata pianificata con anticipo, e non è la conseguenza dell'uscita di Majors, che in precedenza era stato indicato come volto del nuovo Kang.",
+   "slug": "kevin-feige-il-ritorno-di-robert-downey-jr-negli-avengers-er-e306a6",
+   "tags": [
+    "Kevin Feige",
+    "Robert Downey Jr.",
+    "Jonathan Majors"
+   ],
+   "scene": "premiere",
+   "source": "justjared.com",
+   "url": "https://www.justjared.com/2026/11/18/marvel-boss-reveals-robert-downey-jrs-avengers-return-was-always-planned-even-before-jonathan-majors-firing/",
+   "published": "2026-11-18T06:18:01+00:00"
+  },
+  {
+   "id": "62ca75bccd2d",
+   "section": "tv",
+   "title": "The Daily Show ironizza sulla risposta di Trump ai guasti tecnologici",
+   "summary": "Nel suo programma, The Daily Show ha preso di mira la reazione di Donald Trump dopo i diffusi disservizi tecnologici negli Stati Uniti. Il conduttore Michael Kosta ha chiesto al presidente se il messaggio rivolto agli americani fosse che episodi del genere capitano.",
+   "body": "Il programma satirico The Daily Show, condotto da Jon Stewart in passato e oggi seguito con regolarità da un pubblico ampio, ha dedicato un segmento alla risposta di Donald Trump dopo i guasti tecnologici che hanno colpito molti servizi negli Stati Uniti. Secondo TheWrap, la dichiarazione del presidente è stata giudicata vaga e poco rassicurante, al punto da essere paragonata al messaggio di un biscotto della fortuna.\n\nIl conduttore Michael Kosta ha ironizzato sul tono della replica e ha chiesto direttamente se il messaggio rivolto agli americani fosse che cose di questo tipo accadono. Il servizio ha messo in risalto la distanza tra le parole del presidente e le preoccupazioni di chi è rimasto senza servizi.",
+   "slug": "the-daily-show-ironizza-sulla-risposta-di-trump-ai-guasti-te-62ca75",
+   "tags": [
+    "The Daily Show",
+    "Donald Trump",
+    "Michael Kosta"
+   ],
+   "scene": "tv",
+   "source": "thewrap.com",
+   "url": "https://www.thewrap.com/creative-content/tv-shows/the-daily-show-mocks-trump-response-tech-outages/",
+   "published": "2026-11-18T06:14:23+00:00"
+  },
+  {
+   "id": "13f2a56f1c1c",
+   "section": "cinema",
+   "title": "Létoile e Léa Seydoux: il sci-fi \"The Beast\" arriva in tv in prima free",
+   "summary": "Il film di fantascienza con Léa Seydoux, uscito al cinema due anni fa con poca attenzione, va in onda in prima serata gratuita in Germania. La storia si sviluppa su tre piani temporali che coprono 134 anni.",
+   "body": "Due anni fa è uscito nelle sale un film di fantascienza con Léa Seydoux che ha avuto una visibilità molto limitata. Stasera la pellicola approda per la prima volta in televisione in chiaro, in Germania, e la testata tedesca MoviePilot la presenta come una delle opere più sottovalutate degli ultimi anni.\n\nIl racconto si articola su tre piani temporali che abbracciano complessivamente 134 anni. Secondo MoviePilot, la struttura a più epoche è il tratto che colpisce di più lo spettatore, che viene coinvolto gradualmente in una storia costruita su più livelli. Per chi se la fosse persa al cinema, la messa in onda in tv rappresenta l'occasione per recuperarla.",
+   "slug": "letoile-e-lea-seydoux-il-sci-fi-the-beast-arriva-in-tv-in-pr-13f2a5",
+   "tags": [
+    "Léa Seydoux",
+    "The Beast"
+   ],
+   "scene": "pellicola",
+   "source": "moviepilot.de",
+   "url": "https://www.moviepilot.de/news/free-tv-premiere-the-beast-arte-1152351",
+   "published": "2026-11-18T06:00:00+00:00"
+  },
+  {
+   "id": "ad5ac685d120",
+   "section": "tv",
+   "title": "Slow Horses non si ferma: il rinnovo legato a James Bond",
+   "summary": "Secondo le indiscrezioni la serie spionistica Slow Horses sarebbe dovuta concludersi con la ottava stagione, ma il legame con il nuovo James Bond potrebbe cambiare i piani. La serie Apple TV, giunta alla sesta stagione, è tra le produzioni originali di punta della piattaforma.",
+   "body": "Slow Horses, la serie di spionaggio prodotta da Apple TV, sembrava destinata a chiudersi con la sua ottava stagione. Secondo quanto riportato da ecranlarge.com, però, un altro protagonista dello spionaggio televisivo potrebbe far cambiare idea agli autori: si tratta di James Bond, il cui nuovo corso cinematografico sembra avere effetti anche sul futuro della serie.\n\nGiunta alla sesta stagione, Slow Horses è considerata una delle creazioni originali più importanti della piattaforma. Gli ascolti sono difficili da quantificare, ma secondo la fonte il pubblico della serie cresce di stagione in stagione. Al momento non risultano annunci ufficiali su un eventuale rinnovo.",
+   "slug": "slow-horses-non-si-ferma-il-rinnovo-legato-a-james-bond-ad5ac6",
+   "tags": [
+    "Slow Horses",
+    "Apple TV",
+    "James Bond"
+   ],
+   "scene": "streaming",
+   "source": "ecranlarge.com",
+   "url": "https://www.ecranlarge.com/series/news/slow-horses-renouvele-lien-casting-jack-lowden",
+   "published": "2026-11-18T05:30:00+00:00"
+  },
+  {
    "id": "7e54b925845d",
    "section": "tv",
    "title": "Harry Shum Jr. e Jenna Johnson parlano di bullismo dopo l'eliminazione da Dancing with the Stars",
@@ -385,6 +452,39 @@
    "source": "biccy.it",
    "url": "https://www.biccy.it/sanremo-77-over-big-pubblico-anziano-cantanti-giovani/",
    "published": "2026-11-18T01:34:16+00:00"
+  },
+  {
+   "id": "b8be816cf43f",
+   "section": "tv",
+   "title": "Percy Jackson e gli Dei dell'Olimpo, il cast alla premiere della terza stagione",
+   "summary": "Leah Sava Jeffries, Walker Scobell e Aryan Simhadri hanno partecipato al red carpet della premiere della terza stagione di Percy Jackson e gli Dei dell'Olimpo. Le foto dell'evento sono state diffuse dalla stampa di spettacolo internazionale.",
+   "body": "Il cast di Percy Jackson e gli Dei dell'Olimpo si è mostrato sul tappeto rosso in occasione della premiere della terza stagione della serie. Tra i presenti ci sono Leah Sava Jeffries, Walker Scobell e Aryan Simhadri, tutti in abito elegante davanti ai fotografi.\n\nSecondo Just Jared, la serata segna il debutto dei nuovi episodi, che il pubblico potrà seguire sulla piattaforma che distribuisce la serie. La notizia riguarda l'accoglienza dell'evento e le immagini del red carpet, senza ulteriori dettagli sul programma della stagione.",
+   "slug": "percy-jackson-e-gli-dei-dell-olimpo-il-cast-alla-premiere-de-b8be81",
+   "tags": [
+    "Percy Jackson e gli Dei dell'Olimpo",
+    "Walker Scobell",
+    "Leah Sava Jeffries"
+   ],
+   "scene": "premiere",
+   "source": "justjared.com",
+   "url": "https://www.justjared.com/2026/11/17/leah-sava-jeffries-walker-scobell-aryan-simhadri-all-suit-up-for-percy-jackson-the-olympians-season-3-premiere/",
+   "published": "2026-11-18T01:31:46+00:00"
+  },
+  {
+   "id": "f8c2b94c2ea5",
+   "section": "cinema",
+   "title": "Nicolas Cage e il peso di John Madden: la trasformazione per il ruolo",
+   "summary": "Nicolas Cage ha raccontato di aver preso peso e indossato una pesante tuta per interpretare John Madden, storico allenatore dei Oakland Raiders. Il film e' una produzione legata al ruolo dell'ex coach e commentatore NFL.",
+   "body": "Nicolas Cage ha spiegato di aver accettato di prendere circa 60 libbre, pari a oltre venti chili, per dare corpo al personaggio di John Madden, lo storico allenatore dei Oakland Raiders diventato poi celebre come commentatore sportivo. Secondo E! Online, l'attore non ha voluto limitarsi al trucco e ha affiancato all'aumento di peso anche una tuta imbottita piuttosto pesante sul set.\n\nL'approccio fisico, ha raccontato Cage, serviva a rendere credibile la figura di Madden senza affidarsi soltanto alla somiglianza. Il risultato sarebbe quello di un ruolo costruito sul corpo oltre che sulla voce e sui gesti, una scelta che l'attore ha descritto come parte del suo metodo di lavoro.",
+   "slug": "nicolas-cage-e-il-peso-di-john-madden-la-trasformazione-per-f8c2b9",
+   "tags": [
+    "Nicolas Cage",
+    "John Madden"
+   ],
+   "scene": "ciak",
+   "source": "eonline.com",
+   "url": "https://www.eonline.com/news/1437916/nicolas-cage-gained-25-pounds-to-play-john-madden-in-biopic?cmpid=rss-syndicate-genericrss-us-top_stories",
+   "published": "2026-11-18T01:30:00+00:00"
   },
   {
    "id": "7711289f7dcd",
@@ -8250,126 +8350,9 @@
    "source": "deadline.com",
    "url": "https://deadline.com/2026/11/david-tennant-only-murders-in-the-building-doctor-who-future-1237224368/",
    "published": "2026-11-15T17:40:57+00:00"
-  },
-  {
-   "id": "faca4f490f11",
-   "section": "tv",
-   "title": "La isola del tesoro, la nuova serie d'avventura arriva in streaming su Amazon",
-   "summary": "Da oggi è disponibile per intero su Amazon La isola del tesoro, nuova serie d'avventura ispirata al romanzo di Robert Louis Stevenson. Le sei puntate propongono una rilettura con alcune differenze rispetto al libro.",
-   "body": "Da oggi tutti gli episodi di Die Schatzinsel sono disponibili su Amazon Prime Video. La serie in sei puntate è una nuova versione del celebre romanzo di Robert Louis Stevenson, tra i classici più amati del genere avventura, e può contare su un cast di nomi noti.\n\nSecondo quanto riportato da MoviePilot, chi ha letto il libro dovrà aspettarsi alcune modifiche rispetto alla storia originale. La produzione presenta quindi la vicenda come una caccia al tesoro reinterpretata per il pubblico di oggi, pensata per essere vista tutta d'un fiato.",
-   "slug": "la-isola-del-tesoro-la-nuova-serie-d-avventura-arriva-in-str-faca4f",
-   "tags": [
-    "La isola del tesoro",
-    "Amazon Prime Video",
-    "Robert Louis Stevenson"
-   ],
-   "scene": "streaming",
-   "source": "moviepilot.de",
-   "url": "https://www.moviepilot.de/news/abenteuerserie-die-schatzinsel-streamen-amazon-1164990",
-   "published": "2026-11-15T17:35:00+00:00"
-  },
-  {
-   "id": "e7aa13a650b1",
-   "section": "gossip",
-   "title": "Mariotto replica a Barbara d'Urso: \"Non mi pento e non chiedo scusa\"",
-   "summary": "Guillermo Mariotto ha risposto alle critiche di Barbara d'Urso, dichiarando di non pentirsi e di non voler chiedere scusa. La polemica, nata sui social, ha coinvolto anche opinionisti e conduttrici televisive.",
-   "body": "Guillermo Mariotto è tornato sulla polemica con Barbara d'Urso e ha replicato con una dichiarazione netta: non si pente di quanto detto e non intende chiedere scusa. Secondo quanto riportato da Biccy, Mariotto ritiene inoltre che la conduttrice abbia interpretato ogni sua parola come rivolta a sé.\n\nLa vicenda si sta allargando oltre i social network. Migliaia di utenti su X, Instagram e TikTok, insieme a content creator, opinionisti e ora anche alcune conduttrici, stanno commentando il botta e risposta. Il caso ricorda quello dell'intervista di Pierluigi Diaco ad Alberto Ravagnani, anch'essa diventata oggetto di un ampio dibattito online.",
-   "slug": "mariotto-replica-a-barbara-d-urso-non-mi-pento-e-non-chiedo-e7aa13",
-   "tags": [
-    "Guillermo Mariotto",
-    "Barbara d'Urso",
-    "Pierluigi Diaco"
-   ],
-   "scene": "microfono",
-   "source": "biccy.it",
-   "url": "https://www.biccy.it/mariotto-replica-barbara-durso-non-mi-pento/",
-   "published": "2026-11-15T17:34:49+00:00"
-  },
-  {
-   "id": "5f2ce41d908d",
-   "section": "gossip",
-   "title": "Leonardo DiCaprio festeggia il compleanno con Jeff Bezos e Orlando Bloom",
-   "summary": "Leonardo DiCaprio ha festeggiato il compleanno con diversi amici del mondo dello spettacolo, tra cui Jeff Bezos e Orlando Bloom. Le foto dell'arrivo e dell'uscita dalla festa a Beverly Hills, sabato sera, sono state pubblicate dal sito TMZ.",
-   "body": "Leonardo DiCaprio ha festeggiato un anno in più con una serata a cui hanno partecipato numerosi amici del mondo dello spettacolo. Tra gli ospiti figurano Jeff Bezos e Orlando Bloom, fotografati mentre arrivavano e lasciavano la festa a Beverly Hills nella serata di sabato.\n\nSecondo TMZ, che ha pubblicato le immagini dell'evento, la festa si è tenuta nella località californiana e ha visto la presenza di diversi volti noti del cinema e dell'imprenditoria. Il materiale fotografico mostra gli invitati durante gli arrivi e le partenze, senza ulteriori dettagli sul programma della serata.",
-   "slug": "leonardo-dicaprio-festeggia-il-compleanno-con-jeff-bezos-e-o-5f2ce4",
-   "tags": [
-    "Leonardo DiCaprio",
-    "Jeff Bezos",
-    "Orlando Bloom"
-   ],
-   "scene": "tappeto",
-   "source": "tmz.com",
-   "url": "https://www.tmz.com/2026/11/15/leonardo-dicaprio-birthday-party/",
-   "published": "2026-11-15T17:32:05+00:00"
-  },
-  {
-   "id": "2e2109b5d2b9",
-   "section": "musica",
-   "title": "Orietta Berti non sarà a Sanremo e critica il livello del festival",
-   "summary": "La cantante Orietta Berti ha dichiarato che non parteciperà al Festival di Sanremo, giudicando basso il livello delle canzoni in gara. Ha spiegato di avere molti impegni e di non voler togliere spazio a un giovane artista.",
-   "body": "La cantante Orietta Berti ha confermato che non prenderà parte al Festival di Sanremo. Secondo quanto riferito dall'ANSA, l'artista ha espresso un giudizio critico sul livello della manifestazione, parlando di brani di qualità non elevata tra quelli selezionati per la gara.\n\nBerti ha spiegato di avere già numerosi impegni professionali e di non voler occupare il posto di un giovane cantante. La sua scelta, ha affermato, nasce dalla volontà di lasciare spazio a nuove voci emergenti.",
-   "slug": "orietta-berti-non-sara-a-sanremo-e-critica-il-livello-del-fe-2e2109",
-   "tags": [
-    "Orietta Berti",
-    "Sanremo"
-   ],
-   "scene": "palco",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/15/orietta-berti-boccia-sanremo-non-ci-andro-livello-basso-tra-brani_4b570cb7-8fb0-41af-8de4-3fec4886e51a.html",
-   "published": "2026-11-15T17:29:49+00:00"
-  },
-  {
-   "id": "f1aaa3eaa92d",
-   "section": "tv",
-   "title": "Tulsa King: Garrett Hedlund parla del ruolo di Mitch Keller accanto a Sylvester Stallone",
-   "summary": "Garrett Hedlund, interprete di Mitch Keller nella quarta stagione di Tulsa King, racconta in un'intervista il ruolo del suo personaggio, sempre più centrale, e il lavoro al fianco di Sylvester Stallone. Parla anche dell'entusiasmo per il progetto I Play Rocky.",
-   "body": "Nella quarta stagione di Tulsa King, la serie con Sylvester Stallone, il personaggio di Mitch Keller interpretato da Garrett Hedlund acquista un peso sempre maggiore nella trama. Secondo JoBlo, che ha intervistato il cast di supporto, l'attore ha raccontato come il suo ruolo si sia ampliato stagione dopo stagione e quale sia stata l'esperienza di lavorare con Stallone sul set.\n\nNel colloquio Hedlund ha anche espresso entusiasmo per I Play Rocky, il progetto legato alla saga di Rocky che sta attirando l'attenzione dei fan. Le sue dichiarazioni offrono uno sguardo dietro le quinte di una serie che continua a crescere di pubblico e che si conferma tra i titoli di punta della piattaforma che la distribuisce.",
-   "slug": "tulsa-king-garrett-hedlund-parla-del-ruolo-di-mitch-keller-a-f1aaa3",
-   "tags": [
-    "Tulsa King",
-    "Sylvester Stallone",
-    "Garrett Hedlund"
-   ],
-   "scene": "microfono",
-   "source": "joblo.com",
-   "url": "https://www.joblo.com/interview-garrett-hedlund-tulsa-king-season-4/",
-   "published": "2026-11-15T17:20:04+00:00"
-  },
-  {
-   "id": "f54a18621974",
-   "section": "cinema",
-   "title": "Libri Come 2027: la parola guida sarà Giovani, ospite la Nobel Han Kang",
-   "summary": "Il festival Libri Come ha annunciato che la parola guida dell'edizione 2027 sarà \"Giovani\". Tra gli ospiti è prevista la scrittrice sudcoreana Premio Nobel per la letteratura Han Kang.",
-   "body": "Il festival Libri Come, dedicato alla letteratura e alla cultura, ha scelto \"Giovani\" come parola guida della sua edizione 2027. La scelta è stata presentata durante un'anteprima all'Auditorium, nel corso di un incontro tra il giornalista Francesco Costa e lo scrittore Paolo Giordano.\n\nTra gli ospiti annunciati figura Han Kang, scrittrice sudcoreana insignita del Premio Nobel per la letteratura. Secondo ANSA, l'annuncio è stato dato nel corso dell'evento di presentazione, che ha anticipato i temi del programma della prossima edizione.",
-   "slug": "libri-come-2027-la-parola-guida-sara-giovani-ospite-la-nobel-f54a18",
-   "tags": [
-    "Libri Come",
-    "Han Kang",
-    "Paolo Giordano"
-   ],
-   "scene": "premiere",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/15/la-parola-guida-di-libri-come-2027-e-giovani-sara-ospite-la-nobel-han_8c9a7df2-507c-4145-abdd-dc0ac7e0fb56.html",
-   "published": "2026-11-15T17:16:14+00:00"
   }
  ],
  "seen": [
-  "aba8eedd02c8",
-  "b9b46ab6c9c2",
-  "116bd6990627",
-  "4fd3eb225bd0",
-  "79059c835d78",
-  "5a7b5ab6bfe1",
-  "45579bde18d2",
-  "a5663f2b8c29",
-  "171f77deff20",
-  "37867016f267",
-  "9dbc60649d70",
-  "036908e5bba5",
-  "4d05955de6c9",
-  "06933e7dbf00",
-  "2427e661eba8",
-  "922a241e00e4",
   "77b32db12e78",
   "d67207d7f7a3",
   "bf4c286ed9fd",
@@ -12353,7 +12336,23 @@
   "f978172185cb",
   "1288fb74b578",
   "c983389c176e",
-  "3bf17deefc5d"
+  "3bf17deefc5d",
+  "e306a6284772",
+  "31f9c84572bc",
+  "62ca75bccd2d",
+  "57729d1814ae",
+  "61d872327a48",
+  "4514ea611a4c",
+  "13f2a56f1c1c",
+  "3ad6beba91c0",
+  "ad5ac685d120",
+  "486204021094",
+  "a745928ab674",
+  "7a48cfbba1d8",
+  "0c25e8b74478",
+  "25aa8e1193e9",
+  "b8be816cf43f",
+  "f8c2b94c2ea5"
  ],
  "version": 4,
  "digests": [
