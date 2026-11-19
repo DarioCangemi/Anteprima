@@ -1,6 +1,105 @@
 {
  "articles": [
   {
+   "id": "4c9caba81cf0",
+   "section": "cinema",
+   "title": "Léa Seydoux su Bond: \"Non mi interessa davvero chi lo interpreta\"",
+   "summary": "L'attrice francese Léa Seydoux ha commentato le scelte di casting della saga di James Bond, dicendo di non preoccuparsene troppo. Ha espresso fiducia nel progetto di Denis Villeneuve con Robert Pattinson.",
+   "body": "L'attrice francese Léa Seydoux, storica interprete della saga di James Bond, ha dichiarato di non essere particolarmente interessata al casting del franchise. Secondo TheWrap, Seydoux ha sostenuto che il personaggio è diventato più americano nel tempo, esprimendo così un'opinione schietta sul cambiamento del mito dell'agente segreto britannico.\n\nNonostante le sue considerazioni, l'attrice si è detta sicura che il film diretto da Denis Villeneuve con Robert Pattinson nel ruolo principale sarà un buon risultato. La sua fiducia nel regista e nel progetto è rimasta evidente nelle sue parole, anche se ha preso le distanze dalle polemiche sulla scelta degli interpreti.",
+   "slug": "lea-seydoux-su-bond-non-mi-interessa-davvero-chi-lo-interpre-4c9cab",
+   "tags": [
+    "Léa Seydoux",
+    "Denis Villeneuve",
+    "Robert Pattinson"
+   ],
+   "scene": "pellicola",
+   "source": "thewrap.com",
+   "url": "https://www.thewrap.com/creative-content/movies/bond-girl-casting-lea-seydoux-doesnt-care-robert-pattinson-denis-villeneuve/",
+   "published": "2026-11-19T00:12:18+00:00"
+  },
+  {
+   "id": "f268edce0569",
+   "section": "tv",
+   "title": "SkyShowtime chiude nel 2027, esce di scena il CEO Monty Sarhan",
+   "summary": "Skydance e Comcast hanno deciso di chiudere la piattaforma di streaming europea SkyShowtime nel 2027, al termine di una revisione delle alternative strategiche. Lascia anche l'amministratore delegato Monty Sarhan, mentre si chiude la fusione Paramount-Warner Bros. Discovery da 110 miliardi di dollari.",
+   "body": "Skydance e Comcast hanno annunciato che SkyShowtime, la joint venture di streaming attiva in Europa, sarà dismessa nel corso del 2027. La decisione arriva dopo una revisione delle possibili strategie per la piattaforma, un percorso avviato mentre si perfeziona la fusione tra Paramount e Warner Bros. Discovery, valutata 110 miliardi di dollari.\n\nContestualmente, secondo quanto riporta TheWrap, lascia la guida della società l'amministratore delegato Monty Sarhan. Il materiale disponibile non specifica i dettagli della transizione né il destino degli abbonati e dei contenuti presenti sul servizio, informazioni che potrebbero essere chiarite nei prossimi comunicati ufficiali.",
+   "slug": "skyshowtime-chiude-nel-2027-esce-di-scena-il-ceo-monty-sarha-f268ed",
+   "tags": [
+    "SkyShowtime",
+    "Monty Sarhan",
+    "Skydance"
+   ],
+   "scene": "streaming",
+   "source": "thewrap.com",
+   "url": "https://www.thewrap.com/culture-lifestyle/culture/skyshowtime-streaming-joint-venture-shutting-down-comcast-skydance/",
+   "published": "2026-11-19T00:11:05+00:00"
+  },
+  {
+   "id": "b2ea471a80ed",
+   "section": "musica",
+   "title": "Van Gogh venduto a New York per 190 milioni di dollari",
+   "summary": "Un dipinto di Vincent van Gogh, Castagni in fiore, è stato aggiudicato a New York per 190 milioni di dollari, cifra record per l'artista. La vendita ha riacceso la polemica con gli eredi dell'ex proprietario, vittima delle persecuzioni naziste.",
+   "body": "Un dipinto di Vincent van Gogh intitolato Castagni in fiore è stato aggiudicato all'asta a New York per 190 milioni di dollari, una cifra che segna un nuovo primato per l'artista olandese. Secondo ANSA, il prezzo raggiunto alla vendita rappresenta un record assoluto per un'opera di van Gogh.\n\nLa transazione ha però riaperto una polemica con i discendenti dell'ex proprietario del quadro, che fu vittima delle persecuzioni naziste durante la seconda guerra mondiale. La questione della restituzione di opere sottratte o cedute in quel periodo resta uno dei temi più delicati del mercato dell'arte internazionale.",
+   "slug": "van-gogh-venduto-a-new-york-per-190-milioni-di-dollari-b2ea47",
+   "tags": [
+    "Vincent van Gogh",
+    "Castagni in fiore"
+   ],
+   "scene": "premiere",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/19/record-a-new-york-un-van-gogh-aggiudicato-per-190-milioni-di-dollari_b17ddde5-f13e-486f-94a3-77d90e19e875.html",
+   "published": "2026-11-19T00:08:21+00:00"
+  },
+  {
+   "id": "9f9e45ba17e3",
+   "section": "musica",
+   "title": "Taylor Swift guida gli arrivi ai 60esimi CMA Awards",
+   "summary": "Taylor Swift è stata tra le protagoniste del red carpet dei 60esimi Country Music Association Awards, celebrati mercoledì sera. Molte star del country sono arrivate in anticipo sfoggiando i loro look migliori.",
+   "body": "Taylor Swift ha aperto la sfilata degli arrivi ai 60esimi Country Music Association Awards, l'edizione che segna un traguardo importante per il premio dedicato alla musica country. Secondo TMZ, alcune delle star più note del genere hanno raggiunto il red carpet con largo anticipo, mettendo in mostra i look scelti per la serata.\n\nLa cerimonia si è svolta mercoledì sera e ha richiamato numerosi big della scena country americana. Il materiale disponibile non riporta altri dettagli su outfit, premi o momenti specifici dell'evento.",
+   "slug": "taylor-swift-guida-gli-arrivi-ai-60esimi-cma-awards-9f9e45",
+   "tags": [
+    "Taylor Swift",
+    "CMA Awards"
+   ],
+   "scene": "tappeto",
+   "source": "tmz.com",
+   "url": "https://www.tmz.com/2026/11/18/stars-arrive-to-60th-annual-country-music-awards/",
+   "published": "2026-11-19T00:05:57+00:00"
+  },
+  {
+   "id": "fc3a465d1c99",
+   "section": "tv",
+   "title": "The Real Housewives of New Jersey torna su Bravo con un cast rinnovato",
+   "summary": "The Real Housewives of New Jersey torna su Bravo dopo oltre due anni di assenza, con un cast molto cambiato e una riconciliazione familiare. La nuova stagione dovra' dimostrare di riportare lo spirito che ha reso il programma uno dei piu' seguiti del franchise.",
+   "body": "The Real Housewives of New Jersey farà il suo ritorno su Bravo dopo più di due anni di pausa, con un gruppo di protagoniste largamente rinnovato. Secondo SpoilerTV, la quindicesima stagione si apre anche con una riconciliazione familiare inattesa, elemento che alimenta le aspettative del pubblico.\n\nIl programma è stato a lungo apprezzato per le liti tra familiari, le cene esplosive, i rapporti d'amicizia che cambiavano di continuo e il celebre episodio del tavolo ribaltato. Il commento della fonte si interroga però su un punto: il titolo potrà recuperare il tono di un tempo, oppure il cambiamento del cast ha alterato troppo la formula che il pubblico conosceva.",
+   "slug": "the-real-housewives-of-new-jersey-torna-su-bravo-con-un-cast-fc3a46",
+   "tags": [
+    "The Real Housewives of New Jersey",
+    "Bravo"
+   ],
+   "scene": "tv",
+   "source": "spoilertv.com",
+   "url": "https://www.spoilertv.com/2026/11/opinion-rhonj-season-15-fresh-start-or.html",
+   "published": "2026-11-19T00:04:19+00:00"
+  },
+  {
+   "id": "866943bdea1c",
+   "section": "tv",
+   "title": "Paramount+ ordina Clandestine, serie con Brit Marling e Tilda Swinton",
+   "summary": "Paramount+ ha ordinato Clandestine, nuova serie drammatica ideata da Brit Marling e Zal Batmanglij, autori di The OA e A Murder at the End of the World. Protagoniste Marling e Tilda Swinton in un family drama ambientato nell'élite politica di Washington.",
+   "body": "Paramount+ ha dato il via libera alla serie Clandestine, un nuovo progetto firmato da Brit Marling e Zal Batmanglij, gli stessi autori di The OA e di A Murder at the End of the World. Secondo Deadline, nel cast principale figurano Brit Marling e Tilda Swinton, due nomi di primo piano del panorama internazionale.\n\nLa storia è un dramma familiare ad alta tensione ambientato tra le figure dell'élite politica di Washington D.C. La produzione è affidata a uno studio indipendente, mentre la piattaforma di Paramount non ha ancora diffuso una data di debutto.",
+   "slug": "paramount-ordina-clandestine-serie-con-brit-marling-e-tilda-866943",
+   "tags": [
+    "Clandestine",
+    "Brit Marling",
+    "Tilda Swinton"
+   ],
+   "scene": "streaming",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/clandestine-series-paramount-plus-brit-marling-tilda-swinton-1237227752/",
+   "published": "2026-11-19T00:02:46+00:00"
+  },
+  {
    "id": "7e7578acf520",
    "section": "gossip",
    "title": "Robert Pattinson scherzato dal governo britannico sui posti di lavoro giovanili",
@@ -8238,126 +8337,9 @@
    "source": "tvinsider.com",
    "url": "https://www.tvinsider.com/swooon/1312764/outlander-sam-heughan-girlfriend-stephanie-bullock-bafta-scotland-awards/",
    "published": "2026-11-16T15:16:03+00:00"
-  },
-  {
-   "id": "f1b325145dcd",
-   "section": "cinema",
-   "title": "Robert Pattinson sarà il nuovo James Bond",
-   "summary": "Robert Pattinson interpreterà James Bond nei prossimi film prodotti da Amazon MGM, con la regia di Denis Villeneuve. Il progetto riunisce l'attore e il regista dopo Dune: Parte Tre.",
-   "body": "Secondo TV Insider, Robert Pattinson vestirà ufficialmente i panni di James Bond nei prossimi film della saga targata Amazon MGM. L'attore, noto per il ruolo di Edward Cullen nella saga di Twilight e per quello di Bruce Wayne in Batman, ha recentemente interpretato Chris Hansen nel film acclamato Primetime.\n\nPer il progetto Pattinson tornerà a lavorare con Denis Villeneuve, regista di Dune: Parte Tre. Il materiale diffuso parla di una serie che dovrebbe contare tre film, ma non sono stati ancora forniti dettagli ufficiali su date di uscita o sul resto del cast.",
-   "slug": "robert-pattinson-sara-il-nuovo-james-bond-f1b325",
-   "tags": [
-    "Robert Pattinson",
-    "Denis Villeneuve",
-    "James Bond"
-   ],
-   "scene": "pellicola",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1303871/robert-pattinson-cast-james-bond-007/",
-   "published": "2026-11-16T15:15:21+00:00"
-  },
-  {
-   "id": "0ee3509b74b8",
-   "section": "tv",
-   "title": "Jenna Dewan, eliminata da Dancing With the Stars, anticipa un possibile numero finale",
-   "summary": "Jenna Dewan è stata eliminata durante i quarti di finale di Dancing With the Stars. Insieme al partner Valentin Chmerkovskiy aveva già iniziato a preparare un ballo libero per la finale.",
-   "body": "Jenna Dewan è uscita da Dancing With the Stars nel corso dei quarti di finale, ma la coppia formata con il professionista Valentin Chmerkovskiy aveva già cominciato a lavorare sul numero conclusivo. Secondo TV Insider, l'attrice ha lasciato intendere che il ballo libero previsto per la finale potrebbe ancora vedere la luce, nonostante l'eliminazione.\n\nLa notizia riguarda il celebre talent statunitense di ballo, in cui celebrità e professionisti si sfidano davanti a una giuria e al pubblico. Il fatto che i due avessero già iniziato a preparare la finale mostra quanto la coppia contasse su un percorso più lungo nella competizione. Al momento non sono stati comunicati dettagli su coreografia o eventuali esibizioni future.",
-   "slug": "jenna-dewan-eliminata-da-dancing-with-the-stars-anticipa-un-0ee350",
-   "tags": [
-    "Dancing With the Stars",
-    "Jenna Dewan",
-    "Valentin Chmerkovskiy"
-   ],
-   "scene": "palco",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1303865/dancing-with-the-stars-jenna-dewan-freestyle-performance-elimination-val-chmerkovskiy/",
-   "published": "2026-11-16T15:09:58+00:00"
-  },
-  {
-   "id": "93e883cf21d3",
-   "section": "tv",
-   "title": "Bros 2 torna su Netflix dal 12 novembre",
-   "summary": "Netflix annuncia l'arrivo della seconda stagione di Bros dal 12 novembre. La serie israeliana, creata da Hanan Savyon e Guy Amir, racconta un'amicizia che regge anche nei momenti difficili, tra lavoro e vita personale.",
-   "body": "Dal 12 novembre arriva su Netflix la seconda stagione di Bros, la serie israeliana ideata da Hanan Savyon e Guy Amir. Il racconto ruota attorno a due amici che, anche quando le cose vanno male, continuano a stare insieme, mettendo alla prova il loro rapporto tra impegni professionali e vita privata.\n\nSecondo BadTaste, la nuova stagione approfondisce il legame tra i protagonisti, mostrando come l'amicizia possa resistere alle difficoltà quotidiane e ai contrasti. Il tono resta quello di una commedia dai toni umani, in cui il lavoro e i rapporti personali si intrecciano continuamente.",
-   "slug": "bros-2-torna-su-netflix-dal-12-novembre-93e883",
-   "tags": [
-    "Bros",
-    "Netflix",
-    "Hanan Savyon"
-   ],
-   "scene": "streaming",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/da-amici-a-soci-su-netflix-torna-la-storia-di-unamicizia-che-resiste-anche-quando-tutto-va-storto",
-   "published": "2026-11-16T15:00:11+00:00"
-  },
-  {
-   "id": "e8a3831c8030",
-   "section": "cinema",
-   "title": "Nicolas Cage ricorda il furto della sua collezione di fumetti",
-   "summary": "Nicolas Cage ha raccontato in un'intervista a People, legata al film Madden, il furto della sua collezione di fumetti rari, che includeva il primo numero di Superman. Il ricordo, ha spiegato l'attore, gli provoca ancora dispiacere.",
-   "body": "Nicolas Cage ha ripercorso, in un'intervista alla rivista People realizzata in occasione di Madden, il momento in cui gli fu rubata la sua collezione di fumetti rari. Tra gli oggetti sottratti c'era anche il primo numero di Superman, un pezzo a cui l'attore era particolarmente legato.\n\nSecondo ComingSoon, che riprende l'intervista, il ricordo è ancora doloroso per Cage, che parla del furto come di una ferita rimasta aperta nel tempo. La passione per i fumetti è da sempre uno dei tratti noti dell'attore, appassionato collezionista di albi e cimeli del mondo nerd.",
-   "slug": "nicolas-cage-ricorda-il-furto-della-sua-collezione-di-fumett-e8a383",
-   "tags": [
-    "Nicolas Cage",
-    "Madden"
-   ],
-   "scene": "pellicola",
-   "source": "ComingSoon",
-   "url": "https://www.comingsoon.it/cinema/news/nicolas-cage-e-il-primo-numero-di-superman-rubato-la-ferita-nerd-e-ancora/n235985/",
-   "published": "2026-11-16T14:33:00+00:00"
-  },
-  {
-   "id": "a79df06a0c2f",
-   "section": "tv",
-   "title": "Clerici prende le distanze dalla tv urlata: \"Vince la gentilezza\"",
-   "summary": "In apertura di una puntata di È sempre mezzogiorno, Antonella Clerici ha preso le distanze dalla tv urlata e dagli scontri in diretta. La conduttrice ha rivendicato il successo di un programma costruito sulla gentilezza.",
-   "body": "Nel corso dell'apertura di una puntata di È sempre mezzogiorno, Antonella Clerici si è detta lontana dalla televisione dei toni accesi e dei battibecchi in diretta. La conduttrice ha rivendicato il valore di un programma che, a suo dire, ha costruito il proprio pubblico puntando su un clima sereno e rispettoso.\n\nSecondo BadTaste, Clerici ha sottolineato che la gentilezza può funzionare anche in prime time e nel racconto quotidiano della TV, senza bisogno di liti per attirare l'attenzione. Il suo intervento arriva in un momento in cui il dibattito sui programmi dai toni più aggressivi è tornato al centro dell'attenzione del pubblico.",
-   "slug": "clerici-prende-le-distanze-dalla-tv-urlata-vince-la-gentilez-a79df0",
-   "tags": [
-    "Antonella Clerici",
-    "È sempre mezzogiorno"
-   ],
-   "scene": "tv",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/antonella-clerici-contro-la-tv-urlata-a-e-sempre-mezzogiorno-il-suo-sfogo-sulle-liti-in-tv",
-   "published": "2026-11-16T14:26:24+00:00"
-  },
-  {
-   "id": "10e95fc5f4cf",
-   "section": "gossip",
-   "title": "Emma Stone al Governors Awards con un abito Louis Vuitton senza maniche",
-   "summary": "Emma Stone ha partecipato al red carpet dei Governors Awards 2026 indossando un abito Louis Vuitton senza maniche, dal taglio sottile e aderente. L'apparizione dell'attrice ha attirato l'attenzione dei fotografi e dei media internazionali.",
-   "body": "Emma Stone ha scelto un abito senza maniche firmato Louis Vuitton per il red carpet dei Governors Awards 2026, l'evento dell'Academy dedicato ai premi onorari. Il modello, dal taglio fluido e aderente, ha messo in evidenza la silhouette dell'attrice e ha confermato il suo gusto per uno stile sobrio ed elegante.\n\nSecondo theblast, la scelta ha colpito i fotografi presenti e ha fatto subito circolare le immagini online. L'apparizione si inserisce in una serata molto seguita dal pubblico di Hollywood, dove ogni look delle star viene osservato con attenzione.",
-   "slug": "emma-stone-al-governors-awards-con-un-abito-louis-vuitton-se-10e95f",
-   "tags": [
-    "Emma Stone",
-    "Governors Awards",
-    "Louis Vuitton"
-   ],
-   "scene": "tappeto",
-   "source": "theblast.com",
-   "url": "https://theblast.com/885851/emma-stone-stuns-slinky-sleeveless-louis-vuitton-dress/",
-   "published": "2026-11-16T14:20:00+00:00"
   }
  ],
  "seen": [
-  "90a1560e1660",
-  "49e8add26b24",
-  "5cce3281cc6b",
-  "fd395ab4fb8a",
-  "993f14920d8d",
-  "b85c5f343d62",
-  "e280857323d8",
-  "0ceecd02f5e4",
-  "f645dd3c2bc1",
-  "9d2d82ca8090",
-  "6dd8fc66e197",
-  "5fa13db401d7",
-  "016b914c8af9",
-  "22be3308b6f7",
-  "27ddc83d2007",
-  "5371e5e11dad",
-  "0f0fb97a0d15",
   "31476b8ea5cb",
   "1b8a8bc61100",
   "0d47d5a458ac",
@@ -12340,7 +12322,24 @@
   "abc97754fe94",
   "5f5f5381be11",
   "e63d391c9061",
-  "e9164b363936"
+  "e9164b363936",
+  "3e651435561d",
+  "550ecd67df02",
+  "ce058ae0bdf7",
+  "36d325165be6",
+  "b3f01854259e",
+  "4c9caba81cf0",
+  "f268edce0569",
+  "b2ea471a80ed",
+  "9f9e45ba17e3",
+  "c0ae39ac6ff7",
+  "db7c22ab39db",
+  "7332127f2f41",
+  "eb3bbaf25091",
+  "fc3a465d1c99",
+  "47433b8ca736",
+  "866943bdea1c",
+  "9652d45a2d20"
  ],
  "version": 4,
  "digests": [
