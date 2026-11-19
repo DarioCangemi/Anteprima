@@ -1,6 +1,226 @@
 {
  "articles": [
   {
+   "id": "2b84e3c7da5c",
+   "section": "cinema",
+   "title": "Elon Musk entra nel capitale di Skydance, conferma David Ellison",
+   "summary": "Il CEO di Skydance, David Ellison, ha confermato l'ingresso del miliardario Elon Musk nel capitale della società, senza rendere nota la cifra investita. Intanto la società prepara la fusione tra Warner Bros. Television e Paramount Television Studios.",
+   "body": "David Ellison, amministratore delegato di Skydance, ha confermato che il miliardario Elon Musk entrerà nel capitale della società. Non è stato però reso noto l'importo dell'investimento, né la quota che Musk andrà ad acquisire. La notizia è riportata da Box Office Biz.\n\nNello stesso periodo Skydance sta lavorando alla fusione tra Warner Bros. Television e Paramount Television Studios, un'operazione che riguarderebbe due delle principali realtà della produzione televisiva americana. Al momento non sono disponibili ulteriori dettagli sui tempi o sulle condizioni dell'accordo.",
+   "slug": "elon-musk-entra-nel-capitale-di-skydance-conferma-david-elli-2b84e3",
+   "tags": [
+    "Skydance",
+    "David Ellison",
+    "Elon Musk"
+   ],
+   "scene": "ciak",
+   "source": "Box Office Biz",
+   "url": "https://boxofficebiz.it/news/elon-musk-investe-in-skydance-david-ellison-conferma-il-suo-ingresso/",
+   "published": "2026-11-19T08:17:21+00:00"
+  },
+  {
+   "id": "f400399602d6",
+   "section": "gossip",
+   "title": "GF Vip, Müller chiarisce con La Rosa e critica gli autori",
+   "summary": "Andreas Müller ha chiarito con Marina La Rosa dopo le parole di Veronica Peparini nella casa del GF Vip. Il concorrente ha poi criticato gli autori per quanto accaduto nella Mystery Room.",
+   "body": "Nella casa del Grande Fratello Vip, Andreas Müller ha chiarito con Marina La Rosa dopo i commenti di Veronica Peparini, che avevano fatto nascere un clima di tensione tra i concorrenti. Secondo BadTaste, il confronto tra Müller e La Rosa si è svolto nella casa, davanti agli altri, con l'obiettivo di chiudere il malinteso.\n\nSubito dopo, Müller ha criticato gli autori del programma per quanto accaduto nella Mystery Room, la stanza dedicata alle prove e alle sorprese riservate ai concorrenti. Le sue parole riportano il dissenso del concorrente sulle dinamiche che lo hanno coinvolto, senza che la redazione possa aggiungere dettagli oltre a quanto dichiarato.",
+   "slug": "gf-vip-muller-chiarisce-con-la-rosa-e-critica-gli-autori-f40039",
+   "tags": [
+    "Grande Fratello Vip",
+    "Andreas Müller",
+    "Marina La Rosa"
+   ],
+   "scene": "tv",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/gf-vip-andreas-muller-chiarisce-con-marina-la-rosa-dopo-la-gelosia-di-veronica-peparini-poi-attacca-gli-autori",
+   "published": "2026-11-19T08:15:51+00:00"
+  },
+  {
+   "id": "4aa7e529d99c",
+   "section": "cinema",
+   "title": "Chris Pratt nel nuovo film di fantascienza The Traveler",
+   "summary": "Chris Pratt tornerà alla fantascienza con The Traveler, adattamento del romanzo di Joseph Eckert sui viaggi nel tempo. Il progetto rientra in un accordo triennale con Paramount Pictures.",
+   "body": "Chris Pratt sarà il protagonista di The Traveler, film di fantascienza tratto dall'omonimo romanzo di Joseph Eckert, con al centro il tema dei viaggi nel tempo. Il progetto segna il ritorno dell'attore al genere che gli ha dato grande popolarità internazionale.\n\nSecondo Cinefilos, la pellicola fa parte di un accordo triennale con Paramount Pictures, che avvia così una collaborazione più strutturata tra l'interprete e lo studio. Al momento il materiale disponibile non riporta ulteriori dettagli su data di uscita o cast di contorno.",
+   "slug": "chris-pratt-nel-nuovo-film-di-fantascienza-the-traveler-4aa7e5",
+   "tags": [
+    "Chris Pratt",
+    "Paramount Pictures",
+    "Joseph Eckert"
+   ],
+   "scene": "pellicola",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/cinema-news/2026/chris-pratt-the-traveler-film-fantascienza-paramount-731566",
+   "published": "2026-11-19T08:12:30+00:00"
+  },
+  {
+   "id": "02c0e7c83ee7",
+   "section": "cinema",
+   "title": "Glen Powell nel trailer di The Comeback King, commedia musicale country",
+   "summary": "Glen Powell è protagonista di The Comeback King, commedia musicale scritta insieme al regista Judd Apatow, dedicata alla musica country. Il film arriverà nel 2027 e ne è stato diffuso il primo trailer.",
+   "body": "È uscito il trailer di The Comeback King, la commedia musicale con Glen Powell che l'attore ha scritto a quattro mani con il regista Judd Apatow. Secondo ComingSoon, il film è un omaggio alla musica country e segue la storia di un cantante alle prese con il proprio ritorno sulle scene.\n\nLa data di uscita è fissata per il 2027. Il progetto unisce così la scrittura di Powell a quella di Apatow, autore di numerose commedie di successo, e segna un nuovo passo nella carriera dell'attore texano, già noto al pubblico per i suoi ruoli in film d'azione e commedie.",
+   "slug": "glen-powell-nel-trailer-di-the-comeback-king-commedia-musica-02c0e7",
+   "tags": [
+    "Glen Powell",
+    "Judd Apatow",
+    "The Comeback King"
+   ],
+   "scene": "pellicola",
+   "source": "ComingSoon",
+   "url": "https://www.comingsoon.it/cinema/news/glen-powell-e-una-star-del-country-ecco-il-trailer-di-the-comeback-king/n236217/",
+   "published": "2026-11-19T08:03:00+00:00"
+  },
+  {
+   "id": "400a7e2f99ba",
+   "section": "cinema",
+   "title": "Del Toro produttore: The Boy in the Iron Box su Netflix, possibile finestra d'uscita",
+   "summary": "Guillermo del Toro torna su Netflix come produttore del film horror The Boy in the Iron Box, adattamento del romanzo che ha scritto con Chuck Hogan. L'attore Kevin Durand ha anticipato una possibile finestra di distribuzione.",
+   "body": "Guillermo del Toro si prepara a tornare su Netflix con un nuovo progetto horror, questa volta nel ruolo di produttore. Il film è The Boy in the Iron Box, adattamento cinematografico del romanzo scritto dallo stesso Del Toro insieme a Chuck Hogan.\n\nSecondo Cinefilos, l'attore Kevin Durand, uno degli interpreti della pellicola, ha anticipato una possibile finestra di distribuzione. Al momento non sono disponibili ulteriori dettagli ufficiali su date o modalità di uscita.",
+   "slug": "del-toro-produttore-the-boy-in-the-iron-box-su-netflix-possi-400a7e",
+   "tags": [
+    "Guillermo del Toro",
+    "Kevin Durand",
+    "The Boy in the Iron Box"
+   ],
+   "scene": "streaming",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/cinema-news/2026/guillermo-del-toro-the-boy-in-the-iron-box-uscita-netflix-731563",
+   "published": "2026-11-19T08:00:49+00:00"
+  },
+  {
+   "id": "e153d07d18b1",
+   "section": "cinema",
+   "title": "Spielberg elogia Odissea di Nolan e la prova di Matt Damon",
+   "summary": "Steven Spielberg ha moderato un incontro con Christopher Nolan dopo la proiezione di Odissea, il film dedicato a Ulisse. Il regista di Jurassic Park lo ha definito uno spettacolo travolgente, citando la prova di Matt Damon.",
+   "body": "Steven Spielberg ha moderato un incontro con Christopher Nolan dopo una proiezione di Odissea, il kolossal dedicato al mito di Ulisse. Il regista di Jurassic Park ha definito il film uno spettacolo travolgente e ha indicato come uno dei migliori ruoli di Matt Damon proprio quello interpretato nella pellicola.\n\nTra i momenti che hanno colpito Spielberg c'è la scena di Circe, in cui gli uomini vengono trasformati in maiali. Secondo Movieplayer, il regista ha lodato l'intera messa in scena, con un'attenzione particolare alla resa visiva dell'episodio omerico.",
+   "slug": "spielberg-elogia-odissea-di-nolan-e-la-prova-di-matt-damon-e153d0",
+   "tags": [
+    "Odissea",
+    "Steven Spielberg",
+    "Christopher Nolan"
+   ],
+   "scene": "premiere",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/news/steven-spielberg-incorona-odissea-uno-migliori-ruoli-matt-damon_172037/",
+   "published": "2026-11-19T08:00:48+00:00"
+  },
+  {
+   "id": "c7babd76aa5a",
+   "section": "tv",
+   "title": "Ascolti tv 18 novembre 2026: Tale e Quale Show contro Viola come il mare 3",
+   "summary": "Nella prima serata di mercoledì 18 novembre 2026 si è sfidata la programmazione di Rai1 e Canale 5, con Tale e Quale Show e Viola come il mare 3 tra i titoli più seguiti. I dati Auditel sono stati diffusi da SuperGuidaTV.",
+   "body": "La prima serata di mercoledì 18 novembre 2026 ha visto ancora una volta il confronto diretto tra Rai1 e Canale 5, con Tale e Quale Show da una parte e Viola come il mare 3 dall'altra. Secondo SuperGuidaTV, che ha riportato i dati Auditel, la sfida degli ascolti tv della serata è al centro dell'attenzione degli addetti ai lavori.\n\nIl materiale disponibile non riporta però i numeri precisi di ascolto né l'esito finale del confronto. Per conoscere share e spettatori di ciascun programma e i dati dei principali canali del digitale terrestre occorre consultare il rapporto completo della fonte.",
+   "slug": "ascolti-tv-18-novembre-2026-tale-e-quale-show-contro-viola-c-c7babd",
+   "tags": [
+    "Tale e Quale Show",
+    "Viola come il mare 3",
+    "Auditel"
+   ],
+   "scene": "tv",
+   "source": "superguidatv.it",
+   "url": "https://www.superguidatv.it/ascolti-tv-18-novembre-2026-tale-e-quale-viola-come-il-mare-3/",
+   "published": "2026-11-19T08:00:44+00:00"
+  },
+  {
+   "id": "906da53a48c5",
+   "section": "tv",
+   "title": "Ranucci sospeso dalla Rai per dieci giorni senza stipendio",
+   "summary": "Sigfrido Ranucci ha annunciato sui social che dal 23 novembre sarà sospeso dalla Rai per dieci giorni senza stipendio. Salterà due puntate di Report, il programma di inchiesta che conduce.",
+   "body": "Sigfrido Ranucci ha comunicato sui social che dal 23 novembre sarà sospeso dalla Rai per dieci giorni, senza stipendio. La misura comporta anche lo stop alla conduzione di due puntate del programma di inchiesta che presenta, nella sua forma più nota come Report.\n\nSecondo quanto riportato da BadTaste, la notizia è arrivata direttamente dal giornalista, che ha spiegato la situazione in prima persona. Il materiale disponibile non chiarisce ulteriori dettagli sulle motivazioni del provvedimento, che quindi non vengono riportate in questo articolo.",
+   "slug": "ranucci-sospeso-dalla-rai-per-dieci-giorni-senza-stipendio-906da5",
+   "tags": [
+    "Sigfrido Ranucci",
+    "Report",
+    "Rai"
+   ],
+   "scene": "tv",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/sigfrido-ranucci-sospeso-dalla-rai-per-10-giorni-senza-stipendio-lannuncio-social-e-lo-stop-in-tv",
+   "published": "2026-11-19T08:00:32+00:00"
+  },
+  {
+   "id": "23fcc14ba946",
+   "section": "musica",
+   "title": "Margherita Vicario torna con il nuovo album Un Tripudio di Pelle e di Baci",
+   "summary": "Margherita Vicario pubblica il nuovo album Un Tripudio di Pelle e di Baci il 20 novembre per Island Records, anticipato dai singoli La persona che più mi odia e Ho chiesto aiuto. A tre anni da Showtime e dal successo di Gloria!, l'artista annuncia anche un nuovo progetto cinematografico.",
+   "body": "A tre anni da Showtime e dal successo al cinema di Gloria!, Margherita Vicario torna sulla scena musicale con Un Tripudio di Pelle e di Baci, in uscita il 20 novembre per Island Records. Il disco è anticipato dai singoli La persona che più mi odia e Ho chiesto aiuto, e segna un nuovo passo nel percorso dell'artista, che si racconta in un'intervista.\n\nSecondo quanto riportato da SuperGuidaTV, Vicario ha spiegato di aver messo a nudo i propri sentimenti nel nuovo lavoro. Ha inoltre affermato che un artista non è obbligato a schierarsi, ma ha la responsabilità di ciò che dice. Infine, ha annunciato di stare scrivendo un altro film, confermando il suo impegno anche sul fronte del cinema.",
+   "slug": "margherita-vicario-torna-con-il-nuovo-album-un-tripudio-di-p-23fcc1",
+   "tags": [
+    "Margherita Vicario",
+    "Gloria!",
+    "Island Records"
+   ],
+   "scene": "microfono",
+   "source": "superguidatv.it",
+   "url": "https://www.superguidatv.it/margherita-vicario-nellalbum-metto-a-nudo-i-miei-sentimenti/",
+   "published": "2026-11-19T08:00:23+00:00"
+  },
+  {
+   "id": "c2f34ef015d6",
+   "section": "cinema",
+   "title": "Penélope Cruz nel dramma sulla violenza domestica \"Patricia\" per Netflix",
+   "summary": "Netflix ha annunciato l'inizio delle riprese di \"Patricia\", dramma sulla violenza domestica diretto da Juan Diego Botto con Penélope Cruz, che è anche produttrice con la sua società Moonlyon. Il progetto arriva mentre Cruz è protagonista della stagione dei premi con \"La Bola Negra\".",
+   "body": "Netflix ha dato il via alla produzione di \"Patricia\", il dramma sulla violenza domestica firmato da Juan Diego Botto, che ne è anche regista. Nel cast figura Penélope Cruz, che cura la produzione attraverso la sua società audiovisiva Moonlyon. Secondo Deadline, l'annuncio arriva in un momento di grande visibilità per l'attrice spagnola.\n\nCruz è infatti al centro della stagione dei premi grazie a \"La Bola Negra\", indicato come uno dei favoriti per il Premio Oscar al miglior film internazionale. La nuova produzione conferma il suo impegno sia davanti sia dietro la macchina da presa, con un progetto che affronta un tema sociale delicato. Al momento non sono stati comunicati ulteriori dettagli su data di uscita o piattaforma di distribuzione oltre a Netflix.",
+   "slug": "penelope-cruz-nel-dramma-sulla-violenza-domestica-patricia-p-c2f34e",
+   "tags": [
+    "Penélope Cruz",
+    "Juan Diego Botto",
+    "Patricia"
+   ],
+   "scene": "ciak",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/netflix-penelope-cruz-juan-diego-bottos-patricia-moonlyon-1237228807/",
+   "published": "2026-11-19T08:00:03+00:00"
+  },
+  {
+   "id": "b5140ed1087e",
+   "section": "cinema",
+   "title": "Ramayana, Ranbir Kapoor e Sai Pallavi: il kolossal indiano di Nitesh Tiwari",
+   "summary": "Ranbir Kapoor, Sai Pallavi e Yash raccontano il kolossal Ramayana, diretto da Nitesh Tiwari. Secondo i protagonisti il film può aiutare a capire meglio la cultura e i valori dell'India.",
+   "body": "Il kolossal Ramayana, diretto da Nitesh Tiwari, è al centro di un'intervista con i suoi tre protagonisti principali: Ranbir Kapoor, Sai Pallavi e Yash. Secondo quanto riportato da Movieplayer, gli attori sostengono che il film possa aiutare il pubblico a capire meglio chi siamo, offrendo una finestra sulla tradizione indiana.\n\nPer i protagonisti raccontare storie di questo tipo è una responsabilità precisa: attraverso queste narrazioni, hanno spiegato, le persone possono comprendere più a fondo la cultura e i valori dell'India. Il progetto viene presentato come una produzione di grande scala, pensata per un pubblico ampio, anche fuori dai confini del Paese.",
+   "slug": "ramayana-ranbir-kapoor-e-sai-pallavi-il-kolossal-indiano-di-b5140e",
+   "tags": [
+    "Ramayana",
+    "Ranbir Kapoor",
+    "Nitesh Tiwari"
+   ],
+   "scene": "premiere",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/articoli/ramayana-cast-intervista-attori-india_38221/",
+   "published": "2026-11-19T08:00:00+00:00"
+  },
+  {
+   "id": "61789c77d9c9",
+   "section": "gossip",
+   "title": "Kate Middleton evita una caduta sulla metropolitana di Mumbai",
+   "summary": "La principessa del Galles ha rischiato di cadere durante il primo giorno della visita in India con il principe William, mentre viaggiava sulla Aqua Line della metro di Mumbai. Il momento è stato ripreso in un video diffuso dalla stampa internazionale.",
+   "body": "Kate Middleton ha perso l'equilibrio per un istante mentre viaggiava sulla Aqua Line, la linea della metropolitana di Mumbai, durante la prima giornata della sua visita in India insieme al principe William. Secondo Hello! Magazine, la principessa è riuscita a evitare una caduta, e le immagini del momento sono state diffuse online.\n\nL'occasione del viaggio è il Earthshot Prize, il premio ambientale promosso dal principe William. La coppia si trovava in India per partecipare alle iniziative legate al premio, che riconosce progetti dedicati alla tutela del pianeta.",
+   "slug": "kate-middleton-evita-una-caduta-sulla-metropolitana-di-mumba-61789c",
+   "tags": [
+    "Kate Middleton",
+    "Earthshot Prize",
+    "principe William"
+   ],
+   "scene": "flash",
+   "source": "hellomagazine.com",
+   "url": "https://www.hellomagazine.com/royalty/935918/kate-middleton-stumbles-metro-prince-william-rescue-india/",
+   "published": "2026-11-19T08:00:00+00:00"
+  },
+  {
+   "id": "f114feda8dac",
+   "section": "cinema",
+   "title": "Jason Statham, nuovo action su Amazon Prime Video",
+   "summary": "Un nuovo film d'azione con Jason Statham, uscito quest'anno, è disponibile in streaming su Amazon Prime Video. Secondo la fonte, il titolo è salito subito in cima alle classifiche della piattaforma.",
+   "body": "Jason Statham torna protagonista di un nuovo film d'azione, uscito nel corso di quest'anno e già disponibile per gli abbonati ad Amazon Prime Video. Secondo moviepilot.de, la pellicola è entrata subito tra i titoli più visti della piattaforma, conquistando la vetta delle classifiche di streaming.\n\nLa fonte descrive il film come un mix tra il Jason Bourne della saga di spionaggio e Leon - Il professionista, due riferimenti che il pubblico dell'action riconoscerà facilmente. Il materiale disponibile non riporta però dettagli su trama, cast completo o regia, quindi per ulteriori informazioni conviene consultare direttamente l'offerta del servizio.",
+   "slug": "jason-statham-nuovo-action-su-amazon-prime-video-f114fe",
+   "tags": [
+    "Jason Statham",
+    "Amazon Prime Video"
+   ],
+   "scene": "streaming",
+   "source": "moviepilot.de",
+   "url": "https://www.moviepilot.de/news/amazon-prime-charts-platz-1-action-statham-1165568",
+   "published": "2026-11-19T08:00:00+00:00"
+  },
+  {
    "id": "4d7810345959",
    "section": "tv",
    "title": "I'm A Celebrity, Wayne Rooney conforta Ade Adepitan e confessa il disagio per gli occhiali",
@@ -8119,252 +8339,9 @@
    "source": "collider.com",
    "url": "https://collider.com/rivals-season-2-episode-9-alex-lamb-rupert-taggie-scene-meaning/",
    "published": "2026-11-16T23:55:12+00:00"
-  },
-  {
-   "id": "c8b652f7ebcf",
-   "section": "tv",
-   "title": "I'm A Celebrity, AJ Odudu eliminata prima dell'inizio del programma",
-   "summary": "Nella nuova edizione di I'm A Celebrity, AJ Odudu è stata eliminata subito dopo una prova in coppia con Claire Sweeney. La decisione arriva prima ancora che i concorrenti raggiungano il campo.",
-   "body": "La nuova edizione di I'm A Celebrity... Get Me Out of Here! è partita con un colpo di scena: secondo quanto riportato dal Daily Mail, AJ Odudu è stata eliminata dopo essersi sfidata con Claire Sweeney in una delle prove di sopravvivenza previste dal programma. Il nuovo gruppo di celebrità doveva affrontare tre settimane di Bushtucker Trials, ma una concorrente è uscita di scena ancora prima di arrivare al campo.\n\nIl格式 della notizia resta quello di un esordio spettacolare, con una prova pensata per mettere a confronto i concorrenti fin dalle prime puntate. Al momento le fonti non forniscono altri dettagli sullo svolgimento della sfida o sulle motivazioni della decisione.",
-   "slug": "i-m-a-celebrity-aj-odudu-eliminata-prima-dell-inizio-del-pro-c8b652",
-   "tags": [
-    "I'm A Celebrity",
-    "AJ Odudu",
-    "Claire Sweeney"
-   ],
-   "scene": "tv",
-   "source": "dailymail.co.uk",
-   "url": "https://www.dailymail.com/tvshowbiz/article-16297523/Im-Celebrity-kicks-dramatic-start-stars-head-head-elimination-trial-shock-new-twist.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "published": "2026-11-16T23:54:11+00:00"
-  },
-  {
-   "id": "82e9e0f3d730",
-   "section": "tv",
-   "title": "Doc 3, episodio 8 \"Operation\": in anteprima il primo trial sull'uomo di Ben",
-   "summary": "Nell'ottavo episodio della terza stagione di Doc, in onda su Fox, Ben avvia il primo trial sull'uomo per una chirurgia del cuore artificiale. L'episodio \"Operation\" andrà in onda martedì 17 novembre 2026 alle 21 ET/PT.",
-   "body": "Nell'ottavo episodio della terza stagione di Doc, intitolato \"Operation\", arriva il momento del primo trial sull'uomo per Ben, che prepara l'avvio della sperimentazione di chirurgia con cuore artificiale. La puntata andrà in onda su Fox martedì 17 novembre 2026, alle 21 ET/PT.\n\nNella trama, Amy si occupa di un paziente di una zona rurale, le cui condizioni sono peggiorate in modo significativo per la mancanza di risorse mediche. Secondo ShowbizJunkies, mentre Ben si prepara a lanciare la sperimentazione, la vicenda del paziente mette alla prova la squadra e le sue scelte.",
-   "slug": "doc-3-episodio-8-operation-in-anteprima-il-primo-trial-sull-82e9e0",
-   "tags": [
-    "Doc",
-    "Fox"
-   ],
-   "scene": "tv",
-   "source": "showbizjunkies.com",
-   "url": "https://www.showbizjunkies.com/tv/doc-season-3-episode-8-preview/",
-   "published": "2026-11-16T23:14:05+00:00"
-  },
-  {
-   "id": "28de73fc2827",
-   "section": "tv",
-   "title": "Nicolas Cage e Chris Pine in American Epic, la serie drammatica di B.J. Novak",
-   "summary": "Nicolas Cage e Chris Pine sono in trattativa per recitare insieme nel dramma seriale American Epic, scritto da B.J. Novak e prodotto da Cut To, la società di Joe Hipps legata ad A24. Il progetto ha già suscitato interesse da più acquirenti.",
-   "body": "Nicolas Cage e Chris Pine reciteranno insieme nella serie drammatica American Epic, ambientata a Las Vegas. Secondo Deadline, il progetto è stato acquisito da A24, che ha già ricevuto richieste da più acquirenti interessati alla distribuzione.\n\nLa scrittura è affidata a B.J. Novak, noto al pubblico per la sitcom The Office, mentre la produzione arriva da Cut To, la società fondata da Joe Hipps e legata ad A24. Al momento non sono stati comunicati dettagli sulla trama, sulla piattaforma di destinazione o sui tempi di uscita.",
-   "slug": "nicolas-cage-e-chris-pine-in-american-epic-la-serie-drammati-28de73",
-   "tags": [
-    "Nicolas Cage",
-    "Chris Pine",
-    "B.J. Novak"
-   ],
-   "scene": "streaming",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/nicolas-cage-chris-pine-american-epic-series-bj-novak-a24-1237222431/",
-   "published": "2026-11-16T23:10:00+00:00"
-  },
-  {
-   "id": "f9ff91a293cf",
-   "section": "tv",
-   "title": "Grande Fratello Vip 2026, scontro in Salone tra Federica Morello e alcune concorrenti",
-   "summary": "Nella casa del Grande Fratello Vip 2026 Guendalina Tavassi, Piera Meloni e Megan Ria hanno affrontato Federica Morello in Salone dopo le critiche scambiate durante la settimana. Il confronto segue giorni di tensioni nella casa.",
-   "body": "Nella casa del Grande Fratello Vip 2026 è andato in scena un confronto diretto tra Federica Morello e alcune concorrenti. Guendalina Tavassi, Piera Meloni e Megan Ria hanno affrontato la modella nel Salone, dopo una settimana in cui si erano scambiate critiche molto dure. Secondo Superguidatv, la discussione nasce dalle tensioni accumulate nei giorni precedenti all'interno della casa.\n\nIl faccia a faccia in Salone rappresenta il momento in cui le parti hanno potuto esprimersi direttamente, senza mediazioni. Le immagini sono disponibili sul sito di Mediaset, che ha dedicato alla vicenda un video di approfondimento.",
-   "slug": "grande-fratello-vip-2026-scontro-in-salone-tra-federica-more-f9ff91",
-   "tags": [
-    "Grande Fratello Vip",
-    "Federica Morello",
-    "Guendalina Tavassi"
-   ],
-   "scene": "tv",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/gf-vip-2026-critiche-e-parole-dure-per-federica-morello-video/",
-   "published": "2026-11-16T23:05:44+00:00"
-  },
-  {
-   "id": "255b90feb822",
-   "section": "tv",
-   "title": "Lily Tomlin e George Schlatter raccontano la storia di Laugh-In",
-   "summary": "Lily Tomlin e George Schlatter hanno ricordato con affetto il periodo trascorso insieme durante Laugh-In, il varietà comico che ha segnato la televisione americana. Nelle loro dichiarazioni hanno offerto dettagli dietro le quinte sulla chimica tra il cast.",
-   "body": "Lily Tomlin e George Schlatter, due icone della commedia americana, hanno ricordato i retroscena di Laugh-In, lo storico varietà comico andato in onda negli anni Sessanta e Settanta. Secondo eonline.com, i due conservano soltanto ricordi positivi di quell'esperienza e hanno raccontato alcuni dettagli sul clima di lavoro che si respirava dietro le quinte.\n\nIl racconto mette in luce l'alchimia che univa il cast e la squadra creativa, elemento che contribuì al successo del programma. Le dichiarazioni dei due protagonisti offrono uno sguardo diretto su una stagione che ha lasciato un segno profondo nella storia della TV comica.",
-   "slug": "lily-tomlin-e-george-schlatter-raccontano-la-storia-di-laugh-255b90",
-   "tags": [
-    "Lily Tomlin",
-    "George Schlatter",
-    "Laugh-In"
-   ],
-   "scene": "tv",
-   "source": "eonline.com",
-   "url": "https://www.eonline.com/news/1438162/lily-tomlin-george-schlatter-detail-creative-chemistry-on-laugh-in?cmpid=rss-syndicate-genericrss-us-top_stories",
-   "published": "2026-11-16T23:04:31+00:00"
-  },
-  {
-   "id": "72cded958ff1",
-   "section": "gossip",
-   "title": "Vanna White e il marito John Donaldson, le nozze segrete",
-   "summary": "Vanna White, volto storico di Wheel of Fortune, si è sposata in segreto all'inizio dell'anno con il suo compagno di lunga data, John Donaldson. La conduttrice sarà ospite del Tonight Show con Jimmy Fallon il 16 novembre.",
-   "body": "Vanna White, da oltre quarant'anni presenza fissa nei giorni feriali di Wheel of Fortune, ha sposato in segreto all'inizio del 2026 il suo compagno di lunga data, John Donaldson. Secondo tvinsider, la notizia è emersa solo ora, e la conduttrice ha chiuso un anno ricco di impegni.\n\nIl prossimo appuntamento pubblico di White sarà la partecipazione al Tonight Show con Jimmy Fallon, in programma il 16 novembre. Il fatto che la coppia abbia mantenuto riservatezza sul matrimonio rende la vicenda un caso insolito nel panorama dello spettacolo americano.",
-   "slug": "vanna-white-e-il-marito-john-donaldson-le-nozze-segrete-72cded",
-   "tags": [
-    "Vanna White",
-    "Wheel of Fortune",
-    "The Tonight Show with Jimmy Fallon"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/swooon/1182523/vanna-white-boyfriend-john-donaldson/",
-   "published": "2026-11-16T23:04:02+00:00"
-  },
-  {
-   "id": "eef43c8de1d9",
-   "section": "tv",
-   "title": "Grande Fratello Vip 2026, la squadra di Valeria Marini si esibisce su Lady Marmalade",
-   "summary": "Nella nuova puntata del Grande Fratello Vip 2026 è andata in scena la battle dei talenti, con la prima esibizione della serata. A esibirsi è stata la squadra di Valeria Marini, coreografata da Francesca Manzini, sulle note di Lady Marmalade.",
-   "body": "Nella puntata del Grande Fratello Vip 2026 dedicata alla battle dei talenti, la prima esibizione della serata è stata quella della squadra guidata da Valeria Marini. I concorrenti si sono esibiti nella nuvola, lo spazio scenico del programma, con un balletto costruito sulle note di Lady Marmalade.\n\nLa coreografia è stata curata da Francesca Manzini, che ha partecipato direttamente allo spettacolo accanto al gruppo. Secondo quanto riportato da SuperGuidaTV, l'esibizione è stata pubblicata sui canali Mediaset con un video dedicato, a disposizione del pubblico.",
-   "slug": "grande-fratello-vip-2026-la-squadra-di-valeria-marini-si-esi-eef43c",
-   "tags": [
-    "Grande Fratello Vip",
-    "Valeria Marini",
-    "Francesca Manzini"
-   ],
-   "scene": "tv",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/gf-vip-2026-ballo-valeria-marini-lady-marmalade-video/",
-   "published": "2026-11-16T22:43:43+00:00"
-  },
-  {
-   "id": "e4b73b0db9d2",
-   "section": "tv",
-   "title": "Ghosts 6, la nuova stagione va in onda due volte a settimana su CBS",
-   "summary": "La sesta stagione di Ghosts trasmessa da CBS avrà due episodi a settimana. Secondo Collider, la scelta potrebbe mettere a rischio ciò che rende la serie apprezzata.",
-   "body": "La sesta stagione della serie comedy Ghosts, prodotta per CBS, sarà trasmessa con una programmazione di due episodi a settimana. La notizia, riportata da Collider, è accolta con favore a prima vista, perché permette al pubblico di seguire la serie con più frequenza.\n\nSecondo la testata, però, il nuovo formato rischia di far perdere alla serie alcuni elementi che ne hanno decisamente determinato il successo. Il materiale disponibile non chiarisce ulteriormente i dettagli della scelta editoriale né le sue ragioni.",
-   "slug": "ghosts-6-la-nuova-stagione-va-in-onda-due-volte-a-settimana-e4b73b",
-   "tags": [
-    "Ghosts",
-    "CBS"
-   ],
-   "scene": "streaming",
-   "source": "collider.com",
-   "url": "https://collider.com/ghosts-season-6-cbs-2026-schedule-change-problems/",
-   "published": "2026-11-16T22:26:13+00:00"
-  },
-  {
-   "id": "24424cfdf327",
-   "section": "tv",
-   "title": "Rosie Wood DiMare, da sogno Disney Channel a Real Housewives of Rhode Island",
-   "summary": "La reality star di The Real Housewives of Rhode Island Rosie Wood DiMare ha raccontato di aver sognato da ragazza una carriera nella tv Disney Channel. Lo ha rivelato nel talk show Cart Blanche, condotto da John Battagliese su QVC+ e HSN+.",
-   "body": "Rosie Wood DiMare è nota al pubblico della versione statunitense di The Real Housewives of Rhode Island, ma da giovane aveva in mente un percorso televisivo molto diverso. Nel corso di una prossima puntata di Cart Blanche, il talk show di QVC+ e HSN+ condotto da John Battagliese, la protagonista ha confidato di aver sperato di entrare nel mondo di Disney Channel.\n\nSecondo OK Magazine, la reality star ha dichiarato di aver davvero pensato che quel sogno si sarebbe realizzato per lei. Il racconto riguarda quindi le ambizioni giovanili, prima della notorietà ottenuta con il reality, e offre uno sguardo personale su una carriera che ha preso una direzione diversa da quella immaginata.",
-   "slug": "rosie-wood-dimare-da-sogno-disney-channel-a-real-housewives-24424c",
-   "tags": [
-    "The Real Housewives of Rhode Island",
-    "Rosie Wood DiMare",
-    "Cart Blanche"
-   ],
-   "scene": "tv",
-   "source": "okmagazine.com",
-   "url": "https://okmagazine.com/p/real-housewives-rhode-island-star-rosie-woods-dimare-reveals-dreamed-disney-channel-stardom/",
-   "published": "2026-11-16T22:21:56+00:00"
-  },
-  {
-   "id": "2131b4e8d2c6",
-   "section": "musica",
-   "title": "Pink al Sphere di Las Vegas: quali date hanno i biglietti più economici",
-   "summary": "Pink terrà una residenza al Sphere di Las Vegas a settembre e ottobre 2027. Secondo un'analisi di Page Six, esiste una data delle serate con i prezzi dei biglietti più bassi.",
-   "body": "La cantante statunitense Pink si esibirà al Sphere di Las Vegas nei mesi di settembre e ottobre 2027, con una serie di concerti nella struttura dell'area di Las Vegas Strip.\n\nSecondo quanto riportato da Page Six, che ha confrontato i prezzi delle diverse date, una delle serate in programma risulta avere i biglietti più economici del calendario. Il materiale disponibile non specifica però l'importo esatto delle tariffe né il numero complessivo delle date previste.",
-   "slug": "pink-al-sphere-di-las-vegas-quali-date-hanno-i-biglietti-piu-2131b4",
-   "tags": [
-    "Pink",
-    "Sphere",
-    "Las Vegas"
-   ],
-   "scene": "palco",
-   "source": "pagesix.com",
-   "url": "https://pagesix.com/2026/11/16/entertainment/heres-which-pink-vegas-sphere-concert-has-the-cheapest-tickets/",
-   "published": "2026-11-16T22:19:49+00:00"
-  },
-  {
-   "id": "b32c883ebe04",
-   "section": "tv",
-   "title": "Grande Fratello Vip 2026, Valeria Marini valuta di lasciare la casa dopo lo scontro con Tavassi",
-   "summary": "Nella casa del Grande Fratello Vip 2026 Valeria Marini è di nuovo in crisi dopo una lite con Guendalina Tavassi. La showgirl ha manifestato l'intenzione di lasciare il programma.",
-   "body": "Nuova tensione nella casa del Grande Fratello Vip 2026, dove Valeria Marini è protagonista di un altro acceso confronto con Guendalina Tavassi. Secondo quanto riportato da superguidatv.it, la showgirl ha dichiarato di non sentirsi più felice all'interno della casa, arrivando a minacciare di voler abbandonare il programma.\n\nIl materiale disponibile non chiarisce però se la decisione sia stata presa in modo definitivo né quali saranno i prossimi sviluppi. Il video pubblicato da Mediaset mostra il momento della crisi, ma la notizia resta quella di una lite ripetuta e di una permanenza in forse. Al momento non è possibile dire se Marini lascerà davvero la casa o se la vicenda si risolverà all'interno del programma.",
-   "slug": "grande-fratello-vip-2026-valeria-marini-valuta-di-lasciare-l-b32c88",
-   "tags": [
-    "Grande Fratello Vip",
-    "Valeria Marini",
-    "Guendalina Tavassi"
-   ],
-   "scene": "tv",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/grande-fratello-vip-2026-valeria-marini-in-crisi-vuole-abbandonare-la-casa-non-sono-piu-felice-qui-dentro-video-mediaset/",
-   "published": "2026-11-16T22:15:41+00:00"
-  },
-  {
-   "id": "0d309612ed3f",
-   "section": "gossip",
-   "title": "Mark Consuelos ricorda le uscite notturne dalla finestra della sua cameretta",
-   "summary": "Durante la puntata di lunedì 16 novembre di Live with Kelly and Mark, Mark Consuelos ha raccontato di essere uscito di nascosto dalla finestra della sua camera da ragazzo. Il racconto è avvenuto durante il ritorno della coppia nella sua città natale.",
-   "body": "Mark Consuelos è tornato con la memoria agli anni della giovinezza durante la puntata di lunedì 16 novembre di Live with Kelly and Mark. L'attore, insieme alla moglie e conduttrice Kelly Ripa, ha fatto tappa nella sua città natale, e in quell'occasione ha ricordato un episodio divertente di quando era ragazzo.\n\nInterpellato da Ripa, Consuelos ha ammesso di essere uscito di nascosto dalla finestra della sua camera ogni tanto. Il racconto, riportato da OK! Magazine, ha strappato un sorriso al pubblico in studio e ha offerto uno sguardo leggero sulla vita familiare dell'attore prima della carriera nello spettacolo.",
-   "slug": "mark-consuelos-ricorda-le-uscite-notturne-dalla-finestra-del-0d3096",
-   "tags": [
-    "Mark Consuelos",
-    "Kelly Ripa",
-    "Live with Kelly and Mark"
-   ],
-   "scene": "tv",
-   "source": "okmagazine.com",
-   "url": "https://okmagazine.com/p/mark-consuelos-sneak-out-childhood-bedroom-window-live-returns-hometown/",
-   "published": "2026-11-16T22:15:00+00:00"
-  },
-  {
-   "id": "18633bfee8f3",
-   "section": "cinema",
-   "title": "Marvel, Kevin Feige sul passaggio da Kang a Doctor Doom",
-   "summary": "Kevin Feige ha spiegato che il passaggio da Kang il Conquistatore a Doctor Doom era previsto fin dall'inizio nel piano di Marvel Studios. Il cambio di rotta riguarda il ruolo di grande cattivo della saga Avengers.",
-   "body": "Secondo quanto riportato da JoBlo, Kang il Conquistatore doveva essere il nuovo grande antagonista del Marvel Cinematic Universe, al centro di Avengers: The Kang Dynasty. Il presidente dei Marvel Studios Kevin Feige ha però dichiarato che la scelta di puntare su Doctor Doom era già prevista, e non una deviazione dell'ultimo momento.\n\nLe parole di Feige chiariscono come lo studio abbia pianificato la transizione tra le due minacce. La notizia riguarda quindi la strategia narrativa dietro la fase successiva dell'universo Marvel, con Doctor Doom presentato come il nodo centrale delle future storie degli Avengers.",
-   "slug": "marvel-kevin-feige-sul-passaggio-da-kang-a-doctor-doom-18633b",
-   "tags": [
-    "Kevin Feige",
-    "Doctor Doom",
-    "Avengers: The Kang Dynasty"
-   ],
-   "scene": "premiere",
-   "source": "joblo.com",
-   "url": "https://www.joblo.com/doctor-doom-avengers-the-kang-dynasty/",
-   "published": "2026-11-16T22:11:24+00:00"
   }
  ],
  "seen": [
-  "34a74100ed8f",
-  "3610d8065a58",
-  "5d6b11cc024d",
-  "10d8e542b8f9",
-  "2e59957b4364",
-  "5e5399709f8b",
-  "01eefa5c7d78",
-  "a058a4a04659",
-  "11ce901fc89d",
-  "077203c2aa09",
-  "0c07ec54a7c3",
-  "43a321909e98",
-  "e1aef62aa8aa",
-  "9f0f3c26d7bb",
-  "648b2e4f7418",
-  "8f284e2aec9e",
-  "5f596eda694d",
-  "258c018542cd",
-  "6b4a8d2a241e",
-  "66b055b336d9",
-  "2378ea7b0571",
-  "c10cd6623bee",
-  "6ce982efa2e4",
-  "90122a205b7d",
   "0fbb0b8f01bf",
   "bc5b8f4b662c",
   "ec508bfb40cc",
@@ -12340,7 +12317,31 @@
   "f063ed844e06",
   "7023e487703d",
   "62a1b1eff797",
-  "19407e00f792"
+  "19407e00f792",
+  "03c68edfe912",
+  "2b84e3c7da5c",
+  "f400399602d6",
+  "4aa7e529d99c",
+  "c1d291973bfb",
+  "02c0e7c83ee7",
+  "de90de32fcbe",
+  "d86247ff544d",
+  "400a7e2f99ba",
+  "e153d07d18b1",
+  "c7babd76aa5a",
+  "23fcc14ba946",
+  "906da53a48c5",
+  "c2f34ef015d6",
+  "b5140ed1087e",
+  "0ce3e6352236",
+  "61789c77d9c9",
+  "f114feda8dac",
+  "f072a98666a2",
+  "081b07caab1b",
+  "d9abc9a5768f",
+  "7b4d82bf3119",
+  "1b74dcbe22b9",
+  "dd4018293bd0"
  ],
  "version": 4,
  "digests": [
