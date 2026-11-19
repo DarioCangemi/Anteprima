@@ -1,6 +1,55 @@
 {
  "articles": [
   {
+   "id": "196e050becb3",
+   "section": "gossip",
+   "title": "Victoria di Svezia segue un corso per ufficiali nella Marina",
+   "summary": "La principessa ereditaria Victoria di Svezia sta seguendo un programma speciale per ufficiali destinato a adulti in possesso di un titolo di studio superiore. La notizia è stata ripresa da Paris Match.",
+   "body": "La principessa ereditaria Victoria di Svezia frequenta un programma di formazione per ufficiali della Marina svedese. Il corso è riservato agli adulti in possesso di un diploma di istruzione superiore, che scelgono la carriera militare dopo gli studi.\n\nSecondo Paris Match, la notizia è stata ripresa dal confronto con il principe Harry, che nei mesi scorsi ha parlato del proprio percorso militare. Il materiale disponibile non specifica durata del corso né tappe successive della formazione.",
+   "slug": "victoria-di-svezia-segue-un-corso-per-ufficiali-nella-marina-196e05",
+   "tags": [
+    "Victoria di Svezia",
+    "Principe Harry"
+   ],
+   "scene": "palco",
+   "source": "parismatch.com",
+   "url": "https://www.parismatch.com/victoria-suede-en-formation-dans-marine-4Pr910vBnWjRQisa8ufj8s",
+   "published": "2026-11-19T13:34:18+00:00"
+  },
+  {
+   "id": "b889e678df05",
+   "section": "cinema",
+   "title": "Voltron con Henry Cavill non uscirà al cinema: arriverà in streaming",
+   "summary": "Il live-action Voltron, con Henry Cavill, non avrà un'uscita nelle sale ma sarà distribuito in streaming nel 2027. Il progetto è prodotto da Amazon MGM Studios.",
+   "body": "Il film Voltron, adattamento in live-action della celebre serie animata giapponese, non uscirà nelle sale cinematografiche come previsto in origine. Secondo Collider, la produzione Amazon MGM Studios ha ufficializzato la scelta di puntare direttamente sullo streaming, con una distribuzione prevista nel 2027.\n\nHenry Cavill è tra i protagonisti del progetto, che porta sullo schermo i famosi robot leoni uniti in un unico gigante. La notizia segna un cambio di strategia rispetto ai piani iniziali, in linea con la tendenza di molti studi a riservare alle piattaforme i titoli di genere e fantascienza. Al momento non sono stati comunicati ulteriori dettagli su date precise o sulla piattaforma di riferimento.",
+   "slug": "voltron-con-henry-cavill-non-uscira-al-cinema-arrivera-in-st-b889e6",
+   "tags": [
+    "Voltron",
+    "Henry Cavill",
+    "Amazon MGM Studios"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/henry-cavill-voltron-skips-theaters-prime-video-release/",
+   "published": "2026-11-19T13:30:12+00:00"
+  },
+  {
+   "id": "498dcd066123",
+   "section": "tv",
+   "title": "Doctor Who, la BBC vicina alla scelta del nuovo produttore",
+   "summary": "La BBC è quasi al termine della ricerca di un nuovo produttore per il franchise di Doctor Who. Secondo Collider, la scelta del successore è vicina, in vista del ritorno della serie.",
+   "body": "La BBC è vicina a individuare il nuovo responsabile del franchise di Doctor Who, la serie di fantascienza che da anni occupa un posto centrale nel palinsesto britannico. Secondo quanto riportato da Collider, l'emittente starebbe concludendo la ricerca di un produttore che guiderà il rilancio dello show.\n\nLa notizia è un passo avanti verso il ritorno del programma, anche se il materiale disponibile non indica una data precisa né i nomi dei candidati. Per il pubblico italiano, la scelta del nuovo produttore sarà il primo segnale concreto sulla direzione che prenderà la serie nei prossimi anni.",
+   "slug": "doctor-who-la-bbc-vicina-alla-scelta-del-nuovo-produttore-498dcd",
+   "tags": [
+    "Doctor Who",
+    "BBC"
+   ],
+   "scene": "tv",
+   "source": "collider.com",
+   "url": "https://collider.com/doctor-who-producer-shortlist-confirmed-bbc/",
+   "published": "2026-11-19T13:30:12+00:00"
+  },
+  {
    "id": "c5040024b908",
    "section": "cinema",
    "title": "Prime Video porta in streaming la precuela di Hunger Games con Peter Dinklage",
@@ -233,6 +282,38 @@
    "published": "2026-11-19T12:25:20+00:00"
   },
   {
+   "id": "7fbe1a00b937",
+   "section": "musica",
+   "title": "Il Coro della Cattedrale di Siena con Muti e i Wiener Philharmoniker a Roma",
+   "summary": "Il Coro della Cattedrale di Siena si esibirà a Roma insieme a Riccardo Muti e ai Wiener Philharmoniker. Il coro ha espresso gratitudine al Maestro per l'onore di condividere il palco con l'orchestra viennese.",
+   "body": "Il Coro della Cattedrale di Siena sarà protagonista di un concerto a Roma accanto al maestro Riccardo Muti e ai Wiener Philharmoniker. Secondo ANSA, il coro ha accolto l'invito come un altissimo onore, sottolineando la gratitudine nei confronti di Muti per questa occasione di condividere il palco con una delle orchestre più prestigiose al mondo.\n\nL'appuntamento romano unisce due realtà legate alla grande tradizione musicale italiana e internazionale. Per il coro senese si tratta di un'esperienza di rilievo, che porta la sua attività fuori dalla città toscana e la affianca a una delle formazioni sinfoniche più note del panorama europeo.",
+   "slug": "il-coro-della-cattedrale-di-siena-con-muti-e-i-wiener-philha-7fbe1a",
+   "tags": [
+    "Riccardo Muti",
+    "Wiener Philharmoniker",
+    "Coro della Cattedrale di Siena"
+   ],
+   "scene": "palco",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/19/il-coro-della-cattedrale-di-siena-a-roma-con-muti-e-i-wiener-philharmonike_bf3d7e5a-29e7-43f8-bc5f-ea98eb27daed.html",
+   "published": "2026-11-19T12:24:47+00:00"
+  },
+  {
+   "id": "259c54cde319",
+   "section": "musica",
+   "title": "Paolo Belli torna con la ballad \"Come se non ci fosse un domani\"",
+   "summary": "Paolo Belli torna sulle scene musicali con un nuovo brano, la ballad \"Come se non ci fosse un domani\". L'artista emiliano ha spiegato di voler lasciare spazio alle emozioni nella canzone.",
+   "body": "Paolo Belli torna a far sentire la sua voce con una nuova ballad intitolata \"Come se non ci fosse un domani\". Il cantante emiliano, noto al pubblico televisivo e musicale italiano, presenta il brano come un lavoro costruito soprattutto sul sentimento, senza artifici particolari.\n\nSecondo ANSA, Belli ha dichiarato di voler \"lasciare parlare le emozioni\", scelta che segna un ritorno a un registro intimo e melodico. Il materiale disponibile non riporta ulteriori dettagli su pubblicazione, arrangiamenti o date di uscita del singolo.",
+   "slug": "paolo-belli-torna-con-la-ballad-come-se-non-ci-fosse-un-doma-259c54",
+   "tags": [
+    "Paolo Belli"
+   ],
+   "scene": "microfono",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/19/paolo-belli-torna-con-una-ballad-arriva-come-se-non-ci-fosse_490424ec-8780-4763-8aad-925c38f22736.html",
+   "published": "2026-11-19T12:21:52+00:00"
+  },
+  {
    "id": "1c0f186e473a",
    "section": "cinema",
    "title": "beIN Media Group acquisisce i film NBCUniversal Michael, Hamnet e Jurassic World Rebirth",
@@ -282,6 +363,40 @@
    "source": "gamesradar.com",
    "url": "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/the-rings-of-powers-co-showrunner-says-saurons-forging-of-the-one-ring-is-personal-as-he-wants-to-master-galadriel/",
    "published": "2026-11-19T12:00:47+00:00"
+  },
+  {
+   "id": "2ac4891e559b",
+   "section": "tv",
+   "title": "Gli Anelli del Potere 3: chi è Elros, fratello di Elrond",
+   "summary": "La terza stagione di Gli Anelli del Potere introduce Elros, fratello gemello di Elrond, attraverso un flashback dedicato a un momento lontano del passato del personaggio. La figura di Elros è centrale per la storia della Terra di Mezzo e per il destino degli Uomini.",
+   "body": "La terza stagione di Il Signore degli Anelli: Gli Anelli del Potere porta finalmente sullo schermo Elros, gemello di Elrond. Il personaggio compare in un flashback che riporta Elrond a una fase lontana della sua vita, e che secondo Cinefilos aiuta a comprendere un passaggio fondamentale della storia della Terra di Mezzo.\n\nElros è legato al destino degli Uomini, il popolo a cui appartiene la linea che porta fino ad Aragorn. La sua scelta di rinunciare all'immortalità, come riportato dalla fonte, è il punto che collega la vicenda dei due fratelli alle vicende future della serie. Il materiale disponibile non chiarisce ulteriori dettagli sulla struttura narrativa degli episodi in cui compare.",
+   "slug": "gli-anelli-del-potere-3-chi-e-elros-fratello-di-elrond-2ac489",
+   "tags": [
+    "Gli Anelli del Potere",
+    "Elros",
+    "Elrond"
+   ],
+   "scene": "streaming",
+   "source": "Cinefilos",
+   "url": "https://cinefilos.it/serie-tv/approfondimento/gli-anelli-del-potere-3-chi-era-elros-731642",
+   "published": "2026-11-19T11:56:24+00:00"
+  },
+  {
+   "id": "1ea75aa39b34",
+   "section": "cinema",
+   "title": "John Travolta svela i due tentativi falliti di un sequel di Face/Off",
+   "summary": "John Travolta, intervistato da Collider, ha rivelato che sono stati fatti due tentativi di avviare un sequel di Face/Off, il film di John Woo con Nicolas Cage. In entrambe le occasioni l'attore ha detto no.",
+   "body": "John Travolta ha raccontato in un'intervista a Collider che, in due occasioni distinte, è stato avviato un tentativo di realizzare Face/Off 2, il sequel del film diretto da John Woo nel 1997. Il progetto lo vedrebbe ancora una volta affiancato a Nicolas Cage, con cui divise i ruoli di agente e criminale scambiandosi i volti. Secondo quanto riportato da ComingSoon, in entrambi i casi l'attore ha rifiutato.\n\nLe ragioni del no sono il cuore dell'intervista, anche se la fonte non ne riporta tutti i dettagli. Il film originale resta uno dei titoli più amati dell'action degli anni Novanta, e il ritorno della coppia di protagonisti è da tempo oggetto di curiosità tra i fan. Al momento non risultano annunci ufficiali di un nuovo capitolo.",
+   "slug": "john-travolta-svela-i-due-tentativi-falliti-di-un-sequel-di-1ea75a",
+   "tags": [
+    "John Travolta",
+    "Face/Off",
+    "Nicolas Cage"
+   ],
+   "scene": "ciak",
+   "source": "ComingSoon",
+   "url": "https://www.comingsoon.it/cinema/news/john-travolta-e-i-due-sequel-mancati-di-face-off-tra-remore-ed-esigenze/n236228/",
+   "published": "2026-11-19T11:55:00+00:00"
   },
   {
    "id": "7f3ff042476a",
@@ -8223,148 +8338,9 @@
    "source": "superguidatv.it",
    "url": "https://www.superguidatv.it/stefano-de-martino-svela-il-suo-sanremo-alla-milano-music-week/",
    "published": "2026-11-17T07:43:17+00:00"
-  },
-  {
-   "id": "1f82cd5dc2df",
-   "section": "cinema",
-   "title": "Shyamalan presenta il trailer italiano del nuovo film con Jake Gyllenhaal",
-   "summary": "È uscito il trailer italiano del nuovo film di M. Night Shyamalan, con Jake Gyllenhaal come protagonista. La pellicola sarà nelle sale italiane dal 4 febbraio.",
-   "body": "Il regista M. Night Shyamalan torna al cinema con un nuovo film, di cui è stato diffuso il trailer in versione italiana. Secondo ComingSoon, la pellicola arriverà nelle sale dal 4 febbraio e vede come protagonista Jake Gyllenhaal.\n\nIl progetto è stato sviluppato da Shyamalan insieme a un collaboratore alla scrittura dal profilo insolito, un dettaglio che ha attirato l'attenzione della stampa di settore. Il materiale diffuso consente di farsi un'idea del tono del film, ma per la trama completa e i dettagli di produzione occorrerà attendere l'uscita nelle sale.",
-   "slug": "shyamalan-presenta-il-trailer-italiano-del-nuovo-film-con-ja-1f82cd",
-   "tags": [
-    "M. Night Shyamalan",
-    "Jake Gyllenhaal"
-   ],
-   "scene": "pellicola",
-   "source": "ComingSoon",
-   "url": "https://www.comingsoon.it/cinema/news/rimani-ancora-ecco-il-trailer-italiano-del-nuovo-film-di-m-night-shyamalan/n236023/",
-   "published": "2026-11-17T07:37:00+00:00"
-  },
-  {
-   "id": "8f9efd983b2c",
-   "section": "tv",
-   "title": "Il Signore degli Anelli: Gli Anelli del Potere, un episodio della terza stagione arriva al cinema",
-   "summary": "Il terzo episodio della terza stagione di Il Signore degli Anelli: Gli Anelli del Potere sarà proiettato sul grande schermo. In Germania, però, il pubblico dovrà attendere prima di poterlo vedere.",
-   "body": "Secondo quanto riportato da moviepilot.de, la serie Amazon Prime Video Il Signore degli Anelli: Gli Anelli del Potere porterà al cinema il terzo episodio della sua terza stagione, una scelta che la avvicina ai film della saga di Peter Jackson. Il formato della proiezione in sala viene presentato come un evento speciale per i fan.\n\nLa fonte precisa però che gli appassionati tedeschi non dovranno affrettarsi: l'iniziativa non è disponibile subito in Germania, e il pubblico locale dovrà aspettare condizioni diverse per assistere alla proiezione. Non sono noti, dal materiale disponibile, dettagli su date e sale per l'Italia.",
-   "slug": "il-signore-degli-anelli-gli-anelli-del-potere-un-episodio-de-8f9efd",
-   "tags": [
-    "Amazon Prime Video"
-   ],
-   "scene": "sala",
-   "source": "moviepilot.de",
-   "url": "https://www.moviepilot.de/news/die-ringe-der-macht-staffel-3-kino-1165521",
-   "published": "2026-11-17T07:30:00+00:00"
-  },
-  {
-   "id": "6f0b54e88bfd",
-   "section": "gossip",
-   "title": "Teresa Giudice racconta un incontro scortese con una celebrità nel suo nuovo libro",
-   "summary": "Teresa Giudice, star di Real Housewives of New Jersey, ricorda nel suo nuovo memoir \"The Queen of New Jersey\" un incontro definito scortese con una celebrità di primo piano. Nel libro racconta anche un successivo incontro imbarazzante tra i due.",
-   "body": "Teresa Giudice, protagonista del reality Bravo The Real Housewives of New Jersey, torna a parlare di un episodio personale nel suo nuovo libro di memorie, \"The Queen of New Jersey\", da poco in libreria. Secondo quanto riportato da Page Six, la Giudice descrive un incontro che ricorda come scortese con una celebrità di primo piano, la cui battuta finale, secondo il suo racconto, è stata: \"Ti credi una grande star!\".\n\nNel memoir la Giudice racconta anche un successivo incontro tra i due, avvenuto anni dopo, che definisce imbarazzante. Il libro si inserisce nel filone delle autobiografie delle protagoniste dei reality Bravo, con cui la Giudice ripercorre la sua carriera televisiva e la sua vita pubblica. Il nome della celebrità coinvolta non compare nel materiale disponibile.",
-   "slug": "teresa-giudice-racconta-un-incontro-scortese-con-una-celebri-6f0b54",
-   "tags": [
-    "Teresa Giudice",
-    "The Queen of New Jersey",
-    "The Real Housewives of New Jersey"
-   ],
-   "scene": "streaming",
-   "source": "pagesix.com",
-   "url": "https://pagesix.com/2026/11/17/celebrity-news/teresa-giudice-recalls-rude-interaction-with-a-list-celebrity/",
-   "published": "2026-11-17T07:01:00+00:00"
-  },
-  {
-   "id": "3ff4f491e205",
-   "section": "tv",
-   "title": "177 giorni, il vero Farouk Kassam compare nella fiction di Rai 1",
-   "summary": "Nella fiction di Rai 1 con Marco Bocci dedicata al rapimento di Farouk Kassam, il vero protagonista appare in un cameo. Il ruolo che interpreta unisce finzione e realtà in una scena particolare.",
-   "body": "Nella fiction \"177 giorni\", in onda su Rai 1 e interpretata da Marco Bocci, compare anche Farouk Kassam, il vero protagonista della vicenda raccontata. Secondo BadTaste, l'uomo appare in un cameo in cui interpreta un ruolo inaspettato, in una scena che mette insieme finzione e realtà.\n\nLa fiction ripercorre il rapimento di Farouk Kassam e i 177 giorni della sua prigionia. La presenza diretta di chi ha vissuto quella storia dà alla scena un valore particolare per il pubblico, che la vede raccontata anche da chi l'ha attraversata in prima persona.",
-   "slug": "177-giorni-il-vero-farouk-kassam-compare-nella-fiction-di-ra-3ff4f4",
-   "tags": [
-    "177 giorni",
-    "Marco Bocci",
-    "Farouk Kassam"
-   ],
-   "scene": "tv",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/177-giorni-il-rapimento-di-farouk-il-vero-protagonista-fa-un-cameo-commovente-ecco-chi-interpreta",
-   "published": "2026-11-17T07:00:30+00:00"
-  },
-  {
-   "id": "1104273d62e5",
-   "section": "tv",
-   "title": "Unknown – Senza Identità stasera su Canale 20",
-   "summary": "Martedì 17 novembre Canale 20 trasmette il thriller Unknown – Senza Identità, diretto da Jaume Collet-Serra. Il film si ispira al romanzo Fuori di me di Didier Van Cauwelaert.",
-   "body": "Martedì 17 novembre, alle 21:10 circa, Canale 20 propone in prima serata il thriller Unknown – Senza Identità, diretto dallo spagnolo Jaume Collet-Serra. La pellicola è tratta dal romanzo Fuori di me dello scrittore francese Didier Van Cauwelaert, da cui il regista ha ripreso l'idea di un uomo che si risveglia in un ospedale di Berlino scoprendo che qualcun altro ha preso la sua identità.\n\nLa trasmissione rientra nel palinsesto serale dell'emittente per gli appassionati del genere. Secondo quanto riportato da dituttounpop.it, l'articolo originale include anche trama e trailer del film, che il pubblico può consultare sul sito della testata per prepararsi alla visione.",
-   "slug": "unknown-senza-identita-stasera-su-canale-20-110427",
-   "tags": [
-    "Unknown – Senza Identità",
-    "Jaume Collet-Serra",
-    "Canale 20"
-   ],
-   "scene": "tv",
-   "source": "dituttounpop.it",
-   "url": "https://www.dituttounpop.it/unknown-senza-identita-film-trama-completa-trailer-cast-incassi-dove-in-streaming-in-onda-stasera/",
-   "published": "2026-11-17T06:50:16+00:00"
-  },
-  {
-   "id": "3e8ca521aaaf",
-   "section": "tv",
-   "title": "The Gunman con Sean Penn stasera su Rai Movie",
-   "summary": "The Gunman, film d'azione del 2015 diretto da Pierre Morel, va in onda stasera su Rai Movie nella prima serata del digitale terrestre. Nel cast figurano Sean Penn, Javier Bardem e Mark Rylance.",
-   "body": "Stasera, martedì 17 novembre, Rai Movie propone in prima serata The Gunman, film d'azione uscito nel 2015 e diretto da Pierre Morel, il regista di Io vi troverò e Banlieu 13. Il cast riunisce i premi Oscar Sean Penn e Javier Bardem, accanto a Mark Rylance.\n\nLa pellicola è tratta da un romanzo e segue un ex agente che torna a confrontarsi con il proprio passato. Secondo quanto riportato da Dituttounpop, si tratta di una scelta pensata per il pubblico che cerca un titolo di genere in chiaro, senza bisogno di abbonamenti.",
-   "slug": "the-gunman-con-sean-penn-stasera-su-rai-movie-3e8ca5",
-   "tags": [
-    "The Gunman",
-    "Sean Penn",
-    "Pierre Morel"
-   ],
-   "scene": "tv",
-   "source": "dituttounpop.it",
-   "url": "https://www.dituttounpop.it/the-gunman-trama-film-stasera-in-onda-streaming-dove-cast-sean-penn-jasmine-trinca/",
-   "published": "2026-11-17T06:49:21+00:00"
-  },
-  {
-   "id": "96cb113417b0",
-   "section": "tv",
-   "title": "Kimmel propone a Trump un nuovo lavoro: \"Dovrebbe lavorare da Home Depot\"",
-   "summary": "Il conduttore late night Jimmy Kimmel ha scherzato sul presidente Donald Trump suggerendo che dovrebbe lavorare da Home Depot, la catena di ferramenta statunitense. La battuta ha ottenuto una forte reazione del pubblico in studio.",
-   "body": "Durante il suo late night, Jimmy Kimmel ha scherzato sull'ipotesi di un cambio di carriera per Donald Trump. Il conduttore ha detto di ritenere che il presidente dovrebbe lavorare da Home Depot, la nota catena statunitense di articoli per la casa e il fai da te, e la battuta ha suscitato una risposta molto calorosa del pubblico in sala.\n\nSecondo TheWrap, la frase è arrivata come conclusione di un passaggio ironico, accolto da risate e applausi. Il testo di riferimento è breve e non riporta altri dettagli sul contesto dell'intervento, quindi la notizia si limita alla battuta e alla reazione in studio.",
-   "slug": "kimmel-propone-a-trump-un-nuovo-lavoro-dovrebbe-lavorare-da-96cb11",
-   "tags": [
-    "Jimmy Kimmel",
-    "Donald Trump"
-   ],
-   "scene": "tv",
-   "source": "thewrap.com",
-   "url": "https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-crowd-reaction-trump-home-depot-monologue-joke/",
-   "published": "2026-11-17T06:38:51+00:00"
   }
  ],
  "seen": [
-  "fdce269481bc",
-  "9e1e70b9de21",
-  "d58eca68df25",
-  "9a8d91feeb76",
-  "ea445131bfd6",
-  "77fbfc26c51e",
-  "0c37fef06af7",
-  "5e2fc861beda",
-  "a4ae81ee79e5",
-  "b6765c11c5a3",
-  "3605941f5da7",
-  "29878d557e86",
-  "2c4c46cde8f5",
-  "239ad9c387bc",
-  "382fcaab14fd",
-  "e3731a5e8ce9",
-  "4dc80d6dfb36",
-  "8533e23f4558",
-  "c4ecae87ce2f",
-  "d206d67b9238",
-  "94bea1196ab1",
-  "8d58cc097648",
-  "aa8974bfb7b4",
-  "d831fed15c62",
   "fb26c80c5a8f",
   "65a416573351",
   "d2387d411b39",
@@ -12340,7 +12316,31 @@
   "a3fd02a4e9ac",
   "e1db56db6835",
   "94e0c1113288",
-  "5d62375ecd59"
+  "5d62375ecd59",
+  "155b1d9b7d1c",
+  "0f38b05b5b4f",
+  "dc0433db69dd",
+  "e29c736fa51c",
+  "3f9b4797cd49",
+  "27fff252d198",
+  "89867aa2d338",
+  "2ce3f49df9c8",
+  "6abb394dc8f8",
+  "233d5286f5f9",
+  "52c903174448",
+  "dc94c4f7a4b9",
+  "196e050becb3",
+  "137eda030f8b",
+  "b889e678df05",
+  "498dcd066123",
+  "39e6f8739b00",
+  "f9c0066745e2",
+  "9e90eadfc61c",
+  "0e1cdd3e32ae",
+  "7fbe1a00b937",
+  "259c54cde319",
+  "2ac4891e559b",
+  "1ea75aa39b34"
  ],
  "version": 4,
  "digests": [
