@@ -1,6 +1,72 @@
 {
  "articles": [
   {
+   "id": "915e9046f581",
+   "section": "gossip",
+   "title": "Gordon Ramsay ottiene la stella sulla Walk of Fame di Hollywood",
+   "summary": "Gordon Ramsay è il primo chef britannico a ricevere una stella sulla Hollywood Walk of Fame, cerimonia svoltasi mercoledì a Los Angeles. Lo chef si è detto emozionato per il riconoscimento.",
+   "body": "Gordon Ramsay è diventato il primo chef britannico a ricevere una stella sulla Hollywood Walk of Fame, durante una cerimonia svoltasi mercoledì a Los Angeles. Secondo quanto riportato dal Daily Mail, lo chef si è mostrato commosso e senza parole davanti al riconoscimento.\n\nIl premio arriva in un momento particolare della sua vita personale, perché Ramsay ha raccontato che la figlia Holly è a pochi giorni dal parto. La notizia della nascita imminente è stata condivisa dallo stesso chef durante l'evento. Il materiale disponibile non specifica ulteriori dettagli sulla cerimonia.",
+   "slug": "gordon-ramsay-ottiene-la-stella-sulla-walk-of-fame-di-hollyw-915e90",
+   "tags": [
+    "Gordon Ramsay",
+    "Hollywood Walk of Fame"
+   ],
+   "scene": "premiere",
+   "source": "dailymail.co.uk",
+   "url": "https://www.dailymail.com/tvshowbiz/article-16304171/Emotional-Gordon-Ramsay-lost-words-makes-history-honoured-Hollywood-Walk-Fame-reveals-daughter-Holly-days-away-giving-birth.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "published": "2026-11-19T04:16:35+00:00"
+  },
+  {
+   "id": "80a67382497f",
+   "section": "tv",
+   "title": "Harlan Coben, le serie tv da cui iniziare",
+   "summary": "Per chi si avvicina per la prima volta ai racconti di Harlan Coben, alcune serie tv tratte dai suoi romanzi offrono un punto di partenza ideale. Tra i titoli indicati figurano The Stranger e Fool Me Once.",
+   "body": "Lo scrittore americano Harlan Coben è noto per i suoi thriller con colpi di scena, diventati negli ultimi anni una fonte costante di serie tv. Per il pubblico che vuole avvicinarsi al suo universo per la prima volta, secondo Collider esistono alcuni titoli particolarmente adatti a un primo approccio.\n\nTra questi vengono citati The Stranger e Fool Me Once, due produzioni che permettono di entrare nel mondo narrativo dell'autore senza bisogno di conoscere i suoi romanzi. La segnalazione si rivolge in particolare agli appassionati di serie televisive che cercano nuove storie da seguire sulle piattaforme.",
+   "slug": "harlan-coben-le-serie-tv-da-cui-iniziare-80a673",
+   "tags": [
+    "Harlan Coben",
+    "The Stranger",
+    "Fool Me Once"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/essential-harlan-coben-shows-beginners/",
+   "published": "2026-11-19T04:01:12+00:00"
+  },
+  {
+   "id": "1f84c89a4a0a",
+   "section": "tv",
+   "title": "The Amazing Race: una concorrente in lacrime dopo la corsa al Pit Stop",
+   "summary": "Nel nono tappa di The Amazing Race quattro squadre si sono sfidate per arrivare al Pit Stop. Dopo l'eliminazione dei fratelli Patterson, restavano sei squadre, che hanno viaggiato insieme su un treno verso Vang Vieng, in Laos.",
+   "body": "Nell'episodio del 18 novembre di The Amazing Race, la nona tappa ha visto quattro squadre sfidarsi per raggiungere il Pit Stop. La puntata precedente si era conclusa con l'eliminazione di Matt Patterson e Michelle Patterson, dopo che diverse coppie avevano collaborato per ottenere questo risultato. All'inizio della tappa erano rimaste sei squadre.\n\nLe sei squadre sono partite tutte sullo stesso treno diretto a Vang Vieng, in Laos, a circa 160 chilometri a nord della località precedente. Secondo TV Insider, la puntata si è chiusa con una concorrente in lacrime dopo la corsa al Pit Stop. Il materiale disponibile non chiarisce ulteriori dettagli sulla classifica finale o sull'eventuale eliminazione.",
+   "slug": "the-amazing-race-una-concorrente-in-lacrime-dopo-la-corsa-al-1f84c8",
+   "tags": [
+    "The Amazing Race",
+    "Matt Patterson",
+    "Michelle Patterson"
+   ],
+   "scene": "tv",
+   "source": "tvinsider.com",
+   "url": "https://www.tvinsider.com/1304492/the-amazing-race-2026-episode-9-recap-ann-marie-riley-eliminated/",
+   "published": "2026-11-19T04:00:37+00:00"
+  },
+  {
+   "id": "99f538ba9db7",
+   "section": "gossip",
+   "title": "Ryan Seacrest racconta la sua nuova routine di yoga dopo i 50 anni",
+   "summary": "Ryan Seacrest, conduttore di Wheel of Fortune, ha raccontato di aver adottato lo yoga come nuova attività per restare in forma nel suo cinquantunesimo anno. Ha condiviso anche alcune delle posizioni che sta imparando.",
+   "body": "Ryan Seacrest ha scelto lo yoga come nuova passione per mantenersi attivo al compimento dei 51 anni. Il conduttore di Wheel of Fortune, secondo quanto riportato da E! Online, ha raccontato il suo percorso di allenamento e ha mostrato alcuni dei movimenti che ha provato.\n\nSeacrest ha presentato la pratica come un modo per dare nuovo ritmo alla sua routine quotidiana, senza rinunciare a restare in movimento. Il racconto si inserisce in un più ampio interesse per il benessere fisico che il presentatore ha spesso condiviso con il pubblico.",
+   "slug": "ryan-seacrest-racconta-la-sua-nuova-routine-di-yoga-dopo-i-5-99f538",
+   "tags": [
+    "Ryan Seacrest",
+    "Wheel of Fortune"
+   ],
+   "scene": "tv",
+   "source": "eonline.com",
+   "url": "https://www.eonline.com/news/1438241/wheel-of-fortunes-ryan-seacrest-started-yoga-details-workout-at-age-51?cmpid=rss-syndicate-genericrss-us-top_stories",
+   "published": "2026-11-19T03:59:52+00:00"
+  },
+  {
    "id": "01396e08ff06",
    "section": "gossip",
    "title": "Faith Hill accompagna Tim McGraw ai CMA Awards 2026",
@@ -8275,90 +8341,9 @@
    "source": "tvinsider.com",
    "url": "https://www.tvinsider.com/1303969/joanna-gaines-chip-gaines-celebrate-special-occasion-ahead-of-new-show-premiere/",
    "published": "2026-11-16T19:09:51+00:00"
-  },
-  {
-   "id": "f14af8bd7ec4",
-   "section": "cinema",
-   "title": "Hugh Jackman irriconoscibile in Robin Hood - Il Prezzo del Sangue",
-   "summary": "Hugh Jackman interpreta un Robin Hood oscuro e irriconoscibile nel film diretto da Michael Sarnoski, disponibile su Prime Video. Per il ruolo l'attore si allontana dal personaggio di Wolverine.",
-   "body": "Hugh Jackman torna sul grande e piccolo schermo in una veste molto diversa da quella che lo ha reso celebre. Nel film Robin Hood - Il Prezzo del Sangue, diretto da Michael Sarnoski, l'attore interpreta un eroe cupo e reinventato, lontano dall'immagine del mutante artigliato che ha portato per anni nella saga degli X-Men.\n\nSecondo BadTaste, la trasformazione fisica e d'aspetto è tale da rendere l'interprete difficilmente riconoscibile. Il film è disponibile su Prime Video e propone una lettura più oscura della leggenda di Robin Hood, un personaggio che il pubblico conosce da generazioni e che qui viene riportato a una dimensione più dura e realistica.",
-   "slug": "hugh-jackman-irriconoscibile-in-robin-hood-il-prezzo-del-san-f14af8",
-   "tags": [
-    "Hugh Jackman",
-    "Michael Sarnoski",
-    "Robin Hood - Il Prezzo del Sangue"
-   ],
-   "scene": "streaming",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/dimenticate-wolverine-su-prime-video-hugh-jackman-irriconoscibile-nel-film-che-reinventa-una-leggenda",
-   "published": "2026-11-16T18:30:22+00:00"
-  },
-  {
-   "id": "b6f784d24387",
-   "section": "tv",
-   "title": "CBS, palinsesto di metà stagione 2027: tornano Ghosts e Matlock",
-   "summary": "CBS ha annunciato il palinsesto primetime di metà stagione 2026-2027, con il ritorno di Ghosts per la sesta stagione e la terza di Matlock. Debutteranno anche Einstein, con Matthew Gray Gubler e Melissa Fumero, a febbraio 2027, e un nuovo Undercover Boss condotto da Drew Carey.",
-   "body": "La rete americana CBS ha presentato il proprio palinsesto primetime di metà stagione 2026-2027. Tra i titoli confermati figurano il ritorno di Ghosts per la sesta stagione, la terza stagione di Matlock e la quarta di NCIS: Sydney, che rinnovano l'offerta delle serate con produzioni già seguite dal pubblico.\n\nLe novità più attese sono Einstein, la nuova serie con Matthew Gray Gubler e Melissa Fumero, che esordirà a febbraio 2027, e una versione rinnovata di Undercover Boss, affidata a Drew Carey. Secondo ShowbizJunkies, il programma sarà presentato come un reboot del format originale. Le date precise di ogni singolo appuntamento non sono state riportate nel materiale disponibile.",
-   "slug": "cbs-palinsesto-di-meta-stagione-2027-tornano-ghosts-e-matloc-b6f784",
-   "tags": [
-    "Ghosts",
-    "Einstein",
-    "Undercover Boss"
-   ],
-   "scene": null,
-   "source": "showbizjunkies.com",
-   "url": "https://www.showbizjunkies.com/tv/cbs-midseason-2027-primetime-schedule/",
-   "published": "2026-11-16T18:20:39+00:00"
-  },
-  {
-   "id": "273a0f0de810",
-   "section": "cinema",
-   "title": "Istituito il Parco letterario Corrado Alvaro, primo per un autore calabrese",
-   "summary": "In Calabria nasce il Parco letterario dedicato a Corrado Alvaro, il primo in regione intitolato a un autore calabrese. Il riconoscimento entra nella rete dei Parchi letterari italiani, che ora conta 33 realtà.",
-   "body": "La Calabria rende omaggio a Corrado Alvaro, uno dei suoi scrittori più illustri, con l'istituzione del Parco letterario a lui dedicato. È il primo parco di questo tipo in regione legato a un autore calabrese, e il suo ingresso porta a 33 il numero delle realtà che fanno parte della rete nazionale dei Parchi letterari.\n\nSecondo ANSA, il riconoscimento valorizza i luoghi legati alla vita e alle opere dello scrittore, offrendo al pubblico un percorso che unisce letteratura e territorio. Il progetto si inserisce in una rete che collega comunità e paesaggi ispirati ai grandi autori italiani.",
-   "slug": "istituito-il-parco-letterario-corrado-alvaro-primo-per-un-au-273a0f",
-   "tags": [
-    "Corrado Alvaro"
-   ],
-   "scene": "premiere",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/libri/2026/11/16/istituito-parco-letterario-corrado-alvaro-il-primo-per-un-autore-calabrese_0c498d8d-380c-45eb-b972-ddfb84d448e1.html",
-   "published": "2026-11-16T18:19:00+00:00"
-  },
-  {
-   "id": "317d94dae242",
-   "section": "cinema",
-   "title": "Matthew Lillard nel nuovo film di Curry Barker, Anything But Ghosts",
-   "summary": "Matthew Lillard entra nel cast di Anything But Ghosts, il prossimo film del regista Curry Barker, autore di Obsession. Secondo Fangoria, l'attore noto per Scream è stato annunciato come nuova star del progetto.",
-   "body": "Il regista Curry Barker, già autore di Obsession, sta lavorando al suo nuovo film, Anything But Ghosts. Secondo Fangoria, il progetto ha appena ottenuto un nome di peso: Matthew Lillard, volto noto del pubblico horror grazie al ruolo nella saga di Scream.\n\nLa fonte non fornisce dettagli sul personaggio interpretato da Lillard, sulla data di uscita o sul resto del cast. Il materiale disponibile si limita dunque all'annuncio dell'ingresso dell'attore nel film, che segue il successo di Obsession e conferma l'interesse per il lavoro del giovane regista.",
-   "slug": "matthew-lillard-nel-nuovo-film-di-curry-barker-anything-but-317d94",
-   "tags": [
-    "Matthew Lillard",
-    "Curry Barker",
-    "Anything But Ghosts"
-   ],
-   "scene": "ciak",
-   "source": "fangoria.com",
-   "url": "https://www.fangoria.com/anything-but-ghosts-cast-matthew-lillard/",
-   "published": "2026-11-16T18:17:57+00:00"
   }
  ],
  "seen": [
-  "6f11f5cbb461",
-  "ef117749cc97",
-  "c91c2bfcafd9",
-  "786743458128",
-  "b2aa15d83e25",
-  "e16ae6e994b8",
-  "60e3045d1613",
-  "cc1228ec2dca",
-  "664f15aa68ba",
-  "cc4d5f1d061a",
-  "54964825ae19",
-  "b90228153cfb",
-  "4d937bd22750",
-  "0b80f6bb3ea4",
-  "75d7cb18a028",
   "c3f32f496fa4",
   "457fcb3e367d",
   "0a630cca387a",
@@ -12343,7 +12328,22 @@
   "c476b40677ff",
   "0b388a3a0724",
   "fa05cbd7d983",
-  "c1489fbc8e98"
+  "c1489fbc8e98",
+  "939f5bd46dd0",
+  "915e9046f581",
+  "535a04760744",
+  "58dee0a8fb74",
+  "5dea3aea1d16",
+  "e3775a804585",
+  "1f84c89a4a0a",
+  "26b97e08ffba",
+  "80a67382497f",
+  "103a92729032",
+  "89db97aec92f",
+  "91fe1820eac3",
+  "1bfeb53ec33d",
+  "99f538ba9db7",
+  "0a86e6600e82"
  ],
  "version": 4,
  "digests": [
