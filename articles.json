@@ -1,6 +1,71 @@
 {
  "articles": [
   {
+   "id": "e31e2191b7d3",
+   "section": "cinema",
+   "title": "Bill Hader debutta alla regia con l'horror They Know, acquisito da Black Bear",
+   "summary": "Bill Hader esordisce alla regia con il film horror They Know, che è stato acquisito dalla casa di produzione e distribuzione Black Bear. La notizia è riportata da Bloody Disgusting.",
+   "body": "Bill Hader, noto al grande pubblico per il lavoro al Saturday Night Live, per le commedie al cinema e per la serie Barry, farà il suo debutto dietro la macchina da presa con un film horror intitolato They Know. Secondo Bloody Disgusting, il progetto è stato acquisito da Black Bear, la società già legata a diversi titoli di genere di recente successo.\n\nHader ha più volte espresso in interviste il suo amore per il cinema di genere, anche se Barry non era un prodotto dichiaratamente horror. Con They Know, l'attore e comico si misura quindi con un territorio che ha dichiarato di frequentare da tempo come spettatore.",
+   "slug": "bill-hader-debutta-alla-regia-con-l-horror-they-know-acquisi-e31e21",
+   "tags": [
+    "Bill Hader",
+    "They Know",
+    "Black Bear"
+   ],
+   "scene": "ciak",
+   "source": "bloody-disgusting.com",
+   "url": "https://bloody-disgusting.com/movie/3976398/bill-hader-they-know-movie-black-bear-release/",
+   "published": "2026-11-20T00:11:44+00:00"
+  },
+  {
+   "id": "36b0f6710538",
+   "section": "cinema",
+   "title": "Dermot Mulroney e il sequel di The Family Stone: 'Ritrovare il cast è emozionante'",
+   "summary": "Dermot Mulroney tornerà nel sequel di The Family Stone, a più di vent'anni dal film del 2005. L'attore ha dichiarato di essere molto emozionato di ritrovare i suoi colleghi di cast.",
+   "body": "Dermot Mulroney riprenderà il ruolo di Everett Stone nel sequel di The Family Stone, il film natalizio uscito nel 2005. A più di vent'anni di distanza, il progetto riunisce di nuovo gran parte del cast originale, che torna a lavorare insieme sul set.\n\nSecondo Deadline, l'attore ha raccontato di essere molto commosso di ritrovarsi con i suoi colleghi, che ha definito straordinari. Mulroney ha descritto il ritorno sul set come una sorta di realtà che imita l'arte, sottolineando il legame costruito con il cast durante le riprese del film originale.",
+   "slug": "dermot-mulroney-e-il-sequel-di-the-family-stone-ritrovare-il-36b0f6",
+   "tags": [
+    "The Family Stone",
+    "Dermot Mulroney"
+   ],
+   "scene": "tappeto",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/dermot-mulroney-filming-family-stone-sequel-life-imitating-art-1237229646/",
+   "published": "2026-11-19T23:59:10+00:00"
+  },
+  {
+   "id": "c05576efd484",
+   "section": "gossip",
+   "title": "Alessandra Mussolini commenta i concorrenti del Grande Fratello Vip",
+   "summary": "Ospite di un podcast, Alessandra Mussolini ha commentato alcuni concorrenti dell'attuale edizione del Grande Fratello Vip, dicendo con chi sarebbe andata d'accordo e con chi ci sarebbero stati probabili scontri. Nel mirino sono finiti in particolare Guendalina Tavassi, Giulia Provvedi e Valeria Marini.",
+   "body": "Alessandra Mussolini è intervenuta nel podcast a cui ha partecipato come ospite con un giudizio sui concorrenti dell'edizione in corso del Grande Fratello Vip. Secondo quanto riportato da Biccy, l'ex europarlamentare ha spiegato con quali gieffini avrebbe avuto un buon rapporto se fosse entrata nella Casa, e con quali invece sarebbero probabili scontri e discussioni.\n\nLe osservazioni più dure sono state rivolte a Guendalina Tavassi, Giulia Provvedi e Valeria Marini. Le sue parole sono state riportate dalla fonte, che ha ripreso il tono sferzante dei commenti. Il materiale disponibile non chiarisce ulteriori dettagli sulle singole affermazioni né sulle eventuali reazioni dei diretti interessati.",
+   "slug": "alessandra-mussolini-commenta-i-concorrenti-del-grande-frate-c05576",
+   "tags": [
+    "Alessandra Mussolini",
+    "Grande Fratello Vip",
+    "Guendalina Tavassi"
+   ],
+   "scene": "microfono",
+   "source": "biccy.it",
+   "url": "https://www.biccy.it/alessandra-mussolini-stronca-i-nuovi-gieffini-da-guendalina-a-giulia-una-tragedia/",
+   "published": "2026-11-19T23:44:35+00:00"
+  },
+  {
+   "id": "ed77e4bc42ee",
+   "section": "tv",
+   "title": "X Factor 2026, nel quinto Live del 19 novembre c'è una nuova eliminazione",
+   "summary": "Nel quinto Live di X Factor 2026, andato in onda il 19 novembre, si è chiuso con una nuova eliminazione dal talent. La serata dedicata agli inediti ha cambiato l'andamento della gara.",
+   "body": "Il quinto Live di X Factor 2026, andato in onda il 19 novembre, si è concluso con l'eliminazione di uno dei concorrenti in gara. Secondo BadTaste, la puntata è stata dedicata ai brani inediti, una scelta che ha modificato l'equilibrio della competizione e ha reso più difficile prevedere l'esito del televoto.\n\nIl materiale disponibile non riporta nel dettaglio tutti i passaggi della serata né le motivazioni della giuria, quindi il quadro resta essenziale. Per seguire la gara e le prossime eliminazioni è utile consultare la programmazione del talent di Sky e la pagina dedicata al programma.",
+   "slug": "x-factor-2026-nel-quinto-live-del-19-novembre-c-e-una-nuova-ed77e4",
+   "tags": [
+    "X Factor"
+   ],
+   "scene": "palco",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/x-factor-2026-chi-e-stato-eliminato-nel-quinto-live-del-19-novembre-la-serata-degli-inediti-cambia-la-gara",
+   "published": "2026-11-19T23:37:20+00:00"
+  },
+  {
    "id": "342bd49e554f",
    "section": "tv",
    "title": "Wild Things: Apple TV svela la prima immagine della serie su Siegfried & Roy",
@@ -49,6 +114,23 @@
    "source": "okmagazine.com",
    "url": "https://okmagazine.com/p/blake-shelton-reveals-favorite-part-being-stepdad-gwen-stefani-kids/",
    "published": "2026-11-19T23:11:01+00:00"
+  },
+  {
+   "id": "54d9493f0593",
+   "section": "musica",
+   "title": "Alex Fontana presenta a X Factor 2026 il brano inedito \"Vivian\"",
+   "summary": "Alex Fontana porta a X Factor 2026 \"Vivian\", un inedito pop-rock ispirato a una storia d'amore passionale e contraddittoria. Nel testo compaiono alcuni riferimenti a Pretty Woman.",
+   "body": "Alex Fontana ha presentato a X Factor 2026 il suo inedito \"Vivian\", un brano pop-rock che racconta una storia d'amore intensa e ricca di contraddizioni. Il cantante, ormai molto seguito dal pubblico del talent, sceglie così di portare sul palco una canzone personale, costruita su emozioni forti e relazioni complesse.\n\nNel testo del brano trovano spazio alcune citazioni del film Pretty Woman, richiamo che collega la storia d'amore raccontata al celebre film con Julia Roberts. Secondo Movieplayer, che ha riportato l'esibizione, la canzone si distingue per il suo tono appassionato e per l'alternarsi di slanci e tensioni, elementi che caratterizzano l'intero racconto musicale.",
+   "slug": "alex-fontana-presenta-a-x-factor-2026-il-brano-inedito-vivia-54d949",
+   "tags": [
+    "Alex Fontana",
+    "X Factor",
+    "Pretty Woman"
+   ],
+   "scene": "palco",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/news/alex-fontana-vivian-testo-significato-inedito-x-factor_172055/",
+   "published": "2026-11-19T23:10:09+00:00"
   },
   {
    "id": "0aafb9bc1457",
@@ -8257,112 +8339,9 @@
    "source": "BadTaste",
    "url": "https://www.badtaste.it/recensioni/the-body-la-recensione-il-discusso-show-di-netflix-punta-in-alto",
    "published": "2026-11-17T16:48:08+00:00"
-  },
-  {
-   "id": "9dcb2b593dbd",
-   "section": "musica",
-   "title": "Andrea Mingardi si sposa a 86 anni con la compagna Beba",
-   "summary": "Il cantautore bolognese Andrea Mingardi ha annunciato su Facebook il matrimonio con la compagna storica Beba. Ha definito la loro relazione un fidanzamento durato 46 anni.",
-   "body": "Il cantautore Andrea Mingardi, 86 anni, ha annunciato sui social di essersi sposato con la sua compagna di lunga data, conosciuta con il nome di Beba. Nel post pubblicato su Facebook ha scritto che si è trattato di un fidanzamento di 46 anni, a sottolineare quanto sia durata la loro storia prima della decisione di sposarsi.\n\nSecondo ANSA, la notizia è stata diffusa attraverso il profilo social dell'artista, noto per la sua lunga carriera tra musica e spettacolo. Il materiale disponibile non riporta altri dettagli sulla cerimonia, sul luogo o sulla data delle nozze.",
-   "slug": "andrea-mingardi-si-sposa-a-86-anni-con-la-compagna-beba-9dcb2b",
-   "tags": [
-    "Andrea Mingardi"
-   ],
-   "scene": "microfono",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/17/il-cantautore-andrea-mingardi-si-e-sposato-a-86-anni-con-la-storica-compagna-beba_ab3d40cd-5424-4779-9e6a-54280408729e.html",
-   "published": "2026-11-17T16:39:52+00:00"
-  },
-  {
-   "id": "ac7bca2fc8ca",
-   "section": "musica",
-   "title": "Siae Music Awards, sabato a Milano la premiazione della creatività musicale",
-   "summary": "Sabato a Milano si terranno i Siae Music Awards, dedicati ai premi per la creatività musicale, con nomination in 17 categorie. La conduzione è affidata ad Amadeus, con la partecipazione di Noemi.",
-   "body": "Sabato a Milano vanno in scena i Siae Music Awards, la cerimonia dedicata ai premi per la creatività musicale. Secondo ANSA, le nomination coprono complessivamente 17 categorie, a conferma di un programma ampio che riconosce il lavoro di autori e compositori.\n\nLa serata sarà condotta da Amadeus, che guiderà la premiazione con la partecipazione di Noemi. Il materiale disponibile non specifica ulteriori dettagli su orari, scalette o ospiti, che andranno verificati presso gli organizzatori.",
-   "slug": "siae-music-awards-sabato-a-milano-la-premiazione-della-creat-ac7bca",
-   "tags": [
-    "Siae Music Awards",
-    "Amadeus",
-    "Noemi"
-   ],
-   "scene": "premiere",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/17/sabato-a-milano-i-siae-music-awards-i-premi-della-creativita-musicale_201c7ed2-b105-4185-81ad-0227388f73f5.html",
-   "published": "2026-11-17T16:34:14+00:00"
-  },
-  {
-   "id": "7fd3be03fbbb",
-   "section": "tv",
-   "title": "Boston Blue, un personaggio di Blue Bloods torna con un nuovo attore",
-   "summary": "In Boston Blue il padre biologico di Elena, la figlia di Maria Baez, torna nella storia dopo il rapimento della bambina. Il personaggio, legato a un momento drammatico della vita di Danny Reagan, sarà interpretato da un attore diverso.",
-   "body": "Nell'episodio di Boston Blue dedicato a Danny e Baez, la storia ruota attorno al rapimento di Elena. A quel punto ricompare il padre biologico della bambina, un personaggio già visto in Blue Bloods. Il ruolo, però, non è più affidato allo stesso interprete: questa volta a dare il volto al personaggio è un attore nuovo.\n\nIl personaggio è legato a uno dei momenti più dolorosi della vita di Danny Reagan, interpretato da Donnie Wahlberg, ma è anche all'origine della decisione di Maria Baez, interpretata da Marisa Ramirez, di adottare la figlia. Secondo TV Insider, il ritorno del cattivo serve quindi a riportare in primo piano il passato dei personaggi. Elena è interpretata dalle gemelle Eleanor e Penelope Yataco.",
-   "slug": "boston-blue-un-personaggio-di-blue-bloods-torna-con-un-nuovo-7fd3be",
-   "tags": [
-    "Boston Blue",
-    "Blue Bloods",
-    "Donnie Wahlberg"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1304138/boston-blue-season-2-recast-arturo-munoz-elena-father-danny-baez/",
-   "published": "2026-11-17T16:16:46+00:00"
-  },
-  {
-   "id": "a4e475e78e7f",
-   "section": "tv",
-   "title": "Georgia Lee showrunner della serie Zhong Kui: Demon Slayer",
-   "summary": "La sceneggiatrice e produttrice Georgia Lee sarà showrunner di Zhong Kui: Demon Slayer, serie drammatica soprannaturale ispirata a una delle figure mitologiche più potenti della cultura cinese. Janet Yang e Simon Yam affiancheranno la produzione come produttori esecutivi.",
-   "body": "La regista, sceneggiatrice e produttrice Georgia Lee è stata scelta come showrunner di Zhong Kui: Demon Slayer, titolo di lavorazione di una serie drammatica soprannaturale dedicata a uno dei personaggi mitologici più potenti della tradizione cinese. Secondo Deadline, Lee è anche co-produttrice esecutiva della serie di HBO Crazy Rich Asians, annunciata di recente, ed è stata in passato showrunner e produttrice esecutiva di altri progetti.\n\nAccanto a lei come produttori esecutivi figurano Janet Yang e Simon Yam, attore noto al pubblico internazionale per i suoi ruoli nel cinema di Hong Kong. Al momento non sono disponibili informazioni su piattaforma, cast o data di uscita del progetto.",
-   "slug": "georgia-lee-showrunner-della-serie-zhong-kui-demon-slayer-a4e475",
-   "tags": [
-    "Georgia Lee",
-    "Zhong Kui: Demon Slayer",
-    "Crazy Rich Asians"
-   ],
-   "scene": "ciak",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/georgia-lee-zhong-kui-demon-slayer-janet-yang-simon-yam-1237224818/",
-   "published": "2026-11-17T16:15:00+00:00"
-  },
-  {
-   "id": "1e0eceb092cf",
-   "section": "tv",
-   "title": "Wheel of Fortune, concorrente perde 60mila dollari al puzzle finale",
-   "summary": "Nel quiz Wheel of Fortune un concorrente di Philadelphia non è riuscito a risolvere il puzzle bonus, perdendo la possibilità di vincere 60mila dollari. Ryan Seacrest ha commentato l'accaduto.",
-   "body": "Nell'ultima puntata di Wheel of Fortune, il concorrente Manas Choure, originario di Philadelphia, non è riuscito a risolvere il puzzle bonus, lasciandosi sfuggire un premio da 60mila dollari. Il giovane, che si è presentato come un appassionato di matematica e scienze e che ama il paradosso di Zenone e la relatività ristretta, aveva già conquistato 3mila dollari vincendo tre Fortune Frenzies il 16 novembre.\n\nSecondo quanto riportato da TV Insider, anche il conduttore Ryan Seacrest ha commentato la difficoltà della prova, definendola impegnativa per chiunque. L'episodio mostra quanto il gioco finale possa mettere alla prova i concorrenti, anche quando arrivano con una preparazione solida.",
-   "slug": "wheel-of-fortune-concorrente-perde-60mila-dollari-al-puzzle-1e0ece",
-   "tags": [
-    "Wheel of Fortune",
-    "Ryan Seacrest",
-    "Manas Choure"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1304134/wheel-of-fortune-ryan-seacrest-reacts-after-contestant-loses-60000-on-tough-puzzle/",
-   "published": "2026-11-17T16:14:26+00:00"
   }
  ],
  "seen": [
-  "4a88ab8e74ab",
-  "365e71fba9e7",
-  "c5772062d836",
-  "f27fbfd0d7c0",
-  "54ae29d574fc",
-  "a3af34db81aa",
-  "91f43e5c43ee",
-  "09cab45cc910",
-  "191d9aa4b2d8",
-  "ba93ed52febc",
-  "5cf1c9ae9922",
-  "d1040a3f1874",
-  "eb607d7ab47b",
-  "6fcaae488298",
-  "2433f6b8c8f9",
-  "87ddf1e71a2a",
-  "855ff153ad2e",
-  "a591d4445854",
-  "fd5d74709d80",
-  "186d50d7d883",
   "3fdba573ca00",
   "0a7dd9b3849c",
   "b9464d9b5b6f",
@@ -12342,7 +12321,27 @@
   "50e19a715f0f",
   "19bc80cbc490",
   "1fbac9cb8925",
-  "c94f9ae8887c"
+  "c94f9ae8887c",
+  "e4060780728e",
+  "e44c1fea260d",
+  "5c443d9632bd",
+  "81333c822e2c",
+  "e31e2191b7d3",
+  "4ef6d2eca2ec",
+  "97dcaa6df394",
+  "a8f012cfa126",
+  "c05576efd484",
+  "ed77e4bc42ee",
+  "fef909781b37",
+  "54d9493f0593",
+  "ba0ed262e07b",
+  "4beeb3671845",
+  "263800c65d78",
+  "e9ed05826fcd",
+  "054283c14fbb",
+  "b38018ed65fd",
+  "a82dbcc27d24",
+  "36b0f6710538"
  ],
  "version": 4,
  "digests": [
