@@ -1,6 +1,141 @@
 {
  "articles": [
   {
+   "id": "e3d29f9735f7",
+   "section": "cinema",
+   "title": "Artificial, il poster di NEON sembra AI slop ma non lo è",
+   "summary": "Il distributore americano NEON ha promosso Artificial, il film di Luca Guadagnino con Andrew Garfield sulla storia di Sam Altman di OpenAI, con un poster costruito per sembrare un prodotto di AI slop. Secondo ComingSoon, la grafica è in realtà un'immagine realizzata senza intelligenza artificiale.",
+   "body": "Il distributore americano NEON ha scelto per la promozione di Artificial, il film diretto da Luca Guadagnino con Andrew Garfield, un poster che a prima vista richiama la cosiddetta AI slop, cioè le immagini generate in serie dall'intelligenza artificiale di bassa qualità. Il film racconta la storia di Sam Altman, fondatore di OpenAI, e l'effetto voluto dalla campagna è quello di far discutere il pubblico proprio sul tema dell'AI.\n\nSecondo ComingSoon, però, il poster non è affatto frutto di un'intelligenza artificiale. La testata sostiene di avere le prove della realizzazione tradizionale dell'immagine, costruita appositamente per dare l'impressione di un contenuto generato automaticamente.",
+   "slug": "artificial-il-poster-di-neon-sembra-ai-slop-ma-non-lo-e-e3d29f",
+   "tags": [
+    "Artificial",
+    "Luca Guadagnino",
+    "Andrew Garfield"
+   ],
+   "scene": "pellicola",
+   "source": "ComingSoon",
+   "url": "https://www.comingsoon.it/cinema/news/artificial-il-poster-trappola-che-sembra-ai-slop-ma-non-lo-e-ci-sono-le/n236322/",
+   "published": "2026-11-20T11:13:00+00:00"
+  },
+  {
+   "id": "ab7e5da1ab8e",
+   "section": "musica",
+   "title": "Glocal Piano Festival, maratona di giovani pianisti al Parco della Musica",
+   "summary": "Il 22 novembre l'Auditorium Parco della Musica di Roma ospita il Glocal Piano Festival, una maratona musicale dedicata ai giovani talenti del pianoforte. Dodici pianisti si sfidano in gara in vista del Concorso Busoni.",
+   "body": "Il 22 novembre l'Auditorium Parco della Musica di Roma ospita il Glocal Piano Festival, una lunga giornata di concerti dedicata al pianoforte e ai suoi interpreti più giovani. Protagonisti della manifestazione sono dodici pianisti che si contendono un posto nella fase successiva del percorso verso il Concorso Busoni, uno dei appuntamenti più prestigiosi per i giovani strumentisti.\n\nSecondo ANSA, l'evento si presenta come una vera e propria maratona musicale, pensata per mettere in luce nuovi talenti e offrire loro una vetrina importante nella capitale. Il festival conferma il ruolo del Parco della Musica come punto di riferimento per la musica classica e per le nuove generazioni di interpreti.",
+   "slug": "glocal-piano-festival-maratona-di-giovani-pianisti-al-parco-ab7e5d",
+   "tags": [
+    "Glocal Piano Festival",
+    "Parco della Musica",
+    "Concorso Busoni"
+   ],
+   "scene": "palco",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/20/the-glocal-piano-festival-a-roma-maratona-musicale-di-giovani-talenti_bdbe2ad4-4b64-4f17-9147-9ac738b69fe3.html",
+   "published": "2026-11-20T11:06:58+00:00"
+  },
+  {
+   "id": "71542dcf7995",
+   "section": "cinema",
+   "title": "Nolan spiega cosa rende divertente vedere The Odyssey a casa",
+   "summary": "Christopher Nolan ha illustrato i vantaggi della visione domestica di The Odyssey, pur riconoscendo che l'IMAX resta il modo migliore per vederlo. La notizia riguarda il nuovo film del regista, dopo l'uscita nelle sale.",
+   "body": "Il regista Christopher Nolan ha spiegato quali aspetti rendano piacevole vedere The Odyssey anche a casa, nonostante il formato IMAX sia considerato la scelta migliore per godersi il film. Secondo quanto riportato da GamesRadar, Nolan non considera la visione domestica come una alternativa di ripiego, ma come un'esperienza con caratteristiche proprie.\n\nLe sue dichiarazioni arrivano in un momento in cui il film è al centro dell'attenzione del pubblico e della critica. Il regista ha quindi messo in evidenza il valore della visione in famiglia o in solitudine, sottolineando come ogni formato offra un modo diverso di entrare nella storia.",
+   "slug": "nolan-spiega-cosa-rende-divertente-vedere-the-odyssey-a-casa-71542d",
+   "tags": [
+    "Christopher Nolan",
+    "The Odyssey"
+   ],
+   "scene": "pellicola",
+   "source": "gamesradar.com",
+   "url": "https://www.gamesradar.com/entertainment/fantasy-movies/despite-imax-being-the-best-way-to-watch-the-odyssey-christopher-nolan-explains-whats-fun-about-watching-at-home/",
+   "published": "2026-11-20T11:06:20+00:00"
+  },
+  {
+   "id": "0f6149f79240",
+   "section": "cinema",
+   "title": "Ascanio Celestini vince il Premio Internazionale Ascoli Piceno per Rumba",
+   "summary": "Ascanio Celestini riceve il Premio Internazionale Ascoli Piceno per il progetto teatrale e letterario Rumba, dedicato a San Francesco. Il riconoscimento premia un lavoro che unisce teatro e letteratura.",
+   "body": "Il drammaturgo e attore Ascanio Celestini è il vincitore del Premio Internazionale Ascoli Piceno, assegnato al progetto Rumba. Il lavoro, che intreccia teatro e letteratura, è dedicato alla figura di San Francesco d'Assisi.\n\nSecondo ANSA, il riconoscimento viene conferito per la capacità del progetto di raccontare il santo attraverso due linguaggi diversi, quello scenico e quello narrativo. La notizia riguarda dunque un premio assegnato a un progetto artistico già realizzato.",
+   "slug": "ascanio-celestini-vince-il-premio-internazionale-ascoli-pice-0f6149",
+   "tags": [
+    "Ascanio Celestini",
+    "Premio Internazionale Ascoli Piceno",
+    "Rumba"
+   ],
+   "scene": "premiere",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/20/ascanio-celestini-vince-il-premio-internazionale-ascoli-piceno-per-il-progetto-rumba_a117be68-53aa-4c03-94cc-cb21773fc3e0.html",
+   "published": "2026-11-20T11:03:23+00:00"
+  },
+  {
+   "id": "f750652fc975",
+   "section": "tv",
+   "title": "The Altruists: gli attori Anthony Boyle e Julia Garner raccontano lo scandalo cripto",
+   "summary": "Anthony Boyle e Julia Garner parlano della miniserie Netflix The Altruists, ispirata alla vicenda di Sam Bankman-Fried e Caroline Ellison. Gli attori raccontano il momento in cui lo scandalo delle criptovalute è esploso.",
+   "body": "Gli attori Anthony Boyle e Julia Garner sono protagonisti di The Altruists, la miniserie Netflix che racconta la storia di Sam Bankman-Fried e Caroline Ellison, al centro dello scandalo delle criptovalute. Secondo Collider, nelle interviste i due interpreti ripercorrono il rapporto tra i personaggi e il momento preciso in cui la vicenda è deflagrata.\n\nIl racconto mette al centro il legame tra i due protagonisti reali e il crollo che ne è seguito. Boyle e Garner spiegano come hanno lavorato sui rispettivi personaggi, cercando di restituire le motivazioni e le ambiguità di una storia che ha attirato grande attenzione del pubblico internazionale.",
+   "slug": "the-altruists-gli-attori-anthony-boyle-e-julia-garner-raccon-f75065",
+   "tags": [
+    "The Altruists",
+    "Julia Garner",
+    "Anthony Boyle"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/the-altruists-netflix-crypto-scandal-anthony-boyle-julia-garner/",
+   "published": "2026-11-20T11:00:12+00:00"
+  },
+  {
+   "id": "fb7990d2fe8c",
+   "section": "cinema",
+   "title": "Steps, il fantasy Netflix con Daniel Radcliffe tra le figure delle fiabe",
+   "summary": "Da oggi su Netflix arriva Steps, film fantasy che rielabora un mondo di fiabe. Nel cast di lingua inglese compaiono Daniel Radcliffe, noto per Harry Potter, e un attore di Game of Thrones.",
+   "body": "Su Netflix è disponibile da oggi Steps, il nuovo film fantasy della piattaforma, ambientato in un mondo popolato da personaggi delle fiabe che la storia scombina. Secondo quanto riportato da moviepilot.de, il progetto è interpretato in lingua inglese e vede tra i protagonisti Daniel Radcliffe, il volto di Harry Potter sul grande schermo.\n\nNel cast figura anche un attore che il pubblico ricorda per il suo ruolo in Game of Thrones. La pellicola si inserisce nel catalogo fantasy di Netflix e propone una rilettura dell'immaginario delle favole tradizionali. Il materiale disponibile non chiarisce ulteriori dettagli sulla trama o sulla critica, che saranno utili per valutare il risultato finale.",
+   "slug": "steps-il-fantasy-netflix-con-daniel-radcliffe-tra-le-figure-fb7990",
+   "tags": [
+    "Steps",
+    "Daniel Radcliffe",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "moviepilot.de",
+   "url": "https://www.moviepilot.de/news/steps-fantasy-netflix-start-1165452",
+   "published": "2026-11-20T11:00:00+00:00"
+  },
+  {
+   "id": "73d2d2d52526",
+   "section": "cinema",
+   "title": "La Resurrezione di Cristo di Mel Gibson: i diritti italiani a Rai Cinema e Leone Film Group",
+   "summary": "Rai Cinema e Leone Film Group hanno acquisito i diritti italiani dei due film di Mel Gibson dedicati alla Resurrezione di Cristo. La distribuzione sarà affidata a 01 Distribution, in contemporanea con l'uscita statunitense di Lionsgate.",
+   "body": "Rai Cinema e Leone Film Group hanno acquisito i diritti di distribuzione in Italia de La Resurrezione di Cristo, il progetto in due parti diretto da Mel Gibson. Secondo Box Office Biz, il film uscirà nelle sale italiane con 01 Distribution, in contemporanea con le date statunitensi fissate da Lionsgate.\n\nLa prima parte è prevista nel 2027, la seconda nel 2028. L'accordo riguarda quindi entrambi i capitoli della saga, con un calendario di uscita che allinea il pubblico italiano a quello americano.",
+   "slug": "la-resurrezione-di-cristo-di-mel-gibson-i-diritti-italiani-a-73d2d2",
+   "tags": [
+    "Mel Gibson",
+    "La Resurrezione di Cristo",
+    "Rai Cinema"
+   ],
+   "scene": "ciak",
+   "source": "Box Office Biz",
+   "url": "https://boxofficebiz.it/news/la-resurrezione-di-cristo-rai-cinema-e-leone-film-group-acquisiscono-i-diritti-italiani/",
+   "published": "2026-11-20T10:55:44+00:00"
+  },
+  {
+   "id": "fc219065b27e",
+   "section": "musica",
+   "title": "Francesco Da Vinci pubblica il singolo \"Amore senza fine\"",
+   "summary": "Francesco Da Vinci ha pubblicato \"Amore senza fine\", una ballad che apre un nuovo progetto musicale del cantautore partenopeo. Nell'intervista a SuperGuidaTV parla della sua gavetta e del desiderio di entrare nel cuore del pubblico.",
+   "body": "Il cantautore napoletano Francesco Da Vinci ha pubblicato il nuovo brano \"Amore senza fine\", uscito il 13 novembre 2026. Si tratta di una ballad sentimentale che segna l'avvio di un nuovo progetto musicale, nel quale l'artista dice di avere le idee chiare sulla propria identità.\n\nSecondo SuperGuidaTV, Da Vinci ha sottolineato di non aver ricevuto nulla in regalo e di aver costruito la carriera con anni di gavetta. Interrogato sulla televisione, ha spiegato di aver rinunciato a partecipare a \"Tale e quale\", dichiarando però il desiderio di entrare nel cuore della gente.",
+   "slug": "francesco-da-vinci-pubblica-il-singolo-amore-senza-fine-fc2190",
+   "tags": [
+    "Francesco Da Vinci",
+    "Tale e quale",
+    "Amore senza fine"
+   ],
+   "scene": "cuffie",
+   "source": "superguidatv.it",
+   "url": "https://www.superguidatv.it/francesco-da-vinci-intervista/",
+   "published": "2026-11-20T10:47:32+00:00"
+  },
+  {
    "id": "ead5dbc69cbb",
    "section": "gossip",
    "title": "Ballando con le Stelle, Signoretti critica Milly Carlucci sullo scontro con Mariotto",
@@ -8199,167 +8334,9 @@
    "source": "deadline.com",
    "url": "https://deadline.com/2026/11/youtube-new-slate-emma-chamberlain-phil-rosenthal-1237226843/",
    "published": "2026-11-18T04:00:00+00:00"
-  },
-  {
-   "id": "7d6ec8b4efcf",
-   "section": "cinema",
-   "title": "Ron Howard frena sul sequel di Grinch con Jim Carrey",
-   "summary": "Il regista Ron Howard ha avvertito che il sequel di Il Grinch con Jim Carrey non andrà avanti se la sceneggiatura non sarà all'altezza. Il progetto resta quindi condizionato alla qualità del copione.",
-   "body": "Il regista Ron Howard ha chiarito che un eventuale sequel de Il Grinch, con Jim Carrey protagonista, non è ancora una decisione presa. Secondo quanto riportato da TheWrap, Howard ha dichiarato di voler mettere in guardia tutti: il film non andrà avanti se la sceneggiatura non risulterà davvero valida.\n\nLa condizione posta da Howard è dunque netta e legata esclusivamente alla qualità del testo. Le informazioni disponibili sono limitate e non indicano tempi di produzione né dettagli sul cast oltre al ritorno di Carrey, già indicato come protagonista. Al momento il progetto resta quindi in una fase di valutazione.",
-   "slug": "ron-howard-frena-sul-sequel-di-grinch-con-jim-carrey-7d6ec8",
-   "tags": [
-    "Ron Howard",
-    "Jim Carrey",
-    "Il Grinch"
-   ],
-   "scene": "pellicola",
-   "source": "thewrap.com",
-   "url": "https://www.thewrap.com/creative-content/movies/ron-howard-warns-grinch-jim-carrey-sequel-needs-great-script-to-move-forward/",
-   "published": "2026-11-18T03:56:37+00:00"
-  },
-  {
-   "id": "c67068467567",
-   "section": "tv",
-   "title": "Dancing with the Stars, Connor Wood resta in gara davanti a Harry Shum Jr.",
-   "summary": "Nella semifinale di Dancing with the Stars Harry Shum Jr. ha ottenuto il punteggio pieno di 60/60 dalla giuria ma è stato eliminato. Connor Wood, con 48/60, è rimasto in gara grazie ai voti del pubblico.",
-   "body": "Nella semifinale di Dancing with the Stars Harry Shum Jr. ha ricevuto dalla giuria il punteggio massimo di 60 su 60, ma al termine della serata è stato eliminato dalla competizione. Connor Wood, che dai giudici ha ottenuto 48 punti su 60, è invece riuscito a restare in gara.\n\nSecondo TV Insider, a fare la differenza sarebbero stati i voti del pubblico, che hanno permesso a Wood di superare il concorrente con il punteggio più alto della serata. Il caso mostra come, nel programma, il risultato finale dipenda sia dalle valutazioni della giuria sia dal televoto.",
-   "slug": "dancing-with-the-stars-connor-wood-resta-in-gara-davanti-a-h-c67068",
-   "tags": [
-    "Dancing with the Stars",
-    "Harry Shum Jr.",
-    "Connor Wood"
-   ],
-   "scene": "premiere",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1304310/dancing-with-the-stars-connor-wood-semifinals-results-most-viewer-votes-explained/",
-   "published": "2026-11-18T03:44:41+00:00"
-  },
-  {
-   "id": "48f14b21183f",
-   "section": "gossip",
-   "title": "Bebe Neuwirth sfoggia i riccioli argentati alla festa per i 30 anni di Chicago",
-   "summary": "Bebe Neuwirth, star di Cheers, si è presentata con i suoi riccioli argento in un'apparizione pubblica legata al trentesimo anniversario del revival di Chicago. Secondo quanto riportato da Hello! Magazine, il look è stato molto commentato.",
-   "body": "Bebe Neuwirth, nota al grande pubblico per il ruolo della dottoressa Lilith Sternin nella serie Cheers, è apparsa in pubblico con una capigliatura riccia completamente argentata. L'occasione è stata la celebrazione del trentesimo anniversario del revival teatrale di Chicago, spettacolo musicale nel quale l'attrice ha avuto un ruolo di rilievo.\n\nSecondo quanto riportato da Hello! Magazine, il look scelto dall'attrice, che ha 67 anni, ha attirato l'attenzione dei presenti e dei fotografi. La fonte descrive l'apparizione come particolarmente suggestiva, senza però entrare nel dettaglio di dichiarazioni rilasciate dall'attrice durante l'evento.",
-   "slug": "bebe-neuwirth-sfoggia-i-riccioli-argentati-alla-festa-per-i-48f14b",
-   "tags": [
-    "Bebe Neuwirth",
-    "Cheers",
-    "Chicago"
-   ],
-   "scene": "tappeto",
-   "source": "hellomagazine.com",
-   "url": "https://www.hellomagazine.com/us/935691/cheers-star-bebe-neuwirth-67-turns-heads-with-striking-silver-curls-in-rare-new-video/",
-   "published": "2026-11-18T03:30:03+00:00"
-  },
-  {
-   "id": "81dbbdfa98c6",
-   "section": "gossip",
-   "title": "Maya Jama sul red carpet del GQ Men of the Year a Londra",
-   "summary": "Maya Jama ha partecipato all'evento GQ Men of the Year a Londra indossando un abito in pizzo nero trasparente, con guanti abbinati e gioielli scintillanti. Il look ha attirato l'attenzione dei fotografi presenti.",
-   "body": "La conduttrice e personaggio televisivo britannica Maya Jama si è presentata al GQ Men of the Year, evento di premiazione organizzato dalla rivista GQ a Londra, con un lungo abito in pizzo nero semitrasparente. Il look era completato da guanti dello stesso colore e da gioielli luccicanti, scelte che hanno reso la sua apparizione una delle più fotografate della serata.\n\nSecondo Hello! Magazine, l'outfit ha colpito per la combinazione tra eleganza sobria e dettagli scenografici. La fonte ha dedicato alla comparsa una galleria di immagini dal red carpet, che mostra il look nel dettaglio.",
-   "slug": "maya-jama-sul-red-carpet-del-gq-men-of-the-year-a-londra-81dbbd",
-   "tags": [
-    "Maya Jama",
-    "GQ Men of the Year"
-   ],
-   "scene": "tappeto",
-   "source": "hellomagazine.com",
-   "url": "https://www.hellomagazine.com/celebrities/935690/maya-jama-turns-heads-in-sheer-lace-gown-for-show-stopping-red-carpet-appearance/",
-   "published": "2026-11-18T03:15:51+00:00"
-  },
-  {
-   "id": "46bfd5270623",
-   "section": "tv",
-   "title": "NCIS: Origins, la terza stagione chiude con dieci episodi",
-   "summary": "La CBS ha fissato la data del finale della terza stagione di NCIS: Origins, che si concluderà dopo soli dieci episodi. La stagione accorciata terminerà prima del ritorno di NCIS: Sydney.",
-   "body": "La CBS ha ufficializzato la data del finale della terza stagione di NCIS: Origins, lo spin-off dedicato alle origini di Leroy Jethro Gibbs. Secondo Collider, la stagione si fermerà a dieci episodi, una durata ridotta rispetto alle precedenti.\n\nIl finale arriverà prima del ritorno di NCIS: Sydney, l'altro spin-off della saga, così da lasciare spazio alla programmazione successiva della rete. Il materiale disponibile non specifica la data esatta della messa in onda né le ragioni precise della riduzione.",
-   "slug": "ncis-origins-la-terza-stagione-chiude-con-dieci-episodi-46bfd5",
-   "tags": [
-    "NCIS: Origins",
-    "NCIS: Sydney",
-    "CBS"
-   ],
-   "scene": "tv",
-   "source": "collider.com",
-   "url": "https://collider.com/ncis-origins-season-3-finale-date-10-episodes/",
-   "published": "2026-11-18T02:54:12+00:00"
-  },
-  {
-   "id": "e3b7289029a1",
-   "section": "tv",
-   "title": "Ballando con le stelle americano: la finale della stagione 35 sarà trasmessa in diretta da una costa all'altra",
-   "summary": "Dancing With the Stars americano cambia formato per la finale della stagione 35, che durerà tre ore. Lo ha annunciato il co-conduttore Alfonso Ribeiro, secondo cui l'evento sarà trasmesso in diretta da una costa all'altra degli Stati Uniti.",
-   "body": "Il programma di danza Dancing With the Stars, versione statunitense di Ballando con le stelle, si prepara a una puntata conclusiva fuori dal comune. Secondo quanto riportato da E! Online, la finale della stagione 35, in programma la prossima settimana, sarà uno speciale di tre ore con una diretta che attraversa il paese da una costa all'altra.\n\nAd annunciare la novità è stato il co-conduttore Alfonso Ribeiro, che ha definito l'appuntamento \"massiccio\" e ha sottolineato il carattere storico della scelta. Il dettaglio del collegamento nazionale rappresenta un cambiamento significativo rispetto al consueto formato della serata finale. Per il momento non sono disponibili altri dettagli sul programma della puntata.",
-   "slug": "ballando-con-le-stelle-americano-la-finale-della-stagione-35-e3b728",
-   "tags": [
-    "Dancing With the Stars",
-    "Alfonso Ribeiro"
-   ],
-   "scene": "tv",
-   "source": "eonline.com",
-   "url": "https://www.eonline.com/news/1438204/dancing-with-the-stars-season-35-finale-airing-live-coast-to-coast-nov-24?cmpid=rss-syndicate-genericrss-us-top_stories",
-   "published": "2026-11-18T02:54:00+00:00"
-  },
-  {
-   "id": "c8b31e89a184",
-   "section": "tv",
-   "title": "Simona Ventura commenta L'Isola dei Famosi di Selvaggia Lucarelli",
-   "summary": "Simona Ventura ha dichiarato che guarderà L'Isola dei Famosi condotta da Selvaggia Lucarelli. In passato aveva sostenuto che i reality in diretta fossero superati e che il pubblico preferisse i format registrati.",
-   "body": "Simona Ventura ha commentato il ritorno de L'Isola dei Famosi affidato a Selvaggia Lucarelli, dichiarando che la guarderà. La conduttrice ha espresso così la sua curiosità verso il nuovo corso del reality, pur restando fedele a un'idea già espressa in passato.\n\nDa anni Ventura sostiene che i reality in diretta siano ormai superati e che il pubblico preferisca i programmi registrati, sul modello di Pechino Express. Secondo Biccy, un paio di anni fa aveva anche affermato di sapere come far tornare in vita L'Isola, una dichiarazione che oggi viene riletta alla luce della nuova conduzione. Il materiale disponibile non chiarisce ulteriori dettagli sul programma.",
-   "slug": "simona-ventura-commenta-l-isola-dei-famosi-di-selvaggia-luca-c8b31e",
-   "tags": [
-    "L'Isola dei Famosi",
-    "Simona Ventura",
-    "Selvaggia Lucarelli"
-   ],
-   "scene": "tv",
-   "source": "biccy.it",
-   "url": "https://www.biccy.it/simona-ventura-isola-dei-famosi-selvaggia-lucarelli/",
-   "published": "2026-11-18T02:42:53+00:00"
-  },
-  {
-   "id": "3b1e5dc09103",
-   "section": "tv",
-   "title": "NCIS, James Frain racconta il tradimento di Torres a John Smith",
-   "summary": "James Frain è ospite di NCIS nel ruolo del misterioso John Smith, che incontra Torres (Wilmer Valderrama) durante un'operazione sotto copertura. L'attore ha parlato del rapporto tra i due personaggi con TV Insider.",
-   "body": "James Frain interpreta John Smith, un personaggio enigmatico che compare in NCIS e che entra in contatto con Torres, interpretato da Wilmer Valderrama, mentre l'agente lavora sotto copertura. Secondo TV Insider, l'attore ha illustrato la dinamica tra i due, al centro dell'ultimo episodio, che si chiude con un tradimento importante.\n\nIl finale della puntata lascia aperta la possibilità di un ritorno del personaggio, che il pubblico potrà rivedere nelle prossime settimane. Frain, che ha raccontato il proprio approccio al ruolo, non ha confermato date precise, e per questo la presenza futura di John Smith resta al momento un'ipotesi da verificare con i prossimi episodi.",
-   "slug": "ncis-james-frain-racconta-il-tradimento-di-torres-a-john-smi-3b1e5d",
-   "tags": [
-    "NCIS",
-    "James Frain",
-    "Wilmer Valderrama"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1304092/ncis-john-smith-torres-betrayal-explained-james-frain-interview/",
-   "published": "2026-11-18T02:00:21+00:00"
   }
  ],
  "seen": [
-  "82d439f32dac",
-  "057c8b502ef6",
-  "1a6c2cf608f2",
-  "324a70856b1e",
-  "0ecf02e3fe7a",
-  "30ac2e1f588c",
-  "f484fd30ec11",
-  "2e48eb6e6352",
-  "ac7bb616d95c",
-  "4e0889ad9292",
-  "b8e85bfe1fb8",
-  "605e8f0f5aa8",
-  "dad8d20563d9",
-  "926655f3834a",
-  "2532d9cbec7a",
-  "d83678672f3e",
-  "d9662f1f1c08",
-  "f1d432f78e77",
-  "9acedffbf4e3",
-  "6b7f0def404c",
-  "ae187904eda6",
-  "0a5bc40b9f1f",
-  "2b8fee5a9063",
-  "eca06885b104",
   "2e115eef76ed",
   "31145098bccb",
   "5ca3c2f019ad",
@@ -12335,7 +12312,31 @@
   "f32180e1dd4f",
   "79c4d592ee79",
   "cf5af8c9a9d6",
-  "a0cc354ec025"
+  "a0cc354ec025",
+  "9f84541f027b",
+  "f00f9407783e",
+  "40c6430cc24e",
+  "9ea385ec10fb",
+  "e3d29f9735f7",
+  "ab7e5da1ab8e",
+  "71542dcf7995",
+  "0f6149f79240",
+  "a5479dbc8122",
+  "9267bea387f1",
+  "a9aa230be8c8",
+  "5a8c5732683a",
+  "36c0eb54041f",
+  "f750652fc975",
+  "765ad7d25a7e",
+  "fb7990d2fe8c",
+  "73d2d2d52526",
+  "8630c46b47a6",
+  "d6cb9e9a4d21",
+  "c3e595e273fb",
+  "a869045f3d5a",
+  "fc219065b27e",
+  "4cf2a7c5f476",
+  "7a3211256928"
  ],
  "version": 4,
  "digests": [
