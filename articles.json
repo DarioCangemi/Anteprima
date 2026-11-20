@@ -1,6 +1,70 @@
 {
  "articles": [
   {
+   "id": "d1fb26dd759d",
+   "section": "tv",
+   "title": "9-1-1: Nashville, il showrunner anticipa il dopo il colpo di scena della stagione 2",
+   "summary": "Il produttore esecutivo e showrunner Rashad Raisani ha commentato i colpi di scena del finale di metà stagione 2 di 9-1-1: Nashville. Ha spiegato alcune delle svolte e anticipato quale direzione prenderanno le vicende.",
+   "body": "Lo showrunner Rashad Raisani è tornato sul finale di metà stagione della seconda stagione di 9-1-1: Nashville, lo spin-off ambientato nella capitale della musica country. Secondo Collider, Raisani ha analizzato le svolte più sorprendenti dell'episodio, in particolare la rivelazione legata al personaggio del Faraone, che ha colto di sorpresa il pubblico.\n\nNel suo intervento il produttore ha anche lasciato intravedere cosa succederà nella seconda parte della stagione, senza entrare in dettagli precisi sulla trama. La serie, derivata da 9-1-1, continua a seguire i soccorritori della città e le loro vite personali, con la promessa di nuovi sviluppi per i protagonisti.",
+   "slug": "9-1-1-nashville-il-showrunner-anticipa-il-dopo-il-colpo-di-s-d1fb26",
+   "tags": [
+    "9-1-1: Nashville",
+    "Rashad Raisani"
+   ],
+   "scene": "tv",
+   "source": "collider.com",
+   "url": "https://collider.com/9-1-1-nashville-showrunner-season-2-midseason-finale/",
+   "published": "2026-11-20T03:01:12+00:00"
+  },
+  {
+   "id": "b1782bc89ed3",
+   "section": "cinema",
+   "title": "Much Ado About Nothing a Broadway con Tom Hiddleston e Hayley Atwell",
+   "summary": "La regia di Jamie Lloyd porta Molto rumore per nulla di Shakespeare sul palco del Winter Garden Theatre di Broadway, con Tom Hiddleston e Hayley Atwell protagonisti. Secondo Deadline la messinscena è una festa irresistibile, fatta anche di coriandoli che ricoprono il palco ogni sera.",
+   "body": "Al Winter Garden Theatre di Broadway è in scena Much Ado About Nothing, la commedia di Shakespeare diretta da Jamie Lloyd con Tom Hiddleston e Hayley Atwell nei ruoli principali. Secondo Deadline, lo spettacolo trasforma il classico in una festa travolgente, accompagnata ogni sera da una pioggia di coriandoli rosa che ricopre il palcoscenico.\n\nLa recensione sottolinea il ritmo e l'energia della produzione, capace di rendere accessibile e divertente una delle commedie più note del drammaturgo inglese. Il riferimento ai coriandoli, paragonati a parate e festeggiamenti di Times Square, rende l'idea di un allestimento pensato per il pubblico come un evento da celebrare.",
+   "slug": "much-ado-about-nothing-a-broadway-con-tom-hiddleston-e-hayle-b1782b",
+   "tags": [
+    "Much Ado About Nothing",
+    "Tom Hiddleston",
+    "Hayley Atwell"
+   ],
+   "scene": "palco",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/much-ado-about-nothing-broadway-review-tom-hiddleston-1237226924/",
+   "published": "2026-11-20T03:00:00+00:00"
+  },
+  {
+   "id": "bc0cc8dfa160",
+   "section": "tv",
+   "title": "The Traitors: New Blood, svelato il vincitore del montepremi",
+   "summary": "Si è conclusa la finale di The Traitors: New Blood, con un traditore che si è rivoltato contro un altro prima di un finale a sorpresa. Il montepremi è di circa 250mila dollari.",
+   "body": "Si è chiusa la finale di The Traitors: New Blood, il reality con i concorrenti divisi tra traditori e fedeli. Secondo TheWrap, nell'ultima puntata uno dei traditori si è voltato contro un altro, prima di un epilogo che ha sorpreso il pubblico.\n\nIl montepremi in palio era di quasi 250mila dollari. La testata americana ha annunciato chi si è aggiudicato la somma finale, indicando il nome del vincitore nel titolo del proprio articolo. Il materiale disponibile non riporta ulteriori dettagli sul percorso del vincitore o sulle dinamiche della votazione conclusiva.",
+   "slug": "the-traitors-new-blood-svelato-il-vincitore-del-montepremi-bc0cc8",
+   "tags": [
+    "The Traitors: New Blood"
+   ],
+   "scene": "tv",
+   "source": "thewrap.com",
+   "url": "https://www.thewrap.com/creative-content/tv-shows/the-traitors-new-blood-season-1-winner-nbc/",
+   "published": "2026-11-20T03:00:00+00:00"
+  },
+  {
+   "id": "143984cea3c7",
+   "section": "tv",
+   "title": "The Traitors Italia 2, vincono i Leali nella finale",
+   "summary": "La seconda stagione di The Traitors Italia si è conclusa con la sesta e ultima puntata, con la vittoria dei Leali. Nella finale è stato proposto il gioco della Maledizione, che ha penalizzato Filippo Magnini.",
+   "body": "La seconda stagione di The Traitors Italia è giunta al termine con la sesta e ultima puntata. Secondo Biccy, a vincere sono stati i Leali, la fazione dei giocatori che non avevano il ruolo di traditori.\n\nLa puntata conclusiva si è aperta con il gioco della Maledizione, nel quale a uscire sconfitto è stato Filippo Magnini. Il materiale disponibile non riporta ulteriori dettagli sulle dinamiche della finale né sui premi assegnati.",
+   "slug": "the-traitors-italia-2-vincono-i-leali-nella-finale-143984",
+   "tags": [
+    "The Traitors Italia",
+    "Filippo Magnini"
+   ],
+   "scene": "tv",
+   "source": "biccy.it",
+   "url": "https://www.biccy.it/chi-ha-vinto-la-seconda-stagione-di-the-traitors-italia/",
+   "published": "2026-11-20T02:28:47+00:00"
+  },
+  {
    "id": "884a0ee50af3",
    "section": "tv",
    "title": "Eternally Yours: cosa succede a Phyllis dopo la confessione di Jesse",
@@ -8270,93 +8334,9 @@
    "source": "Cinefilos",
    "url": "https://cinefilos.it/cinema-news/2026/cambiamento-climatico-film-serie-tv-studio-usc-731357",
    "published": "2026-11-17T17:53:24+00:00"
-  },
-  {
-   "id": "4305cb90c95d",
-   "section": "cinema",
-   "title": "Largo Argentina a Roma, un percorso immersivo tra templi e luoghi di Cesare",
-   "summary": "Da domani l'area archeologica di Largo Argentina a Roma ospita un percorso immersivo con proiezioni e visori per riscoprire l'Area Sacra e il Campo Marzio. L'esperienza racconta i templi e i luoghi legati a Giulio Cesare.",
-   "body": "L'area archeologica di Largo Argentina, nel cuore di Roma, si apre al pubblico con un nuovo percorso immersivo dedicato all'Area Sacra e al Campo Marzio. Il visitatore può seguire proiezioni e indossare visori che ricostruiscono i templi e gli spazi urbani dell'antica città, restituendo l'aspetto che avevano ai tempi di Cesare.\n\nSecondo ANSA, l'iniziativa parte da domani e punta a rendere più accessibile la storia di uno dei luoghi archeologici più noti della capitale. L'obiettivo è offrire un modo diverso di vedere i resti, unendo la visita dal vivo alla ricostruzione digitale dei monumenti e del quartiere che li circondava.",
-   "slug": "largo-argentina-a-roma-un-percorso-immersivo-tra-templi-e-lu-4305cb",
-   "tags": [
-    "Largo Argentina",
-    "Giulio Cesare",
-    "Campo Marzio"
-   ],
-   "scene": "proiettore",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/arte/2026/11/17/a-largo-argentina-a-roma-un-viaggio-immersivo-tra-i-templi-e-i-luoghi-di-cesare_cd5b732a-533c-49d2-8088-384f2603ba59.html",
-   "published": "2026-11-17T17:46:55+00:00"
-  },
-  {
-   "id": "ca3c032a3c59",
-   "section": "tv",
-   "title": "Jane Lynch pronta a tornare nei panni di Sue Sylvester nel reboot di Glee",
-   "summary": "Jane Lynch ha dichiarato di essere pronta a riprendere il ruolo di Sue Sylvester, la coach severa di Glee. La disponibilita' dell'attrice arriva in vista del reboot della serie.",
-   "body": "Jane Lynch ha fatto sapere di essere disposta a tornare nel ruolo di Sue Sylvester, la temibile coach del New Directions protagonista di Glee. L'attrice, vincitrice di un Emmy, ha espresso il proprio entusiasmo per una possibile ripresa del personaggio, che tanto ha segnato la serie di successo andata in onda negli anni passati.\n\nLa notizia si inserisce nel discorso sul reboot di Glee, di cui si parla da tempo tra i fan. Secondo quanto riportato da theblast.com, la disponibilita' di Lynch e' stata accolta con interesse, soprattutto per il ritorno di una delle figure piu' riconoscibili della serie. Al momento non sono stati comunicati dettagli su tempi o modalita' della partecipazione.",
-   "slug": "jane-lynch-pronta-a-tornare-nei-panni-di-sue-sylvester-nel-r-ca3c03",
-   "tags": [
-    "Jane Lynch",
-    "Glee",
-    "Sue Sylvester"
-   ],
-   "scene": "streaming",
-   "source": "theblast.com",
-   "url": "https://theblast.com/886821/jane-lynchs-old-maga-joke-sue-sylvester-new-context/",
-   "published": "2026-11-17T17:20:00+00:00"
-  },
-  {
-   "id": "777fa447d724",
-   "section": "cinema",
-   "title": "Madden, il film di David O. Russell sul creatore del videogioco di football",
-   "summary": "Il nuovo film di David O. Russell racconta l'uscita di John Madden dalla panchina NFL e la collaborazione con EA Sports che portò alla nascita della serie di videogiochi Madden NFL. Secondo la fonte, la pellicola è stata accolta con recensioni negative dalla critica e arriva in streaming il giorno successivo.",
-   "body": "Il regista David O. Russell firma Madden, film dedicato alla figura di John Madden, allenatore di football americano che lasciò la panchina della NFL per avviare una collaborazione con EA Sports. Da quell'accordo nacque la fortunata serie di videogiochi Madden NFL, uno dei prodotti di riferimento del genere sportivo.\n\nSecondo worldofreel.com, il film ha ricevuto recensioni negative da parte della critica ed è in arrivo sulle piattaforme di streaming il giorno seguente. Il materiale disponibile non specifica ulteriori dettagli su cast, distribuzione o data esatta di uscita.",
-   "slug": "madden-il-film-di-david-o-russell-sul-creatore-del-videogioc-777fa4",
-   "tags": [
-    "David O. Russell",
-    "John Madden",
-    "Madden NFL"
-   ],
-   "scene": "streaming",
-   "source": "worldofreel.com",
-   "url": "https://www.worldofreel.com/blog/2026/11/16/david-o-russells-madden-panned",
-   "published": "2026-11-17T17:19:31+00:00"
-  },
-  {
-   "id": "ee13df2afb5a",
-   "section": "tv",
-   "title": "Fubo raggiunge 5,75 milioni di abbonati nel Nord America dopo la fusione con Hulu + Live TV",
-   "summary": "La piattaforma di streaming sportivo Fubo ha chiuso il quarto trimestre con 5,75 milioni di abbonati in Nord America, dopo l'integrazione con Hulu + Live TV. La società smetterà di comunicare questo dato con cadenza trimestrale.",
-   "body": "Fubo, la piattaforma di streaming specializzata in sport, ha chiuso il quarto trimestre con 5,75 milioni di abbonati in Nord America. Il risultato arriva dopo la fusione con Hulu + Live TV, che ha portato sotto un'unica offerta i due servizi di TV in diretta via internet. Secondo TheWrap, il dato segna la prima grande fotografia della base clienti del gruppo dopo l'operazione.\n\nLa società ha inoltre comunicato che non diffonderà più il numero degli abbonati con cadenza trimestrale. La scelta riguarda una delle metriche più seguite dagli investitori nel settore dello streaming, e indica un cambio di approccio nella comunicazione finanziaria dell'azienda.",
-   "slug": "fubo-raggiunge-5-75-milioni-di-abbonati-nel-nord-america-dop-ee13df",
-   "tags": [
-    "Fubo",
-    "Hulu + Live TV"
-   ],
-   "scene": "streaming",
-   "source": "thewrap.com",
-   "url": "https://www.thewrap.com/industry-news/business/fubo-earnings-q4-2026/",
-   "published": "2026-11-17T17:17:25+00:00"
   }
  ],
  "seen": [
-  "04750ce28db7",
-  "6e9663b4192f",
-  "ca2933d01603",
-  "a395d649115a",
-  "521b83d5f015",
-  "6d362e7a8936",
-  "fe34ade2845b",
-  "0d9a378a6b1f",
-  "fc7d31f9d37a",
-  "41bb13336110",
-  "5aaeb7a15d34",
-  "ede36e9ee5f6",
-  "0a33205c05ed",
-  "cf700034d580",
-  "75309f650cd5",
-  "61493967e49c",
-  "c5fd75405cdf",
   "b64ff42db639",
   "f877e74bc59f",
   "be6e435d8700",
@@ -12339,7 +12319,24 @@
   "fbd9e0731a92",
   "f4b066f83944",
   "aaf87a543018",
-  "8c736b92c87e"
+  "8c736b92c87e",
+  "d1fb26dd759d",
+  "a276e345a52e",
+  "98538e9053f8",
+  "4bd9749f46cb",
+  "ef3982fad62d",
+  "b1782bc89ed3",
+  "bc0cc8dfa160",
+  "e9df4d633f29",
+  "143984cea3c7",
+  "6d28bb66d3dc",
+  "8493d7041452",
+  "1c48d9bb081a",
+  "0b3ae18e57b3",
+  "871b449cc092",
+  "0e666b33c7c4",
+  "c62ef79bcecc",
+  "af9e392479bb"
  ],
  "version": 4,
  "digests": [
