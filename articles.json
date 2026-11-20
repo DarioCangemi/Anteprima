@@ -1,6 +1,56 @@
 {
  "articles": [
   {
+   "id": "d410c42102d2",
+   "section": "cinema",
+   "title": "Jason Statham e The Meg, il film che la critica rilancia otto anni dopo",
+   "summary": "Un articolo di Collider riporta che The Meg, thriller d'azione con Jason Statham sul combattimento tra scienziati e un megalodonte, viene oggi considerato il suo film migliore. Il tono autoironico del film e la prova dell'attore sono al centro della rilettura.",
+   "body": "Secondo Collider, The Meg, thriller d'azione interpretato da Jason Statham, è oggi ancora il miglior film dell'attore, a otto anni dalla sua uscita. La pellicola racconta una squadra di scienziati impegnata a fronteggiare un megalodonte, lo squalo preistorico di dimensioni enormi.\n\nLa recensione sottolinea la consapevolezza ironica del film, che non si prende troppo sul serio e punta sul divertimento. Statham, secondo l'articolo, dà il meglio di sé proprio in questo registro, con un personaggio di eroe d'azione sicuro e sopra le righe.",
+   "slug": "jason-statham-e-the-meg-il-film-che-la-critica-rilancia-otto-d410c4",
+   "tags": [
+    "The Meg",
+    "Jason Statham"
+   ],
+   "scene": "pellicola",
+   "source": "collider.com",
+   "url": "https://collider.com/greatest-jason-statham-action-thriller-the-meg/",
+   "published": "2026-11-20T04:04:12+00:00"
+  },
+  {
+   "id": "0e2d659bd2bd",
+   "section": "gossip",
+   "title": "Jennifer Lawrence classifica i suoi baci sullo schermo",
+   "summary": "Jennifer Lawrence, ospite di Watch What Happens Live con Andy Cohen insieme a Josh Hutcherson, ha stilato una classifica dei suoi baci migliori e peggiori sullo schermo. Nel gioco Plead the Fifth ha affrontato le domande sui partner di scena, tra cui Bradley Cooper e Chris Pratt.",
+   "body": "Jennifer Lawrence è stata ospite del programma televisivo Watch What Happens Live, condotto da Andy Cohen, insieme al collega Josh Hutcherson, con cui ha condiviso il set di Hunger Games. Durante la trasmissione l'attrice ha partecipato al gioco Plead the Fifth, nel quale ha dovuto rispondere a domande scomode, e ha confrontato i baci girati nei suoi film.\n\nSecondo TV Insider, tra i nomi considerati per la classifica figurano anche Bradley Cooper e Chris Pratt. Lawrence ha scelto con franchezza quali scene ricordare come le migliori e quali come le peggiori, senza risparmiare giudizi sui propri partner di scena. Il materiale disponibile non riporta però la posizione esatta di ciascun attore nella graduatoria finale.",
+   "slug": "jennifer-lawrence-classifica-i-suoi-baci-sullo-schermo-0e2d65",
+   "tags": [
+    "Jennifer Lawrence",
+    "Josh Hutcherson",
+    "Watch What Happens Live"
+   ],
+   "scene": "tv",
+   "source": "tvinsider.com",
+   "url": "https://www.tvinsider.com/swooon/1313890/jennifer-lawrence-best-worst-onscreen-kisses-watch-what-happens-live/",
+   "published": "2026-11-20T03:47:44+00:00"
+  },
+  {
+   "id": "2b787cc8fb93",
+   "section": "gossip",
+   "title": "Liv Hewson annuncia di essersi sposata nel talk show di Drew Barrymore",
+   "summary": "L'attrice di Yellowjackets Liv Hewson ha rivelato a sorpresa di essersi sposata con la sua compagna, mostrando alcune foto rare della coppia. L'annuncio è arrivato durante la puntata del talk show condotto da Drew Barrymore.",
+   "body": "L'attrice Liv Hewson, nota al pubblico per la serie Yellowjackets, ha sorpreso Drew Barrymore rivelando durante la puntata del suo talk show di aver sposato il proprio partner. Secondo Hello! Magazine, l'annuncio è arrivato senza preavviso, in un momento di conversazione con la conduttrice.\n\nNel corso dell'intervista Hewson ha mostrato alcune fotografie rare della coppia, che fino a questo momento erano rimaste lontane dai riflettori. Il materiale disponibile non riporta ulteriori dettagli sulla cerimonia o sulla data delle nozze.",
+   "slug": "liv-hewson-annuncia-di-essersi-sposata-nel-talk-show-di-drew-2b787c",
+   "tags": [
+    "Liv Hewson",
+    "Drew Barrymore",
+    "Yellowjackets"
+   ],
+   "scene": "tv",
+   "source": "hellomagazine.com",
+   "url": "https://www.hellomagazine.com/us/936189/yellowjackets-star-liv-hewson-30-announces-surprise-wedding/",
+   "published": "2026-11-20T03:44:03+00:00"
+  },
+  {
    "id": "5c896582f860",
    "section": "gossip",
    "title": "Jennifer Lopez presenta lo speciale \"The JLo Show\" tra famiglia e nuova fase della vita",
@@ -347,6 +397,23 @@
    "source": "dailymail.co.uk",
    "url": "https://www.dailymail.com/tvshowbiz/article-16307419/Coleen-Rooney-shares-photos-two-thrones-Im-Celeb-fans-predicted-kill-husband-Wayne-bathroom-confession.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
    "published": "2026-11-20T01:51:30+00:00"
+  },
+  {
+   "id": "6736120b1b16",
+   "section": "tv",
+   "title": "Lacey Chabert e il cast di Holiday Ever After alla premiere mondiale a Disney World",
+   "summary": "Hallmark Channel ha celebrato a Disney World la premiere mondiale di Holiday Ever After: A Disney World Wish Come True, film con Lacey Chabert. All'evento hanno partecipato anche altre star del canale.",
+   "body": "Hallmark Channel ha presentato a Disney World la prima mondiale di Holiday Ever After: A Disney World Wish Come True, uno dei film più importanti della rete. Sul red carpet della serata sono comparsi Lacey Chabert e il resto del cast, affiancati da altri volti noti del canale. Secondo Just Jared, l'evento è stato documentato con una galleria di foto.\n\nLa serata si è svolta nel parco dei Disney, scelto come cornice per una produzione che unisce le atmosfere natalizie del canale al mondo Disney. Il titolo fa parte del filone di film delle festività che Hallmark propone ogni anno al pubblico americano, e la premiere conferma il peso crescente della produzione nel suo catalogo.",
+   "slug": "lacey-chabert-e-il-cast-di-holiday-ever-after-alla-premiere-673612",
+   "tags": [
+    "Lacey Chabert",
+    "Holiday Ever After",
+    "Hallmark Channel"
+   ],
+   "scene": "tappeto",
+   "source": "justjared.com",
+   "url": "https://www.justjared.com/2026/11/19/hallmark-channel-stars-join-lacey-chabert-holiday-ever-after-cast-at-disney-world-for-world-premiere-photos/",
+   "published": "2026-11-20T01:36:37+00:00"
   },
   {
    "id": "8507bfa8fd34",
@@ -8264,91 +8331,9 @@
    "source": "Cinefilos",
    "url": "https://cinefilos.it/tutto-film/approfondimenti/forgive-us-all-spiegazione-finale-significato-731360",
    "published": "2026-11-17T19:00:22+00:00"
-  },
-  {
-   "id": "034b6a769182",
-   "section": "cinema",
-   "title": "The Net, quanto c'è di vero nel thriller con Sandra Bullock",
-   "summary": "Il thriller The Net – Intrappolata nella rete, diretto da Irwin Winkler e uscito nel 1995, con Sandra Bullock nel ruolo di una programmatrice isolata. Il film si chiede quanto la vicenda sia realistica e quanto sia legata a fatti reali.",
-   "body": "Uscito nel 1995 e diretto da Irwin Winkler, The Net – Intrappolata nella rete è un thriller che Sandra Bullock interpreta nel ruolo di Angela Bennett, una programmatrice informatica che vive in solitudine e passa gran parte del tempo davanti al computer. Secondo quanto riportato da Cinefilos, con il passare degli anni la storia è apparsa sempre più inquietante agli occhi del pubblico, soprattutto per il modo in cui il film immagina i rischi della vita online.\n\nIl materiale disponibile non chiarisce però in modo preciso quali elementi del racconto abbiano un riscontro in fatti reali e quali siano invenzione cinematografica. Per capire quanto il film sia credibile sul piano tecnico e per conoscere le sue origini, è quindi utile consultare le fonti di approfondimento sul lavoro di sceneggiatura e sulla storia produttiva della pellicola.",
-   "slug": "the-net-quanto-c-e-di-vero-nel-thriller-con-sandra-bullock-034b6a",
-   "tags": [
-    "The Net – Intrappolata nella rete",
-    "Sandra Bullock",
-    "Irwin Winkler"
-   ],
-   "scene": "pellicola",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/tutto-film/approfondimenti/the-net-intrappolata-nella-rete-storia-vera-731342",
-   "published": "2026-11-17T18:50:09+00:00"
-  },
-  {
-   "id": "5d0781b7c2b9",
-   "section": "cinema",
-   "title": "Chris Evans spiega perché è tornato nei panni di Steve Rogers in Avengers: Doomsday",
-   "summary": "Chris Evans ha raccontato a Empire cosa lo ha convinto a riprendere il ruolo di Steve Rogers in Avengers: Doomsday, dopo il finale apparentemente definitivo di Avengers: Endgame. Decisivo è stato il coinvolgimento dei fratelli Russo.",
-   "body": "Chris Evans torna a vestire i panni di Steve Rogers in Avengers: Doomsday, nonostante il personaggio avesse chiuso il suo percorso con un addio che sembrava definitivo in Avengers: Endgame. Secondo quanto riportato da Cinefilos, a spiegare la scelta è stato lo stesso attore, intervistato da Empire, che ha indicato nella proposta dei fratelli Anthony e Joe Russo il motivo principale del suo ritorno.\n\nIl ritorno dell'attore nell'universo Marvel non era quindi scontato. La decisione, stando alle sue parole, è maturata dopo il confronto con i registi, che hanno saputo convincerlo a riprendere un ruolo che molti consideravano concluso. Il film è atteso nelle sale e rappresenta uno dei progetti più seguiti del nuovo corso del franchise.",
-   "slug": "chris-evans-spiega-perche-e-tornato-nei-panni-di-steve-roger-5d0781",
-   "tags": [
-    "Avengers: Doomsday",
-    "Chris Evans",
-    "Anthony Russo"
-   ],
-   "scene": "premiere",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/avengers-doomsday-chris-evans-ritorno-steve-rogers-motivo-731378",
-   "published": "2026-11-17T18:49:37+00:00"
-  },
-  {
-   "id": "d99a8e19d3d2",
-   "section": "cinema",
-   "title": "Un amore a 5 stelle, il finale spiegato: Marisa e Chris restano insieme?",
-   "summary": "Il film Un amore a 5 stelle, diretto da Wayne Wang nel 2002, è una commedia romantica che reinterpreta la favola di Cenerentola. Una delle domande più cercate riguarda il destino della coppia formata da Marisa e Chris nel finale.",
-   "body": "Uscito nel 2002 per la regia di Wayne Wang, Un amore a 5 stelle è una commedia romantica che rilegge in chiave contemporanea la favola di Cenerentola. Protagonista è Marisa Ventura, interpretata da Jennifer Lopez, madre single che lavora come cameriera al Beresford Hotel di Manhattan e sogna un futuro migliore per sé e per la figlia.\n\nSecondo quanto riportato da Cinefilos, il film è al centro di un approfondimento sul finale e sul destino della coppia formata da Marisa e Chris. La testata dedica la sua analisi proprio alla domanda che molti spettatori si pongono dopo la conclusione della storia: i due personaggi restano insieme? Il materiale disponibile non include però ulteriori dettagli sul epilogo, che andrebbero verificati direttamente nel film o nell'articolo completo.",
-   "slug": "un-amore-a-5-stelle-il-finale-spiegato-marisa-e-chris-restan-d99a8e",
-   "tags": [
-    "Un amore a 5 stelle",
-    "Jennifer Lopez",
-    "Wayne Wang"
-   ],
-   "scene": "pellicola",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/tutto-film/approfondimenti/un-amore-a-5-stelle-spiegazione-finale-731373",
-   "published": "2026-11-17T18:40:10+00:00"
-  },
-  {
-   "id": "1af13d6021b3",
-   "section": "tv",
-   "title": "Marco Bocci e la trasformazione fisica per il ruolo di Fateh Kassam",
-   "summary": "Marco Bocci ha raccontato di aver preso circa 11 chili per interpretare Fateh Kassam, il padre di Farouk nella fiction Rai 177 giorni. L'attore parla anche del rapimento del figlio e dell'incontro con il vero padre.",
-   "body": "Marco Bocci è il protagonista della fiction Rai 177 giorni, dove interpreta Fateh Kassam, il padre di Farouk. Secondo BadTaste, l'attore ha spiegato di aver affrontato una trasformazione fisica importante per il personaggio, arrivando a ingrassare di circa 11 chili nell'arco delle riprese.\n\nLa storia ruota attorno al rapimento di Farouk e alla vicenda che ha portato il bambino a ricongiungersi con il padre biologico. Nel racconto dell'attore, l'incontro tra i due personaggi è uno dei momenti più emozionanti della serie. Le informazioni disponibili non includono dettagli ulteriori sulle scelte di produzione o sulla messa in onda.",
-   "slug": "marco-bocci-e-la-trasformazione-fisica-per-il-ruolo-di-fateh-1af13d",
-   "tags": [
-    "Marco Bocci",
-    "177 giorni",
-    "Farouk"
-   ],
-   "scene": "tv",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/chi-interpreta-il-padre-di-farouk-nella-fiction-rai-marco-bocci-e-il-retroscena-ingrassato-di-11-chili",
-   "published": "2026-11-17T18:31:58+00:00"
   }
  ],
  "seen": [
-  "85e98fce8b63",
-  "8bedba924b69",
-  "8139ac87a37a",
-  "1eec7c62d3d2",
-  "273a64ae7d8a",
-  "3815987ecdf9",
-  "a30138da18e6",
-  "8129fa8c0397",
-  "a4a2d6a86307",
-  "f43481e1e7d1",
-  "7ec2d3b18143",
-  "e667e79d7e56",
-  "ac54f8264bae",
-  "adb8beb422af",
   "e18b17de5990",
   "a4d1c2a0e1ea",
   "69012c10e31d",
@@ -12334,7 +12319,21 @@
   "c4f938f2cff9",
   "3c98c2ad3333",
   "c5bfa784c8c1",
-  "297defc0c9aa"
+  "297defc0c9aa",
+  "ed2b8f2eee22",
+  "f456f2760f60",
+  "76308e7c1e25",
+  "d410c42102d2",
+  "facd7a453853",
+  "ab900c395d34",
+  "4dd58f4919ed",
+  "49162cd21391",
+  "0e2d659bd2bd",
+  "1fd3cbb124cc",
+  "2b787cc8fb93",
+  "b9beb071bcfc",
+  "6736120b1b16",
+  "29959281e35a"
  ],
  "version": 4,
  "digests": [
