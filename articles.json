@@ -1,6 +1,71 @@
 {
  "articles": [
   {
+   "id": "10bd13a3a25f",
+   "section": "cinema",
+   "title": "La Mummia, la battuta di Rachel Weisz resta la più citata della saga",
+   "summary": "Secondo un articolo di Collider, una battuta pronunciata da Rachel Weisz riassume lo spirito dei film d'avventura de La Mummia. Il tono ironico e leggero della frase è considerato il tratto distintivo della serie.",
+   "body": "Secondo Collider, una delle battute più ricordate della saga de La Mummia è quella pronunciata da Rachel Weisz, interprete di Evelyn Carnahan. La frase, secondo il sito, racchiude in poche parole ciò che rendeva diversi i film d'avventura della serie, cioè un equilibrio tra azione spericolata e umorismo.\n\nIl pezzo sostiene che, a distanza di anni, quella battuta resti la più bella dell'intero franchise. Il materiale a disposizione è breve e non riporta il testo esatto della battuta né altri dettagli sul contesto della scena, quindi la valutazione resta quella espressa dalla testata.",
+   "slug": "la-mummia-la-battuta-di-rachel-weisz-resta-la-piu-citata-del-10bd13",
+   "tags": [
+    "La Mummia",
+    "Rachel Weisz"
+   ],
+   "scene": "popcorn",
+   "source": "collider.com",
+   "url": "https://collider.com/the-mummy-best-quote-action-brendan-fraser-rachel-weisz/",
+   "published": "2026-11-21T04:09:12+00:00"
+  },
+  {
+   "id": "035ee4af3de8",
+   "section": "tv",
+   "title": "The Whispers, la serie sci-fi horror prodotta da Steven Spielberg",
+   "summary": "The Whispers, serie sci-fi horror di tredici episodi prodotta da Steven Spielberg, torna al centro dell'attenzione per la storia di un amico immaginario dalle intenzioni letali. Secondo Collider la serie merita di essere recuperata.",
+   "body": "The Whispers è una serie sci-fi horror in tredici episodi, ideata con la supervisione di Steven Spielberg. Al centro della storia c'è un amico immaginario che nasconde piani mortali, un elemento che costruisce la tensione lungo tutta la stagione.\n\nSecondo Collider, la serie viene descritta come un titolo dimenticato dal grande pubblico ma capace di reggere bene la visione. Il consiglio della testata è di recuperarla e vederla in un solo fine settimana, grazie a un ritmo che tiene incollati allo schermo.",
+   "slug": "the-whispers-la-serie-sci-fi-horror-prodotta-da-steven-spiel-035ee4",
+   "tags": [
+    "The Whispers",
+    "Steven Spielberg"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/the-whispers-steven-spielberg-sci-fi-weekend-binge/",
+   "published": "2026-11-21T03:48:12+00:00"
+  },
+  {
+   "id": "8a8fbf2fa584",
+   "section": "musica",
+   "title": "GTA VI, i punteggi degli utenti crollano e si parla di review bombing",
+   "summary": "I voti degli utenti per Grand Theft Auto VI di Rockstar Games sono molto bassi, tanto da far parlare di review bombing. Tra la critica il gioco ha ottenuto un punteggio di 99 su 100, pari al massimo tra i videogiochi.",
+   "body": "Le recensioni degli utenti per Grand Theft Auto VI, il nuovo capitolo della saga firmato Rockstar Games, sono risultate molto basse nelle prime ore dalla pubblicazione. Secondo Dark Horizons, il dato ha portato alcuni a ipotizzare una campagna di review bombing, cioè un'ondata coordinata di voti negativi, legata a polemiche di tipo culturale che circondano il titolo.\n\nPresso la critica specializzata, invece, il gioco ha raggiunto un punteggio di 99 su 100, un risultato che lo pone a pari merito con il videogioco più valutato di sempre. La forbice tra il giudizio dei recensori e quello del pubblico online resta quindi il tema al centro del dibattito.",
+   "slug": "gta-vi-i-punteggi-degli-utenti-crollano-e-si-parla-di-review-8a8fbf",
+   "tags": [
+    "Grand Theft Auto VI",
+    "Rockstar Games"
+   ],
+   "scene": "tv",
+   "source": "darkhorizons.com",
+   "url": "https://www.darkhorizons.com/grand-theft-auto-6-gets-review-bombed/",
+   "published": "2026-11-21T03:41:29+00:00"
+  },
+  {
+   "id": "2216ac3aa7b5",
+   "section": "gossip",
+   "title": "Pierce Brosnan alla cena Vanity Fair a Londra con la moglie Keely Shaye Smith",
+   "summary": "Pierce Brosnan e la moglie Keely Shaye Smith hanno partecipato giovedì sera alla cena Luminaries in Residence di Vanity Fair a Londra, presentandosi in smoking nero. L'attore ha commentato anche la scelta di Robert Pattinson come nuovo James Bond.",
+   "body": "Pierce Brosnan e la moglie Keely Shaye Smith sono stati tra gli ospiti della cena Luminaries in Residence di Vanity Fair, svoltasi giovedì sera a Londra. Per l'occasione l'attore irlandese si è presentato in smoking nero, accanto alla moglie, in una serata dedicata al mondo dello spettacolo.\n\nSecondo quanto riportato dal Daily Mail, Brosnan avrebbe anche reagito alla notizia della scelta di Robert Pattinson come nuovo interprete di James Bond, un ruolo che lui stesso ha ricoperto in passato. Il materiale disponibile non riporta dettagli ulteriori sulle sue dichiarazioni in merito.",
+   "slug": "pierce-brosnan-alla-cena-vanity-fair-a-londra-con-la-moglie-2216ac",
+   "tags": [
+    "Pierce Brosnan",
+    "Keely Shaye Smith",
+    "Vanity Fair"
+   ],
+   "scene": "tappeto",
+   "source": "dailymail.co.uk",
+   "url": "https://www.dailymail.com/tvshowbiz/article-16309761/Pierce-Brosnan-wife-Keely-Shaye-Smith-Vanity-Fair-Bond.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "published": "2026-11-21T03:36:51+00:00"
+  },
+  {
    "id": "1613cf9a81b2",
    "section": "tv",
    "title": "Ina Garten spiega perché ha rifiutato Ballando con le stelle",
@@ -8273,92 +8338,9 @@
    "source": "c21media.net",
    "url": "https://www.c21media.net/news/radio-canada-commissions-french-language-adaptation-of-factual-format-radio-gaga/",
    "published": "2026-11-18T21:03:04+00:00"
-  },
-  {
-   "id": "fe126fb03c10",
-   "section": "cinema",
-   "title": "Avengers: Doomsday, Marvel mostra i design dei protagonisti",
-   "summary": "Marvel Studios ha pubblicato una nuova serie di character poster dedicati ai protagonisti di Avengers: Doomsday, il prossimo grande crossover del Marvel Cinematic Universe. Le immagini mostrano con più dettaglio costumi e design di alcuni personaggi.",
-   "body": "Marvel Studios ha diffuso una nuova serie di character poster dedicati ai protagonisti di Avengers: Doomsday, il prossimo grande crossover del Marvel Cinematic Universe. Le immagini offrono uno sguardo più ravvicinato ai costumi e al design di alcuni personaggi, in attesa dell'uscita del film.\n\nSecondo Cinefilos, il materiale introduce anche un elemento di interesse per i fan, legato alla scelta stilistica adottata per la presentazione dei personaggi. Il dettaglio completo dei poster e delle novità è disponibile nell'articolo originale della testata spagnola dedicata al cinema.",
-   "slug": "avengers-doomsday-marvel-mostra-i-design-dei-protagonisti-fe126f",
-   "tags": [
-    "Avengers: Doomsday",
-    "Marvel Studios"
-   ],
-   "scene": "premiere",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/tutto-film/approfondimenti/marvel-svela-i-design-dei-principali-eroi-di-avengers-doomsday-in-unanteprima-del-nuovo-film-del-mcu-731533",
-   "published": "2026-11-18T20:59:20+00:00"
-  },
-  {
-   "id": "962c01325dbd",
-   "section": "tv",
-   "title": "Milly Carlucci e le due lettere di Barbara d'Urso: \"Ha creato un caso mediatico\"",
-   "summary": "Milly Carlucci è intervenuta a La Vita in Diretta, collegata con Alberto Matano, parlando di Barbara d'Urso e delle due lettere ricevute. Al centro della polemica c'è il caso del profumo spruzzato in diretta da Guillermo Mariotto durante Ballando con le Stelle.",
-   "body": "Milly Carlucci è tornata a parlare di Barbara d'Urso durante un collegamento con Alberto Matano a La Vita in Diretta. Secondo quanto riportato da Biccy, la conduttrice di Ballando con le Stelle ha ricostruito la vicenda di due lettere che dice di aver ricevuto dalla collega, e ha dichiarato che d'Urso ha creato un caso mediatico.\n\nIl contesto è quello di una settimana difficile per il programma di Rai 1, finito al centro di discussioni su tv, radio, web e stampa dopo il profumo spruzzato in diretta da Guillermo Mariotto. Il racconto di Carlucci riguarda i rapporti tra le due conduttrici e il modo in cui la vicenda è stata affrontata pubblicamente. Per i dettagli completi delle parole della conduttrice rimandiamo all'articolo originale.",
-   "slug": "milly-carlucci-e-le-due-lettere-di-barbara-d-urso-ha-creato-962c01",
-   "tags": [
-    "Milly Carlucci",
-    "Barbara d'Urso",
-    "Ballando con le Stelle"
-   ],
-   "scene": "tv",
-   "source": "biccy.it",
-   "url": "https://www.biccy.it/milly-carlucci-parla-di-due-missive-ricevuta-da-barbara-durso/",
-   "published": "2026-11-18T20:35:22+00:00"
-  },
-  {
-   "id": "c9f397c76540",
-   "section": "cinema",
-   "title": "Guarding Stars arriva su Netflix: commedia natalizia con Leighton Meester e Jared Padalecki",
-   "summary": "Dal 18 novembre è disponibile su Netflix Guarding Stars, commedia natalizia tratta dal romanzo The Bodyguard, con Leighton Meester e Jared Padalecki. La recensione di Movieplayer la descrive come una storia zuccherosa e senza grandi pretese.",
-   "body": "Dal 18 novembre approda su Netflix Guarding Stars, una nuova commedia a tema natalizio ispirata al romanzo The Bodyguard. Nel cast figurano Leighton Meester e Jared Padalecki, due volti noti al pubblico televisivo, impegnati in una storia romantica costruita sui classici elementi del genere festivo.\n\nSecondo Movieplayer, che ne ha pubblicato una recensione, il film si presenta come un prodotto dolce e leggero, pensato per l'intrattenimento di fine anno più che per l'originalità. Il giudizio del sito è quello di una visione senza grandi pretese, adatta a chi cerca una commedia semplice da guardare durante le feste.",
-   "slug": "guarding-stars-arriva-su-netflix-commedia-natalizia-con-leig-c9f397",
-   "tags": [
-    "Guarding Stars",
-    "Leighton Meester",
-    "Jared Padalecki"
-   ],
-   "scene": "streaming",
-   "source": "Movieplayer",
-   "url": "https://movieplayer.it/articoli/guarding-stars-recensione-commedia-romantica-film-natale-netflix_38224/",
-   "published": "2026-11-18T20:30:00+00:00"
-  },
-  {
-   "id": "2848afa87671",
-   "section": "cinema",
-   "title": "Floyd Norman riceve l'Oscar alla carriera ai Governors Awards",
-   "summary": "Il leggendario animatore Disney Floyd Norman ha ricevuto un Oscar onorario durante i Governors Awards 2026. Nel suo discorso ha ricordato la sua prima visita agli studi Disney.",
-   "body": "Floyd Norman, una delle figure storiche dell'animazione Disney, ha ricevuto un Oscar onorario nel corso dei Governors Awards 2026, la cerimonia con cui l'Academy premia personalità che hanno contribuito al cinema al di fuori delle categorie competitive.\n\nDurante la premiazione Norman ha raccontato il suo primo ingresso negli studi Disney, un ricordo che ripercorre decenni di lavoro nell'animazione. Secondo Cartoon Brew, il riconoscimento arriva a una carriera lunga e molto legata alla storia dello studio di Burbank.",
-   "slug": "floyd-norman-riceve-l-oscar-alla-carriera-ai-governors-award-2848af",
-   "tags": [
-    "Floyd Norman",
-    "Governors Awards",
-    "Disney"
-   ],
-   "scene": "premiere",
-   "source": "cartoonbrew.com",
-   "url": "https://www.cartoonbrew.com/awards/floyd-norman-honorary-oscar-2-269576.html",
-   "published": "2026-11-18T20:14:02+00:00"
   }
  ],
  "seen": [
-  "2c7f91b13ece",
-  "c5c176b8282c",
-  "97eafad2382c",
-  "bff8ae664a6d",
-  "ec9b507846a9",
-  "a1f25aac06db",
-  "300c4d7e9799",
-  "d697510c38de",
-  "a123bc780193",
-  "97e9b8431d58",
-  "b68d8b7c76c2",
-  "2ed0930ded0c",
-  "8d42cf4d150e",
-  "9149ebc44146",
-  "d36123462f8b",
-  "4e407beb64d4",
   "1d1cc735f639",
   "aea3cef9d94a",
   "e80d68eae690",
@@ -12342,7 +12324,23 @@
   "38a395854c21",
   "ce1234693e27",
   "13b669c1476e",
-  "ee7003428d52"
+  "ee7003428d52",
+  "dc2c4e32b05c",
+  "958ffffc8d98",
+  "10bd13a3a25f",
+  "e234cc236a8d",
+  "0212e0c11632",
+  "481fa1121850",
+  "714cf844eb6e",
+  "07892fb8acfa",
+  "66e21c979726",
+  "d0d9c6f7d109",
+  "035ee4af3de8",
+  "8a8fbf2fa584",
+  "2216ac3aa7b5",
+  "61888ca88a13",
+  "e80c53c73bfd",
+  "946ac28be8f0"
  ],
  "version": 4,
  "digests": [
