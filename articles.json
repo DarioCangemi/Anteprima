@@ -1,6 +1,88 @@
 {
  "articles": [
   {
+   "id": "a28872e0e02f",
+   "section": "cinema",
+   "title": "Line of Descent, thriller di fantascienza di Adam Oyebanji ora disponibile",
+   "summary": "Il thriller di fantascienza Line of Descent, diretto da Adam Oyebanji, è disponibile da ora. La storia segue un agente della sicurezza coinvolto in un'indagine per omicidio dopo un presunto rapimento a bordo di una nave generazionale.",
+   "body": "Line of Descent, scritto e diretto da Adam Oyebanji, è uscito ufficialmente ed è ora disponibile per il pubblico. Il film è presentato come un thriller di fantascienza che unisce atmosfere da serie come The Expanse e True Detective, secondo quanto riportato da Collider.\n\nAl centro della vicenda c'è un ufficiale della sicurezza a bordo di una nave generazionale, un'astronave destinata a un lungo viaggio tra le stelle. Un presunto rapimento lo porta a indagare su un omicidio, in un ambiente chiuso dove ogni sospetto pesa sull'intero equipaggio.\n\nLe informazioni disponibili sono ancora limitate, ma il progetto si inserisce in un filone di fantascienza investigativa che negli ultimi anni ha trovato spazio anche nelle piattaforme di streaming.",
+   "slug": "line-of-descent-thriller-di-fantascienza-di-adam-oyebanji-or-a28872",
+   "tags": [
+    "Line of Descent",
+    "Adam Oyebanji",
+    "The Expanse"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/line-of-descent-adam-oyebanji-sci-fi-murder-mystery/",
+   "published": "2026-11-21T22:15:12+00:00"
+  },
+  {
+   "id": "a975c37a24fc",
+   "section": "tv",
+   "title": "Icebreaker, la nuova serie romantica Netflix tra hockey e pattinaggio",
+   "summary": "Netflix prepara Icebreaker, una serie che unisce hockey su ghiaccio e pattinaggio artistico in una storia d'amore. Secondo Collider, il progetto si distacca dagli schemi di Heated Rivalry e Off Campus.",
+   "body": "Icebreaker è la nuova serie romantica di Netflix che mescola due mondi sportivi, l'hockey su ghiaccio e il pattinaggio artistico, dentro una storia d'amore. Secondo Collider, il prodotto viene presentato come un'alternativa a Heated Rivalry, il titolo che ha conquistato il pubblico della piattaforma, e a Off Campus, con cui condivide il genere del romance legato allo sport.\n\nLa fonte sottolinea come la serie cerchi di uscire dalla formula tipica del racconto sportivo sentimentale, puntando su un'ambientazione meno scontata e su una narrazione più sfaccettata. Il testo di riferimento è una breve anteprima, quindi non sono disponibili dettagli su cast, data di uscita o trama completa. Per queste informazioni occorre attendere comunicazioni ufficiali della piattaforma.",
+   "slug": "icebreaker-la-nuova-serie-romantica-netflix-tra-hockey-e-pat-a975c3",
+   "tags": [
+    "Icebreaker",
+    "Heated Rivalry",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/netflix-icebreaker-heated-rivalry-replacement-hockey-romance/",
+   "published": "2026-11-21T22:10:12+00:00"
+  },
+  {
+   "id": "a021400bad89",
+   "section": "tv",
+   "title": "Widow's Bay resta nella top ten di Apple TV da oltre 200 giorni",
+   "summary": "La serie horror Widow's Bay, disponibile su Apple TV, è rimasta nella classifica dei titoli più visti della piattaforma per più di 200 giorni. Il successo riguarda una produzione con valutazione alta tra il pubblico.",
+   "body": "La serie horror Widow's Bay, prodotta per Apple TV, continua a occupare la top ten della piattaforma da più di 200 giorni. Un risultato insolito per un titolo di genere, che dimostra la tenuta del prodotto nel catalogo a distanza di mesi dal lancio.\n\nSecondo Collider, la serie è anche valutata 10 su 10 dalla critica specializzata, un dato che la testata sottolinea come uno dei motivi della sua longevità in classifica. Il materiale disponibile non specifica ulteriori dettagli su numeri di visualizzazioni o sulla diffusione in Italia.",
+   "slug": "widow-s-bay-resta-nella-top-ten-di-apple-tv-da-oltre-200-gio-a02140",
+   "tags": [
+    "Widow's Bay",
+    "Apple TV"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/widows-bay-streaming-hit-200-days-apple-tv-november-2026/",
+   "published": "2026-11-21T22:00:12+00:00"
+  },
+  {
+   "id": "13993c4669dc",
+   "section": "tv",
+   "title": "Kay Panabaker, dalla Disney alla vita da guardiana di zoo",
+   "summary": "L'ex attrice Disney Kay Panabaker ha lasciato Hollywood per una nuova carriera come guardiana di zoo. Secondo Hello! Magazine, la scelta la vede oggi lontana dal set e dai riflettori.",
+   "body": "Kay Panabaker, nota al pubblico Disney per le sitcom di inizio anni Duemila, ha scelto di lasciare Hollywood per dedicarsi a un lavoro inatteso: quello di guardiana di zoo. Secondo Hello! Magazine, l'attrice si occupa oggi degli animali lontano dai riflettori, in un percorso professionale completamente diverso da quello che l'ha resa popolare.\n\nLa notizia è riportata dalla testata di gossip britannica, che sottolinea il contrasto tra la fama giovanile dell'attrice e la sua vita attuale. Il materiale disponibile non chiarisce però i dettagli del passaggio, né quando sia avvenuto o quali ruoli ricopra nello zoo. Per questo la notizia resta essenzialmente un cambio di vita personale, raccontato dalla stampa estera e privo di dichiarazioni dirette dell'interessata nel testo ricevuto.",
+   "slug": "kay-panabaker-dalla-disney-alla-vita-da-guardiana-di-zoo-13993c",
+   "tags": [
+    "Kay Panabaker"
+   ],
+   "scene": "tv",
+   "source": "hellomagazine.com",
+   "url": "https://www.hellomagazine.com/us/935868/the-beloved-y2k-disney-sitcom-star-who-walked-away-from-hollywood-to-quietly-work-as-a-zookeeper/",
+   "published": "2026-11-21T22:00:00+00:00"
+  },
+  {
+   "id": "02aa2203238c",
+   "section": "gossip",
+   "title": "The Rock scaraventa Pat McAfee su un tavolo durante il set di College GameDay",
+   "summary": "Durante una diretta di ESPN College GameDay, The Rock ha spinto Pat McAfee su un tavolo dopo alcune sue affermazioni in onda sull'Università di Miami, alma mater dell'attore. Il video dell'episodio è circolato online.",
+   "body": "Durante la trasmissione ESPN College GameDay, Dwayne \"The Rock\" Johnson ha afferrato Pat McAfee e lo ha fatto cadere su un tavolo sul set, in diretta. Secondo TMZ, il gesto è arrivato dopo alcuni commenti che McAfee aveva fatto in onda sull'Università di Miami, alma mater dell'attore, con cui è laureato.\n\nLa fonte riporta che il video dell'episodio è disponibile online. Il materiale ricevuto non specifica le parole esatte pronunciate da McAfee né la reazione immediata dei presenti, quindi non è possibile ricostruire con precisione lo scambio che ha preceduto la scena.",
+   "slug": "the-rock-scaraventa-pat-mcafee-su-un-tavolo-durante-il-set-d-02aa22",
+   "tags": [
+    "The Rock",
+    "Pat McAfee",
+    "College GameDay"
+   ],
+   "scene": "tv",
+   "source": "tmz.com",
+   "url": "https://www.tmz.com/2026/11/21/the-rock-slams-pat-mcafee-through-a-table-at-miami-hurricanes-game/",
+   "published": "2026-11-21T21:53:10+00:00"
+  },
+  {
    "id": "6546d5803e2c",
    "section": "tv",
    "title": "Einstein, la nuova serie CBS con Gubler, Fumero e Shalhoub ha una data",
@@ -8261,106 +8343,9 @@
    "source": "BadTaste",
    "url": "https://www.badtaste.it/articoli/nessuno-ne-parla-ma-questa-nuova-serie-fantasy-batte-gli-anelli-del-potere-e-sta-superando-ogni-record",
    "published": "2026-11-19T15:00:55+00:00"
-  },
-  {
-   "id": "ffdb6b4569f1",
-   "section": "tv",
-   "title": "Forbidden fruit 4, la soap turca torna su Canale 5 con una nuova puntata",
-   "summary": "La soap turca Forbidden fruit 4 propone una nuova puntata in replica su Mediaset, disponibile anche in streaming. Al centro della trama il piano di Ender e Hasan Ali contro Sahika, decisa a cercare vendetta.",
-   "body": "Va in onda oggi, giovedì 19 novembre, una nuova replica di Forbidden fruit 4, la soap turca trasmessa da Mediaset. Secondo quanto riferito da SuperGuidaTV, l'episodio è disponibile anche in streaming sulle piattaforme del gruppo.\n\nNella puntata al centro della trama c'è un piano messo in atto da Ender e Hasan Ali per impedire a Sahika di ottenere un consistente assegno di divorzio. Questa mossa potrebbe essere solo il primo passo di una nuova alleanza tra i due personaggi. Sahika, decisa a vendicarsi dell'inganno subito, reagisce e si prepara a rispondere.",
-   "slug": "forbidden-fruit-4-la-soap-turca-torna-su-canale-5-con-una-nu-ffdb6b",
-   "tags": [
-    "Forbidden fruit 4",
-    "Mediaset"
-   ],
-   "scene": "streaming",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/forbidden-fruit-4-replica-puntata-19-novembre-in-streaming-video-mediaset/",
-   "published": "2026-11-19T14:59:54+00:00"
-  },
-  {
-   "id": "b4f7b245b5e0",
-   "section": "cinema",
-   "title": "Ficarra e Picone in 'La notte delle fragole', commedia dal 26 in sala",
-   "summary": "Dal 26 nelle sale italiane arriva La notte delle fragole, commedia diretta da Genovesi con Ficarra e Picone, Anna Foglietta e Vittoria Puccini. Secondo ANSA il film viene descritto come un ring di sentimenti.",
-   "body": "Dal 26 nelle sale italiane esce La notte delle fragole, la nuova commedia diretta da Genovesi e interpretata da Ficarra e Picone. Nel cast figurano anche Anna Foglietta e Vittoria Puccini, che affiancano i due protagonisti in una storia costruita sui rapporti di coppia e sui sentimenti che si scontrano.\n\nSecondo ANSA Cinema, il film si presenta come un vero e proprio ring emotivo, dove le tensioni tra i personaggi diventano materia comica. La segnalazione è breve e non entra nel dettaglio della trama, quindi per conoscere i contenuti precisi bisognerà attendere l'uscita nelle sale.",
-   "slug": "ficarra-e-picone-in-la-notte-delle-fragole-commedia-dal-26-i-b4f7b2",
-   "tags": [
-    "Ficarra e Picone",
-    "Anna Foglietta",
-    "Vittoria Puccini"
-   ],
-   "scene": "pellicola",
-   "source": "ANSA Cinema",
-   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/19/ficarra-e-picone-la-notte-delle-fragole-e-un-ring-di-sentimenti_7e4e3e8a-86d7-4381-a27f-149fdb92a17f.html",
-   "published": "2026-11-19T14:59:31+00:00"
-  },
-  {
-   "id": "c2bdad36f70e",
-   "section": "tv",
-   "title": "La Ruota della Fortuna, Paola vince il montepremi risolvendo tutti i tabelloni",
-   "summary": "Paola ha vinto il premio più ambito della Ruota della Fortuna, risolvendo tutti i tabelloni senza commettere errori. La puntata con Gerry Scotti, andata in onda il 18 novembre 2026, ha emozionato il pubblico.",
-   "body": "La concorrente Paola si è aggiudicata il premio più ambito del quiz di Canale 5 La Ruota della Fortuna, condotto da Gerry Scotti. Nella puntata del 18 novembre 2026 ha risolto tutti i tabelloni senza sbagliare nemmeno una risposta, un risultato che ha conquistato il pubblico in studio e da casa.\n\nSecondo BadTaste, l'impresa ha reso la serata particolarmente emozionante. Il materiale disponibile non riporta altri dettagli sul percorso di gioco né sull'importo della vincita.",
-   "slug": "la-ruota-della-fortuna-paola-vince-il-montepremi-risolvendo-c2bdad",
-   "tags": [
-    "La Ruota della Fortuna",
-    "Gerry Scotti",
-    "Paola"
-   ],
-   "scene": "tv",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/la-ruota-della-fortuna-la-campionessa-vince-il-premio-piu-ambito-neanche-un-errore-ai-tabelloni",
-   "published": "2026-11-19T14:38:39+00:00"
-  },
-  {
-   "id": "eab4b5d3fba5",
-   "section": "tv",
-   "title": "Maxton Hall, la terza e ultima stagione arriva il 9 dicembre su Prime Video",
-   "summary": "La terza e ultima stagione di Maxton Hall sarà disponibile dal 9 dicembre su Prime Video. Il finale racconterà la storia di Ruby e James, tra tradimenti e colpi di scena.",
-   "body": "Prime Video ha fissato al 9 dicembre la data di uscita della terza e ultima stagione di Maxton Hall, la serie young adult che ha conquistato un vasto pubblico internazionale. Secondo superguidatv, i nuovi episodi porteranno a compimento la vicenda di Ruby e James, con nuovi tradimenti e colpi di scena che promettono forti emozioni.\n\nLa stagione conclusiva è presentata come un finale toccante per i due protagonisti. La fonte non entra nel dettaglio della trama, limitandosi a indicare il clima della storia. Per conoscere i nuovi sviluppi bisognerà quindi attendere l'uscita della serie sulla piattaforma.",
-   "slug": "maxton-hall-la-terza-e-ultima-stagione-arriva-il-9-dicembre-eab4b5",
-   "tags": [
-    "Maxton Hall",
-    "Prime Video"
-   ],
-   "scene": "streaming",
-   "source": "superguidatv.it",
-   "url": "https://www.superguidatv.it/maxton-hall-data-duscita-e-trama-dellultima-stagione-della-serie/",
-   "published": "2026-11-19T14:23:18+00:00"
-  },
-  {
-   "id": "3daba92b5aca",
-   "section": "cinema",
-   "title": "The Nightingale: primo teaser trailer con Elle e Dakota Fanning",
-   "summary": "Sony Pictures ha diffuso il primo teaser trailer di The Nightingale, thriller di sopravvivenza ambientato nella Francia occupata dai nazisti durante la Seconda guerra mondiale. Il film, tratto dal bestseller di Kristin Hannah, arriverà nelle sale nel marzo 2027 e vede protagoniste le sorelle Elle e Dakota Fanning.",
-   "body": "Sony Pictures ha pubblicato il primo teaser trailer di The Nightingale, thriller di sopravvivenza sulla Seconda guerra mondiale tratto dal romanzo di Kristin Hannah uscito nel 2015. Secondo quanto riportato da firstshowing.net, il film seguirà due sorelle francesi, separate da tempo, che nella Francia occupata dai tedeschi affrontano la sopravvivenza e la resistenza in modi molto diversi. Il titolo deriva dal nome in codice assegnato a una delle due, che diventa una combattente della Resistenza.\n\nNel cast figurano le sorelle Dakota ed Elle Fanning, rispettivamente nei ruoli di Isabelle e Vianne, affiancate da Edmund Donovan, Shira Haas e Mark Ryla. L'uscita nelle sale mondiali è fissata per marzo 2027. Il teaser anticipa il tono del film con una frase che richiama la necessità di opporsi alla tirannia.",
-   "slug": "the-nightingale-primo-teaser-trailer-con-elle-e-dakota-fanni-3daba9",
-   "tags": [
-    "The Nightingale",
-    "Elle Fanning",
-    "Dakota Fanning"
-   ],
-   "scene": "pellicola",
-   "source": "firstshowing.net",
-   "url": "https://www.firstshowing.net/2026/first-trailer-for-the-nightingale-movie-starring-elle-dakota-fanning/",
-   "published": "2026-11-19T14:20:22+00:00"
   }
  ],
  "seen": [
-  "6469929e651a",
-  "8af38d53ac57",
-  "4c2aaab24d44",
-  "57bc7a89e0d8",
-  "458e55aa7a8d",
-  "d3343f506ddd",
-  "aad18dc727f3",
-  "8a37264fb7ac",
-  "2655e42cff34",
-  "4cc17c8ab440",
-  "8254047f4881",
-  "f909b8a71ee0",
-  "7325b0f4d92e",
-  "185474222c7d",
   "32d00b1a16a0",
   "5ab8150bc28a",
   "f20240dc794a",
@@ -12346,7 +12331,21 @@
   "530569796973",
   "c62a33ca6b2e",
   "611ba614a20a",
-  "b87edb83a5bd"
+  "b87edb83a5bd",
+  "0ad1dad22563",
+  "a28872e0e02f",
+  "ccb1bfd059ec",
+  "7d1ee0e861d3",
+  "4c10859d1f58",
+  "13993c4669dc",
+  "0b94e87d55b4",
+  "a975c37a24fc",
+  "a021400bad89",
+  "9f1cd8f5c46e",
+  "a8acc9ceeafd",
+  "36c90b7d689a",
+  "02aa2203238c",
+  "ccba6d9a2712"
  ],
  "version": 4,
  "digests": [
