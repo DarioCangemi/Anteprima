@@ -1,6 +1,22 @@
 {
  "articles": [
   {
+   "id": "5432eb899a65",
+   "section": "cinema",
+   "title": "Pupi Avati premiato al Hallelujah Film Festival di Castel Gandolfo",
+   "summary": "Il regista Pupi Avati riceverà il premio Humanitas \"Custode della memoria\" venerdì 11 dicembre a Castel Gandolfo, nell'ambito dell'Hallelujah Film Festival. Il riconoscimento è un omaggio al suo percorso di cineasta.",
+   "body": "Il regista Pupi Avati sarà premiato con il riconoscimento \"Humanitas - Custode della memoria\". La cerimonia è in programma venerdì 11 dicembre a Castel Gandolfo, nel corso dell'Hallelujah Film Festival, che ha scelto di rendergli omaggio.\n\nIl premio celebra il lavoro di Avati come custode di memoria e tradizioni, una delle cifre riconosciute del suo cinema, che spazia dalla commedia al racconto storico e popolare. Secondo ANSA, la premiazione si inserisce nel programma del festival e rappresenta un momento di riconoscimento pubblico per il regista bolognese.",
+   "slug": "pupi-avati-premiato-al-hallelujah-film-festival-di-castel-ga-5432eb",
+   "tags": [
+    "Pupi Avati",
+    "Hallelujah Film Festival"
+   ],
+   "scene": "premiere",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/21/a-pupi-avati-il-premio-humanitas-custode-della-memoria_43558768-9e47-4430-97de-546d03746645.html",
+   "published": "2026-11-21T17:17:34+00:00"
+  },
+  {
    "id": "f21808baf8af",
    "section": "tv",
    "title": "Chiara Ferragni racconta il suo periodo più buio nel documentario Netflix",
@@ -103,6 +119,88 @@
    "published": "2026-11-21T16:49:02+00:00"
   },
   {
+   "id": "20ed0de26c76",
+   "section": "cinema",
+   "title": "Godzilla Minus Zero perde circa 1.100 sale dopo il crollo al box office",
+   "summary": "Il sequel acclamato dalla critica Godzilla Minus Zero ha subito il primo calo nel numero di sale dopo un'uscita con incassi concentrati nei primi giorni. Secondo quanto riportato, il film sarebbe stato rimosso da circa 1.100 cinema.",
+   "body": "Godzilla Minus Zero, sequel molto apprezzato dalla critica, esce di scena dai cinema in numero significativo. Secondo Collider, la pellicola è stata tolta da circa 1.100 sale dopo un calo deciso degli incassi al botteghino, il primo arretramento nel numero di schermi da quando il film è uscito.\n\nIl dato arriva dopo un debutto costruito soprattutto sui primi giorni di programmazione, una dinamica che spesso porta a un rapido ridimensionamento della programmazione quando il pubblico non segue il passaparola. Il materiale disponibile non riporta cifre precise sugli incassi né dettagli sui mercati coinvolti dalla riduzione.",
+   "slug": "godzilla-minus-zero-perde-circa-1-100-sale-dopo-il-crollo-al-20ed0d",
+   "tags": [
+    "Godzilla Minus Zero"
+   ],
+   "scene": "sala",
+   "source": "collider.com",
+   "url": "https://collider.com/godzilla-minus-zero-removed-from-1100-theaters-box-office/",
+   "published": "2026-11-21T16:45:13+00:00"
+  },
+  {
+   "id": "b865e13ca53f",
+   "section": "gossip",
+   "title": "Miley Cyrus e Maxx Morando fotografati mano nella mano dopo la cena prematrimoniale",
+   "summary": "Miley Cyrus e il fidanzato Maxx Morando sono stati fotografati mano nella mano dopo la cena di prova del matrimonio, insieme alla famiglia della cantante. Secondo le notizie, la coppia dovrebbe sposarsi nel fine settimana in California del Sud.",
+   "body": "Miley Cyrus e il fidanzato Maxx Morando sono stati ripresi mano nella mano dopo la cena di prova in vista del loro matrimonio. Alla serata era presente anche la famiglia della cantante, già nota al grande pubblico per il suo legame con lo spettacolo.\n\nSecondo Page Six, la cerimonia dovrebbe svolgersi nel fine settimana nel sud della California. Al momento non sono stati diffusi ulteriori dettagli sull'evento, né dichiarazioni ufficiali della coppia sulla data o sul luogo delle nozze.",
+   "slug": "miley-cyrus-e-maxx-morando-fotografati-mano-nella-mano-dopo-b865e1",
+   "tags": [
+    "Miley Cyrus",
+    "Maxx Morando"
+   ],
+   "scene": "flash",
+   "source": "pagesix.com",
+   "url": "https://pagesix.com/2026/11/21/celebrity-news/miley-cyrus-and-maxx-morando-pictured-after-rehearsal-dinner/",
+   "published": "2026-11-21T16:45:00+00:00"
+  },
+  {
+   "id": "3849dc0fb198",
+   "section": "tv",
+   "title": "Bill Maher scherza su GTA 6 e le assenze al lavoro",
+   "summary": "Nel monologo di apertura dell'ultima puntata di Real Time with Bill Maher, il conduttore ha scherzato sull'uscita di Grand Theft Auto 6, dicendo che ha causato più assenze sul lavoro dell'ICE. Ha anche preso di mira Hunter Biden.",
+   "body": "Nel monologo di apertura dell'ultima puntata stagionale di Real Time with Bill Maher, il conduttore americano ha ironizzato sul lancio di Grand Theft Auto 6, affermando che il videogioco ha provocato più assenze dal lavoro dell'ICE. La battuta è arrivata mentre commentava il successo record del titolo.\n\nSecondo quanto riportato da TV Insider, Maher ha inoltre rivolto una frecciata a Hunter Biden durante la stessa parte della trasmissione. Il monologo si è aperto con critiche al presidente Donald Trump legate ai recenti disservizi tecnologici, prima di passare al tema videoludico.",
+   "slug": "bill-maher-scherza-su-gta-6-e-le-assenze-al-lavoro-3849dc",
+   "tags": [
+    "Bill Maher",
+    "Real Time with Bill Maher",
+    "Grand Theft Auto 6"
+   ],
+   "scene": "tv",
+   "source": "tvinsider.com",
+   "url": "https://www.tvinsider.com/1305073/bill-maher-gta-6-caused-more-workplace-absences-than-ice-real-time/",
+   "published": "2026-11-21T16:42:36+00:00"
+  },
+  {
+   "id": "f501c71fb711",
+   "section": "cinema",
+   "title": "James Bond, chi potrebbe essere la prossima Bond girl",
+   "summary": "Tra i nomi circolati per la prossima Bond girl ci sono Daisy Edgar-Jones e Sydney Sweeney. Si parla anche di Hunter Schafer, star di Euphoria, che potrebbe diventare la prima attrice trans protagonista della saga.",
+   "body": "Il franchise di James Bond torna a far parlare di sé per il casting della prossima Bond girl. Secondo quanto riporta il Daily Mail, tra le attrici citate dai fan e dai media ci sono Daisy Edgar-Jones e Sydney Sweeney, due nomi molto noti al pubblico di serie e cinema.\n\nIl nome che attira più attenzione è quello di Hunter Schafer, protagonista di Euphoria. Se scelta, sarebbe la prima attrice transgender a interpretare una protagonista femminile della saga. Il quotidiano britannico invita i lettori a esprimere la propria preferenza, ma al momento non risulta alcuna conferma ufficiale sul cast del prossimo film.",
+   "slug": "james-bond-chi-potrebbe-essere-la-prossima-bond-girl-f501c7",
+   "tags": [
+    "James Bond",
+    "Hunter Schafer",
+    "Sydney Sweeney"
+   ],
+   "scene": "pellicola",
+   "source": "dailymail.co.uk",
+   "url": "https://www.dailymail.com/tvshowbiz/article-16302733/Bond-girl-Robert-Pattinsons-Sydney-Sweeney-Daisy-Edgar-Jones.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "published": "2026-11-21T16:40:17+00:00"
+  },
+  {
+   "id": "6663d02f1eda",
+   "section": "gossip",
+   "title": "Josh Duhamel fa cadere l'anello durante una proposta di matrimonio",
+   "summary": "L'attore Josh Duhamel ha involontariamente fatto cadere la scatola dell'anello durante una proposta di matrimonio diventata virale online. Il video della scena è stato diffuso dal sito TMZ.",
+   "body": "Josh Duhamel ha causato un piccolo spavento a una coppia di fidanzati in procinto di sposarsi, lasciando cadere per errore la scatola con l'anello durante una proposta diventata virale sui social. Il momento, ripreso in un video, mostra l'attore impegnato nella scena prima del gesto maldestro che ha richiesto qualche istante di attenzione da parte di tutti i presenti.\n\nSecondo TMZ, la proposta coinvolgeva Brian Breach, fondatore della rivista The Rich Reporter Magazine, che stava per fare la sua domanda. Il materiale disponibile non chiarisce ulteriormente la dinamica dell'episodio né le reazioni dei protagonisti.",
+   "slug": "josh-duhamel-fa-cadere-l-anello-durante-una-proposta-di-matr-6663d0",
+   "tags": [
+    "Josh Duhamel",
+    "Brian Breach",
+    "The Rich Reporter Magazine"
+   ],
+   "scene": "flash",
+   "source": "tmz.com",
+   "url": "https://www.tmz.com/2026/11/21/josh-duhamel-drops-ring-box-during-fans-engagement/",
+   "published": "2026-11-21T16:34:32+00:00"
+  },
+  {
    "id": "720c88f1a8ac",
    "section": "tv",
    "title": "Beautiful, replica su Canale 5 con Remy ed Electra al centro della trama",
@@ -168,6 +266,23 @@
    "source": "Movieplayer",
    "url": "https://movieplayer.it/news/swat-exiles-stasera-rai-2-anticipazioni-shemar-moore_172078/",
    "published": "2026-11-21T16:00:06+00:00"
+  },
+  {
+   "id": "9b713ab35e0f",
+   "section": "cinema",
+   "title": "Io sono Alice stasera su Rai 4 con Keke Palmer",
+   "summary": "Io sono Alice, film con Keke Palmer, Common e Jonny Lee Miller, va in onda stasera su Rai 4. La pellicola, ispirata a fatti realmente accaduti, racconta la fuga di una donna ridotta in schiavitù in una piantagione della Georgia.",
+   "body": "Stasera Rai 4 trasmette Io sono Alice, il film interpretato da Keke Palmer, nel cast anche Common e Jonny Lee Miller. La storia prende spunto da fatti realmente accaduti e segue la protagonista, tenuta in schiavitù in una piantagione della Georgia, mentre tenta la fuga e scopre una realtà che non si aspettava.\n\nSecondo Movieplayer, la trama intreccia il tema della schiavitù con quello del riscatto personale, mettendo al centro il percorso di una donna che rifiuta la condizione imposta. Il film è una proposta in chiaro per il pubblico della rete, utile per chi non lo avesse ancora visto al cinema o in streaming.",
+   "slug": "io-sono-alice-stasera-su-rai-4-con-keke-palmer-9b713a",
+   "tags": [
+    "Keke Palmer",
+    "Common",
+    "Jonny Lee Miller"
+   ],
+   "scene": "tv",
+   "source": "Movieplayer",
+   "url": "https://movieplayer.it/news/io-sono-alice-rai-4-trama-cast-film_172077/",
+   "published": "2026-11-21T15:23:00+00:00"
   },
   {
    "id": "098e5b6b3ff3",
@@ -316,6 +431,23 @@
    "source": "BadTaste",
    "url": "https://www.badtaste.it/articoli/gli-anelli-del-potere-3-nasconde-un-omaggio-segreto-a-peter-jackson-che-forse-non-hai-notato",
    "published": "2026-11-21T14:30:42+00:00"
+  },
+  {
+   "id": "54d6fb04112c",
+   "section": "cinema",
+   "title": "Peter Greenaway ospite alle Giornate Professionali di Cinema di Sorrento",
+   "summary": "La 49esima edizione delle Giornate Professionali di Cinema si terrà a Sorrento dall'1 al 4 dicembre, tra Hilton Sorrento Palace e Cinema Teatro Tasso. Tra gli ospiti previsti c'è il regista Peter Greenaway.",
+   "body": "Dall'1 al 4 dicembre Sorrento ospiterà la 49esima edizione delle Giornate Professionali di Cinema, appuntamento organizzato dall'ANEC in collaborazione con l'ANICA e con il supporto di ACEC. Le sessioni si svolgeranno all'Hilton Sorrento Palace e al Cinema Teatro Tasso, con il sostegno della Direzione Generale Cinema e Audiovisivo del Ministero della Cultura.\n\nTra i nomi in programma figura il regista britannico Peter Greenaway, autore di film come I cuochi, il ladro, sua moglie e l'amante e Il ventre dell'architetto. Secondo RB Casting, la sua presenza è uno dei motivi di interesse della manifestazione, dedicata al settore cinematografico e rivolta agli addetti ai lavori. Il materiale disponibile non specifica ulteriori dettagli sul programma dei singoli incontri.",
+   "slug": "peter-greenaway-ospite-alle-giornate-professionali-di-cinema-54d6fb",
+   "tags": [
+    "Peter Greenaway",
+    "Giornate Professionali di Cinema",
+    "ANEC"
+   ],
+   "scene": "premiere",
+   "source": "RB Casting",
+   "url": "https://www.rbcasting.com/eventi/2026/11/21/peter-greenaway-alla-49esima-edizione-delle-giornate-professionali-di-cinema-di-sorrento/",
+   "published": "2026-11-21T14:22:22+00:00"
   },
   {
    "id": "828d4945a1ef",
@@ -730,6 +862,23 @@
    "source": "ANSA Cinema",
    "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/21/strippoli-il-successo-de-lestranea-non-basta-allhorror-italiano_0321c0dd-f849-4771-bff9-c689f74a2491.html",
    "published": "2026-11-21T12:33:56+00:00"
+  },
+  {
+   "id": "a990e8369f81",
+   "section": "tv",
+   "title": "Auditel 20 novembre: Sal Da Vinci sfiora il 18% su Rai 1",
+   "summary": "Lo show di Sal Da Vinci ha conquistato il prime time di Rai 1 con uno share vicino al 18%, mentre Racconto di una Notte su Canale 5 ha sfiorato il 13%. Nell'access prime time La Ruota della Fortuna ha superato Affari Tuoi.",
+   "body": "Nella serata del 20 novembre, secondo i dati Auditel riportati da TVBlog, Sal Da Vinci ha trionfato in prime time su Rai 1 con uno share vicino al 18%. Il programma ha dominato la fascia serale senza particolari difficoltà, confermando la forza della rete ammiraglia nel sabato sera.\n\nSu Canale 5, Racconto di una Notte ha raggiunto uno share di poco inferiore al 13%. Nella fascia d'accesso al prime time, il quiz La Ruota della Fortuna ha superato Affari Tuoi, invertendo il risultato di ascolti tra i due titoli di Rai 1 e Canale 5.",
+   "slug": "auditel-20-novembre-sal-da-vinci-sfiora-il-18-su-rai-1-a990e8",
+   "tags": [
+    "Sal Da Vinci",
+    "Racconto di una Notte",
+    "La Ruota della Fortuna"
+   ],
+   "scene": "tv",
+   "source": "tvblog.it",
+   "url": "https://www.tvblog.it/post/meravigliosamente-trionfa-senza-fatica-al-182-di-share-racconto-di-una-notte-sfiora-il-13-di-share-i-dati-auditel-del-20-novembre-2026",
+   "published": "2026-11-21T12:17:38+00:00"
   },
   {
    "id": "2e38ca4739cf",
@@ -1563,6 +1712,23 @@
    "source": "biccy.it",
    "url": "https://www.biccy.it/diplo-ammette-di-aver-amato-degli-uomini/",
    "published": "2026-11-21T06:54:07+00:00"
+  },
+  {
+   "id": "a7a5dd392beb",
+   "section": "tv",
+   "title": "ATP Finals 2026 in TV: partite su Sky e Mediaset",
+   "summary": "Le Nitto ATP Finals 2026 si giocheranno a Torino dal 15 al 22 novembre. Sky trasmetterà tutti gli incontri, compresi quelli di doppio, mentre Mediaset ne proporrà una selezione in diretta in chiaro.",
+   "body": "Le Nitto ATP Finals 2026, il torneo di tennis che riunisce i migliori otto giocatori della stagione, si disputeranno a Torino dal 15 al 22 novembre. Per seguirle in televisione ci saranno due opzioni: Sky trasmetterà tutti gli incontri del torneo, compresi quelli di doppio, mentre Mediaset ha previsto una selezione delle partite più importanti.\n\nLe sfide scelte da Mediaset saranno in diretta e in chiaro su Canale 5, offrendo così la possibilità di seguire il torneo anche a chi non è abbonato a una piattaforma a pagamento. Secondo Dituttounpop, che ha riportato il calendario, la copertura dell'evento sarà quindi divisa tra la pay TV e la televisione generalista.",
+   "slug": "atp-finals-2026-in-tv-partite-su-sky-e-mediaset-a7a5dd",
+   "tags": [
+    "Nitto ATP Finals",
+    "Sky",
+    "Mediaset"
+   ],
+   "scene": "palco",
+   "source": "dituttounpop.it",
+   "url": "https://www.dituttounpop.it/atp-finals-2026-tv-calendario-sky-mediaset/",
+   "published": "2026-11-21T06:52:38+00:00"
   },
   {
    "id": "71f0be199f61",
@@ -8174,199 +8340,9 @@
    "source": "ANSA Cultura e Spettacoli",
    "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/19/paolo-belli-torna-con-una-ballad-arriva-come-se-non-ci-fosse_490424ec-8780-4763-8aad-925c38f22736.html",
    "published": "2026-11-19T12:21:52+00:00"
-  },
-  {
-   "id": "1c0f186e473a",
-   "section": "cinema",
-   "title": "beIN Media Group acquisisce i film NBCUniversal Michael, Hamnet e Jurassic World Rebirth",
-   "summary": "Il gruppo qatariota beIN Media Group e NBCUniversal Global hanno firmato un nuovo accordo pluriennale di distribuzione che include Michael, Hamnet e Jurassic World Rebirth. L'intesa, annunciata a Doha, riguarda il pubblico del Medio Oriente e del Nord Africa.",
-   "body": "Il gruppo beIN Media Group e NBCUniversal Global TV Distribution hanno rinnovato la loro collaborazione con un nuovo accordo pluriennale per la fornitura di contenuti. Nel pacchetto figurano titoli recenti come Michael e Jurassic World Rebirth, entrambi tra i successi al box office, insieme al premiato Hamnet. Secondo Deadline, l'intesa è stata annunciata a margine del Film Committee del Doha Industry Forum, nell'ambito di Media City Qatar.\n\nI film saranno resi disponibili al pubblico del Medio Oriente e del Nord Africa attraverso i canali e le piattaforme del gruppo qatariota. L'accordo consolida un rapporto di lunga data tra le due aziende, che già collaboravano nella distribuzione di produzioni NBCUniversal nella regione. Non sono stati resi noti dettagli economici né le date precise di messa in onda.",
-   "slug": "bein-media-group-acquisisce-i-film-nbcuniversal-michael-hamn-1c0f18",
-   "tags": [
-    "Michael",
-    "Jurassic World Rebirth",
-    "Hamnet"
-   ],
-   "scene": "pellicola",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/bein-media-group-michael-hamnet-nbc-universal-1237228885/",
-   "published": "2026-11-19T12:15:42+00:00"
-  },
-  {
-   "id": "69267f146be4",
-   "section": "tv",
-   "title": "The Altruists: la storia vera dietro la serie Netflix su FTX",
-   "summary": "The Altruists è una miniserie Netflix in otto episodi creata da Graham Moore che racconta ascesa e crollo di FTX, una delle principali piattaforme di criptovalute, seguendo Sam Bankman-Fried e Caroline Ellison. Nel cast Anthony Boyle e Julia Garner.",
-   "body": "Netflix porta sullo schermo la vicenda di FTX con The Altruists, miniserie in otto episodi ideata da Graham Moore. Il racconto segue l'ascesa e il crollo di una delle piattaforme di scambio di criptovalute più importanti al mondo, concentrandosi sui suoi protagonisti, Sam Bankman-Fried e Caroline Ellison.\n\nNei panni dei due personaggi ci sono Anthony Boyle, noto per I See Buildings Fall Like Lightning, e Julia Garner, vista in Inventing Anna. Secondo Cinefilos, la serie ripercorre la storia reale dietro il caso, offrendo al pubblico una ricostruzione di come la società sia cresciuta fino al collasso.",
-   "slug": "the-altruists-la-storia-vera-dietro-la-serie-netflix-su-ftx-69267f",
-   "tags": [
-    "The Altruists",
-    "Sam Bankman-Fried",
-    "Julia Garner"
-   ],
-   "scene": "streaming",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/serie-tv/approfondimento/the-altruists-storia-vera-caso-ftx-sam-bankman-fried-731652",
-   "published": "2026-11-19T12:06:31+00:00"
-  },
-  {
-   "id": "ef4269186114",
-   "section": "tv",
-   "title": "Il Signore degli Anelli: Gli Anelli del Potere, il co-showrunner parla di Sauron",
-   "summary": "Il co-showrunner di Gli Anelli del Potere ha dichiarato che la forgiatura dell'Unico Anello è una questione personale per Sauron, motivato dal desiderio di dominare Galadriel. Le parole arrivano in un'intervista riportata dal sito GamesRadar.",
-   "body": "Secondo GamesRadar, il co-showrunner di Gli Anelli del Potere ha spiegato che per Sauron la creazione dell'Unico Anello non è un semplice progetto di potere, ma una vicenda personale. Nella sua lettura, il Signore Oscuro vuole soprattutto assoggettare Galadriel, figura che nella serie Amazon tiene un ruolo centrale nella lotta contro le ombre che stanno tornando nella Terra di Mezzo.\n\nLe dichiarazioni offrono uno sguardo sulle motivazioni del personaggio in vista delle prossime stagioni, anche se il materiale disponibile non entra nei dettagli di trame o date di uscita. Il rapporto tra Sauron e Galadriel resta uno dei fili conduttori dello show, tratto dall'universo narrativo di J.R.R. Tolkien e prodotto per Prime Video.",
-   "slug": "il-signore-degli-anelli-gli-anelli-del-potere-il-co-showrunn-ef4269",
-   "tags": [
-    "Gli Anelli del Potere",
-    "Sauron",
-    "Galadriel"
-   ],
-   "scene": "streaming",
-   "source": "gamesradar.com",
-   "url": "https://www.gamesradar.com/entertainment/lord-of-the-rings-tv-shows/the-rings-of-powers-co-showrunner-says-saurons-forging-of-the-one-ring-is-personal-as-he-wants-to-master-galadriel/",
-   "published": "2026-11-19T12:00:47+00:00"
-  },
-  {
-   "id": "2ac4891e559b",
-   "section": "tv",
-   "title": "Gli Anelli del Potere 3: chi è Elros, fratello di Elrond",
-   "summary": "La terza stagione di Gli Anelli del Potere introduce Elros, fratello gemello di Elrond, attraverso un flashback dedicato a un momento lontano del passato del personaggio. La figura di Elros è centrale per la storia della Terra di Mezzo e per il destino degli Uomini.",
-   "body": "La terza stagione di Il Signore degli Anelli: Gli Anelli del Potere porta finalmente sullo schermo Elros, gemello di Elrond. Il personaggio compare in un flashback che riporta Elrond a una fase lontana della sua vita, e che secondo Cinefilos aiuta a comprendere un passaggio fondamentale della storia della Terra di Mezzo.\n\nElros è legato al destino degli Uomini, il popolo a cui appartiene la linea che porta fino ad Aragorn. La sua scelta di rinunciare all'immortalità, come riportato dalla fonte, è il punto che collega la vicenda dei due fratelli alle vicende future della serie. Il materiale disponibile non chiarisce ulteriori dettagli sulla struttura narrativa degli episodi in cui compare.",
-   "slug": "gli-anelli-del-potere-3-chi-e-elros-fratello-di-elrond-2ac489",
-   "tags": [
-    "Gli Anelli del Potere",
-    "Elros",
-    "Elrond"
-   ],
-   "scene": "streaming",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/serie-tv/approfondimento/gli-anelli-del-potere-3-chi-era-elros-731642",
-   "published": "2026-11-19T11:56:24+00:00"
-  },
-  {
-   "id": "1ea75aa39b34",
-   "section": "cinema",
-   "title": "John Travolta svela i due tentativi falliti di un sequel di Face/Off",
-   "summary": "John Travolta, intervistato da Collider, ha rivelato che sono stati fatti due tentativi di avviare un sequel di Face/Off, il film di John Woo con Nicolas Cage. In entrambe le occasioni l'attore ha detto no.",
-   "body": "John Travolta ha raccontato in un'intervista a Collider che, in due occasioni distinte, è stato avviato un tentativo di realizzare Face/Off 2, il sequel del film diretto da John Woo nel 1997. Il progetto lo vedrebbe ancora una volta affiancato a Nicolas Cage, con cui divise i ruoli di agente e criminale scambiandosi i volti. Secondo quanto riportato da ComingSoon, in entrambi i casi l'attore ha rifiutato.\n\nLe ragioni del no sono il cuore dell'intervista, anche se la fonte non ne riporta tutti i dettagli. Il film originale resta uno dei titoli più amati dell'action degli anni Novanta, e il ritorno della coppia di protagonisti è da tempo oggetto di curiosità tra i fan. Al momento non risultano annunci ufficiali di un nuovo capitolo.",
-   "slug": "john-travolta-svela-i-due-tentativi-falliti-di-un-sequel-di-1ea75a",
-   "tags": [
-    "John Travolta",
-    "Face/Off",
-    "Nicolas Cage"
-   ],
-   "scene": "ciak",
-   "source": "ComingSoon",
-   "url": "https://www.comingsoon.it/cinema/news/john-travolta-e-i-due-sequel-mancati-di-face-off-tra-remore-ed-esigenze/n236228/",
-   "published": "2026-11-19T11:55:00+00:00"
-  },
-  {
-   "id": "7f3ff042476a",
-   "section": "musica",
-   "title": "John Legend presenta Muse, il nuovo album con Pharrell Williams",
-   "summary": "John Legend, 47 anni e musicista pluripremiato, ha pubblicato il nuovo album Muse, realizzato con la collaborazione di Pharrell Williams. Il cantante ha spiegato di aver voluto evitare che il disco fosse letto come un racconto autobiografico della sua relazione con Chrissy Teigen.",
-   "body": "John Legend torna con Muse, il suo nuovo album, che vede tra i collaboratori Pharrell Williams. Secondo Paris Match, il musicista americano, che ha da poco compiuto 47 anni, ha scelto di lavorare con il produttore per dare al disco una direzione precisa.\n\nNel presentare il lavoro, Legend ha chiarito che non voleva che l'ascoltatore interpretasse le canzoni come le memorie della sua relazione con Chrissy Teigen. Il cantante ha quindi preso le distanze da una lettura troppo personale dei brani, lasciando che il disco parlasse anche di altro.",
-   "slug": "john-legend-presenta-muse-il-nuovo-album-con-pharrell-willia-7f3ff0",
-   "tags": [],
-   "scene": "vinile",
-   "source": "parismatch.com",
-   "url": "https://www.parismatch.com/john-legend-sur-muse-je-ne-voulais-pas-que-gens-pensent-lire-memoires-ma-relation-avec-chrissy-TbZh8NmIH1QWAxAol5Y0E",
-   "published": "2026-11-19T11:20:31+00:00"
-  },
-  {
-   "id": "431b6b3754e1",
-   "section": "tv",
-   "title": "Frisco King, dalla costola di Tulsa King arriva la serie con Samuel L. Jackson",
-   "summary": "Frisco King è in arrivo come nuova serie derivata da Tulsa King, ambientata in Texas e con protagonista Samuel L. Jackson. L'attore riprende il ruolo di Russell Lee Washington Jr., il gangster di New Orleans apparso nella terza stagione con Sylvester Stallone.",
-   "body": "Frisco King nasce come costola di Tulsa King, la serie con Sylvester Stallone, e amplia quell'universo con una nuova storia criminale ambientata in Texas. Al centro della vicenda c'è ancora Samuel L. Jackson, che torna a vestire i panni di Russell Lee Washington Jr., il gangster di New Orleans già visto nella terza stagione della serie madre.\n\nSecondo dituttounpop.it, il progetto è annunciato come spin-off, e la fonte ha dedicato il suo articolo a trama, cast e data di uscita. Il materiale disponibile, tuttavia, non riporta ancora una data precisa né altri nomi del cast, quindi per questi dettagli occorrerà attendere ulteriori annunci ufficiali.",
-   "slug": "frisco-king-dalla-costola-di-tulsa-king-arriva-la-serie-con-431b6b",
-   "tags": [
-    "Frisco King",
-    "Tulsa King",
-    "Samuel L. Jackson"
-   ],
-   "scene": "streaming",
-   "source": "dituttounpop.it",
-   "url": "https://www.dituttounpop.it/frisco-king-serie-trama-cast-uscita/",
-   "published": "2026-11-19T11:17:26+00:00"
-  },
-  {
-   "id": "e43b8cdc00fb",
-   "section": "tv",
-   "title": "I'm A Celeb, Joanna Page lascia il campo dopo lo scontro con Mariella Frostrup",
-   "summary": "Nella jungle di I'm A Celeb è esploso un contrasto tra Joanna Page e Mariella Frostrup sulla cucina, che ha portato Page a lasciare temporaneamente il campo. La notizia è riportata da Daily Mail.",
-   "body": "Tensioni nella jungle di I'm A Celeb, il reality show della televisione britannica. Secondo quanto riportato dal Daily Mail, l'attrice Joanna Page si è allontanata dal campo dopo un acceso confronto con Mariella Frostrup, nato da una discussione sulla preparazione dei pasti.\n\nIl clima tra i concorrenti appare già teso, a poche giornate dall'inizio del programma. Il materiale disponibile non chiarisce i dettagli delle parole scambiate né i tempi esatti dell'allontanamento, che la fonte descrive come un momento di forte tensione all'interno del gruppo.",
-   "slug": "i-m-a-celeb-joanna-page-lascia-il-campo-dopo-lo-scontro-con-e43b8c",
-   "tags": [
-    "I'm A Celeb",
-    "Joanna Page",
-    "Mariella Frostrup"
-   ],
-   "scene": "tv",
-   "source": "dailymail.co.uk",
-   "url": "https://www.dailymail.com/tvshowbiz/article-16304935/Im-Celeb-tensions-erupt-Joanna-Page-storms-camp-clashing-Mariella-Frostrup-cooking.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "published": "2026-11-19T11:15:23+00:00"
-  },
-  {
-   "id": "98b455a8ca21",
-   "section": "tv",
-   "title": "Grown Ups, la serie Netflix tratta da Marian Keyes, arriva a gennaio 2027",
-   "summary": "Netflix ha fissato per il 14 gennaio 2027 la data di uscita di Grown Ups, adattamento del romanzo di Marian Keyes con Sarah Greene, Aisling Bea e Robert Sheehan. Sono state diffuse le prime immagini ufficiali.",
-   "body": "Netflix ha annunciato che l'adattamento di Grown Ups, romanzo della scrittrice irlandese Marian Keyes, debutterà il 14 gennaio 2027. Nel cast figurano Sarah Greene, Aisling Bea e Robert Sheehan, protagonisti di una storia dedicata a un gruppo di donne alle prese con le sfide della vita adulta.\n\nSecondo whats-on-netflix.com, insieme alla data sono state rese pubbliche le prime immagini dalla serie. Il materiale diffuso al momento non chiarisce ulteriori dettagli su trama, numero di episodi o eventuali sviluppi produttivi.",
-   "slug": "grown-ups-la-serie-netflix-tratta-da-marian-keyes-arriva-a-g-98b455",
-   "tags": [
-    "Grown Ups",
-    "Marian Keyes",
-    "Netflix"
-   ],
-   "scene": "streaming",
-   "source": "whats-on-netflix.com",
-   "url": "https://www.whats-on-netflix.com/news/grown-ups-marian-keys-netflix-series-release-date-first-looks/",
-   "published": "2026-11-19T11:12:27+00:00"
-  },
-  {
-   "id": "588c7b69df1a",
-   "section": "gossip",
-   "title": "Jean Dujardin e Aurélie Chaigneau sul tappeto rosso di Montréal",
-   "summary": "Jean Dujardin e la giornalista culinaria Aurélie Chaigneau sono apparsi insieme sul tappeto rosso del festival Cinémania a Montréal. La coppia ha scelto un evento pubblico per mostrarsi ufficialmente.",
-   "body": "Jean Dujardin, attore premiato con l'Oscar per The Artist, e la giornalista culinaria Aurélie Chaigneau hanno scelto il tappeto rosso del festival Cinémania di Montréal per presentarsi insieme davanti al pubblico. Secondo Paris Match, il 12 novembre i due hanno attirato l'attenzione dei fotografi al momento dell'arrivo, rendendo pubblica una relazione che fino a quel momento non era stata ufficializzata.\n\nLa scelta della località, lontana migliaia di chilometri dalla Francia, è il dato più evidente della serata. Il materiale disponibile non riporta dichiarazioni dei due protagonisti sul loro rapporto, quindi l'uscita pubblica resta soprattutto un'immagine fotografica da red carpet. Il festival canadese è dedicato al cinema francofono e alle produzioni d'oltralpe.",
-   "slug": "jean-dujardin-e-aurelie-chaigneau-sul-tappeto-rosso-di-montr-588c7b",
-   "tags": [
-    "Jean Dujardin",
-    "Aurélie Chaigneau",
-    "Cinémania"
-   ],
-   "scene": "tappeto",
-   "source": "parismatch.com",
-   "url": "https://www.parismatch.com/lamour-sur-tapis-rouge-jean-dujardin-officialise-avec-sa-nouvelle-compagne-aurelie-chaigneau-milliers-kilometres-france-6nXotz9SYPNjEVvapbTQ8",
-   "published": "2026-11-19T11:11:29+00:00"
   }
  ],
  "seen": [
-  "a5c59d67228e",
-  "f4d59a107223",
-  "2a5894410751",
-  "bf3c80c2cb21",
-  "98fbc8add58e",
-  "29b1cd6d4618",
-  "9cf9a8613fb0",
-  "e1e936730177",
-  "c07ed5f078e6",
-  "4dc631614beb",
-  "a6680d2018df",
-  "7b7624836cb3",
-  "dab2499a6405",
-  "bda38d140d7a",
-  "079b46c77708",
-  "b3066bd0adfe",
-  "75bb8e76848b",
-  "3e1703a8da2b",
-  "899e944e2263",
-  "0f13d35dd193",
-  "56577294b24a",
-  "1cb70c719528",
-  "7191546ea1ac",
-  "64158ce985cf",
   "1ed7b8a7eee9",
   "0809047f5ceb",
   "00f90ebe10e6",
@@ -12342,7 +12318,31 @@
   "6ce399411487",
   "236ea23a0c2e",
   "d6128b6626a1",
-  "116d7a2f6096"
+  "116d7a2f6096",
+  "5432eb899a65",
+  "5ca77aee36b0",
+  "7e749e2ac0f2",
+  "50d67c94d16d",
+  "20ed0de26c76",
+  "3849dc0fb198",
+  "7a8c087596f7",
+  "7aeb7dd797d1",
+  "f777426ebeb9",
+  "9b713ab35e0f",
+  "54d6fb04112c",
+  "874cec2f7af4",
+  "b865e13ca53f",
+  "f501c71fb711",
+  "2a1c0909e7cc",
+  "9ac67d41d772",
+  "6663d02f1eda",
+  "503515f7a654",
+  "37be4139d6c8",
+  "b55f44752872",
+  "ed423e2229cd",
+  "a990e8369f81",
+  "a7a5dd392beb",
+  "bf3c80c2cb21"
  ],
  "version": 4,
  "digests": [
