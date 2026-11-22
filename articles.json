@@ -1,6 +1,71 @@
 {
  "articles": [
   {
+   "id": "b8708facc744",
+   "section": "cinema",
+   "title": "Robert Pattinson, il thriller con rapina arriva su Netflix: ecco la data",
+   "summary": "Robert Pattinson approda su Netflix con un thriller a tema rapina. La piattaforma ha fissato la data di uscita del film, già ufficiale.",
+   "body": "Robert Pattinson sarà protagonista di un thriller con rapina in arrivo su Netflix. Secondo Collider, la piattaforma ha ufficializzato la data di uscita del film, che porta l'attore, noto al grande pubblico anche per il ruolo di James Bond, in un genere diverso dai blockbuster a cui è spesso associato.\n\nIl progetto conferma la varietà della carriera di Pattinson, che negli ultimi anni ha alternato grandi produzioni e titoli d'autore. Per il pubblico italiano, la novità è la presenza di un film originale Netflix con un protagonista di primo piano, da seguire nei prossimi mesi sulla piattaforma.",
+   "slug": "robert-pattinson-il-thriller-con-rapina-arriva-su-netflix-ec-b8708f",
+   "tags": [
+    "Robert Pattinson",
+    "Netflix"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/robert-pattinson-the-take-netflix-release-date-january-2027/",
+   "published": "2026-11-22T22:15:12+00:00"
+  },
+  {
+   "id": "6813d44ff886",
+   "section": "tv",
+   "title": "Mara Venier su Ballando con le Stelle: \"Li avrei lasciati vicini\"",
+   "summary": "Mara Venier ha dedicato un talk di Domenica In a Ballando con le Stelle, commentando la gestione della coppia formata da Barbara D'Urso e Mariotto. La conduttrice ha dichiarato di essersi divertita di più se i due fossero stati lasciati vicini.",
+   "body": "Nel talk di Domenica In dedicato a Ballando con le Stelle, Mara Venier è tornata sulle dinamiche del programma di Rai 1 e sul rapporto tra Barbara D'Urso e Mariotto. Secondo quanto riportato da Biccy, la conduttrice ha detto che, a suo avviso, i due sarebbero stati più divertenti se fossero stati lasciati vicini durante la gara.\n\nIl talk è andato in onda dopo una puntata della settimana precedente più movimentata, e gli autori hanno costruito questa volta un approfondimento senza polemiche evidenti. La fonte sottolinea come gli ingredienti per un dibattito non mancassero, ma il clima è rimasto più disteso rispetto alla settimana scorsa.",
+   "slug": "mara-venier-su-ballando-con-le-stelle-li-avrei-lasciati-vici-6813d4",
+   "tags": [
+    "Domenica In",
+    "Ballando con le Stelle",
+    "Mara Venier"
+   ],
+   "scene": "tv",
+   "source": "biccy.it",
+   "url": "https://www.biccy.it/domenica-in-mara-venier-durso-mariotto/",
+   "published": "2026-11-22T21:57:38+00:00"
+  },
+  {
+   "id": "2156f248918d",
+   "section": "cinema",
+   "title": "Rian Johnson annuncia un thriller paranoico in stile anni '70",
+   "summary": "Il regista Rian Johnson ha dichiarato che il suo prossimo film non è né un capitolo di Star Wars né un nuovo Knives Out, ma un thriller paranoico ispirato al cinema degli anni Settanta. Johnson non ha rinnegato la saga di Knives Out, ricordando che Looper resta il suo ultimo film non legato a un franchise.",
+   "body": "Il regista Rian Johnson ha spiegato che il suo prossimo progetto non sarà né un episodio di Star Wars né un nuovo capitolo della saga di Knives Out. Si tratterebbe invece di un thriller paranoico dal sapore anni Settanta, un genere che negli ultimi anni ha ritrovato spazio in diversi film d'autore.\n\nSecondo quanto riporta World of Reel, Johnson ha anche precisato di non voler criticare i due film con protagonista il detective Benoit Blanc, che ha definito intrattenimento ben fatto e raffinato. Ha però ricordato che Looper, uscito quattordici anni fa, resta il suo ultimo film non legato a un franchise.",
+   "slug": "rian-johnson-annuncia-un-thriller-paranoico-in-stile-anni-70-2156f2",
+   "tags": [
+    "Rian Johnson",
+    "Knives Out",
+    "Looper"
+   ],
+   "scene": "pellicola",
+   "source": "worldofreel.com",
+   "url": "https://www.worldofreel.com/blog/2026/11/22/rian-johnson-says-his-next-film-isnt-star-wars-or-knives-out-its-a-70s-style-paranoid-thriller",
+   "published": "2026-11-22T21:50:04+00:00"
+  },
+  {
+   "id": "e1cdfba2192a",
+   "section": "cinema",
+   "title": "Clayface perde 2.300 sale prima dell'uscita in digitale",
+   "summary": "Il film DC Clayface è stato rimosso da circa 2.300 sale cinematografiche in vista dell'uscita in home video prevista a inizio dicembre. Il calo di schermi arriva dopo un precedente ridimensionamento della distribuzione.",
+   "body": "Il cinecomic DC Clayface è stato tolto da circa 2.300 sale in vista dell'uscita in digitale, fissata per i primi giorni di dicembre. Secondo Collider, si tratta di un nuovo e consistente taglio al numero di schermi, dopo il quale il film resta programmato in un numero molto ridotto di locali.\n\nLa mossa è in linea con il normale percorso di un titolo che esaurisce la propria finestra in sala e si avvia verso il mercato domestico. Il film, che fa parte dell'universo DC, potrà quindi essere visto a casa tramite le piattaforme di acquisto e noleggio digitale.",
+   "slug": "clayface-perde-2-300-sale-prima-dell-uscita-in-digitale-e1cdfb",
+   "tags": [
+    "Clayface"
+   ],
+   "scene": "sala",
+   "source": "collider.com",
+   "url": "https://collider.com/dc-clayface-removed-from-2300-theaters-box-office-digital-debut/",
+   "published": "2026-11-22T21:45:12+00:00"
+  },
+  {
    "id": "bf0f169b6bbd",
    "section": "cinema",
    "title": "Tutti e cinque i film di Hunger Games in streaming gratuito, ma per poco",
@@ -8256,92 +8321,9 @@
    "source": "ANSA Cultura e Spettacoli",
    "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/20/peter-pan-compie-20-anni-e-trascina-ancora-in-volo-chi-vuole-sognare_78017506-04bd-4c4a-8c59-66f41071814c.html",
    "published": "2026-11-20T11:00:46+00:00"
-  },
-  {
-   "id": "f750652fc975",
-   "section": "tv",
-   "title": "The Altruists: gli attori Anthony Boyle e Julia Garner raccontano lo scandalo cripto",
-   "summary": "Anthony Boyle e Julia Garner parlano della miniserie Netflix The Altruists, ispirata alla vicenda di Sam Bankman-Fried e Caroline Ellison. Gli attori raccontano il momento in cui lo scandalo delle criptovalute è esploso.",
-   "body": "Gli attori Anthony Boyle e Julia Garner sono protagonisti di The Altruists, la miniserie Netflix che racconta la storia di Sam Bankman-Fried e Caroline Ellison, al centro dello scandalo delle criptovalute. Secondo Collider, nelle interviste i due interpreti ripercorrono il rapporto tra i personaggi e il momento preciso in cui la vicenda è deflagrata.\n\nIl racconto mette al centro il legame tra i due protagonisti reali e il crollo che ne è seguito. Boyle e Garner spiegano come hanno lavorato sui rispettivi personaggi, cercando di restituire le motivazioni e le ambiguità di una storia che ha attirato grande attenzione del pubblico internazionale.",
-   "slug": "the-altruists-gli-attori-anthony-boyle-e-julia-garner-raccon-f75065",
-   "tags": [
-    "The Altruists",
-    "Julia Garner",
-    "Anthony Boyle"
-   ],
-   "scene": "streaming",
-   "source": "collider.com",
-   "url": "https://collider.com/the-altruists-netflix-crypto-scandal-anthony-boyle-julia-garner/",
-   "published": "2026-11-20T11:00:12+00:00"
-  },
-  {
-   "id": "fb7990d2fe8c",
-   "section": "cinema",
-   "title": "Steps, il fantasy Netflix con Daniel Radcliffe tra le figure delle fiabe",
-   "summary": "Da oggi su Netflix arriva Steps, film fantasy che rielabora un mondo di fiabe. Nel cast di lingua inglese compaiono Daniel Radcliffe, noto per Harry Potter, e un attore di Game of Thrones.",
-   "body": "Su Netflix è disponibile da oggi Steps, il nuovo film fantasy della piattaforma, ambientato in un mondo popolato da personaggi delle fiabe che la storia scombina. Secondo quanto riportato da moviepilot.de, il progetto è interpretato in lingua inglese e vede tra i protagonisti Daniel Radcliffe, il volto di Harry Potter sul grande schermo.\n\nNel cast figura anche un attore che il pubblico ricorda per il suo ruolo in Game of Thrones. La pellicola si inserisce nel catalogo fantasy di Netflix e propone una rilettura dell'immaginario delle favole tradizionali. Il materiale disponibile non chiarisce ulteriori dettagli sulla trama o sulla critica, che saranno utili per valutare il risultato finale.",
-   "slug": "steps-il-fantasy-netflix-con-daniel-radcliffe-tra-le-figure-fb7990",
-   "tags": [
-    "Steps",
-    "Daniel Radcliffe",
-    "Netflix"
-   ],
-   "scene": "streaming",
-   "source": "moviepilot.de",
-   "url": "https://www.moviepilot.de/news/steps-fantasy-netflix-start-1165452",
-   "published": "2026-11-20T11:00:00+00:00"
-  },
-  {
-   "id": "73d2d2d52526",
-   "section": "cinema",
-   "title": "La Resurrezione di Cristo di Mel Gibson: i diritti italiani a Rai Cinema e Leone Film Group",
-   "summary": "Rai Cinema e Leone Film Group hanno acquisito i diritti italiani dei due film di Mel Gibson dedicati alla Resurrezione di Cristo. La distribuzione sarà affidata a 01 Distribution, in contemporanea con l'uscita statunitense di Lionsgate.",
-   "body": "Rai Cinema e Leone Film Group hanno acquisito i diritti di distribuzione in Italia de La Resurrezione di Cristo, il progetto in due parti diretto da Mel Gibson. Secondo Box Office Biz, il film uscirà nelle sale italiane con 01 Distribution, in contemporanea con le date statunitensi fissate da Lionsgate.\n\nLa prima parte è prevista nel 2027, la seconda nel 2028. L'accordo riguarda quindi entrambi i capitoli della saga, con un calendario di uscita che allinea il pubblico italiano a quello americano.",
-   "slug": "la-resurrezione-di-cristo-di-mel-gibson-i-diritti-italiani-a-73d2d2",
-   "tags": [
-    "Mel Gibson",
-    "La Resurrezione di Cristo",
-    "Rai Cinema"
-   ],
-   "scene": "ciak",
-   "source": "Box Office Biz",
-   "url": "https://boxofficebiz.it/news/la-resurrezione-di-cristo-rai-cinema-e-leone-film-group-acquisiscono-i-diritti-italiani/",
-   "published": "2026-11-20T10:55:44+00:00"
-  },
-  {
-   "id": "07f129bd0e9a",
-   "section": "cinema",
-   "title": "La Resurrezione di Cristo di Mel Gibson arriva nelle sale italiane in due parti",
-   "summary": "Rai Cinema e Leone Film Group distribuiranno in Italia La Resurrezione di Cristo, il nuovo progetto di Mel Gibson diviso in due parti. Le uscite nelle sale sono previste dal 6 maggio 2027 per la prima e dal 28 maggio 2028 per la seconda.",
-   "body": "Rai Cinema e Leone Film Group hanno annunciato la distribuzione italiana di La Resurrezione di Cristo, il nuovo progetto cinematografico di Mel Gibson. Il film è costruito in due parti, che usciranno in momenti diversi: la prima nelle sale italiane dal 6 maggio 2027, la seconda dal 28 maggio 2028.\n\nSecondo Cinematografo, la scelta di dividere l'opera in due capitoli segue la struttura del progetto stesso, che il regista porta avanti come seguito ideale di un percorso iniziato anni fa. L'accordo tra la casa di produzione pubblica e il gruppo distributivo conferma l'interesse del mercato italiano per una delle produzioni più attese del regista australiano.",
-   "slug": "la-resurrezione-di-cristo-di-mel-gibson-arriva-nelle-sale-it-07f129",
-   "tags": [
-    "Mel Gibson",
-    "Rai Cinema",
-    "La Resurrezione di Cristo"
-   ],
-   "scene": "pellicola",
-   "source": "Cinematografo",
-   "url": "https://www.cinematografo.it/riflettori/rai-cinema-e-leone-film-group-per-la-resurrezione-di-cristo-jx2fm7ib",
-   "published": "2026-11-20T10:54:19+00:00"
   }
  ],
  "seen": [
-  "fdcdc6926b26",
-  "8b426ec863ed",
-  "afd838cec11b",
-  "80720d792f51",
-  "29c9f07788df",
-  "280bc835c656",
-  "6dbda7f290bc",
-  "44af77c5c278",
-  "aa8d3d45d23a",
-  "c38c754939c3",
-  "8d75dc60ec93",
-  "9ea3756ac091",
-  "f9a33818bccc",
-  "c16581bd1b10",
-  "2d64db1d4d89",
   "a67023eda517",
   "bef0eeacdea4",
   "42bd57bbe5a1",
@@ -12326,7 +12308,22 @@
   "2089e554f123",
   "ddf7eff53ccc",
   "6f612ccbdaa5",
-  "0dcd2806bc0e"
+  "0dcd2806bc0e",
+  "8928e8c6c78f",
+  "b8708facc744",
+  "c8dc78dd71d3",
+  "12463d6fa262",
+  "3d6014aa293e",
+  "903209775ff8",
+  "382c96b3bddf",
+  "6813d44ff886",
+  "0d2451fa25ee",
+  "5b25ead3304d",
+  "2949809191e2",
+  "1323f3db99e4",
+  "2156f248918d",
+  "e1cdfba2192a",
+  "be890430117f"
  ],
  "version": 4,
  "digests": [
