@@ -1,6 +1,74 @@
 {
  "articles": [
   {
+   "id": "26ce86d7593e",
+   "section": "tv",
+   "title": "Gli Anelli del Potere e la scelta mortale di Elros",
+   "summary": "La serie Gli Anelli del Potere approfondisce la figura di Elros, fratello di Elrond, che scelse la mortalità. Secondo BadTaste, questa decisione influenza Númenor, Aragorn e Arwen.",
+   "body": "Secondo BadTaste, Gli Anelli del Potere mette in luce un dettaglio finora poco esplorato: Elros, fratello di Elrond, scelse la mortalità. Il suo percorso viene presentato come una liberazione dall'eterno presente degli Elfi, una condizione in cui il tempo non porta mai un vero cambiamento.\n\nLa scelta di Elros, secondo l'analisi, ha un peso che si estende ben oltre il suo personaggio. Dal suo ramo discendono la storia di Númenor e, più avanti, le figure di Aragorn e Arwen, legate al destino dei mortali e al tema centrale della serie.",
+   "slug": "gli-anelli-del-potere-e-la-scelta-mortale-di-elros-26ce86",
+   "tags": [
+    "Gli Anelli del Potere",
+    "Elros",
+    "Aragorn"
+   ],
+   "scene": "premiere",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/la-mortalita-come-liberazione-dalleterno-presente-gli-anelli-del-potere-introduce-un-dettaglio-inedito",
+   "published": "2026-11-22T12:20:01+00:00"
+  },
+  {
+   "id": "0cfe0811c9ac",
+   "section": "tv",
+   "title": "Silo e The Man in the High Castle tra le serie distopiche più apprezzate",
+   "summary": "Una lista di cinque serie distopiche viene proposta come alternativa a The Hunger Games, con Silo di Apple TV e The Man in the High Castle di Prime Video tra i titoli citati. Il materiale disponibile si ferma al confronto generale e non riporta dettagli sulle singole serie.",
+   "body": "Secondo Collider, alcune serie distopiche sarebbero per molti spettatori superiori alla saga di The Hunger Games. Nell'elenco pubblicato dalla testata compaiono due titoli in particolare: Silo, prodotta da Apple TV, e The Man in the High Castle, disponibile su Prime Video. Il giudizio è presentato come un'opinione di critica, non come un dato oggettivo.\n\nLa segnalazione riguarda una lista di cinque titoli del genere, di cui il materiale ricevuto non riporta gli altri nomi né le motivazioni dettagliate di ciascuna scelta. Per chi cerca nuove visioni dopo la saga di Suzanne Collins, il riferimento alle due serie offre un primo punto di partenza per il genere.",
+   "slug": "silo-e-the-man-in-the-high-castle-tra-le-serie-distopiche-pi-0cfe08",
+   "tags": [
+    "Silo",
+    "The Man in the High Castle",
+    "The Hunger Games"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/dystopian-shows-better-than-the-hunger-games/",
+   "published": "2026-11-22T12:09:12+00:00"
+  },
+  {
+   "id": "ccd8e2d73a3c",
+   "section": "musica",
+   "title": "Riccardo Chailly premiato come miglior direttore agli Opera Awards 2026",
+   "summary": "Il direttore d'orchestra Riccardo Chailly è stato premiato come miglior direttore agli Opera Awards 2026, riconoscimento assegnato con un ringraziamento della Scala. Il giovane Lorenzo Passarini è stato invece indicato come Rising Star della manifestazione.",
+   "body": "Il direttore d'orchestra Riccardo Chailly è stato premiato come miglior direttore nell'ambito degli Opera Awards 2026, la cerimonia dedicata al mondo della lirica. Il riconoscimento è legato anche al lungo legame di Chailly con il Teatro alla Scala, che ha voluto ringraziarlo pubblicamente per il suo lavoro.\n\nNella stessa serata il maestro Lorenzo Passarini è stato premiato come Rising Star, la categoria dedicata ai giovani talenti emergenti. Secondo ANSA, i due premi confermano la varietà di figure celebrate dalla manifestazione, dai protagonisti affermati alle nuove generazioni del podio.",
+   "slug": "riccardo-chailly-premiato-come-miglior-direttore-agli-opera-ccd8e2",
+   "tags": [
+    "Riccardo Chailly",
+    "Lorenzo Passarini",
+    "Opera Awards"
+   ],
+   "scene": "premiere",
+   "source": "ANSA Cultura e Spettacoli",
+   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/22/opera-awards-2026-riccardo-chailly-premiato-come-miglior-direttore_202c457f-25b2-4f04-875b-a15e6124fc4d.html",
+   "published": "2026-11-22T12:02:35+00:00"
+  },
+  {
+   "id": "f220550696f3",
+   "section": "cinema",
+   "title": "The End of Oak Street, il thriller fantascientifico con Anne Hathaway è un successo su HBO Max",
+   "summary": "Il film di fantascienza The End of Oak Street, con Anne Hathaway, sta registrando grande successo di visualizzazioni sulla piattaforma HBO Max. La notizia è riportata da Collider.",
+   "body": "Il film di fantascienza con mostri The End of Oak Street, interpretato da Anne Hathaway, è diventato uno dei titoli più visti su HBO Max. Secondo Collider, la pellicola sta ottenendo un riscontro significativo sulla piattaforma di streaming, al punto da essere considerata un vero successo per il servizio.\n\nIl thriller fantascientifico si inserisce nel catalogo di HBO Max come una delle proposte di genere più seguite del periodo. La fonte sottolinea come il film stia attirando l'attenzione del pubblico proprio grazie al mix di suspense e creature, un elemento che ne ha favorito la diffusione in streaming.",
+   "slug": "the-end-of-oak-street-il-thriller-fantascientifico-con-anne-f22055",
+   "tags": [
+    "The End of Oak Street",
+    "Anne Hathaway",
+    "HBO Max"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/anne-hathaway-the-end-of-oak-street-streaming-hit-hbo-max-november-2026/",
+   "published": "2026-11-22T12:00:12+00:00"
+  },
+  {
    "id": "8702a7f80fd5",
    "section": "gossip",
    "title": "Tommy Lee Jones: \"Dio mi ha voluto bene facendomi nascere in Texas\"",
@@ -8269,97 +8337,9 @@
    "source": "collider.com",
    "url": "https://collider.com/9-1-1-nashville-showrunner-season-2-midseason-finale/",
    "published": "2026-11-20T03:01:12+00:00"
-  },
-  {
-   "id": "4c7e10c9d0e2",
-   "section": "tv",
-   "title": "9-1-1: Nashville, il finale di metà stagione svela il Faraone",
-   "summary": "Nel finale di metà stagione di 9-1-1: Nashville il Faraone compie due mosse importanti, rapendo due personaggi principali e rivelando la propria identità. Lo showrunner Rashad Raisani ha parlato del futuro di Rogue e Don in un'intervista a TV Insider.",
-   "body": "Nel sesto episodio della seconda stagione, intitolato \"Tears of the Nile\", il Faraone fa due mosse decisive: rapisce due personaggi principali e si mostra apertamente. Secondo TV Insider, che ha intervistato lo showrunner Rashad Raisani, la svolta cambia la situazione di Rogue e Don, che ora devono affrontare una minaccia molto più diretta.\n\nRaisani ha parlato della rivelazione del Faraone e delle scelte di casting dietro questo sviluppo narrativo. Lo spin-off della serie 9-1-1 riprenderà le indagini dopo la pausa, e i fan potranno capire meglio come i due protagonisti reagiranno al nuovo scenario.",
-   "slug": "9-1-1-nashville-il-finale-di-meta-stagione-svela-il-faraone-4c7e10",
-   "tags": [
-    "9-1-1: Nashville",
-    "Rashad Raisani"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1304596/911-nashville-aj-buckley-pharaoh-kidnaps-rogue-don/",
-   "published": "2026-11-20T03:00:42+00:00"
-  },
-  {
-   "id": "263e31d30e1a",
-   "section": "tv",
-   "title": "9-1-1: Nashville, Jennifer Love Hewitt e Ryan Phillippe si ritrovano in un crossover",
-   "summary": "Jennifer Love Hewitt e Ryan Phillippe, protagonisti nel 1997 di I Know What You Did Last Summer, torneranno a recitare insieme in un crossover tra 9-1-1 e 9-1-1: Nashville. Il produttore della serie ha anticipato il ritorno della coppia di attori.",
-   "body": "Jennifer Love Hewitt e Ryan Phillippe saranno di nuovo insieme sullo schermo a trent'anni dal film del 1997 I Know What You Did Last Summer. Il loro ritorno avverrà in un crossover tra la serie 9-1-1 e il suo spin-off 9-1-1: Nashville, come anticipato dal responsabile dello spin-off.\n\nSecondo quanto riportato da TV Insider, il racconto della puntata coinvolgerà anche il personaggio di Rogue, che nel frattempo si muoverà a Los Angeles. Non sono stati ancora chiariti tutti i dettagli sugli altri personaggi coinvolti nell'episodio.",
-   "slug": "9-1-1-nashville-jennifer-love-hewitt-e-ryan-phillippe-si-rit-263e31",
-   "tags": [
-    "9-1-1: Nashville",
-    "Jennifer Love Hewitt",
-    "Ryan Phillippe"
-   ],
-   "scene": "tv",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/1304694/911-nashville-jennifer-love-hewitt-ryan-phillippe-reuion-details-angela-bassett/",
-   "published": "2026-11-20T03:00:38+00:00"
-  },
-  {
-   "id": "8c3c23f1ed4f",
-   "section": "tv",
-   "title": "War, il cast risponde alle domande sulla seconda stagione",
-   "summary": "Gli interpreti di War hanno risposto alle domande aperte dal finale della prima stagione, dal destino di Johnny al futuro di Serena e Nick. La serie con Sienna Miller e Dominic West si chiude con il divorzio tra Carla e Morgan.",
-   "body": "Il cast di War ha risposto alle principali domande lasciate aperte dal finale della prima stagione, concluso con l'ottavo episodio. Secondo TV Insider, le sorti di Johnny e il prossimo percorso di Serena e Nick restano al centro dell'attesa dei fan in vista di un eventuale rinnovo.\n\nSul piano sentimentale, la chiusura della stagione ha affrontato il divorzio tra Carla, interpretata da Sienna Miller, e Morgan, interpretato da Dominic West. Dopo i colpi di scena degli episodi precedenti, la conclusione della vicenda è stata volutamente più sommessa, quasi un epilogo tranquillo rispetto alla tensione accumulata nelle puntate centrali.",
-   "slug": "war-il-cast-risponde-alle-domande-sulla-seconda-stagione-8c3c23",
-   "tags": [
-    "War",
-    "Sienna Miller",
-    "Dominic West"
-   ],
-   "scene": "streaming",
-   "source": "tvinsider.com",
-   "url": "https://www.tvinsider.com/gallery/war-season-2-questions-answered-johnny-serena-nick-saeed/",
-   "published": "2026-11-20T03:00:24+00:00"
-  },
-  {
-   "id": "b1782bc89ed3",
-   "section": "cinema",
-   "title": "Much Ado About Nothing a Broadway con Tom Hiddleston e Hayley Atwell",
-   "summary": "La regia di Jamie Lloyd porta Molto rumore per nulla di Shakespeare sul palco del Winter Garden Theatre di Broadway, con Tom Hiddleston e Hayley Atwell protagonisti. Secondo Deadline la messinscena è una festa irresistibile, fatta anche di coriandoli che ricoprono il palco ogni sera.",
-   "body": "Al Winter Garden Theatre di Broadway è in scena Much Ado About Nothing, la commedia di Shakespeare diretta da Jamie Lloyd con Tom Hiddleston e Hayley Atwell nei ruoli principali. Secondo Deadline, lo spettacolo trasforma il classico in una festa travolgente, accompagnata ogni sera da una pioggia di coriandoli rosa che ricopre il palcoscenico.\n\nLa recensione sottolinea il ritmo e l'energia della produzione, capace di rendere accessibile e divertente una delle commedie più note del drammaturgo inglese. Il riferimento ai coriandoli, paragonati a parate e festeggiamenti di Times Square, rende l'idea di un allestimento pensato per il pubblico come un evento da celebrare.",
-   "slug": "much-ado-about-nothing-a-broadway-con-tom-hiddleston-e-hayle-b1782b",
-   "tags": [
-    "Much Ado About Nothing",
-    "Tom Hiddleston",
-    "Hayley Atwell"
-   ],
-   "scene": "palco",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/much-ado-about-nothing-broadway-review-tom-hiddleston-1237226924/",
-   "published": "2026-11-20T03:00:00+00:00"
   }
  ],
  "seen": [
-  "4ecfa8716792",
-  "c1d2423e9669",
-  "7cd16379a435",
-  "b7e100d2411e",
-  "8f03f29775cd",
-  "e56669511c2f",
-  "94a07324fa98",
-  "423fdc35b597",
-  "19e0decd8d33",
-  "4da71f94567d",
-  "9252dffc2e96",
-  "0d38b39bbef9",
-  "6a84c2e3c81a",
-  "0275feeba862",
-  "fa41031ac144",
-  "8744ff692f32",
-  "3a645eb2b1c8",
-  "54b04a95538f",
-  "0811e0ffe7e0",
-  "de9d80039549",
-  "3746ff3fe390",
   "68e2d213e080",
   "fc748e98c681",
   "fdf023494f86",
@@ -12338,7 +12318,28 @@
   "11bb919966ea",
   "1cca8e6a3194",
   "6718cfa1ff75",
-  "4e704b4ea369"
+  "4e704b4ea369",
+  "26ce86d7593e",
+  "c770503dc8fb",
+  "0cfe0811c9ac",
+  "e10351fda841",
+  "bfaf95d9f052",
+  "4e276ac6e233",
+  "ccd8e2d73a3c",
+  "8591cd03c99d",
+  "507aef841e75",
+  "0f9375cf93c3",
+  "c14d78227d96",
+  "a7dcca833572",
+  "f220550696f3",
+  "4af74c88344b",
+  "01ac546a0ccc",
+  "6ce5d3faa93e",
+  "fab6a68d0bf9",
+  "8466d2560612",
+  "baebb7f5a7f3",
+  "580e2657a1e5",
+  "e7724de645f9"
  ],
  "version": 4,
  "digests": [
