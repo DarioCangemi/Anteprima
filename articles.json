@@ -1,6 +1,123 @@
 {
  "articles": [
   {
+   "id": "d74a18d9cbe8",
+   "section": "tv",
+   "title": "Bowen Yang e il suo addio a metà stagione di SNL",
+   "summary": "Bowen Yang ha lasciato Saturday Night Live nel 2025, a metà stagione. Un anno dopo è tornato per un cameo nello sketch d'apertura, interpretando Jensen Huang.",
+   "body": "Bowen Yang ha lasciato il cast di Saturday Night Live, il sketch show della NBC, nel corso della stagione 2025. Secondo HollywoodLife, l'attore ha parlato della sua uscita anticipata, dopo essere rimasto in squadra per una parte dell'annata.\n\nUn anno più tardi Yang è tornato in scena con un cameo divertente nello sketch d'apertura, dove ha interpretato Jensen Huang, amministratore delegato di Nvidia. La sua apparizione è stata accolta come un gradito ritorno per i fan del programma.",
+   "slug": "bowen-yang-e-il-suo-addio-a-meta-stagione-di-snl-d74a18",
+   "tags": [
+    "Bowen Yang",
+    "Saturday Night Live",
+    "Jensen Huang"
+   ],
+   "scene": "tv",
+   "source": "hollywoodlife.com",
+   "url": "https://hollywoodlife.com/feature/why-did-bowen-yang-leave-snl-5494824/",
+   "published": "2026-11-22T15:10:51+00:00"
+  },
+  {
+   "id": "678984067ef0",
+   "section": "cinema",
+   "title": "James Bond, i grandi nomi che non hanno mai interpretato 007",
+   "summary": "Un sondaggio di JoBlo riapre la discussione sugli attori che furono vicini al ruolo di James Bond, tra provini e rifiuti. Il pubblico è chiamato a scegliere quale tra loro sarebbe stato il miglior 007.",
+   "body": "Il sito americano JoBlo ha lanciato un sondaggio dedicato agli uomini che sono stati vicini al ruolo di James Bond senza mai indossarne lo smoking. Nella lista ci sono attori che hanno sostenuto un provino e altri che hanno rifiutato la parte quando gli è stata proposta, due situazioni che hanno lasciato il personaggio in bilico per anni.\n\nSecondo JoBlo, la domanda posta ai lettori è semplice: quale di questi candidati mancati avrebbe interpretato il miglior 007? Il sondaggio invita a votare tra i nomi proposti e a confrontare le scelte della produzione con quelle che avrebbero potuto cambiare la storia della saga.",
+   "slug": "james-bond-i-grandi-nomi-che-non-hanno-mai-interpretato-007-678984",
+   "tags": [
+    "James Bond",
+    "JoBlo"
+   ],
+   "scene": "premiere",
+   "source": "joblo.com",
+   "url": "https://www.joblo.com/poll-james-bond-contenders/",
+   "published": "2026-11-22T15:03:24+00:00"
+  },
+  {
+   "id": "a000e1ddb09e",
+   "section": "tv",
+   "title": "Blade Runner 2099 arriva su Prime Video con Michelle Yeoh",
+   "summary": "La serie Blade Runner 2099, ideata da Ridley Scott, debutta questa settimana su Prime Video. Il progetto conta otto episodi e vede Michelle Yeoh tra i protagonisti.",
+   "body": "Il franchise di Blade Runner, nato dal film di Ridley Scott, torna questa settimana con una nuova serie: si intitola Blade Runner 2099 ed è disponibile su Prime Video. Il racconto si sviluppa in otto episodi e segna un nuovo capitolo di una saga che da decenni occupa un posto di rilievo nella fantascienza.\n\nNel cast figura Michelle Yeoh, una delle interpreti più conosciute del panorama internazionale. Secondo Collider, la serie approda sulla piattaforma di Amazon proprio in questi giorni, con il marchio di Scott come riferimento principale per il pubblico. Per ulteriori dettagli su trama e personaggi, si rimanda alla fonte.",
+   "slug": "blade-runner-2099-arriva-su-prime-video-con-michelle-yeoh-a000e1",
+   "tags": [
+    "Blade Runner 2099",
+    "Michelle Yeoh",
+    "Ridley Scott"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/blade-runner-2099-prime-video-release-november-25-ridley-scott/",
+   "published": "2026-11-22T15:00:12+00:00"
+  },
+  {
+   "id": "dbc4500429bb",
+   "section": "cinema",
+   "title": "Perché The Ballad of Songbirds & Snakes merita più attenzione tra i film di Hunger Games",
+   "summary": "Mentre l'attenzione è rivolta a Sunrise on the Reaping, il prequel del 2023 The Ballad of Songbirds & Snakes viene indicato come il miglior film della saga di Hunger Games. La segnalazione arriva dal sito Winter is Coming.",
+   "body": "Il prequel del 2023 The Ballad of Songbirds & Snakes, ambientato anni prima degli eventi della saga di Hunger Games e dedicato alla giovinezza di Coriolanus Snow, viene indicato da alcuni critici come il film più riuscito della serie. Secondo Winter is Coming, il titolo meriterebbe più attenzione proprio ora che i riflettori sono puntati su Sunrise on the Reaping, il nuovo spin-off della saga.\n\nL'articolo sottolinea come la pellicola, uscita nel 2023, sia stata spesso messa in secondo piano rispetto ai film principali. Il sito propone quindi di riscoprirla, considerandola un tassello importante per comprendere le origini del Panem e del personaggio di Snow. La fonte non riporta ulteriori dettagli su incassi o accoglienza del pubblico.",
+   "slug": "perche-the-ballad-of-songbirds-snakes-merita-piu-attenzione-dbc450",
+   "tags": [
+    "The Ballad of Songbirds & Snakes",
+    "Hunger Games",
+    "Sunrise on the Reaping"
+   ],
+   "scene": "pellicola",
+   "source": "winteriscoming.net",
+   "url": "https://winteriscoming.net/the-ballad-of-songbirds-snakes-best-hunger-games-movie?utm_source=RSS",
+   "published": "2026-11-22T15:00:01+00:00"
+  },
+  {
+   "id": "d44c9ac6604a",
+   "section": "tv",
+   "title": "Giorgino torna con “XXI Secolo”, quarta edizione dal 23 novembre su Rai",
+   "summary": "Francesco Giorgino presenterà lunedì 23 novembre la prima puntata della quarta edizione di “XXI Secolo – Quando il presente diventa futuro”, programma di approfondimento Rai. Secondo quanto dichiarato nell'intervista, il programma punta su pluralismo generazionale, attenzione ai social e uso verificato dell'intelligenza artificiale.",
+   "body": "Lunedì 23 novembre 2026 torna su Rai “XXI Secolo – Quando il presente diventa futuro”, approfondimento giunto alla quarta edizione e condotto da Francesco Giorgino. Il programma si rivolge soprattutto ai giovani e dedica spazio ai social network e all'uso dell'intelligenza artificiale, temi che secondo il giornalista aiutano il pubblico a orientarsi nei cambiamenti del presente.\n\nNel corso di un'intervista pubblicata da Superguida TV, Giorgino ha spiegato che la trasmissione punta sul pluralismo generazionale e su un'AI verificata, oltre che sull'ironia come strumento per raccontare la realtà. Ha inoltre dichiarato di sognare un giorno un'intervista con Papa Leone XIV. Secondo quanto riportato dalla fonte, la notizia è stata diffusa dal sito Superguida TV.",
+   "slug": "giorgino-torna-con-xxi-secolo-quarta-edizione-dal-23-novembr-d44c9a",
+   "tags": [
+    "Francesco Giorgino",
+    "XXI Secolo"
+   ],
+   "scene": "proiettore",
+   "source": "superguidatv.it",
+   "url": "https://www.superguidatv.it/francesco-giorgino-intervista-xxi-secolo/",
+   "published": "2026-11-22T14:58:28+00:00"
+  },
+  {
+   "id": "1f2def5df354",
+   "section": "musica",
+   "title": "Classifica FIMI: Alfa con \"Eri solo da incontrare\" al secondo posto dei singoli",
+   "summary": "Nella Classifica FIMI della settimana dal 13 al 19 novembre 2026, il brano \"Eri solo da incontrare\" di Alfa si piazza al secondo posto tra i singoli. Il rapper è alle spalle di Kid Yugi, che resta in vetta.",
+   "body": "Nella classifica settimanale FIMI, relativa a vendite e ascolti in streaming dal 13 al 19 novembre 2026, il singolo \"Eri solo da incontrare\" di Alfa conquista il secondo posto della graduatoria dei singoli. Il brano si colloca subito dietro a Kid Yugi, che mantiene la prima posizione.\n\nSecondo Davide Maggio, che ha riportato i dati, la posizione di Alfa segna un risultato di rilievo per il rapper nel confronto diretto con il primo classificato. Il materiale disponibile non riporta altri dettagli sulla settimana, come eventuali variazioni rispetto alle rilevazioni precedenti o i numeri di ascolto.",
+   "slug": "classifica-fimi-alfa-con-eri-solo-da-incontrare-al-secondo-p-1f2def",
+   "tags": [
+    "Alfa",
+    "Kid Yugi",
+    "FIMI"
+   ],
+   "scene": "vinile",
+   "source": "davidemaggio.it",
+   "url": "https://www.davidemaggio.it/musica/classifica-fimi-dal-13-al-19-novembre-2026-alfa-con-eri-solo-da-incontrare-svetta-al-secondo-posto-nei-singoli-e-tallona-kid-yugi",
+   "published": "2026-11-22T14:51:54+00:00"
+  },
+  {
+   "id": "833f8ed8b176",
+   "section": "tv",
+   "title": "Dexter Resurrection: Uma Thurman è Charley Brown, la nuova compagna di Dexter",
+   "summary": "In Dexter Resurrection il personaggio di Charley Brown, interpretato da Uma Thurman, viene presentato come la figura che succede a Lumen accanto a Dexter Morgan. Secondo la fonte, il personaggio sta cambiando l'equilibrio della seconda stagione.",
+   "body": "Nella seconda stagione di Dexter Resurrection entra in scena Charley Brown, interpretata da Uma Thurman. Il personaggio arriva dopo Lumen e Hannah ed è indicato come una possibile erede di Lumen nella vita del protagonista, Dexter Morgan.\n\nSecondo BadTaste, la presenza di Charley Brown sta modificando l'andamento della stagione. La notizia della fonte si concentra sul ruolo della Thurman e sul rapporto che il personaggio stabilisce con Dexter, senza entrare in ulteriori dettagli sulla trama.",
+   "slug": "dexter-resurrection-uma-thurman-e-charley-brown-la-nuova-com-833f8e",
+   "tags": [
+    "Dexter Resurrection",
+    "Uma Thurman",
+    "Dexter Morgan"
+   ],
+   "scene": "streaming",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/dexter-resurrection-dopo-lumen-e-hannah-dexter-ha-finalmente-trovato-la-compagna-perfetta",
+   "published": "2026-11-22T14:30:12+00:00"
+  },
+  {
    "id": "b25b32a348f3",
    "section": "cinema",
    "title": "Jennifer Lopez e un possibile sequel di Suocera cercasi con Jane Fonda",
@@ -266,6 +383,22 @@
    "source": "ANSA Cinema",
    "url": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/22/le-angelesse-tante-ali-tra-le-sbarre-di-bollate-e-san-vittore_05bfce30-a564-4790-830f-e72ec2de1e0c.html",
    "published": "2026-11-22T12:32:49+00:00"
+  },
+  {
+   "id": "b7fdc1ea9705",
+   "section": "gossip",
+   "title": "Andy Diaz racconta l'infanzia a Cuba a Ballando con le Stelle",
+   "summary": "Il ballerino Andy Diaz, protagonista di Ballando con le Stelle, ha raccontato la sua infanzia difficile a Cuba. Ha ricordato che la madre cucinava il riso senza sale perché in casa non ce n'era.",
+   "body": "Andy Diaz, ballerino della trasmissione Ballando con le Stelle, ha parlato apertamente delle difficoltà vissute durante l'infanzia a Cuba. Ha raccontato che la madre preparava il riso senza sale, perché la famiglia non disponeva di quell'ingrediente, un ricordo che descrive una fase di grande povertà.\n\nNel suo racconto, Diaz ripercorre le origini modeste della famiglia e il percorso che lo ha portato fino alla televisione italiana. Secondo BadTaste, la testimonianza sottolinea il valore del riscatto personale e del lavoro che ha permesso di costruire una carriera nel mondo dello spettacolo.",
+   "slug": "andy-diaz-racconta-l-infanzia-a-cuba-a-ballando-con-le-stell-b7fdc1",
+   "tags": [
+    "Ballando con le Stelle",
+    "Andy Diaz"
+   ],
+   "scene": "tv",
+   "source": "BadTaste",
+   "url": "https://www.badtaste.it/articoli/ballando-con-le-stelle-andy-diaz-svela-linfanzia-a-cuba-mangiavo-riso-senza-sale",
+   "published": "2026-11-22T12:26:22+00:00"
   },
   {
    "id": "26ce86d7593e",
@@ -8202,168 +8335,9 @@
    "source": "Cineblog",
    "url": "https://www.cineblog.it/post/mare-fuori-7-il-nuovo-cast-tra-ritorni-addii-e-volti-in-arrivo",
    "published": "2026-11-20T07:00:43+00:00"
-  },
-  {
-   "id": "e8a14b8007a7",
-   "section": "tv",
-   "title": "Avvocato Ligas arriva in chiaro su TV8 con la prima stagione",
-   "summary": "La prima stagione di Avvocato Ligas, serie in sei episodi con Luca Argentero, approda in chiaro su TV8 dopo il debutto su Sky e NOW. Le puntate vanno in onda a partire dal 20 novembre.",
-   "body": "La serie tv Avvocato Ligas, con Luca Argentero nel ruolo del protagonista, cinico e sfrontato, arriva in chiaro su TV8. La prima stagione, composta da sei episodi, era già stata trasmessa a pochi mesi di distanza su Sky e NOW, e ha ottenuto un buon riscontro di pubblico.\n\nLe puntate saranno proposte dal 20 novembre sul canale del gruppo Mediaset. Nel frattempo, secondo Dituttounpop.it, sono iniziate le riprese delle stagioni 2 e 3, segno che la produzione prosegue con nuovi episodi.",
-   "slug": "avvocato-ligas-arriva-in-chiaro-su-tv8-con-la-prima-stagione-e8a14b",
-   "tags": [
-    "Avvocato Ligas",
-    "Luca Argentero",
-    "TV8"
-   ],
-   "scene": "tv",
-   "source": "dituttounpop.it",
-   "url": "https://www.dituttounpop.it/avvocato-ligas-con-luca-argentero-su-tv8-trama-episodi-cast/",
-   "published": "2026-11-20T06:59:08+00:00"
-  },
-  {
-   "id": "8330bb2711e4",
-   "section": "cinema",
-   "title": "Artificial, il poster di Guadagnino imita gli errori delle immagini IA",
-   "summary": "Luca Guadagnino ha presentato il poster ufficiale di Artificial, film sulla nascita di OpenAI e sulla figura di Sam Altman, che riproduce volutamente i difetti tipici delle immagini generate dall'intelligenza artificiale. La scelta punta a fare del materiale promozionale un tema di discussione.",
-   "body": "Luca Guadagnino ha scelto un approccio insolito per promuovere Artificial, il suo nuovo film dedicato alla nascita di OpenAI e alla figura di Sam Altman, co-fondatore e CEO della società. Il poster ufficiale sembra realizzato con l'intelligenza artificiale e riproduce di proposito gli errori più riconoscibili di queste immagini.\n\nSecondo Cinefilos, la scelta trasforma il materiale promozionale in un gioco con il tema del film, cioè il rapporto tra tecnologia, creatività e l'azienda che ha reso popolari i sistemi generativi. Il film è quindi annunciato con un'immagine che invita il pubblico a osservare con attenzione i dettagli, più che a limitarsi a un'immagine patinata.",
-   "slug": "artificial-il-poster-di-guadagnino-imita-gli-errori-delle-im-8330bb",
-   "tags": [
-    "Artificial",
-    "Luca Guadagnino",
-    "Sam Altman"
-   ],
-   "scene": "premiere",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/artificial-luca-guadagnino-poster-errori-intelligenza-artificiale-731762",
-   "published": "2026-11-20T06:54:35+00:00"
-  },
-  {
-   "id": "87d60cd8b3b3",
-   "section": "tv",
-   "title": "The Airport Chaplain, la seconda stagione con Hugo Weaving è in preparazione",
-   "summary": "Hugo Weaving tornerà nel dramma The Airport Chaplain, prodotto da Wooden Horse per SBS e Netflix. La casa di produzione sta costruendo il team di scrittura per la seconda stagione, in vista di un 2027 intenso.",
-   "body": "Hugo Weaving è di nuovo al lavoro sul dramma The Airport Chaplain, la serie che segue un cappellano impegnato negli aeroporti. Secondo quanto riportato da Deadline, i fondatori di Wooden Horse, la società di produzione dietro la serie trasmessa da SBS e Netflix, stanno formando il gruppo di autori per la seconda stagione.\n\nLa produzione si prepara a un 2027 ricco di progetti: l'azienda sta ampliando il proprio organico con nuove assunzioni. Tra le novità annunciate figura anche la presenza di Sarinah Masukor, co-autrice di una serie Netflix, nel team creativo. Non sono ancora state rese note date di uscita della nuova stagione.",
-   "slug": "the-airport-chaplain-la-seconda-stagione-con-hugo-weaving-e-87d60c",
-   "tags": [
-    "The Airport Chaplain",
-    "Hugo Weaving",
-    "Wooden Horse"
-   ],
-   "scene": "streaming",
-   "source": "deadline.com",
-   "url": "https://deadline.com/2026/11/airport-chaplain-season-2-wooden-horse-interview-1237215499/",
-   "published": "2026-11-20T06:53:24+00:00"
-  },
-  {
-   "id": "506060c5eb13",
-   "section": "tv",
-   "title": "Jimmy Kimmel paragona l'amministrazione Trump al crimine di GTA VI",
-   "summary": "Il conduttore Jimmy Kimmel ha fatto un paragone tra l'amministrazione Trump e la violenza senza conseguenze del videogioco GTA VI. Secondo TheWrap, nel suo monologo serale ha detto che si può commettere qualsiasi crimine senza conseguenze.",
-   "body": "Il conduttore del late night statunitense Jimmy Kimmel ha usato il videogioco GTA VI come metafora per commentare l'operato dell'amministrazione Trump. Secondo quanto riportato da TheWrap, Kimmel ha affermato che nel gioco si può commettere qualsiasi crimine senza subirne le conseguenze, definendo la situazione \"incredibile\".\n\nIl paragone, pronunciato nel corso della trasmissione serale, si inserisce in una lunga tradizione di satira politica che caratterizza il programma di Kimmel, da anni tra i più critici verso la Casa Bianca. Il materiale disponibile non riporta ulteriori dettagli sul contesto specifico della battuta, né eventuali reazioni ufficiali.",
-   "slug": "jimmy-kimmel-paragona-l-amministrazione-trump-al-crimine-di-506060",
-   "tags": [
-    "Jimmy Kimmel",
-    "GTA VI",
-    "Donald Trump"
-   ],
-   "scene": "tv",
-   "source": "thewrap.com",
-   "url": "https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-compares-trump-administration-grand-theft-auto-vi/",
-   "published": "2026-11-20T06:32:58+00:00"
-  },
-  {
-   "id": "39229946c9c4",
-   "section": "cinema",
-   "title": "Guillermo del Toro smentisce il coinvolgimento in progetti Star Wars e Marvel",
-   "summary": "Guillermo del Toro ha smentito le indiscrezioni che lo volevano coinvolto in progetti legati a Star Wars e Marvel. Il regista premio Oscar ha chiarito sui social di non essere in trattative con nessuno dei due franchise.",
-   "body": "Il regista messicano Guillermo del Toro, premio Oscar, ha smentito le voci che lo indicavano come coinvolto in alcuni progetti legati a Star Wars e al Marvel Cinematic Universe. Attraverso un messaggio pubblicato sui suoi canali social, del Toro ha dichiarato di non essere in trattative con nessuno dei due franchise, intervenendo direttamente per fare chiarezza sui propri impegni futuri.\n\nLa precisazione arriva in un momento di grande attenzione sui prossimi lavori del cineasta, e la smentita è stata riportata da Cinefilos secondo cui il chiarimento era atteso dai fan. Il materiale disponibile non specifica quali fossero esattamente i progetti citati dalle indiscrezioni né quali siano i prossimi titoli del regista.",
-   "slug": "guillermo-del-toro-smentisce-il-coinvolgimento-in-progetti-s-392299",
-   "tags": [
-    "Guillermo del Toro",
-    "Star Wars",
-    "Marvel"
-   ],
-   "scene": "premiere",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/cinema-news/2026/guillermo-del-toro-smentita-star-wars-marvel-progetti-731759",
-   "published": "2026-11-20T06:28:05+00:00"
-  },
-  {
-   "id": "143e1bee63fe",
-   "section": "cinema",
-   "title": "James Gunn lascia DC Studios: Jeremy Latcham prende il timone del DCU",
-   "summary": "James Gunn lascia DC Studios insieme a Peter Safran e il testimone passa a Jeremy Latcham, veterano di Marvel. La notizia riguarda il futuro dei supereroi DC al cinema, a partire da Batman e Superman.",
-   "body": "James Gunn, regista e responsabile di Superman, lascia DC Studios insieme al suo socio Peter Safran. La guida dello studio passa a Jeremy Latcham, dirigente con una lunga esperienza in Marvel, che dovrà ora decidere come proseguire il percorso dei personaggi DC sul grande schermo.\n\nSecondo quanto riportato da Fotogramas, il cambio al vertice ridisegna il futuro dei grandi eroi della casa editrice, Batman e Superman compresi. Al momento il materiale disponibile non chiarisce quali progetti verranno confermati o modificati, né come cambierà la linea creativa dell'universo cinematografico DC.",
-   "slug": "james-gunn-lascia-dc-studios-jeremy-latcham-prende-il-timone-143e1b",
-   "tags": [
-    "James Gunn",
-    "DC Studios",
-    "Jeremy Latcham"
-   ],
-   "scene": "ciak",
-   "source": "fotogramas.es",
-   "url": "https://www.fotogramas.es/noticias-cine/a74469306/james-gunn-despedido-dc-cine-peliculas-superman-batman/",
-   "published": "2026-11-20T06:09:00+00:00"
-  },
-  {
-   "id": "e0ec4b2c38c7",
-   "section": "tv",
-   "title": "Un racconto di due città: data su Amazon per la miniserie con Kit Harington",
-   "summary": "La miniserie Un racconto di due città, adattamento del romanzo di Charles Dickens con François Civil e Kit Harington, ha ottenuto una data di uscita in Francia su Amazon Prime Video. Secondo la fonte, il progetto arriva dopo la fine di Game of Thrones, che non ha portato Harington a un grande successo al cinema.",
-   "body": "La miniserie Le Conte de deux cités, tratta dal romanzo di Charles Dickens, avrà finalmente una data di uscita in Francia su Amazon. Nel cast figurano François Civil e Kit Harington, che recitano insieme nel progetto.\n\nSecondo ecranlarge, la produzione arriva in un momento in cui la carriera cinematografica di Harington, dopo la conclusione di Game of Thrones, non ha ancora avuto un vero consolidamento. La fonte ricorda anche il suo recente film Ma vie, citato tra le sue ultime prove sul grande schermo.",
-   "slug": "un-racconto-di-due-citta-data-su-amazon-per-la-miniserie-con-e0ec4b",
-   "tags": [
-    "Kit Harington",
-    "François Civil",
-    "Charles Dickens"
-   ],
-   "scene": "streaming",
-   "source": "ecranlarge.com",
-   "url": "https://www.ecranlarge.com/series/news/conte-deux-cites-date-sortie-france-amazon-prime-video",
-   "published": "2026-11-20T06:00:00+00:00"
-  },
-  {
-   "id": "3f56233141b6",
-   "section": "tv",
-   "title": "Gerard Butler e il thriller di vendetta Gesetz der Rache in TV",
-   "summary": "Il thriller \"Gesetz der Rache\", con Gerard Butler, va in onda stasera in TV secondo la testata tedesca Moviepilot, che lo indica come il film meglio valutato dai suoi lettori. Si tratta di un noir psicologico particolarmente duro.",
-   "body": "Stasera va in onda in televisione uno dei film più apprezzati dal pubblico di Gerard Butler, secondo quanto riportato da Moviepilot. La pellicola è \"Gesetz der Rache\", un thriller psicologico molto duro che ruota attorno a un tema di vendetta.\n\nLa testata tedesca sottolinea che il film è tra quelli con i voti più alti tra i lettori dell'attore scozzese. Il consiglio della redazione è di non perdere la messa in onda per chi ama i thriller cupi e intensi, con un'atmosfera tesa dall'inizio alla fine.",
-   "slug": "gerard-butler-e-il-thriller-di-vendetta-gesetz-der-rache-in-3f5623",
-   "tags": [
-    "Gerard Butler",
-    "Gesetz der Rache"
-   ],
-   "scene": "tv",
-   "source": "moviepilot.de",
-   "url": "https://www.moviepilot.de/news/heute-tv-gerard-butler-bester-film-1159800",
-   "published": "2026-11-20T06:00:00+00:00"
   }
  ],
  "seen": [
-  "5d964a1e9a8b",
-  "014ffc3521a3",
-  "d1132a0b0c07",
-  "6d8e6f84af17",
-  "a9b127b3332f",
-  "219fcebbd81d",
-  "36041f18e803",
-  "a5f818551c00",
-  "c6ad6da638c3",
-  "9c00d1fd50c9",
-  "8e1e946c93c2",
-  "fc9bdd67a993",
-  "1b269447f0a9",
-  "d516dfae978d",
-  "531375082f0a",
-  "ee519eed0b50",
-  "0d3d8e31dcde",
-  "2d8f9f6bdd4b",
-  "ac5f4bd809ea",
-  "8c2821058079",
-  "2a86ba62d328",
-  "b9cf0e80ab9c",
-  "bf3084e82317",
-  "e49a05a3bfba",
   "8977325a5fe9",
   "5af140fb7414",
   "c39ad53a3b38",
@@ -12339,7 +12313,31 @@
   "9c9c56ecdc60",
   "e475cc1c698f",
   "73498ad9ed71",
-  "e93e1599bf0c"
+  "e93e1599bf0c",
+  "3c438dc41a16",
+  "777ab1173263",
+  "ae1b06cc3f88",
+  "d74a18d9cbe8",
+  "e55fafb981a5",
+  "d95112bdcd2f",
+  "678984067ef0",
+  "20858f098810",
+  "778fdde815de",
+  "d44c9ac6604a",
+  "1f2def5df354",
+  "0b97f38ad56e",
+  "a000e1ddb09e",
+  "dcc572ae46fd",
+  "dbc4500429bb",
+  "007af82ac6ff",
+  "25f947cb6d88",
+  "83bfc369db01",
+  "b994cbd6562a",
+  "833f8ed8b176",
+  "79dc88527503",
+  "b7fdc1ea9705",
+  "ec2193cfc78a",
+  "ae37a28f7d6b"
  ],
  "version": 4,
  "digests": [
