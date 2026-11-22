@@ -1,6 +1,38 @@
 {
  "articles": [
   {
+   "id": "fb55df1a966d",
+   "section": "cinema",
+   "title": "Denis Villeneuve, il thriller di 153 minuti conquista la classifica di Apple TV",
+   "summary": "Il thriller criminale di Denis Villeneuve, regista di James Bond, sta registrando un grande successo in streaming su Apple TV. La notizia è riportata da Collider.",
+   "body": "Il regista Denis Villeneuve, noto al grande pubblico per aver diretto un film della saga di James Bond, vede il suo thriller criminale di 153 minuti protagonista del catalogo di Apple TV. Secondo Collider, il film sta ottenendo un grande riscontro tra gli abbonati della piattaforma di streaming.\n\nIl titolo, di durata superiore alle due ore e mezza, si inserisce in una serie di successi legati ai film di Villeneuve, autore apprezzato per il suo stile rigoroso e per le atmosfere tese. La fonte non fornisce dati precisi su visualizzazioni o classifiche, limitandosi a definire il film un successo dello streaming.",
+   "slug": "denis-villeneuve-il-thriller-di-153-minuti-conquista-la-clas-fb55df",
+   "tags": [
+    "Denis Villeneuve",
+    "Apple TV"
+   ],
+   "scene": "streaming",
+   "source": "collider.com",
+   "url": "https://collider.com/denis-villeneuve-prisoners-streaming-success-apple-tv-november-2026/",
+   "published": "2026-11-22T22:30:12+00:00"
+  },
+  {
+   "id": "529d53cf1123",
+   "section": "cinema",
+   "title": "Two Strangers (Carry a Cake Across New York) si sposta Off Broadway",
+   "summary": "Il musical Two Strangers (Carry a Cake Across New York), chiuso a Broadway, proseguirà Off Broadway al New World Stages nella prossima primavera. Il cast attuale, con Sam Tutty e Christiani Pitts, non dovrebbe seguire lo spostamento.",
+   "body": "Il musical Two Strangers (Carry a Cake Across New York) continuerà la sua programmazione dopo la chiusura dello spettacolo a Broadway. Secondo Deadline, la produzione si trasferirà la prossima primavera al New World Stages, teatro della scena Off Broadway di New York.\n\nIl cast attuale, guidato da Sam Tutty e Christiani Pitts, non dovrebbe seguire la produzione nel nuovo allestimento. I nuovi interpreti per i ruoli principali non sono ancora stati annunciati.",
+   "slug": "two-strangers-carry-a-cake-across-new-york-si-sposta-off-bro-529d53",
+   "tags": [
+    "Sam Tutty",
+    "Christiani Pitts"
+   ],
+   "scene": "palco",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/two-strangers-carry-a-cake-across-new-york-off-broadway-1237230995/",
+   "published": "2026-11-22T22:30:00+00:00"
+  },
+  {
    "id": "b8708facc744",
    "section": "cinema",
    "title": "Robert Pattinson, il thriller con rapina arriva su Netflix: ecco la data",
@@ -64,6 +96,53 @@
    "source": "collider.com",
    "url": "https://collider.com/dc-clayface-removed-from-2300-theaters-box-office-digital-debut/",
    "published": "2026-11-22T21:45:12+00:00"
+  },
+  {
+   "id": "937181eb2af8",
+   "section": "cinema",
+   "title": "Bo Derek riflette sulla sua carriera a Hollywood",
+   "summary": "Bo Derek guarda ai decenni trascorsi a Hollywood con un bilancio sorprendentemente positivo, ammettendo che la carriera non sempre è andata come previsto. L'attrice, che ha compiuto 70 anni il 20 novembre, ha ripercorso la sua inattesa ascesa alla notorietà e le scelte fatte lungo il cammino.",
+   "body": "Bo Derek ripercorre i suoi decenni nel cinema statunitense con uno sguardo sorprendentemente positivo. Secondo quanto riportato da OK Magazine, l'attrice ha ammesso di aver avuto una grande abbondanza di opportunità nel settore dell'intrattenimento, pur riconoscendo di non aver sempre fatto le scelte giuste.\n\nNell'intervista l'attrice, che ha compiuto 70 anni il 20 novembre, ha parlato della sua ascesa alla fama, arrivata in modo inatteso, e delle decisioni prese lungo la strada. Il suo bilancio resta complessivamente favorevole, nonostante una carriera non sempre lineare.",
+   "slug": "bo-derek-riflette-sulla-sua-carriera-a-hollywood-937181",
+   "tags": [
+    "Bo Derek"
+   ],
+   "scene": "premiere",
+   "source": "okmagazine.com",
+   "url": "https://okmagazine.com/p/bo-derek-embarrassment-riches-entertainment-industry/",
+   "published": "2026-11-22T21:33:00+00:00"
+  },
+  {
+   "id": "04dff757b117",
+   "section": "cinema",
+   "title": "Sunrise on the Reaping, il pubblico promuove il prequel bocciato dalla critica",
+   "summary": "The Hunger Games: Sunrise on the Reaping è arrivato nelle sale con giudizi molto diversi tra critica e pubblico. Secondo le recensioni degli spettatori il prequel ottiene un punteggio alto, mentre i critici sono più tiepidi.",
+   "body": "Il prequel della saga di Hunger Games, The Hunger Games: Sunrise on the Reaping, è ora nelle sale italiane e sta facendo discutere per la distanza tra i giudizi della critica e quelli del pubblico. Secondo quanto riportato da Collider, sulle piattaforme di valutazione gli spettatori assegnano al film un punteggio molto alto, mentre le recensioni professionali sono nettamente più fredde.\n\nIl film racconta gli eventi che precedono i Giochi a cui partecipa la giovane protagonista della serie originale. La forbice tra i due giudizi è al centro del dibattito, e riporta alla mente altri titoli della saga che hanno incontrato reazioni simili. Il materiale disponibile non consente di dire quanto questo divario influirà sugli incassi nelle prossime settimane.",
+   "slug": "sunrise-on-the-reaping-il-pubblico-promuove-il-prequel-bocci-04dff7",
+   "tags": [
+    "The Hunger Games: Sunrise on the Reaping"
+   ],
+   "scene": "pellicola",
+   "source": "collider.com",
+   "url": "https://collider.com/hunger-games-sunrise-on-the-reaping-rotten-tomatoes-audience-score/",
+   "published": "2026-11-22T21:31:12+00:00"
+  },
+  {
+   "id": "9231842a5a35",
+   "section": "cinema",
+   "title": "Elsinore con Andrew Scott parte bene al box office americano",
+   "summary": "Il film Elsinore, con Andrew Scott, ha incassato 240mila dollari nel weekend di apertura limitata in sei sale tra New York e Los Angeles. Distribuito da Focus Features, arriverà mercoledì in circa 120 sale nei principali 25 mercati.",
+   "body": "Elsinore, film con protagonista Andrew Scott, ha esordito con un incasso di circa 240mila dollari in sei sale tra New York e Los Angeles, pari a una media di 40mila dollari per sala. Secondo quanto riportato da Deadline, i primi exit poll sono risultati molto positivi, un segnale favorevole per la distribuzione curata da Focus Features.\n\nIl film si allargherà mercoledì a circa 120 schermi nei 25 mercati principali degli Stati Uniti. La pellicola racconta la storia vera di Ian, ma il materiale disponibile non specifica ulteriori dettagli sulla trama. L'andamento della settimana d'esordio sarà decisivo per capire quanto il titolo riuscirà a crescere nelle sale.",
+   "slug": "elsinore-con-andrew-scott-parte-bene-al-box-office-americano-923184",
+   "tags": [
+    "Elsinore",
+    "Andrew Scott",
+    "Focus Features"
+   ],
+   "scene": "sala",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/indie-film-box-office-elisnore-cameron-winter-at-carnegie-hall-1237231210/",
+   "published": "2026-11-22T21:30:29+00:00"
   },
   {
    "id": "bf0f169b6bbd",
@@ -8238,106 +8317,9 @@
    "source": "Cinefilos",
    "url": "https://cinefilos.it/serie-tv/recensione/percy-jackson-e-gli-dei-dellolimpo-3-731802",
    "published": "2026-11-20T11:36:59+00:00"
-  },
-  {
-   "id": "e3d29f9735f7",
-   "section": "cinema",
-   "title": "Artificial, il poster di NEON sembra AI slop ma non lo è",
-   "summary": "Il distributore americano NEON ha promosso Artificial, il film di Luca Guadagnino con Andrew Garfield sulla storia di Sam Altman di OpenAI, con un poster costruito per sembrare un prodotto di AI slop. Secondo ComingSoon, la grafica è in realtà un'immagine realizzata senza intelligenza artificiale.",
-   "body": "Il distributore americano NEON ha scelto per la promozione di Artificial, il film diretto da Luca Guadagnino con Andrew Garfield, un poster che a prima vista richiama la cosiddetta AI slop, cioè le immagini generate in serie dall'intelligenza artificiale di bassa qualità. Il film racconta la storia di Sam Altman, fondatore di OpenAI, e l'effetto voluto dalla campagna è quello di far discutere il pubblico proprio sul tema dell'AI.\n\nSecondo ComingSoon, però, il poster non è affatto frutto di un'intelligenza artificiale. La testata sostiene di avere le prove della realizzazione tradizionale dell'immagine, costruita appositamente per dare l'impressione di un contenuto generato automaticamente.",
-   "slug": "artificial-il-poster-di-neon-sembra-ai-slop-ma-non-lo-e-e3d29f",
-   "tags": [
-    "Artificial",
-    "Luca Guadagnino",
-    "Andrew Garfield"
-   ],
-   "scene": "pellicola",
-   "source": "ComingSoon",
-   "url": "https://www.comingsoon.it/cinema/news/artificial-il-poster-trappola-che-sembra-ai-slop-ma-non-lo-e-ci-sono-le/n236322/",
-   "published": "2026-11-20T11:13:00+00:00"
-  },
-  {
-   "id": "ab7e5da1ab8e",
-   "section": "musica",
-   "title": "Glocal Piano Festival, maratona di giovani pianisti al Parco della Musica",
-   "summary": "Il 22 novembre l'Auditorium Parco della Musica di Roma ospita il Glocal Piano Festival, una maratona musicale dedicata ai giovani talenti del pianoforte. Dodici pianisti si sfidano in gara in vista del Concorso Busoni.",
-   "body": "Il 22 novembre l'Auditorium Parco della Musica di Roma ospita il Glocal Piano Festival, una lunga giornata di concerti dedicata al pianoforte e ai suoi interpreti più giovani. Protagonisti della manifestazione sono dodici pianisti che si contendono un posto nella fase successiva del percorso verso il Concorso Busoni, uno dei appuntamenti più prestigiosi per i giovani strumentisti.\n\nSecondo ANSA, l'evento si presenta come una vera e propria maratona musicale, pensata per mettere in luce nuovi talenti e offrire loro una vetrina importante nella capitale. Il festival conferma il ruolo del Parco della Musica come punto di riferimento per la musica classica e per le nuove generazioni di interpreti.",
-   "slug": "glocal-piano-festival-maratona-di-giovani-pianisti-al-parco-ab7e5d",
-   "tags": [
-    "Glocal Piano Festival",
-    "Parco della Musica",
-    "Concorso Busoni"
-   ],
-   "scene": "palco",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/20/the-glocal-piano-festival-a-roma-maratona-musicale-di-giovani-talenti_bdbe2ad4-4b64-4f17-9147-9ac738b69fe3.html",
-   "published": "2026-11-20T11:06:58+00:00"
-  },
-  {
-   "id": "71542dcf7995",
-   "section": "cinema",
-   "title": "Nolan spiega cosa rende divertente vedere The Odyssey a casa",
-   "summary": "Christopher Nolan ha illustrato i vantaggi della visione domestica di The Odyssey, pur riconoscendo che l'IMAX resta il modo migliore per vederlo. La notizia riguarda il nuovo film del regista, dopo l'uscita nelle sale.",
-   "body": "Il regista Christopher Nolan ha spiegato quali aspetti rendano piacevole vedere The Odyssey anche a casa, nonostante il formato IMAX sia considerato la scelta migliore per godersi il film. Secondo quanto riportato da GamesRadar, Nolan non considera la visione domestica come una alternativa di ripiego, ma come un'esperienza con caratteristiche proprie.\n\nLe sue dichiarazioni arrivano in un momento in cui il film è al centro dell'attenzione del pubblico e della critica. Il regista ha quindi messo in evidenza il valore della visione in famiglia o in solitudine, sottolineando come ogni formato offra un modo diverso di entrare nella storia.",
-   "slug": "nolan-spiega-cosa-rende-divertente-vedere-the-odyssey-a-casa-71542d",
-   "tags": [
-    "Christopher Nolan",
-    "The Odyssey"
-   ],
-   "scene": "pellicola",
-   "source": "gamesradar.com",
-   "url": "https://www.gamesradar.com/entertainment/fantasy-movies/despite-imax-being-the-best-way-to-watch-the-odyssey-christopher-nolan-explains-whats-fun-about-watching-at-home/",
-   "published": "2026-11-20T11:06:20+00:00"
-  },
-  {
-   "id": "0f6149f79240",
-   "section": "cinema",
-   "title": "Ascanio Celestini vince il Premio Internazionale Ascoli Piceno per Rumba",
-   "summary": "Ascanio Celestini riceve il Premio Internazionale Ascoli Piceno per il progetto teatrale e letterario Rumba, dedicato a San Francesco. Il riconoscimento premia un lavoro che unisce teatro e letteratura.",
-   "body": "Il drammaturgo e attore Ascanio Celestini è il vincitore del Premio Internazionale Ascoli Piceno, assegnato al progetto Rumba. Il lavoro, che intreccia teatro e letteratura, è dedicato alla figura di San Francesco d'Assisi.\n\nSecondo ANSA, il riconoscimento viene conferito per la capacità del progetto di raccontare il santo attraverso due linguaggi diversi, quello scenico e quello narrativo. La notizia riguarda dunque un premio assegnato a un progetto artistico già realizzato.",
-   "slug": "ascanio-celestini-vince-il-premio-internazionale-ascoli-pice-0f6149",
-   "tags": [
-    "Ascanio Celestini",
-    "Premio Internazionale Ascoli Piceno",
-    "Rumba"
-   ],
-   "scene": "premiere",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/20/ascanio-celestini-vince-il-premio-internazionale-ascoli-piceno-per-il-progetto-rumba_a117be68-53aa-4c03-94cc-cb21773fc3e0.html",
-   "published": "2026-11-20T11:03:23+00:00"
-  },
-  {
-   "id": "2dafb535931d",
-   "section": "musica",
-   "title": "Peter Pan compie vent'anni con un'edizione speciale del musical",
-   "summary": "Il musical Peter Pan celebra i vent'anni con un'edizione speciale che porta sul palco le musiche rock di Edoardo Bennato e un'orchestra dal vivo. Lo spettacolo viene presentato come un evento legato ai record raggiunti negli anni.",
-   "body": "Il musical Peter Pan festeggia i suoi vent'anni con una edizione speciale, che secondo ANSA riporta in scena la storia del bambino che non voleva crescere con un'impronta dichiaratamente celebrativa. Il progetto è legato ai numeri record ottenuti dallo spettacolo nel corso del tempo.\n\nTra le novità più rilevanti c'è la presenza delle canzoni rock firmate da Edoardo Bennato, che accompagnano la narrazione insieme a un'orchestra suonata dal vivo sul palco. La scelta punta a dare una dimensione musicale più piena all'allestimento, con l'obiettivo di coinvolgere sia il pubblico delle famiglie sia quello degli appassionati di musical.",
-   "slug": "peter-pan-compie-vent-anni-con-un-edizione-speciale-del-musi-2dafb5",
-   "tags": [
-    "Peter Pan",
-    "Edoardo Bennato"
-   ],
-   "scene": "palco",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/teatro/2026/11/20/peter-pan-compie-20-anni-e-trascina-ancora-in-volo-chi-vuole-sognare_78017506-04bd-4c4a-8c59-66f41071814c.html",
-   "published": "2026-11-20T11:00:46+00:00"
   }
  ],
  "seen": [
-  "a67023eda517",
-  "bef0eeacdea4",
-  "42bd57bbe5a1",
-  "84dcb58bea3a",
-  "0cf1f76fde64",
-  "96d8735f05cd",
-  "857bf07824a3",
-  "e0b155834a18",
-  "be1d4231262b",
-  "cabac1b2123c",
-  "d2afccd86bd5",
-  "d2e12e11b33b",
-  "0cf24911d2d3",
-  "327ae37b3df8",
   "de99eac83443",
   "6a991f4b31d2",
   "3366ca7b2255",
@@ -12323,7 +12305,21 @@
   "1323f3db99e4",
   "2156f248918d",
   "e1cdfba2192a",
-  "be890430117f"
+  "be890430117f",
+  "67cb706d1c22",
+  "b6dc90fafe08",
+  "6ec4ce09ac3f",
+  "fb55df1a966d",
+  "43f639b57969",
+  "a397f1134144",
+  "4347d4ae0bdd",
+  "529d53cf1123",
+  "8238fb584a3a",
+  "cbc24e4da9c5",
+  "64c11438358b",
+  "937181eb2af8",
+  "04dff757b117",
+  "9231842a5a35"
  ],
  "version": 4,
  "digests": [
