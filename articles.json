@@ -1,6 +1,90 @@
 {
  "articles": [
   {
+   "id": "ad5ead3ca8b7",
+   "section": "cinema",
+   "title": "The Cat in the Hat esce da oltre 700 sale dopo un incasso deludente",
+   "summary": "Il film animato The Cat in the Hat, adattamento dell'opera di Dr. Seuss prodotto da Warner Bros., è stato rimosso da più di 700 sale dopo un andamento al box office modesto. La notizia è riportata da Collider.",
+   "body": "Il nuovo film d'animazione The Cat in the Hat, tratto dai libri di Dr. Seuss, non è più programmato in più di 700 sale statunitensi. Secondo Collider, la decisione arriva dopo un esordio e un percorso nelle sale considerati poco brillanti, un segnale tipico di un titolo che fatica a trattenere il pubblico nelle settimane successive all'uscita.\n\nIl film è distribuito da Warner Bros., che negli ultimi tempi ha visto diversi progetti non raggiungere le aspettative commerciali. La rimozione da un numero così alto di schermi riduce sensibilmente le possibilità di recupero al botteghino, e lascia ora al titolo soprattutto la strada delle piattaforme e dell'home video.",
+   "slug": "the-cat-in-the-hat-esce-da-oltre-700-sale-dopo-un-incasso-de-ad5ead",
+   "tags": [
+    "The Cat in the Hat",
+    "Warner Bros.",
+    "Dr. Seuss"
+   ],
+   "scene": "sala",
+   "source": "collider.com",
+   "url": "https://collider.com/cat-in-the-hat-removed-from-700-theaters-box-office/",
+   "published": "2026-11-22T23:15:12+00:00"
+  },
+  {
+   "id": "ab1b7a3d8dc3",
+   "section": "cinema",
+   "title": "Mahershala Ali: i due Oscar non contano nei provini",
+   "summary": "Mahershala Ali ha dichiarato che avere due premi Oscar non incide sulle scelte di casting, perché il riconoscimento non si traduce in opportunità concrete. L'attore continua a dover affrontare i provini come chiunque altro.",
+   "body": "Due volte premio Oscar, Mahershala Ali ha spiegato di trovarsi ancora sullo stesso piano di molti altri attori quando si tratta di essere scelto per un ruolo. Secondo quanto riportato da Deadline, l'attore ha detto che le statuette non pesano nelle trattative di casting, definendo il riconoscimento più una questione di parole che un vantaggio reale.\n\nAli ha sottolineato che il premio, pur prestigioso, non si trasforma automaticamente in lavoro. La sua riflessione mette in luce quanto la scelta di un interprete dipenda ancora dal singolo progetto e dalla sua adesione al personaggio, più che dalla fama accumulata nella carriera.",
+   "slug": "mahershala-ali-i-due-oscar-non-contano-nei-provini-ab1b7a",
+   "tags": [
+    "Mahershala Ali",
+    "Premi Oscar"
+   ],
+   "scene": "premiere",
+   "source": "deadline.com",
+   "url": "https://deadline.com/2026/11/mahershala-ali-2-oscars-doesnt-matter-getting-cast-1237231259/",
+   "published": "2026-11-22T23:01:58+00:00"
+  },
+  {
+   "id": "f4de47556a61",
+   "section": "cinema",
+   "title": "Dal 26 novembre in sala e in streaming: De Niro, Stiller, Ficarra e Picone e Brad Pitt",
+   "summary": "Una panoramica dei film in arrivo dal 26 novembre, in sala e in streaming. Tra i titoli segnalati la commedia con Robert De Niro e Ben Stiller, il nuovo film di Ficarra e Picone e un documentario su Jovanotti.",
+   "body": "Dal 26 novembre arriva una nuova ondata di film, distribuiti sia nelle sale sia sulle piattaforme di streaming. Tra i titoli citati spiccano la commedia con Robert De Niro e Ben Stiller, che vede il suocero e il genero alle prese con Ariana Grande, e il nuovo film con Brad Pitt, di nuovo nei panni di uno stuntman. Secondo Cinematografo, nel calendario compare anche la nuova commedia di Ficarra e Picone, pensata per il pubblico italiano.\n\nNon mancano i documentari: uno dei più attesi è quello dedicato a Jovanotti, accanto a un altro titolo definito come il documentario dell'anno. La lista completa dei film, con le date di uscita e le piattaforme, è disponibile nell'articolo originale.",
+   "slug": "dal-26-novembre-in-sala-e-in-streaming-de-niro-stiller-ficar-f4de47",
+   "tags": [
+    "Robert De Niro",
+    "Ficarra e Picone",
+    "Jovanotti"
+   ],
+   "scene": "pellicola",
+   "source": "Cinematografo",
+   "url": "https://www.cinematografo.it/riflettori/nuove-uscite/la-notte-delle-fragole-ti-presento-i-fotter-e-tutti-i-film-in-arrivo-dal-26-novembre-h10j2env",
+   "published": "2026-11-22T23:00:00+00:00"
+  },
+  {
+   "id": "fc7af9105674",
+   "section": "cinema",
+   "title": "Godzilla Minus Zero torna in bianco e nero e arriva in sala l'11 dicembre",
+   "summary": "Godzilla Minus Zero sarà proiettato in una versione in bianco e nero nelle sale americane dall'11 dicembre. Lo stesso trattamento era stato riservato a Godzilla Minus One, passato in sala per una settimana nel gennaio 2024 e poi approdato su Netflix.",
+   "body": "Secondo World of Reel, il sequel Godzilla Minus Zero sarà distribuito in una versione in bianco e nero nelle sale, con uscita fissata per l'11 dicembre. La notizia segue la stessa strategia adottata per il film precedente, Godzilla Minus One, che nel gennaio 2024 era stato proiettato nelle sale statunitensi in bianco e nero per una sola settimana.\n\nIl riscontro di quell'operazione è stato positivo, tanto che la versione in bianco e nero di Godzilla Minus One è stata successivamente resa disponibile su Netflix. Al momento la notizia riguarda le sale degli Stati Uniti, e non sono ancora noti dettagli su una possibile distribuzione in Italia.",
+   "slug": "godzilla-minus-zero-torna-in-bianco-e-nero-e-arriva-in-sala-fc7af9",
+   "tags": [
+    "Godzilla Minus Zero",
+    "Godzilla Minus One",
+    "Netflix"
+   ],
+   "scene": "pellicola",
+   "source": "worldofreel.com",
+   "url": "https://www.worldofreel.com/blog/2026/11/22/godzilla-minus-zero-is-getting-the-black-white-treatment-hitting-theaters-december-11",
+   "published": "2026-11-22T22:57:45+00:00"
+  },
+  {
+   "id": "42d2aeea9aea",
+   "section": "gossip",
+   "title": "Cate Blanchett accende le luci dei Champs-Élysées a Parigi",
+   "summary": "L'attrice Cate Blanchett ha dato il via alle illuminazioni natalizie dei Champs-Élysées, a Parigi, con un evento legato a Louis Vuitton. La serata si è conclusa con un concerto dei Feu! Chatterton.",
+   "body": "L'attrice australiana Cate Blanchett ha inaugurato la cerimonia di accensione delle luci sui Champs-Élysées, la celebre via di Parigi. Secondo Paris Match, l'evento è stato accompagnato da un abito firmato Louis Vuitton, che ha attirato l'attenzione dei fotografi presenti sul posto.\n\nDopo l'accensione delle luci, la serata è proseguita con un concerto del gruppo francese Feu! Chatterton. La fonte ha pubblicato una galleria di immagini dell'appuntamento, che mostra l'atmosfera della festa lungo la storica avenue.",
+   "slug": "cate-blanchett-accende-le-luci-dei-champs-elysees-a-parigi-42d2ae",
+   "tags": [
+    "Cate Blanchett",
+    "Feu! Chatterton",
+    "Louis Vuitton"
+   ],
+   "scene": "luci",
+   "source": "parismatch.com",
+   "url": "https://www.parismatch.com/sublime-en-louis-vuitton-cate-blanchett-illumine-champs-elysees-en-majeste-2oyDVl5B79prSeoF9ctXQx",
+   "published": "2026-11-22T22:47:34+00:00"
+  },
+  {
    "id": "fb55df1a966d",
    "section": "cinema",
    "title": "Denis Villeneuve, il thriller di 153 minuti conquista la classifica di Apple TV",
@@ -8235,107 +8319,9 @@
    "source": "BadTaste",
    "url": "https://www.badtaste.it/articoli/affari-tuoi-serena-rossi-sorprende-stefano-de-martino-al-telefono-e-giulia-vince-auto-e-10mila-euro",
    "published": "2026-11-20T12:14:28+00:00"
-  },
-  {
-   "id": "657524f34491",
-   "section": "gossip",
-   "title": "Melania Trump alla premiere del docuserie con un abito di pizzo nero",
-   "summary": "Melania Trump ha partecipato alla premiere newyorkese del suo docuserie Melania, The Series, il 19 novembre. Per l'occasione ha scelto un abito di pizzo nero di Dolce & Gabbana, in linea con la tendenza del underwear come capo esterno.",
-   "body": "Melania Trump è comparsa alla premiere di Melania, The Series, il docuserie a lei dedicato, svoltasi a New York il 19 novembre. Per l'occasione la First Lady ha indossato un abito in pizzo nero firmato Dolce & Gabbana, scelta che rientra nella tendenza di portare capi di biancheria come abbigliamento esterno.\n\nSecondo Hello! Magazine, il look ha attirato l'attenzione dei presenti per la sua impronta delicata e sensuale. La notizia è riportata dalla testata britannica, che ha dedicato al tappeto rosso un approfondimento sullo stile della First Lady.",
-   "slug": "melania-trump-alla-premiere-del-docuserie-con-un-abito-di-pi-657524",
-   "tags": [
-    "Melania Trump",
-    "Melania, The Series",
-    "Dolce & Gabbana"
-   ],
-   "scene": "premiere",
-   "source": "hellomagazine.com",
-   "url": "https://www.hellomagazine.com/us/936250/melania-trump-embraces-underwear-as-outerwear-trend-black-lace-dress-melania-the-series-premiere/",
-   "published": "2026-11-20T12:05:57+00:00"
-  },
-  {
-   "id": "58e551d8f5c0",
-   "section": "cinema",
-   "title": "Pirati dei Caraibi chiude a Disney World per un intervento di alcuni mesi",
-   "summary": "L'attrazione Pirati dei Caraibi del parco Disney World di Orlando si fermerà dall'11 gennaio per un intervento di diversi mesi. Disney parla di nuove sorprese e piccoli aggiornamenti scenografici, senza modificarne l'identità.",
-   "body": "La celebre attrazione ispirata alla saga cinematografica Pirati dei Caraibi, uno dei percorsi più amati del parco di Orlando, sarà chiusa al pubblico a partire dall'11 gennaio. Secondo Movieplayer, i lavori dureranno diversi mesi e riguarderanno la struttura dell'esperienza.\n\nDisney ha annunciato che il rinnovamento porterà con sé alcune novità e piccoli ritocchi scenografici, senza stravolgere il carattere dell'attrazione. L'obiettivo dichiarato è mantenere l'identità di un'esperienza molto apprezzata dai visitatori, aggiornandone però alcuni aspetti visivi.",
-   "slug": "pirati-dei-caraibi-chiude-a-disney-world-per-un-intervento-d-58e551",
-   "tags": [
-    "Pirati dei Caraibi",
-    "Disney World"
-   ],
-   "scene": "ciak",
-   "source": "Movieplayer",
-   "url": "https://movieplayer.it/news/disney-world-chiude-pirati-caraibi-rimandato-2028_172061/",
-   "published": "2026-11-20T12:00:40+00:00"
-  },
-  {
-   "id": "873ee9ae4ae5",
-   "section": "musica",
-   "title": "I Take That annunciano il decimo album Dreamers",
-   "summary": "I Take That pubblicheranno il decimo album, intitolato Dreamers. La band britannica sarà poi in tour in Europa dal 3 giugno 2027, con una tappa anche in Italia.",
-   "body": "Il gruppo britannico Take That torna con un nuovo progetto discografico: il decimo album di studio, che porta il titolo Dreamers. La notizia è stata diffusa da ANSA, secondo cui la band sarà impegnata in un tour europeo a partire dal 3 giugno 2027.\n\nIl calendario dei concerti toccherà diverse città del continente e includerà anche una data in Italia. Il materiale disponibile non fornisce ulteriori dettagli su tracklist, data di uscita del disco o località delle tappe italiane.",
-   "slug": "i-take-that-annunciano-il-decimo-album-dreamers-873ee9",
-   "tags": [
-    "Take That"
-   ],
-   "scene": "vinile",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/20/arriva-dreamers-il-decimo-disco-dei-take-that_8126cec5-a24a-49ec-a370-31a5e3939a27.html",
-   "published": "2026-11-20T11:59:49+00:00"
-  },
-  {
-   "id": "ec4c9ef1189a",
-   "section": "cinema",
-   "title": "Jamie Dornan sarà il giovane Aragorn in The Hunt for Gollum",
-   "summary": "Jamie Dornan interpreterà il giovane Aragorn nel film The Hunt for Gollum. L'attore ha raccontato di aver ricevuto l'approvazione di Viggo Mortensen, che aveva interpretato il personaggio nella trilogia.",
-   "body": "Jamie Dornan prenderà parte a The Hunt for Gollum nei panni del giovane Aragorn, il ruolo che nella trilogia de Il Signore degli Anelli era affidato a Viggo Mortensen. Secondo BadTaste, l'attore ha rotto il silenzio sulla scelta, spiegando che il suo predecessore ha dato il proprio assenso al passaggio di testimone.\n\nIl film, diretto da Andy Serkis, è ambientato nel periodo tra gli eventi de Lo Hobbit e quelli della trilogia, e segue la caccia a Gollum da parte di Aragorn e Gandalf. Dornan, noto al grande pubblico per la saga di Cinquanta sfumature, si inserisce così in uno dei franchise fantasy più seguiti al mondo. Al momento non sono disponibili ulteriori dettagli sulla produzione.",
-   "slug": "jamie-dornan-sara-il-giovane-aragorn-in-the-hunt-for-gollum-ec4c9e",
-   "tags": [
-    "Jamie Dornan",
-    "The Hunt for Gollum",
-    "Viggo Mortensen"
-   ],
-   "scene": "pellicola",
-   "source": "BadTaste",
-   "url": "https://www.badtaste.it/articoli/il-signore-degli-anelli-jamie-dornan-confessa-aragorn-ha-dato-il-suo-timbro-di-approvazione",
-   "published": "2026-11-20T11:56:10+00:00"
-  },
-  {
-   "id": "a0624f5d13c1",
-   "section": "tv",
-   "title": "Percy Jackson e gli Dei dell'Olimpo 3: la serie si fa più oscura e matura",
-   "summary": "La terza stagione di Percy Jackson e gli Dei dell'Olimpo, serie Disney+ tratta dai romanzi di Rick Riordan, adatta per la prima volta La maledizione del Titano, terzo libro della saga. Il tono della nuova stagione appare più ambizioso e maturo rispetto ai capitoli precedenti.",
-   "body": "La terza stagione di Percy Jackson e gli Dei dell'Olimpo segna una nuova fase per la serie Disney+ tratta dai romanzi di Rick Riordan. Per la prima volta il racconto adatta La maledizione del Titano, il terzo capitolo della saga letteraria, con un impianto più ambizioso e consapevole della propria storia.\n\nSecondo Cinefilos, la recensione dei nuovi episodi descrive un prodotto più oscuro e maturo rispetto alle stagioni precedenti, che mantiene però il legame con il pubblico della saga. Il percorso del figlio di Poseidone si arricchisce così di toni più cupi, pensati per accompagnare i giovani spettatori cresciuti con i libri e la prima serie.",
-   "slug": "percy-jackson-e-gli-dei-dell-olimpo-3-la-serie-si-fa-piu-osc-a0624f",
-   "tags": [
-    "Percy Jackson e gli Dei dell'Olimpo",
-    "Rick Riordan",
-    "Disney+"
-   ],
-   "scene": "streaming",
-   "source": "Cinefilos",
-   "url": "https://cinefilos.it/serie-tv/recensione/percy-jackson-e-gli-dei-dellolimpo-3-731802",
-   "published": "2026-11-20T11:36:59+00:00"
   }
  ],
  "seen": [
-  "de99eac83443",
-  "6a991f4b31d2",
-  "3366ca7b2255",
-  "3ab44ee1afbd",
-  "6cc39e7aa8f2",
-  "12ad0004a8ec",
-  "1d91c13af5b4",
-  "8069555bebb5",
-  "b7fd2e9971bd",
-  "fe3bcf558b01",
-  "2aeec8aa7651",
-  "d90f40392809",
-  "2e87b8cbc8b1",
-  "d645ecb012c8",
-  "0443da7cf941",
-  "2c921b8315e2",
   "f88da4de4b42",
   "adf889762286",
   "2d8469b3931d",
@@ -12319,7 +12305,23 @@
   "64c11438358b",
   "937181eb2af8",
   "04dff757b117",
-  "9231842a5a35"
+  "9231842a5a35",
+  "45f607460763",
+  "ad5ead3ca8b7",
+  "0e6cd9bdadd7",
+  "d1b8dbace98a",
+  "bd53066d1dc9",
+  "ab1b7a3d8dc3",
+  "d697246cc112",
+  "f4de47556a61",
+  "baa363207554",
+  "1476a6a0d498",
+  "1c5985a6627e",
+  "fc7af9105674",
+  "a58efc1512e5",
+  "42d2aeea9aea",
+  "544a3c2fdfa2",
+  "9f9fa5898a87"
  ],
  "version": 4,
  "digests": [
