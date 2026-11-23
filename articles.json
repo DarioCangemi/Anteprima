@@ -1,6 +1,22 @@
 {
  "articles": [
   {
+   "id": "99b9e89aed43",
+   "section": "cinema",
+   "title": "Street Fighter esce da oltre 3.000 sale in vista del digitale",
+   "summary": "Il film Street Fighter di Paramount è stato rimosso da più di 3.000 sale americane mentre si avvicina la distribuzione in digitale. Il titolo si prepara così a una nuova fase sul mercato PVOD.",
+   "body": "Il nuovo film di Street Fighter prodotto e distribuito da Paramount ha perso più di 3.000 sale cinematografiche, secondo quanto riportato da Collider. La rimozione dalle programmazioni arriva mentre il titolo si avvicina alla distribuzione digitale.\n\nIl film sta quindi per passare al mercato PVOD, cioè la vendita o il noleggio di contenuti in digitale prima dell'uscita sulle piattaforme in abbonamento. Non sono stati forniti dettagli sulla data precisa del passaggio né sui risultati al botteghino.",
+   "slug": "street-fighter-esce-da-oltre-3-000-sale-in-vista-del-digital-99b9e8",
+   "tags": [
+    "Street Fighter",
+    "Paramount"
+   ],
+   "scene": "sala",
+   "source": "collider.com",
+   "url": "https://collider.com/street-fighter-removed-from-3000-theaters-box-office-digital-debut/",
+   "published": "2026-11-23T00:45:12+00:00"
+  },
+  {
    "id": "8f9b72e4b35a",
    "section": "tv",
    "title": "Drake, la sua prossima serie sci-fi per Apple TV ha una data di debutto",
@@ -83,6 +99,53 @@
    "source": "justjared.com",
    "url": "https://www.justjared.com/2026/11/22/the-bachelorettes-rachel-lindsay-singer-willie-jones-split-after-nearly-2-years-of-dating/",
    "published": "2026-11-22T23:56:38+00:00"
+  },
+  {
+   "id": "13f033b66fd8",
+   "section": "cinema",
+   "title": "John Travolta e il ruolo del boss in November 1963",
+   "summary": "John Travolta ha raccontato di essersi calato in uno stato d'animo molto cupo per interpretare il gangster reale John \"Handsome\" Roselli nel film November 1963. Le sue dichiarazioni sono arrivate durante un'intervista dopo la proiezione del film.",
+   "body": "John Travolta ha spiegato che trasformarsi nel gangster realmente esistito John \"Handsome\" Roselli, protagonista del film November 1963, non è stato semplice. Durante un'intervista successiva alla proiezione della pellicola, l'attore, 72 anni, ha dichiarato che dare vita a questi personaggi è divertente da realizzare, ma non lo è affatto diventarli.\n\nSecondo quanto riporta OK Magazine, Travolta ha descritto il lavoro come un immergersi in una dimensione mentale molto oscura. Le sue parole sul processo di preparazione al ruolo offrono uno sguardo sul lato più impegnativo del mestiere d'attore, soprattutto quando il personaggio è ispirato a una figura criminale reale.",
+   "slug": "john-travolta-e-il-ruolo-del-boss-in-november-1963-13f033",
+   "tags": [
+    "John Travolta",
+    "November 1963"
+   ],
+   "scene": "premiere",
+   "source": "okmagazine.com",
+   "url": "https://okmagazine.com/p/john-travolta-had-very-dark-state-of-mind-play-mobster-movie/",
+   "published": "2026-11-22T23:26:47+00:00"
+  },
+  {
+   "id": "fe60e7a45faf",
+   "section": "gossip",
+   "title": "Miley Cyrus e Maxx Morando mostrano i tatuaggi abbinati dopo il matrimonio",
+   "summary": "Miley Cyrus e il marito Maxx Morando hanno mostrato tatuaggi abbinati dopo le nozze celebrate sabato a Palm Springs, in California. La coppia ha condiviso l'immagine con i suoi seguaci.",
+   "body": "Miley Cyrus e il marito Maxx Morando hanno celebrato il matrimonio sabato a Palm Springs, in California. Secondo Page Six, la coppia ha poi reso pubblici due tatuaggi abbinati, scelti come segno privato del loro legame.\n\nLa notizia riguarda quindi un gesto personale della cantante e del suo nuovo marito, comparso dopo la cerimonia. Il materiale disponibile non specifica il disegno dei tatuaggi né altri dettagli sul rito, quindi non si può dire di più sull'evento.",
+   "slug": "miley-cyrus-e-maxx-morando-mostrano-i-tatuaggi-abbinati-dopo-fe60e7",
+   "tags": [
+    "Miley Cyrus",
+    "Maxx Morando"
+   ],
+   "scene": "tappeto",
+   "source": "pagesix.com",
+   "url": "https://pagesix.com/2026/11/22/celebrity-news/newlyweds-miley-cyrus-and-maxx-morando-show-off-new-matching-nameplate-tattoos/",
+   "published": "2026-11-22T23:26:25+00:00"
+  },
+  {
+   "id": "d6b6b95665b5",
+   "section": "cinema",
+   "title": "Mahershala Ali: due Oscar non hanno cambiato la sua carriera",
+   "summary": "Mahershala Ali ha dichiarato che la vittoria di due Oscar in tre anni non ha garantito una carriera di primo piano a Hollywood. Secondo l'attore, a pesare sono la qualita' delle sceneggiature e il ridimensionamento delle politiche DEI.",
+   "body": "Due Oscar in tre anni, eppure la carriera di Mahershala Ali non sarebbe decollata come ci si aspetterebbe. Secondo quanto riportato da World of Reel, che cita le dichiarazioni dell'attore, il premio non basta a garantire ruoli all'altezza, anche perche' le sceneggiature non sempre offrono personaggi interessanti.\n\nAli ha inoltre collegato la situazione al ridimensionamento dei programmi di diversita', equita' e inclusione nell'industria americana. Secondo l'attore, nei ruoli decisivi che scelgono i progetti siedono ancora poche persone appartenenti a minoranze, e questo incide sulle opportunita' offerte agli artisti neri. Ali ha espresso il concetto con una battuta sulla composizione degli uffici hollywoodiani, senza entrare in dettagli su singoli progetti o studi.",
+   "slug": "mahershala-ali-due-oscar-non-hanno-cambiato-la-sua-carriera-d6b6b9",
+   "tags": [
+    "Mahershala Ali"
+   ],
+   "scene": "premiere",
+   "source": "worldofreel.com",
+   "url": "https://www.worldofreel.com/blog/2026/11/22/mahershala-ali-on-his-two-oscars-it-doesnt-translate-to-anything-real",
+   "published": "2026-11-22T23:24:51+00:00"
   },
   {
    "id": "ad5ead3ca8b7",
@@ -8251,90 +8314,9 @@
    "source": "Cineblog",
    "url": "https://www.cineblog.it/post/una-poltrona-per-due-perche-il-film-viene-trasmesso-proprio-ogni-vigilia-di-natale",
    "published": "2026-11-20T13:00:00+00:00"
-  },
-  {
-   "id": "4ef30ffd94e0",
-   "section": "tv",
-   "title": "Francesca Fagnani accusa la Rai di comportamenti scorretti",
-   "summary": "La giornalista Francesca Fagnani ha dichiarato di aver subito comportamenti scorretti da parte della Rai. Ha confermato di aver chiesto la rescissione del contratto con l'azienda.",
-   "body": "La giornalista Francesca Fagnani, conduttrice di Report e volto noto di Rai 3 con il programma Belve, ha pubblicamente accusato la Rai di aver tenuto comportamenti scorretti nei suoi confronti. Secondo quanto riportato da Davide Maggio, Fagnani ha confermato di aver chiesto la rescissione del proprio contratto con l'azienda.\n\nIl materiale disponibile non chiarisce nel dettaglio quali siano stati gli episodi contestati né quali sviluppi ci siano stati nella trattativa. La vicenda si inserisce in un momento di attenzione sui rapporti tra la conduttrice e il servizio pubblico, e le prossime mosse da parte dell'azienda o della giornalista restano da verificare.",
-   "slug": "francesca-fagnani-accusa-la-rai-di-comportamenti-scorretti-4ef30f",
-   "tags": [
-    "Francesca Fagnani",
-    "Rai",
-    "Belve"
-   ],
-   "scene": "tv",
-   "source": "davidemaggio.it",
-   "url": "https://www.davidemaggio.it/belve/francesca-fagnani-accusa-la-rai-comportamenti-scorretti-nei-miei-confronti",
-   "published": "2026-11-20T12:55:10+00:00"
-  },
-  {
-   "id": "944ee483483a",
-   "section": "musica",
-   "title": "Andrea Rivera e Gianmaria ospiti di Musei in Musica dedicata ad Augias",
-   "summary": "Andrea Rivera e Gianmaria saranno ospiti speciali della sedicesima edizione di Musei in Musica a Roma, manifestazione dedicata a Corrado Augias. L'evento unisce musica e patrimonio culturale nella capitale.",
-   "body": "Andrea Rivera e Gianmaria saranno tra gli ospiti speciali della sedicesima edizione di Musei in Musica, la manifestazione che si svolge a Roma e quest'anno è dedicata al giornalista e conduttore Corrado Augias. La rassegna intreccia musica e patrimonio culturale, portando concerti e appuntamenti negli spazi museali della capitale.\n\nSecondo ANSA, la presenza dei due artisti rappresenta uno dei momenti centrali del programma celebrativo. Il riferimento ad Augias, figura nota del panorama culturale italiano, dà alla kermesse un taglio dedicato alla divulgazione e alla memoria, con un pubblico che potrà seguire la serata tra arte e musica.",
-   "slug": "andrea-rivera-e-gianmaria-ospiti-di-musei-in-musica-dedicata-944ee4",
-   "tags": [
-    "Musei in Musica",
-    "Andrea Rivera",
-    "Corrado Augias"
-   ],
-   "scene": "microfono",
-   "source": "ANSA Cultura e Spettacoli",
-   "url": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/20/andrea-rivera-e-gianmaria-ospiti-speciali-di-musei-in-musica-dedicata-a-corrado-augias_ab4473ef-f0d3-413e-87d9-a2fee93ac651.html",
-   "published": "2026-11-20T12:50:52+00:00"
-  },
-  {
-   "id": "9a666ed19f06",
-   "section": "tv",
-   "title": "Mi Manda Raitre, Federico Ruffo torna con nuove inchieste",
-   "summary": "Federico Ruffo torna in prima serata con Mi Manda Raitre e nuove inchieste su caramelle, pane, strisce blu, mercati rionali e legittima difesa. Il programma di Rai 3 riprende così il suo formato di approfondimento sui temi di vita quotidiana.",
-   "body": "Federico Ruffo è tornato in prima serata su Rai 3 con una nuova puntata di Mi Manda Raitre, il programma di inchiesta che affronta temi di consumo e vita quotidiana. Nella messa in onda figurano servizi dedicati alle caramelle, al pane, alle strisce blu, ai mercati rionali e alla legittima difesa, argomenti che toccano da vicino il pubblico.\n\nSecondo Davide Maggio, che ha riportato la notizia, il ritorno del programma conferma la formula delle inchieste di Ruffo, pensate per verificare prezzi, regole e pratiche spesso discusse dai cittadini. Il materiale disponibile non dettaglia però i contenuti specifici dei singoli servizi, né le conclusioni delle inchieste.",
-   "slug": "mi-manda-raitre-federico-ruffo-torna-con-nuove-inchieste-9a666e",
-   "tags": [
-    "Mi Manda Raitre",
-    "Federico Ruffo"
-   ],
-   "scene": "tv",
-   "source": "davidemaggio.it",
-   "url": "https://www.davidemaggio.it/mi-manda-raitre/mi-manda-raitre-ruffo-tra-legittima-difesa-strisce-blu-e-caramelle",
-   "published": "2026-11-20T12:47:42+00:00"
-  },
-  {
-   "id": "5697dc3829fd",
-   "section": "tv",
-   "title": "Doc - Nelle tue mani 4 supera il 25% di share, Tutto per la mia famiglia al 12,1%",
-   "summary": "Secondo i dati Auditel del 20 novembre 2026, la fiction Doc - Nelle tue mani 4 ha vinto la serata con oltre il 25% di share. Tutto per la mia famiglia, in concorrenza, si è fermato al 12,1%.",
-   "body": "La quarta stagione di Doc - Nelle tue mani ha conquistato la prima serata del 20 novembre 2026, superando il 25% di share e imponendosi sulla concorrenza. Il dato colloca la fiction in testa agli ascolti della giornata, con un distacco netto sugli altri programmi in competizione.\n\nSul fronte opposto, Tutto per la mia famiglia si è fermato al 12,1% di share. In access prime time, il programma condotto da Gerry Scotti ha continuato a mettere pressione a Stefano De Martino, mentre Affari Tuoi ha prevalso soltanto con fatica. Le informazioni sono riportate da TVBlog, che ha diffuso i dati Auditel della serata.",
-   "slug": "doc-nelle-tue-mani-4-supera-il-25-di-share-tutto-per-la-mia-5697dc",
-   "tags": [
-    "Doc - Nelle tue mani",
-    "Tutto per la mia famiglia",
-    "Gerry Scotti"
-   ],
-   "scene": "tv",
-   "source": "tvblog.it",
-   "url": "https://www.tvblog.it/post/doc-nelle-tue-mani-4-supera-il-25-di-share-tutto-per-la-mia-famiglia-fermo-al-121-i-dati-auditel-del-20-novembre-2026",
-   "published": "2026-11-20T12:32:29+00:00"
   }
  ],
  "seen": [
-  "2b567a79babe",
-  "8d21f864e566",
-  "420869e9145e",
-  "f427cd6f39c5",
-  "ab8ad42a2e4f",
-  "570b25db890f",
-  "cd07f1f01979",
-  "46ab266ad0cb",
-  "e083a0e90f1b",
-  "d0f188ed44c2",
-  "d876d25cf267",
-  "16f52f1bb95f",
-  "27e0dee90088",
-  "00b28dc30a45",
   "c9eeccfe308e",
   "a6574357c122",
   "e158eadab25e",
@@ -12320,7 +12302,21 @@
   "94d82d19a221",
   "499cf95c8674",
   "af2db4e714a0",
-  "2d8fba6cd508"
+  "2d8fba6cd508",
+  "99b9e89aed43",
+  "249b80226f62",
+  "96cea47fec13",
+  "d44b7781788d",
+  "9e295f08541e",
+  "26393dd18887",
+  "dc8ea4cce608",
+  "8f77f1167a2a",
+  "18f3f40ae14b",
+  "60c009005fe7",
+  "4cfa2d7f0962",
+  "13f033b66fd8",
+  "fe60e7a45faf",
+  "d6b6b95665b5"
  ],
  "version": 4,
  "digests": [
